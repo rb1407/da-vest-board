@@ -19,9 +19,9 @@ This repository also archives all data collected and produced by it in several f
 1. ___tickers___ : Folder to store ticker symbols and names as .json files, by ISO country code.
 2. ___prices*___ : Folders to store prices for the last 1 and 3 years respectively, by ISO country code.
 3. ___prices_cleaned*___ : Folder to store cleaned prices for the last 1 and 3 years, by ISO country code.
-4. ___returns*___ : Folders to store returns by ISO country code, as according to 1-year or 3-year analyses.
-5. ___final*____ : Folders to store cleaned returns by ISO country code, as according to 1-year or 3-year analyses. 
-6. ____viz____ : Folder to store visualization-ready datasets for Tableau, as according to 1-year or 3-year returns.
+4. ___returns*___ : Folders to store returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses.
+5. ___final*____ : Folders to store cleaned returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses. 
+6. ____viz____ : Folder to store visualization-ready datasets for equities on Tableau, as according to 1-year or 3-year returns.
 
 A sample of the results that may be produced by this analysis, as visualized on Tableau using script ```create_viz.py``` (as of March 2025), may be found at : [Investelity - Equities](https://public.tableau.com/app/profile/rishabh.basu/viz/Investelity-Equities/Sheet1).
 
