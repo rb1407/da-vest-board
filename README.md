@@ -1,8 +1,8 @@
 # INVESTELITY
 
-___*ACKNOWLEDGEMENT*___ : This project uses [```yfinance```](https://pypi.org/project/yfinance/). The latest veesion of the module must be installed in any environment, in order to be able to use this repository.
+___*ACKNOWLEDGEMENT*___ : This project uses [```yfinance```](https://pypi.org/project/yfinance/). The latest version of the module must be installed in any environment, in order to be able to use this repository.
 
-A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world based on risk-adjusted return.
+A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world based on risk-adjusted return. One can use this information to build their investment portfolio based on their own preferences for risk, return and volatility.
 It comprises the following Python scripts :
 
 1. ___```market_index.py``` :___ To rank stock markets around the world, based on the respective performances of their market indices over the last 1 and 3 years, in terms of risk-adjusted return.
@@ -13,7 +13,7 @@ It comprises the following Python scripts :
 6. ___```clean_returns.py``` :___ To drop equities and US-based funds with outlier (unrealistic) returns.
 7. ___```create_viz.py``` :___ To create Tableau-ready datasets for visualization.
 
-The package must be run in the above order to ensure an error-free and smooth experience. Scripts must not be run more than once a month. Running the package more than once a month will not produce updated results, as returns are calculated on a monthly basis, as of the last trading day in the previous month.
+___The package must be run in the above order to ensure an error-free and smooth experience.___ Scripts must not be run more than once a month. Running the package more than once a month will not produce updated results, as returns are calculated on a monthly basis, as of the last trading day in the previous month.
 
 This repository also archives all data collected and produced by it in several folders, by date :
 1. ___tickers___ : Folder to store ticker symbols and names as .json files, by ISO country code.
