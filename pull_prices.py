@@ -40,7 +40,7 @@ def remove_cache(i):
         os.remove(f)
 
 """
-Check for YFRateLLimitError
+Check for YFRateLimitError
 """
 def rate_limited(e):
     for i in e:
