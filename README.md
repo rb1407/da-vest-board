@@ -2,7 +2,7 @@
 
 ___*ACKNOWLEDGEMENT*___ : This project uses [```yfinance```](https://pypi.org/project/yfinance/). The latest version of the module must be installed in any environment, in order to be able to use this repository.
 
-A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world based on risk-adjusted return. One can use this information to build their investment portfolio based on their own preferences for risk, return and volatility.
+A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world (for 50 countries) based on risk-adjusted return. One can use this information to build their investment portfolio based on their own preferences for risk, return and volatility.
 It comprises the following Python scripts :
 
 1. ___```market_index.py``` :___ To rank stock markets around the world, based on the respective performances of their market indices over the last 1 and 3 years, in terms of risk-adjusted return.
@@ -22,6 +22,8 @@ This repository also archives all data collected and produced by it in several f
 4. ___returns*___ : Folders to store returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses.
 5. ___final*____ : Folders to store cleaned returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses. 
 6. ____viz____ : Folder to store visualization-ready datasets for equities on Tableau, as according to 1-year or 3-year returns.
+
+__N.B.:__ This package uses a driver directory ```Markets_by_Country.xlsx``` listing every country's ISO code and market index, which must be accessible to the Python scripts when running them.
 
 A sample of the results that may be produced by this analysis, as visualized on Tableau using script ```create_viz.py``` (as of March 2025), may be found at : [Investelity - Equities](https://public.tableau.com/app/profile/rishabh.basu/viz/Investelity-Equities/Sheet1).
 
