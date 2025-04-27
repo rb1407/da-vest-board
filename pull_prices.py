@@ -57,7 +57,7 @@ for i in looper:
        tickers = read_tickers(i)
        t = list(tickers.keys())
        
-       # If most recent version of 3y-prices already exist but that of 1y-prices does not
+       # If most recent version of 3y-prices already exists but that of 1y-prices does not
        if os.path.exists(f"prices/3y/{month-1}_{year}/{i}.csv"):
            if os.path.exists(f"prices/1y/{month-1}_{year}/{i}.csv") == False:
               prices = pd.read_csv(f"prices/3y/{month-1}_{year}/{i}.csv").set_index('Date')
