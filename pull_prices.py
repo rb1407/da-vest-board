@@ -27,7 +27,7 @@ def pull_prices(tickers):
     return data
 
 """
-Slice out prices for the most recnt mnths months
+Slice out prices for the most recent mnths months
 """
 def cut_prices(data, mnths):
     return data.iloc[-mnths:,]
