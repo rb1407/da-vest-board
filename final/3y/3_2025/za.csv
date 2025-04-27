@@ -1,0 +1,248 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Satrix TRACI 3 Month ETF,STXTRA.JO,7.68,0.012
+2,Satrix S&P Namibia Bond ETF,STXNAM.JO,13.81,0.065
+3,Schroder European Real Estate Inv Trust,SCD.JO,0.0,0.0
+4,NewGold Issuer Limited,GLD.JO,25.3,0.133
+5,AfricaGold ETF,ETFGLD.JO,25.45,0.135
+6,Coronation Global Optimum Growth Prescient Actively Managed Exchange Traded Fund A,COOPTI.JO,19.77,0.108
+7,Coronation Global Capital Plus Prescient Actively Managed Exchange Traded Fund A,COGCAP.JO,14.82,0.083
+8,CDI Actively Managed ETF,COUSDI.JO,12.93,0.073
+9,Coronation Global Managed Prescient Actively Managed Exchange Traded Fund A,COGMAN.JO,27.05,0.151
+10,AQU ACTIVELY MANAGED ETF,AQUA.JO,7.99,0.052
+11,Prescient Income Provider Feeder Actively Managed ETF (A),PIPETF.JO,2.0,0.014
+12,Coronation Global Equity Select Prescient Actively Managed Exchange Traded Fund A,COGES.JO,37.5,0.225
+13,ETFSA Balanced Foundation Prescient AMETF A,ETFSAB.JO,6.93,0.056
+14,ADvTECH Limited,ADH.JO,25.68,0.192
+15,Sygnia Itrix FANG.AI Actively Managed ETF,SYFANG.JO,28.88,0.224
+16,1nvest MSCI World Feeder ETF,ETFWLD.JO,17.56,0.151
+17,Momentum Group Limited,MTM.JO,26.51,0.22
+18,Satrix JSE Global Equity ETF,STXJGE.JO,10.4,0.094
+19,Satrix S&P 500 ETF,STX500.JO,19.49,0.172
+20,Satrix MSCI World ETF,STXWDM.JO,17.85,0.159
+21,Sygnia Itrix Euro Stoxx 50 ETF,SYGEU.JO,20.52,0.182
+22,Argent Industrial Limited,ART.JO,26.06,0.226
+23,1nvest S&P500 Feeder ETF,ETF500.JO,18.41,0.165
+24,Boxer Retail Ltd,BOX.JO,15.84,0.147
+25,FNB Global 1200 Fund of Fund ETF,FNBEQF.JO,16.2,0.15
+26,Sygnia Limited,SYG.JO,15.49,0.144
+27,Attacq Limited,ATT.JO,28.85,0.258
+28,1nvest S&P500 Info Tech Feeder ETF,ETF5IT.JO,26.87,0.242
+29,Satrix Indi ETF,STXIND.JO,17.13,0.162
+30,Sygnia Itrix MSCI World ETF,SYGWD.JO,16.49,0.156
+31,Sygnia Itrix S&P 500 ETF,SYG500.JO,18.42,0.173
+32,Satrix Nasdaq 100 ETF,STXNDQ.JO,23.85,0.221
+33,ISA Holdings Limited,ISA.JO,28.19,0.259
+34,10X S&P 500 ETF,CSP500.JO,17.38,0.168
+35,Sygnia Itrix S&P Global 1200 ESG ETF,SYGESG.JO,15.62,0.152
+36,Sygnia Itrix MSCI USA ETF,SYGUS.JO,17.55,0.172
+37,Satrix MSCI World ESG Enhanced Feeder Portfolio,STXESG.JO,16.53,0.163
+38,Primeserv Group Limited,PMV.JO,35.02,0.323
+39,10X Total World Stock ETF,GLOBAL.JO,15.06,0.153
+40,PortfolioMetrix Active Income Prescient AMETF,PMXINC.JO,6.94,0.074
+41,NewWave Silver Exchange Traded Note,NEWSLV.JO,23.54,0.238
+42,Satrix Multi Asset Passive Portfolios Solutions Protect ETF,STXMAP.JO,8.7,0.094
+43,Sygnia Itrix MSCI Japan ETF,SYGJP.JO,13.83,0.147
+44,Tiger Brands Limited,TBS.JO,26.8,0.273
+45,Sygnia Itrix FTSE 100 ETF,SYGUK.JO,11.66,0.132
+46,Satrix ILBI ETF,STXILB.JO,4.76,0.058
+47,1nvest MSCI World Socially Responsible Investment Index Feeder ETF,ETFSRI.JO,12.9,0.154
+48,Grindrod Limited,GND.JO,27.62,0.313
+49,Alexander Forbes Group Holdings Limited,AFH.JO,21.68,0.252
+50,Satrix Multi Asset Passive Portfolio Solutions Growth ETF,STXMAG.JO,9.78,0.122
+51,Satrix MSCI India Feeder ETF,STXNDA.JO,13.67,0.174
+52,Fairvest Limited,FTB.JO,13.18,0.169
+53,Satrix MSCI Emerging Markets ETF,STXEMG.JO,9.67,0.127
+54,Reunert Limited,RLO.JO,13.17,0.171
+55,Satrix Smart City Infrastructure Feeder ETF,STXCTY.JO,12.89,0.172
+56,NewWave GBP Currency Exchange Traded Note,NEWGBP.JO,6.87,0.094
+57,Satrix Value Equity ETF,STXVEQ.JO,9.23,0.126
+58,Fortress Real Estate Investments Limited,FFB.JO,18.77,0.246
+59,10X S&P Global Dividend Aristocrats ETF,GLODIV.JO,9.17,0.127
+60,1nvest MSCI EM Asia Index Feeder ETF,ETFEMA.JO,10.99,0.154
+61,Reinet Investments S.C.A.,RNI.JO,13.94,0.197
+62,EFPC Global Equity Note,UEFPCA.JO,9.83,0.142
+63,10X Income AMETF,INCOME.JO,3.09,0.046
+64,Octodec Investments Limited,OCT.JO,11.66,0.171
+65,RFG Holdings Limited,RFG.JO,21.83,0.31
+66,SB Baobab Equity AMC,AMC009.JO,8.96,0.135
+67,FirstRand Bank Limited,BKETNC.JO,19.99,0.292
+68,Sygnia Itrix MSCI Emerging Markets 50 ETF,SYGEMF.JO,11.94,0.181
+69,NEPI Rockcastle N.V.,NRP.JO,14.26,0.216
+70,Satrix MSCI EM ESG Enhanced Feeder Portfolio,STXEME.JO,8.48,0.132
+71,Vukile Property Fund Limited,VKE.JO,10.93,0.169
+72,Karooooo Ltd.,KRO.JO,22.97,0.34
+73,Frontier Transport Holdings Limited,FTH.JO,16.3,0.249
+74,Spur Corporation Ltd,SUR.JO,13.86,0.215
+75,CoreShares Index Tracker Collective Investment Scheme - CoreShares Yield Selected Bond ETF,CSYSB.JO,7.03,0.112
+76,Fairvest Limited,FTA.JO,9.5,0.15
+77,Satrix Low Volatility ETF,STXLVL.JO,7.98,0.129
+78,Standard Bank Group Limited,SBK.JO,16.77,0.266
+79,PSG Financial Services Limited,KST.JO,12.73,0.206
+80,1nvest Top 40 ETF,ETFT40.JO,9.35,0.155
+81,Bid Corporation Limited,BID.JO,12.54,0.205
+82,Sygnia Itrix Top 40 ETF,SYGT40.JO,8.74,0.146
+83,Sygnia Itrix Solactive Healthcare 150 ETF,SYGH.JO,8.35,0.14
+84,Satrix Global Infrastructure Feeder ETF,STXIFR.JO,7.11,0.121
+85,Satrix 40 ETF,STX40.JO,9.09,0.155
+86,FNB Top40 ETF,FNBT40.JO,9.12,0.157
+87,Transpaco Limited,TPC.JO,19.94,0.33
+88,AVI Limited,AVI.JO,11.09,0.192
+89,Sun International Limited,SUI.JO,18.83,0.315
+90,Calgro M3 Holdings Limited,CGR.JO,22.06,0.375
+91,SBSA ITF Reitway Global Property ESG Prescient Exchange Traded A,RWESG.JO,9.56,0.173
+92,CA Sales Holdings Limited,CAA.JO,21.17,0.37
+93,FNB Government Inflation Linked Bond ETF,FNBINF.JO,3.06,0.059
+94,Satrix Swix Top 40 ETF,STXSWX.JO,7.84,0.149
+95,Satrix Capped All Share ETF,STXCAP.JO,7.37,0.141
+96,SBSA ITF Reitway Global Property Prescient Actively Managed Exchange Traded Fund A,RWAGP.JO,8.65,0.165
+97,Coreshares Index Tracker Managers - All Asia Actively Managed ETF,APACXJ.JO,5.77,0.113
+98,10X S&P SA Top 50 ETF,CTOP50.JO,7.47,0.145
+99,Capitec Bank Holdings Limited,CPI.JO,19.0,0.353
+100,Satrix Momentum ETF,STXMMT.JO,6.7,0.143
+101,Blue Label Telecoms Limited,BLU.JO,17.93,0.367
+102,Grindrod Limited,GNDP.JO,5.28,0.115
+103,Investec Group,INP.JO,13.9,0.292
+104,Satrix Healthcare Innovation Feeder ETF,STXHLT.JO,8.7,0.188
+105,SBSA ITF Reitway Global Property Diversified Prescient ETF A,RWDVF.JO,8.28,0.18
+106,Satrix Fini ETF,STXFIN.JO,9.59,0.208
+107,Sanlam Limited,SLM.JO,11.88,0.26
+108,Satrix MSCI ACWI Feeder ETF,STXACW.JO,4.26,0.097
+109,Investec Group,INL.JO,12.64,0.286
+110,Spear Reit Limited,SEA.JO,5.29,0.124
+111,Anheuser-Busch InBev SA/NV,ANH.JO,9.65,0.222
+112,Satrix RAFI 40 ETF,STXRAF.JO,6.55,0.153
+113,Sygnia Itrix 4th Industrial Revolution Global Equity ETF,SYG4IR.JO,9.84,0.232
+114,Caxton and CTP Publishers and Printers Limited,CAT.JO,7.52,0.18
+115,Bowler Metcalf Limited,BCF.JO,14.02,0.327
+116,Satrix Global Aggregate Bond Feeder Portfolio,STXGBD.JO,3.89,0.098
+117,"Lesaka Technologies, Inc.",LSK.JO,20.4,0.491
+118,SA Corporate Real Estate Limited,SAC.JO,8.53,0.216
+119,Bytes Technology Group plc,BYI.JO,14.46,0.36
+120,1nvest SA Property ETF,ETFSAP.JO,6.4,0.166
+121,African Media Entertainment Limited,AME.JO,15.43,0.392
+122,10X South African Property Income ETF,CSPROP.JO,6.06,0.163
+123,Shoprite Holdings Ltd,SHP.JO,9.43,0.252
+124,Nedbank Group Limited,NED.JO,7.36,0.2
+125,10X Wealth Next40 Equal Weighted ETF,WNXT40.JO,5.16,0.142
+126,PPC Ltd,PPC.JO,17.99,0.472
+127,Satrix Quality South Africa ETF,STXQUA.JO,5.28,0.152
+128,British American Tobacco p.l.c.,BTI.JO,6.91,0.216
+129,Sygnia Itrix New China Sectors ETF,SYGCN.JO,8.68,0.272
+130,Quilter plc,QLT.JO,9.99,0.315
+131,Remgro Limited,REM.JO,7.32,0.241
+132,FNB MSCI EM Feeder ETF,FNBEMG.JO,2.01,0.068
+133,Satrix Property ETF,STXPRO.JO,5.0,0.168
+134,FNB MSCI World Feeder ETF,FNBWDM.JO,3.16,0.107
+135,JSE Limited,JSE.JO,6.18,0.213
+136,Master Drilling Group Limited,MDI.JO,6.39,0.233
+137,FNB MidCap ETF,FNBMID.JO,3.74,0.14
+138,FNB S&P 500 Feeder ETF,FNB500.JO,3.5,0.131
+139,Shaftesbury Capital PLC,SHC.JO,8.04,0.318
+140,Clicks Group Limited,CLS.JO,5.6,0.228
+141,Clientèle Limited,CLI.JO,5.83,0.239
+142,Sygnia Itrix Global Property ETF,SYGP.JO,4.05,0.168
+143,10X Wealth Govi Bond ETF,CSGOVI.JO,2.11,0.09
+144,10X S&P Global Property ETF,GLPROP.JO,4.17,0.177
+145,The Bidvest Group Limited,BVT.JO,4.81,0.206
+146,Astral Foods Limited,ARL.JO,7.07,0.31
+147,Raubex Group Limited,RBX.JO,7.4,0.341
+148,Resilient REIT Limited,RES.JO,4.19,0.217
+149,FirstRand Limited,FSR.JO,4.83,0.251
+150,Mr Price Group Limited,MRP.JO,6.05,0.313
+151,Super Group Limited,SPG.JO,5.82,0.305
+152,Oceana Group Limited,OCE.JO,4.15,0.229
+153,Nampak Limited,NPK.JO,11.65,0.647
+154,1nvest SA Bond ETF,ETFBND.JO,1.42,0.085
+155,Absa Group Limited,ABG.JO,3.93,0.239
+156,1nvest ICE US Treasury Short Bond Index Feeder ETF,ETFUSD.JO,1.83,0.116
+157,Texton Property Fund Limited,TEX.JO,6.2,0.4
+158,iOCO Limited,IOC.JO,6.16,0.416
+159,EasyETFs AI World Actively Managed ETF,EASYAI.JO,6.86,0.531
+160,1nvest Global REIT Feeder ETF,ETFGRE.JO,2.05,0.181
+161,Satrix SA Bond ETF,STXGOV.JO,1.03,0.098
+162,Invicta Holdings Limited,IVT.JO,1.71,0.18
+163,Standard Bank Group Ltd,SBPP.JO,1.03,0.123
+164,Redefine Properties Limited,RDF.JO,2.08,0.268
+165,Satrix GOVI ETF,STXGVI.JO,0.39,0.091
+166,The Foschini Group Limited,TFG.JO,1.26,0.331
+167,Randgold & Exploration Company Limited,RNG.JO,2.43,0.655
+168,AECI Ltd,AFE.JO,0.73,0.219
+169,Old Mutual Limited,OMU.JO,0.81,0.249
+170,Emira Property Fund Limited,EMI.JO,0.67,0.209
+171,Hosken Consolidated Investments Limited,HCI.JO,0.86,0.277
+172,Satrix Inclusion & Diversity ETF,STXID.JO,0.45,0.148
+173,Trellidor Holdings Limited,TRL.JO,1.07,0.499
+174,Telkom SA SOC Ltd,TKG.JO,0.52,0.424
+175,Northam Platinum Holdings Limited,NPH.JO,0.36,0.52
+176,Coronation Fund Managers Limited,CML.JO,0.07,0.225
+177,City Lodge Hotels Limited,CLH.JO,0.02,0.288
+178,Lighthouse Properties p.l.c.,LTE.JO,-0.03,0.263
+179,Growthpoint Properties Limited,GRT.JO,-0.05,0.242
+180,Netcare Limited,NTCP.JO,-0.05,0.117
+181,Stor-Age Property REIT Limited,SSS.JO,-0.08,0.131
+182,FirstRand Bank Limited,PAETNC.JO,-0.23,0.264
+183,BHP Group Limited,BHG.JO,-0.27,0.222
+184,FirstRand Bank Limited,PAETNQ.JO,-0.43,0.253
+185,Sirius Real Estate Limited,SRE.JO,-0.77,0.322
+186,MAS P.L.C.,MSP.JO,-0.75,0.309
+187,Satrix MSCI World Islamic Feeder ETF,STXWIS.JO,-0.54,0.149
+188,Famous Brands Limited,FBR.JO,-0.92,0.215
+189,Afrimat Limited,AFT.JO,-1.06,0.244
+190,Woolworths Holdings Limited,WHL.JO,-1.43,0.279
+191,GMF ACTIVELY MANAGED ETF,27FGMF.JO,-1.28,0.218
+192,Impala Platinum Holdings Limited,IMP.JO,-3.26,0.535
+193,RCL Foods Limited,RCL.JO,-1.73,0.255
+194,enX Group Limited,ENX.JO,-3.08,0.395
+195,MTN Group Limited,MTN.JO,-3.32,0.387
+196,Curro Holdings Limited,COH.JO,-2.84,0.303
+197,EPE Capital Partners Ltd,EPE.JO,-2.84,0.259
+198,KAL Group Limited,KAL.JO,-2.46,0.211
+199,Zeda Limited,ZZD.JO,-3.97,0.316
+200,Crookes Brothers Limited,CKS.JO,-5.26,0.375
+201,Investec Ltd,INPR.JO,-1.35,0.087
+202,The SPAR Group Ltd,SPP.JO,-5.4,0.346
+203,York Timber Holdings Limited,YRK.JO,-5.89,0.328
+204,Merafe Resources Limited,MRF.JO,-6.41,0.356
+205,Dis-Chem Pharmacies Limited,DCP.JO,-4.81,0.256
+206,Absa Bank Limited,ABSP.JO,-2.19,0.111
+207,Vodacom Group Limited,VOD.JO,-4.27,0.209
+208,Capital Appreciation Limited,CTA.JO,-5.65,0.268
+209,Kumba Iron Ore Limited,KIO.JO,-9.04,0.434
+210,Motus Holdings Limited,MTH.JO,-5.56,0.261
+211,Aveng Limited,AEG.JO,-11.05,0.497
+212,Life Healthcare Group Holdings Limited,LHC.JO,-7.93,0.35
+213,Mahube Infrastructure Limited,MHB.JO,-7.74,0.329
+214,PBT Group Limited,PBG.JO,-6.55,0.273
+215,South32 Limited,S32.JO,-7.74,0.315
+216,Anglo American Platinum Limited,AMS.JO,-15.46,0.514
+217,Balwin Properties Limited,BWN.JO,-7.4,0.234
+218,FirstRand Bank Limited,LLETNQ.JO,-11.03,0.341
+219,Sappi Limited,SAP.JO,-10.64,0.323
+220,Vunani Limited,VUN.JO,-9.81,0.287
+221,FirstRand Bank Limited,LLETNC.JO,-11.11,0.321
+222,Alphamin Resources Corp.,APH.JO,-15.93,0.435
+223,Sibanye Stillwater Limited,SSW.JO,-18.93,0.52
+224,African Rainbow Minerals Limited,ARI.JO,-13.18,0.343
+225,Pick n Pay Stores Limited,PIK.JO,-15.49,0.404
+226,Exxaro Resources Limited,EXX.JO,-10.5,0.256
+227,Burstone Group Limited,BTN.JO,-9.92,0.238
+228,Wealth Global Equity CoreSolutions Actively Managed ETF,PCWGE.JO,-6.34,0.149
+229,Accelerate Property Fund Limited,APF.JO,-15.66,0.384
+230,Brait PLC,BAT.JO,-16.9,0.398
+231,Brimstone Investment Corporation Limited,BRN.JO,-12.55,0.281
+232,Trematon Capital Investments Limited,TMT.JO,-14.72,0.328
+233,KAP Limited,KAP.JO,-16.35,0.349
+234,Insimbi Industrial Holdings Limited,ISB.JO,-16.09,0.306
+235,Thungela Resources Limited,TGA.JO,-21.93,0.423
+236,AfroCentric Investment Corporation Limited,ACT.JO,-22.56,0.429
+237,Libstar Holdings Limited,LBR.JO,-14.71,0.255
+238,Satrix Divi Plus ETF,STXDIV.JO,-8.97,0.145
+239,AfricaRhodium ETF,ETFRHO.JO,-23.74,0.386
+240,NewGold Palladium ETF,NGPLD.JO,-18.27,0.287
+241,AfricaPalladium ETF,ETFPLD.JO,-18.52,0.261
+242,YeboYethu (RF) Limited,YYLBEE.JO,-20.46,0.285
+243,FirstRand Bank Limited,NVETNC.JO,-24.0,0.316
+244,FirstRand Bank Limited,NVETNQ.JO,-20.2,0.258
+245,Satrix Global Balanced Fund of Funds ETF,STXGLB.JO,-7.25,0.071
+246,Sea Harvest Group Limited,SHG.JO,-19.77,0.168
+247,EasyETFs Balanced Actively Managed ETF,EASYBF.JO,-20.16,0.147

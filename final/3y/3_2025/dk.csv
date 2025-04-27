@@ -1,0 +1,377 @@
+Rank,Name,Ticker,Return (%),Risk
+1,BankInvest Optima Rente Akk. A,BIVOPRAA.CO,9.56,0.001
+2,Fairrente KL n,PMIFRKLN.CO,2.91,0.002
+3,Sparinvest SICAV Gl Conv Bonds EUR R,SSIGCBEURR.CO,18.11,0.027
+4,Coop Opsparing Forsigtig,COIFOR.CO,9.44,0.014
+5,Sydinvest Formue Balanceret Udb A,SYVFBUA.CO,12.85,0.025
+6,Wealth Invest Strategi Alternativer,WEISA.CO,10.86,0.022
+7,Formuepleje - Obligationer,FPIOBL.CO,4.52,0.012
+8,BankInvest Emerging Markets Korte Obli A,BAIKOA.CO,8.09,0.024
+9,Sparinvest SICAV - Procedo,SSIPEURR.CO,20.6,0.064
+10,Nordea Invest - Korte obligationer Lagerbeskattet,NDIKOLKL1.CO,5.11,0.019
+11,Sydinvest Formue Konservativ Udb A,SYVFKUDA.CO,5.1,0.019
+12,Sparinvest SICAV - Balance,SSIBDKKR.CO,15.38,0.06
+13,BankInvest Korte HY Obli Royal London A,BAIKHYORLA.CO,3.47,0.015
+14,BankInvest - Korte Danske Obligationer Akk. KL,BAIKDKOAKA.CO,4.05,0.017
+15,Sydinvest Formue Vækstorienteret Udb A,SYVFVOUA.CO,14.99,0.064
+16,Sydinvest Formue Offensiv Udb A,SYVFOUA.CO,17.94,0.077
+17,BankInvest Optima Rente A,BIVORA.CO,6.26,0.029
+18,Sparinvest - Value Virksomhedsobligationer Global Højrente Udb. KL,SPIVHYKLA.CO,13.44,0.063
+19,Sydinvest Virksomhedsobligationer HY KL,SYIVOHYADKK.CO,9.99,0.05
+20,Sydinvest Korte Obligationer KL,SYIKOADKK.CO,4.0,0.021
+21,IA Invest Advice Capital Global,IAIACG.CO,11.69,0.064
+22,Wealth Invest Optimal Stabil,WEIOS.CO,9.24,0.051
+23,BankInvest Mellemlange Danske Obligationaer,BAIMDOA.CO,5.63,0.035
+24,Formuepleje - Global High Yield,FPIGHY.CO,7.25,0.045
+25,Sparinvest INDEX Glb Akt Min Risk Akk KL,SPVIGAMRAKL.CO,14.45,0.093
+26,PortfolioMan ClimateTransitionB,PMICTBKLN.CO,4.26,0.029
+27,Sparinvest Value Emerging Markets KL,SPIVEMKLA.CO,17.44,0.115
+28,Investeringsforeningen Jutlanderinvest - Konservativ,SDIKON.CO,6.8,0.049
+29,Sydinvest HøjrenteLande A DKK,SYIHRLADKK.CO,8.15,0.061
+30,Wealth Invest Optimal VerdensIndex Mod,WEIOVM.CO,9.35,0.074
+31,Nordea Invest - Korte obligationer Fund,NDIKOKL1.CO,2.43,0.02
+32,BankInvest Korte Danske Obligationer,BAIKDOBA.CO,2.59,0.021
+33,BankInvest Globale Obligationer,BAIGOAA.CO,8.36,0.068
+34,Sparinvest INDEX Em Mkt Bonds Akk KL A,SPVIEMMBAKKKLA.CO,6.11,0.052
+35,Great Dane INDEX+,GDIIND.CO,13.59,0.116
+36,Investeringsforeningen Spardanmark Invest Balance Fund,SDIBAL.CO,7.13,0.064
+37,Danske Andelskassers Bank A/S,DAB.CO,15.02,0.133
+38,IA Invest Peruma Invest Globale Aktier,IAIPGA.CO,13.74,0.125
+39,BIX USA Aktier Indeks A,BXIUSAAIA.CO,16.24,0.149
+40,Investeringsforeningen Nordea Invest - Global Small Cap Enhanced,NDIGSEKL1.CO,6.65,0.065
+41,Sparinvest INDEX Europa Value KL,SPIEUVKL.CO,14.9,0.141
+42,BankInvest Optima 75 Akk. KL,BIV75A.CO,11.61,0.113
+43,,NDIVOBKL1.CO,4.43,0.046
+44,Vestjysk Bank A/S,VJBA.CO,17.99,0.177
+45,Sydinvest Verden Ligevægt & Value KL,SYIMEGADKKAKK.CO,13.81,0.138
+46,Maj Invest Big Picture,MAJBPI.CO,7.79,0.081
+47,Maj Invest Grønne Obligationer,MAJGRO.CO,3.36,0.036
+48,Storebrand Indeks - Alle Markeder,STIIAM.CO,12.27,0.125
+49,BankInvest Virksomobl HY Jyske Capital A,BAIVOHYJYCAPA.CO,4.37,0.047
+50,,NDISTABKL1.CO,6.15,0.066
+51,Afdeling MW Compounders Akkumulerende,IAIMCA.CO,11.04,0.116
+52,Investeringsforeningen Danske Invest - Globale Obligationsmarkeder KL,DKIGOM.CO,4.73,0.052
+53,Sparinvest Mix Lav Risiko KL,SPIMLRKLA.CO,4.79,0.053
+54,BankInvest Glb Akt Sel ColumThr,BAIGASCTAA.CO,15.67,0.167
+55,Danske Invest Danske Korte Obl KL DKK d,DKIKO.CO,2.44,0.028
+56,Danske Invest Japan KL DKK d,DKIJAP.CO,10.71,0.119
+57,Maj Invest - Investeringsforeningsbevis,MAJEMV.CO,11.7,0.129
+58,Sparinvest INDEX Glb Akt KL,SPVIGAKL.CO,11.86,0.131
+59,Maj Invest High Income Obligationer,MAJHIO.CO,4.07,0.047
+60,PP Capital - StockPick KL,PMIPCSPKLNO.CO,9.92,0.111
+61,BankInvest Højt Udbytte Aktier Akk. A,BAIHU.CO,8.29,0.094
+62,Sparinvest INDEX Mellem Risiko KL,SPVIMRKL.CO,6.17,0.071
+63,Investeringsforeningen Jutlanderinvest - Offensiv,SDIOFF.CO,8.17,0.093
+64,Sparinvest INDEX Høj Risiko KL,SPVIHRKL.CO,7.79,0.089
+65,Wealth Invest - Linde & Partners Global Value Fond,WEILPGVF.CO,6.45,0.075
+66,Danske Inv Europa Indeks BNP KL DKK d,DKIEUIXBNP.CO,13.14,0.149
+67,Investeringsforeningen Danske Invest - Europa Højt Udbytte KL,DKIEAUHU.CO,9.77,0.116
+68,Danske Invest Euro HY-Obl - Akk,DKIEUHYOAKKDKKH.CO,5.76,0.07
+69,Danske Inv Europa Højt Udbyt Akk KL DKK,DKIEUHUAKLDKK.CO,9.98,0.12
+70,Danske Invest Nordiske Virks obl DKK h,DKINVO.CO,2.64,0.033
+71,Investeringsforeningen Wealth Invest - Secure Select Aktier,WEISSA.CO,16.6,0.201
+72,,JYIFJASRIKL.CO,9.72,0.124
+73,Fynske Bank A/S,FYNBK.CO,10.0,0.128
+74,Coop Opsparing Modig,COIMOD.CO,7.58,0.099
+75,Nordfyns Bank A/S,NRDF.CO,14.65,0.185
+76,Investeringsforeningen Jutlanderinvest - Varkst,SDIVKS.CO,8.76,0.114
+77,Investeringsforeningen Nordea Invest - Emerging Markets Enhanced,NDIEMMAENKL1.CO,13.28,0.171
+78,Ringkjøbing Landbobank A/S,RILBA.CO,15.55,0.199
+79,Sydinvest Indeks Globale Akt Lav Ris KL,SYIIGALRKL.CO,8.88,0.118
+80,Storebrand Global ESG Plus,STIGP.CO,9.43,0.126
+81,BankInvest Glb Akt Sel ColumThr,BAIGASCTA.CO,13.1,0.177
+82,Investeringsforeningen BIL Danmark - Selection Aktier KL,BIVOPA.CO,8.67,0.12
+83,BankInvest Lange Danske Obl Akk. A,BAILDKOAA.CO,2.51,0.036
+84,Sydinvest Europa Value A DKK,SYIEUVADKK.CO,11.69,0.164
+85,Investeringsforeningen Danske Invest - USA KL,DKIUSAIKLDKKD.CO,11.32,0.161
+86,Investeringsforeningen Nordea Invest - Global Enhanced,NDIGLENHKL1.CO,10.06,0.145
+87,Sydinvest Kvalitetsaktier A DKK,SYIKVAADKK.CO,10.38,0.15
+88,Jyske Bank A/S,JYSK.CO,17.87,0.252
+89,Maj Invest Globale Obligationer,MAJGO.CO,4.14,0.062
+90,Danske Invest - Global Sustainable Future Akk,DKIGSFUT.CO,9.0,0.132
+91,Sparinvest INDEX Glb Akt Min Risiko KL,SPIGLAMRIKL.CO,6.33,0.094
+92,BIX Globale Aktier Indeks,BXIGAI.CO,9.75,0.144
+93,Danske Invest - Global Sustainable Future 2,DKIGSFUT2.CO,9.08,0.135
+94,Investin - Othania Etisk Formuevækst KL,WEIOAV.CO,8.82,0.132
+95,Alm. Brand A/S,ALMB.CO,16.8,0.245
+96,Investeringsforeningen Danske Invest - Global Sustainable Future,DKIGSFUTDKKD.CO,9.04,0.137
+97,Gudme Raaschou European High Yield,GRIEHY.CO,4.69,0.072
+98,Sparinvest Value Europa KL,SPIVEUKLA.CO,10.01,0.152
+99,Danske Invest Global Indeks KL,DKIGI.CO,9.84,0.15
+100,Danske Inv Europa Indeks KL DKK d,DKIEUIX.CO,9.36,0.144
+101,Nykredit Invest Korte Obligationer KL,NYIKO.CO,2.39,0.038
+102,Sparinvest INDEX USA Growth KL,SPIUSGKL.CO,14.17,0.221
+103,NKT A/S,NKT.CO,20.5,0.314
+104,Sparinvest INDEX USA Value KL,SPIUSVKL.CO,8.99,0.145
+105,Nykredit Invest Korte Obligation Akk KL,NYIKOA.CO,2.32,0.039
+106,Maj Invest Pension,MAJPEN.CO,5.61,0.094
+107,Matas A/S,MATAS.CO,17.33,0.276
+108,BankInvest Globale Aktier Akk. ,BAIGAAA.CO,7.72,0.128
+109,Jyske Invest Obligationer og Aktier KL,JYIOBAKKL.CO,7.22,0.12
+110,Sparindex INDEX Stabile Obligationer KL A,SPISOKLA.CO,1.76,0.03
+111,Nordea Invest - Nordea Invest Globale Aktier Indeks Fund,NDIGAIKL1.CO,8.55,0.145
+112,Danske Invest Global Indeks Akk KL DKK h,DKIGIADKKH.CO,8.7,0.149
+113,Wealth Invest Amalie Global AK,WEIAGA.CO,7.63,0.131
+114,Sparinvest - Lange Obligationer KL,SPILOLKLA.CO,3.09,0.054
+115,Sparinvest Value Aktier KL,SPIVAKLA.CO,9.41,0.163
+116,Investeringsforeningen Danske Invest - USA - Akkumulerende KL,DKIUSAIAKKDKKH.CO,9.11,0.159
+117,NTR Holding A/S,NTR-B.CO,19.1,0.32
+118,Nordea Invest - Verdens Obligationsmarkeder,NDIVOMKL1.CO,2.06,0.037
+119,Sydinvest Formue Offensiv Akk A,SYVFOAKKA.CO,6.67,0.119
+120,Formuepleje Mix Medium,FPIMME.CO,4.22,0.076
+121,Lån & Spar Invest - Verden Selection,LSIVSE.CO,7.57,0.134
+122,Jyske Invest Aktier Ansvarlig U,JYIAAU.CO,8.24,0.146
+123,Nordea Invest Globale UdbytteAktier,NDIGUAKL1.CO,6.33,0.114
+124,Sparinvest - Mix Mellem Risiko KL,SPIMMRKLA.CO,4.02,0.074
+125,BankInvest - Optima 30 Akk.,BIV55.CO,5.07,0.094
+126,BankInvest - Optima 30 Akk.,BIV75.CO,6.3,0.116
+127,Danske Invest Nye Mark Obl KL DKK d h,DKINMOBL.CO,5.23,0.097
+128,Sparinvest - Index Sektor Industri Kl,SPVBEUKL.CO,8.22,0.15
+129,BankInvest - Højt Udbytte Aktier KL,BAIHUAA.CO,5.25,0.099
+130,BankInvest Optima 55 Akk. KL,BIV55A.CO,5.0,0.094
+131,Sparinvest Mix Equities,SPIMAKLA.CO,8.53,0.159
+132,Maj Invest Value Aktier,MAJVAL.CO,8.56,0.16
+133,Sparinvest Nye Obligationsmarkeder KL,SPINOBKLA.CO,5.18,0.099
+134,Maj Invest Value Aktier Akk,MAJVAA.CO,8.53,0.161
+135,Maj Invest Danske Obligationer,MAJDKO.CO,2.97,0.058
+136,Danske Invest - Europa 2 KL,DKIEU2KL.CO,7.03,0.137
+137,Formuepleje Better World Glb Opp,FPIBWG.CO,8.16,0.158
+138,Nordea Invest Europe Enhanced,NDIEUENHKL1.CO,8.39,0.165
+139,Lån & Spar Invest - Europa Classics,LSIEUC.CO,6.75,0.135
+140,BankInvest - Optima 30 Akk.,BIV10.CO,2.8,0.058
+141,Sparindex INDEX Bæredygtige Global KL,SPVIBGKL.CO,6.84,0.138
+142,Sydinvest Korte Obligationer KL,SPIKOOKLA.CO,1.46,0.03
+143,Coop Opsparing Moderat,COIMRA.CO,3.27,0.067
+144,Investeringsforeningen Nordea Invest - Japan Enhanced,NDIJAPENHKL1.CO,6.82,0.139
+145,Sparinvest INDEX DJSI World KL,SPIDJWKL.CO,5.96,0.122
+146,Formuepleje Mix High,FPIMHI.CO,4.87,0.101
+147,Columbus A/S,COLUM.CO,17.79,0.35
+148,Wealth Invest Optimal Mix KL,WEIOM.CO,4.79,0.1
+149,BankInvest - Optima 30 Akk.,BIV30A.CO,3.07,0.065
+150,Falcon Danske Aktier,FIIFDA.CO,7.91,0.163
+151,Danske Invest - Danmark Indeks ex OMXC20,DKIDKIEXOMXC20D.CO,7.27,0.152
+152,BankInvest - Optima 30 Akk.,BIV30.CO,3.54,0.075
+153,Storebrand Global Solutions Aksjefond,STIGS.CO,5.26,0.111
+154,Nordea Bank Abp,NDA-DK.CO,11.53,0.238
+155,Sparinvest - Index Bæredygtige USA KL,SPVBUSAKL.CO,7.72,0.162
+156,Nordea Invest Stabile Aktier Akkumulerende,NDISTAAKL1.CO,4.78,0.102
+157,Nykredit Invest Bæredygtige Aktier,NYIBDA.CO,6.65,0.142
+158,Kapitalforeningen Emd Invest - Us Small Cap Aktier,WEIASCA.CO,8.13,0.174
+159,Danske Invest NM Obl LV KL DKK d,DKINMOBLLV.CO,2.78,0.061
+160,Danske Invest Europa Akk KL DKK h,DKIEUADKKH.CO,6.13,0.134
+161,Investeringsforeningen Nordea Invest - Bæredygtige Aktier KL,NDIAAKL1.CO,6.11,0.136
+162,Sparindex INDEX Japan Growth KL,SPIBJAKL.CO,6.41,0.143
+163,Danske Invest Europa KL DKK d,DKIEU.CO,6.31,0.141
+164,Danske Invest Mix Offensiv Plus Akk KL,DKIMOPA.CO,4.69,0.106
+165,Formuepleje Globale Aktier Akk,FPIGAA.CO,5.36,0.121
+166,Wealth Invest Optimal Offensiv KL,WEIOOF.CO,5.13,0.117
+167,WindowMaster International A/S,WMA.CO,20.74,0.452
+168,BankInvest - Emerging Markets Obligationer,BAIEMOBA.CO,3.48,0.082
+169,Nordea Invest - North America Enhanced,NDINAEKL1.CO,6.94,0.16
+170,Nykredit Invest Globale Fokusakt Akk KL,NYIGFA.CO,6.48,0.151
+171,Dantax A/S,DANT.CO,14.2,0.325
+172,C WorldWide Globale Aktier KL A,CWIGAKLA.CO,6.03,0.144
+173,Sparinvest INDEX Emerging Markets KL,SPIEMIKL.CO,5.67,0.137
+174,Nykredit Invest Globale Fokusaktier KL,NYIGLA.CO,6.37,0.154
+175,SKAGEN Global A,SKIGLO.CO,6.78,0.163
+176,Nordea Invest Global Stars,NDIGSTKL1.CO,5.07,0.124
+177,BankInvest Optima 10 Akk. KL,BIV10A.CO,1.99,0.05
+178,Formuepleje Globale Aktier,FPIGA.CO,5.71,0.141
+179,Sparinvest SICAV - Global Value,SSIGVEURR.CO,6.29,0.157
+180,Lån & Spar Invest - Obligationer,LSIOBL.CO,1.84,0.047
+181,Ambu A/S,AMBU-B.CO,18.73,0.452
+182,Nykredit Invest Bal Bæredyg. Offensiv KL,NBIBOKL.CO,4.79,0.123
+183,Danske Invest - Global Sustainable Future 3,DSIGSFUT3DKKD.CO,5.89,0.152
+184,Novo Nordisk A/S,NOVO-B.CO,11.7,0.295
+185,Cemat A/S,CEMAT.CO,10.51,0.267
+186,Aktieselskabet Schouw & Co.,SCHO.CO,9.52,0.243
+187,Sparinvest - Mellemlange Obligationer KL,SPIMLOKLA.CO,1.94,0.051
+188,BankInvest Emerging Markets Akt,BAIEMMAA.CO,5.78,0.151
+189,StockRate Invest Globale Aktier,SRIGAU.CO,5.78,0.152
+190,Investeringsforeningen C Worldwide Indien Kl,CWIIA.CO,6.71,0.177
+191,Danske Invest Mix Defensiv Akk KL,DKIMDA.CO,2.12,0.057
+192,Danske Invest Mix Offensiv Akk KL,DKIMOAK.CO,3.12,0.084
+193,Sparinvest - Mix Høj Risiko KL,SPIMHRKLA.CO,4.01,0.108
+194,Formuepleje LimiTTellus,FPILIM.CO,4.83,0.133
+195,Maj Invest - Maj Invest Vækstaktier KL,MAJVA.CO,6.37,0.174
+196,Lån & Spar Invest - MixObligationer,LSIOB.CO,1.95,0.056
+197,Jyske Invest Virksomhedsobl. KL,JYIVIRK.CO,2.85,0.082
+198,Nordea Invest Global Small Cap,NDIGSCKL1.CO,6.02,0.172
+199,Jyske Invest Aktier Lav Volatilitet KL,JYIALVKL.CO,3.22,0.094
+200,C WorldWide Globale Aktier - AK,CWIGAAKKKLA.CO,4.94,0.143
+201,Danske Invest Mix Akk KL,DKIMA.CO,2.49,0.073
+202,MMI Globale Aktier Akk – Harding Loevner,MMIGAA.CO,5.75,0.169
+203,MMI Globale Aktier – Harding Loevner,MMIGA.CO,5.75,0.17
+204,,BAIEUAA.CO,4.42,0.132
+205,BioPorto A/S,BIOPOR.CO,21.85,0.609
+206,Nykredit Invest Bal Bæredyg. Moderat KL,NBIBMKL.CO,3.51,0.106
+207,Danske Invest Nye Markeder KL DKK d,DKINYM.CO,5.08,0.158
+208,DSV A/S,DSV.CO,11.45,0.347
+209,Lån & Spar Invest - Glb Aktier Basis Akk,LSIGAA.CO,4.33,0.136
+210,Danske Invest Nye Markeder Akk KL DKK,DKINMAKK.CO,5.12,0.163
+211,Nordea Invest - European High Yield Bonds,NDIEHYKL1.CO,1.96,0.063
+212,BankInvest - Virksomhedsobligationer IG KL,BAIVOIGA.CO,1.66,0.054
+213,Danske Invest Fjernøsten Indeks KL DKK d,DKIFJIX.CO,4.91,0.159
+214,Sparinvest INDEX Europa Growth KL,SPIEUGKL.CO,5.01,0.164
+215,IA Invest Strategic Danske Akti,IAISDKAKT.CO,8.63,0.289
+216,Sparinvest Danske Aktier KL,SPIDKAKLA.CO,5.16,0.18
+217,Wealth Invest Strategi Stabil,WEISTS.CO,1.58,0.057
+218,Investeringsforeningen Nordea Invest Engros - Mellemlange obligationer,NDIMLOKL1.CO,1.53,0.056
+219,Investeringsforeningen Formuepleje - Better World,FPIBWEL.CO,5.02,0.183
+220,Danske Inv Dannebrog ML Obl KL DKK d,DKIDMOBL.CO,1.33,0.05
+221,Sparinvest Bæredygtige Aktier KL A,SPIBDA.CO,3.03,0.114
+222,Sparinvest INDEX Europa Small Cap KL,SPIEUCKL.CO,5.05,0.189
+223,Danske Invest Mix Obl Akk KL DKK h,DKIMOA.CO,1.43,0.055
+224,Wealth Invest HP Invest Danske Obl Akk A,WEIHPIDKOAKKKL.CO,1.04,0.04
+225,H. Lundbeck A/S,HLUN-B.CO,7.86,0.318
+226,Danske Invest Mix Obligationer KL,DKIMOB.CO,1.23,0.053
+227,Nordea Invest Nordic Small Cap,NDINSCKL1.CO,5.39,0.234
+228,Sparindex INDEX OMX C25 KL,SPIC25KL.CO,4.24,0.188
+229,ValueInvest Global Akk KL,VAIGAKA.CO,2.46,0.11
+230,C WorldWide Globale Aktier Etik,CWIGAEKLUDL.CO,3.2,0.144
+231,Sydinvest Virksomhedsobl IG A DKK,SYIVIGADKK.CO,1.45,0.067
+232,Nordea Invest Basis 4,NDI4KL1.CO,2.72,0.126
+233,Sparinvest  Momentum Aktier Akk. KL,SPIBDAAKKKLA.CO,2.86,0.135
+234,RISMA Systems A/S,RISMA.CO,8.25,0.399
+235,ValueInvest Global KL,VAIGLOA.CO,2.26,0.115
+236,Shape Robotics A/S,SHAPE.CO,13.13,0.647
+237,Nordea Invest Aktier II,NDIAKTIIKL1.CO,2.74,0.147
+238,Sydinvest Globale EM-Aktier A DKK Akk,SYIGEMAADKKA.CO,2.67,0.143
+239,Carlsberg A/S,CARL-B.CO,3.92,0.21
+240,Sydinvest Mellemlange Obligationer A DKK,SYIMOADKK.CO,0.94,0.051
+241,Gudme Raaschou Emerging Markets Aktier,GRIEMA.CO,2.54,0.139
+242,Danske Inv Euro IG Obl KL DKK d h,DKIEIGO.CO,1.18,0.067
+243,Dampskibsselskabet Norden A/S,DNORD.CO,8.12,0.452
+244,Møns Bank A/S,MNBA.CO,2.46,0.143
+245,Nordea Invest Basis 2,NDIB2KL1.CO,1.47,0.087
+246,Jyske Invest Nye Aktiemarkeder KL,JYINYAKL.CO,2.44,0.144
+247,BIX Danske Aktier Indeks A,BXIDKAIA.CO,2.66,0.157
+248,BactiQuant A/S,BACTIQ.CO,20.63,1.145
+249,C WorldWide Asien KL A,CWIASKLA.CO,2.74,0.17
+250,Maj Invest Danske Aktier,MAJDKA.CO,2.85,0.181
+251,BankInvest - Emerging Markets Obligationer Lokalvaluta,BAIEMOLVA.CO,1.12,0.072
+252,Danske Invest Globale HY Obl KL DKK d h,DKIGHYB.CO,1.21,0.078
+253,Jyske Invest Lange Obligationer KL,JYILOB.CO,0.89,0.058
+254,Danske Invest Global Indeks 2 -,DKIGI2AKK.CO,2.79,0.182
+255,Danske Invest Glbl Virk.obl Kl DKK d h,DKIGLOVO.CO,0.99,0.068
+256,Nykredit Invest Danske Aktier Akk KL,NYIDAA.CO,2.57,0.177
+257,Danske Invest Danmark Fokus KL DKK d,DKIDKF.CO,2.6,0.183
+258,Nordea Invest European Stars,NDIEUSTKL1.CO,2.55,0.18
+259,BankInvest - Danske Aktier KL,BAIDKAA.CO,2.31,0.165
+260,BankInvest Lange Danske Obligationer,BAILDOBA.CO,0.89,0.064
+261,Danske Invest Danmark KL DKK d,DKIDK.CO,2.43,0.18
+262,Independent Bond,IIVBON.CO,0.59,0.045
+263,Danske Invest Danmark Akk KL DKK,DKIDKA.CO,2.33,0.18
+264,Sydinvest Fjernøsten A DKK Akk,SYIFJERADKKA.CO,2.01,0.158
+265,Nordea Invest Basis 3,NDIB3KL1.CO,1.35,0.107
+266,SEBinvest - Danske Aktier AKL,SEIDKAP.CO,2.1,0.172
+267,Formuepleje Optimum A/S,FPIMLO.CO,0.68,0.057
+268,Bankinvest - Danske Aktier Akk. KL,BAIDKAAKA.CO,2.08,0.173
+269,FirstFarms A/S,FFARMS.CO,2.19,0.186
+270,Nordea Invest North American Stars,NDINASTKL1.CO,1.57,0.146
+271,Nykredit Invest Balance Defensiv,NBIDEKL.CO,0.85,0.08
+272,Københavns Lufthavne A/S,KBHL.CO,4.21,0.447
+273,RIAS A/S,RIAS-B.CO,1.41,0.153
+274,Scandinavian Medical Solutions A/S,SMSMED.CO,5.03,0.538
+275,SEBinvest - Danske Aktier Akkumulerende AKL,SEIDAAP.CO,1.82,0.21
+276,Nykredit Invest - Balance Offensiv,NBIOFKL.CO,1.07,0.132
+277,Nordea Invest - Klima og Miljø,NDIKMKL1.CO,1.22,0.153
+278,Brødrene A & O Johansen A/S,AOJ-B.CO,2.56,0.33
+279,Danske Invest Kina KL DKK d,DKIKI.CO,1.95,0.301
+280,Fundamental Invest Stock Pick II Akk,FUISPA.CO,1.4,0.225
+281,ALK-Abelló A/S,ALK-B.CO,1.94,0.345
+282,SP Group A/S,SPG.CO,1.94,0.371
+283,Nordea Invest - Emerging Stars Fund,NDIESKL1.CO,0.73,0.15
+284,Royal Unibrew A/S,RBREW.CO,1.21,0.262
+285,Danske Invest Danske Lange Obl KL DKK d,DKIDKLOBL.CO,0.35,0.079
+286,C WorldWide Emerging Markets KL,CWIEMMKL.CO,0.42,0.154
+287,Nykredit Invest Danske Aktier KL,NYIDA.CO,0.32,0.18
+288,Danske Invest Danmark Indeks KL DKK d,DKIDKIX.CO,0.29,0.17
+289,Carnegie Wealth Mgmt Nordiske Aktier,CMINOA.CO,0.26,0.229
+290,Alefarm Brewing A/S,ALEFRM.CO,0.54,0.618
+291,SEBinvest - Europa Small Cap AKL,SEIESCP.CO,0.02,0.225
+292,ChemoMetec A/S,CHEMM.CO,0.01,0.566
+293,Wealth Invest HP Invest Lan Danske Obl A,WEIHPILDKOBLKL.CO,-0.05,0.072
+294,SKAGEN Focus A,SKIFOA.CO,-0.12,0.165
+295,Gudme Raaschou Europæiske Ejendomsaktier,GRIEJD.CO,-0.29,0.184
+296,Pharma Equity Group A/S,PEG.CO,-2.13,0.977
+297,Sparinvest Globale Fokusaktier KL A,SPIGFA.CO,-0.29,0.128
+298,MMI Nye Aktiemarkeder - Sands Akk,MMINAA.CO,-0.49,0.143
+299,MMI Nye Aktiemarkeder - Sands,MMINAM.CO,-0.56,0.143
+300,Nordea Invest Danske Aktier Fokus,NDIDAFKL1.CO,-0.69,0.176
+301,Danske Invest Fonde KL DKK d,DKIFO.CO,-0.33,0.078
+302,NNIT A/S,NNIT.CO,-1.64,0.371
+303,ANNOX Kvant Globale Aktier KL,PMIKGA.CO,-0.92,0.176
+304,Wealth Invest I&T Glob Akt ESG ,WEIITGESGS.CO,-1.17,0.213
+305,Sydinvest Fjernøsten KL,SYIFJEADKK.CO,-0.96,0.164
+306,Investeringsforeningen Bil Danmark - Selection Aktier Akk.- KL,BIVOAA.CO,-0.79,0.123
+307,Sparinvest SICAV - Procedo,SSIPDKKR.CO,-0.64,0.094
+308,Wealth Invest HP Invest Grønne Obl KL A,WEIHPIGROBLKLA.CO,-0.41,0.058
+309,,BAIEUAAA.CO,-1.13,0.159
+310,IA Invest- DKK 100 Formuefyn Skandi Fund,IAIFFS.CO,-1.01,0.14
+311,Nordea Invest Emerging Markets,NDIEMKL1.CO,-1.37,0.174
+312,Maj Invest Globale Obligationer,MAJGOA.CO,-0.44,0.054
+313,Formuepleje Global Future,FPIGFU.CO,-1.21,0.145
+314,Danske Invest Europa Small Cap KL DKK d,DKIEUSC.CO,-1.61,0.176
+315,Investeringsselskabet Luxor A/S,LUXOR-B.CO,-2.56,0.271
+316,Nordea Invest Aktier,NDIAKL1.CO,-1.44,0.138
+317,Novonesis A/S,NSIS-B.CO,-2.66,0.248
+318,Movinn A/S,MOVINN.CO,-7.36,0.668
+319,Nykredit Invest Balance Moderat,NBIMOKL.CO,-1.46,0.113
+320,Stonehenge Globale Valueaktier KL,SHIGVAKL.CO,-1.31,0.091
+321,Danske Inv Glbl ML Indeksobl KL DKK d h,DKIGMI.CO,-0.74,0.051
+322,Sparinvest SICAV - Ethical Global Value,SSIEGVEURR.CO,-2.47,0.162
+323,Mdundo.com A/S,MDUNDO.CO,-3.99,0.253
+324,Fast Ejendom Danmark A/S,FED.CO,-2.42,0.147
+325,Rovsing A/S,ROV.CO,-5.8,0.357
+326,Demant A/S,DEMANT.CO,-5.28,0.317
+327,SKAGEN Vekst A,SKIVEK.CO,-2.7,0.15
+328,Svitzer Group A/S,SVITZR.CO,-4.77,0.267
+329,Stonehenge Value Mix Akkumulerende KL,SHIVMAKL.CO,-1.2,0.065
+330,Embla Medical hf,EMBLA.CO,-4.46,0.237
+331,Scandinavian Tobacco Group A/S,STG.CO,-5.29,0.259
+332,Wealth Invest I&T Nordiske Akt ,WEIITNAKTLC.CO,-3.47,0.168
+333,Investeringsforeningen Portfoliomanager Aktieugebrevet Invest Kl,PMIOUIB.CO,-3.71,0.179
+334,Kapitalforeningen Wealth Invest - Secure Market Power,WEISMP.CO,-3.47,0.167
+335,Wealth Invest Optimal Active Index KL,WEIOAI.CO,-1.61,0.077
+336,Sparindex INDEX Em Market Bo Lo,SPVIEMMBLV.CO,-2.25,0.107
+337,Danske Inv Europa Small Cap AKK KL DKK,DKIEUSCADKK.CO,-2.33,0.11
+338,Coloplast A/S,COLO-B.CO,-5.07,0.229
+339,SEBinvest AKL Europa Aktier SRI,SEIEUASP.CO,-3.63,0.156
+340,Brøndbyernes IF Fodbold A/S,BIF.CO,-7.71,0.336
+341,Sparinvest INDEX Lav Risiko KL,SPVILRKL.CO,-1.28,0.051
+342,Roblon A/S,RBLN-B.CO,-7.23,0.292
+343,Nordea Invest - Virksomhedsobligationer Højrente,NDIVOHKL1.CO,-2.16,0.082
+344,Wealth Invest Strategi Aktier,WEISTA.CO,-4.15,0.151
+345,Bæredygtige Klimaaktier Akk. Kl,BAIKLA.CO,-5.03,0.154
+346,Sparinvest - Investment Grade Value Bonds Udb. - All Countries KL,SPIBDVOIGKLA.CO,-1.72,0.047
+347,Swiss Properties Invest A/S,SWISS.CO,-6.49,0.171
+348,Sydinvest Global Value A DKK,SYIGLVADKK.CO,-3.99,0.099
+349,Jeudan A/S,JDAN.CO,-8.37,0.198
+350,Investeringsforeningen Investin - K Invest Globale Aktier IV,WEISAK.CO,-9.72,0.224
+351,Copenhagen Capital A/S,CPHCAP-ST.CO,-9.73,0.216
+352,Flügger group A/S,FLUG-B.CO,-9.72,0.212
+353,SEBinvest - Balance Vækst AKL,SEIBVP.CO,-7.06,0.13
+354,Globale Obligationer Akk. KL,BAIGOA.CO,-2.67,0.047
+355,Maj Invest UCITS ETF Lifestyle & Obesity,MAJLO.CO,-11.66,0.213
+356,Wealth Invest - Linde & Partners Dividende Fond,WEILPDF.CO,-6.88,0.122
+357,Sparinvest Value Virksomhedsobligationer - Global Højrente Kort Løbetid Udb. KL,SPIVHYKORTKLA.CO,-3.08,0.052
+358,Nordea Invest Fonde,NDIFONKL1.CO,-5.4,0.09
+359,IA Invest Global Health Invest,IAIGHI.CO,-13.39,0.227
+360,Lån&Spar MixInvest Balance 80,LSIB80.CO,-3.81,0.053
+361,Lån & Spar Invest - Globale Aktier Basis,LSIGAB.CO,-8.49,0.113
+362,Sydinvest Global Value A DKK Ak,SYIGLVADKKAKK.CO,-13.04,0.172
+363,Agat Ejendomme A/S,AGAT.CO,-10.55,0.136
+364,Gyldendal A/S,GYLD-B.CO,-11.75,0.15
+365,Sparinvest SICAV - Securus,SSISDKKR.CO,-6.25,0.072
+366,Investeringsforeningen Bankinvest Baeredygtige Klimaobligationer W fund,BAIBKA.CO,-1.16,0.011
+367,Nordea Invest - Lange obligationer Pension Fund,NDILAOKL1.CO,-9.12,0.092
+368,Danske Invest Nye Markeder 2,DKINM2.CO,-10.35,0.087
+369,Nykredit Invest - Europæiske Virksomhedsobligationer SRI,NYIBKO.CO,-11.82,0.063
+370,Danske Invest Euro HY Obl kl DK,DKIEUHYODKKDH.CO,-7.6,0.004
+371,Nykredit Invest Lange Obligatio,NYILOKLA.CO,-11.27,
+372,SEBinvest - US HY Bonds Short Duration (SKY Harbor) AKL,SEISHP.CO,21.51,
+373,Sparinvest SICAV - Value Bonds - Global Ethical High Yield Fund,SSIGEHYDKKRH.CO,2.1,
+374,Sparinvest SICAV Sust CorpBonds,SSISCBIGDKKR.CO,-6.73,
+375,Wealth Invest HP Inv Korte DK Realkr.obl,WEIHPIKDKRO.CO,6.43,
+376,Bæredygtige Klimaobligationer Akk. KL,BAIKAA.CO,15.4,

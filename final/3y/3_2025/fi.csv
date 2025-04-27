@@ -1,0 +1,122 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Puuilo Oyj,PUUILO.HE,29.39,0.217,0.379,Yes
+2,Wärtsilä Oyj Abp,WRT1V.HE,39.28,0.316,1.631,Yes
+3,Konecranes Plc,KCR.HE,45.58,0.364,1.657,Yes
+4,Viking Line Abp,VIK1V.HE,25.09,0.234,0.146,Yes
+5,Kalmar Oyj,KALMAR.HE,26.53,0.264,,
+6,Kemira Oyj,KEMIRA.HE,26.32,0.265,1.209,Yes
+7,Viafin Service Oyj,VIAFIN.HE,16.13,0.175,0.106,Yes
+8,Nordea Bank Abp,NDA-FI.HE,19.07,0.211,1.149,Yes
+9,Orion Oyj,ORNBV.HE,20.83,0.259,0.879,Yes
+10,Innofactor Oyj,IFA1V.HE,21.33,0.275,0.311,Yes
+11,Koskisen Oyj,KOSKI.HE,11.2,0.154,,
+12,Orion Oyj,ORNAV.HE,18.67,0.25,0.817,Yes
+13,United Bankers Oyj,UNITED.HE,14.38,0.203,0.687,Yes
+14,Lindex Group Oyj,LINDEX.HE,21.43,0.313,0.678,Yes
+15,Alma Media Oyj,ALMA.HE,13.29,0.202,0.932,Yes
+16,Apetit Oyj,APETIT.HE,11.43,0.179,0.108,Yes
+17,Bittium Oyj,BITTI.HE,20.67,0.341,0.518,Yes
+18,Alexandria Group Oyj,ALEX.HE,16.66,0.285,0.888,Yes
+19,Sampo Oyj,SAMPO.HE,7.3,0.133,0.374,Yes
+20,AS Tallink Grupp,TALLINK.HE,9.38,0.178,0.71,Yes
+21,Harvia Oyj,HARVIA.HE,21.39,0.389,1.159,Yes
+22,Springvest Oyj,SPRING.HE,15.4,0.295,0.125,Yes
+23,Ålandsbanken Abp,ALBAV.HE,9.98,0.202,0.226,Yes
+24,Ålandsbanken Abp,ALBBV.HE,9.64,0.196,0.47,Yes
+25,Heeros Oyj,HEEROS.HE,23.87,0.473,0.83,Yes
+26,Finnair Oyj,FIA1S.HE,26.24,0.523,,
+27,Raute Oyj,RAUTE.HE,14.39,0.313,0.765,Yes
+28,Evli Oyj,EVLI.HE,8.03,0.194,0.522,Yes
+29,Digitalist Group Plc,DIGIGR.HE,44.99,1.016,0.291,No
+30,Faron Pharmaceuticals Oy,FARON.HE,35.21,0.827,2.525,Yes
+31,Investors House Oyj,INVEST.HE,8.37,0.234,0.579,Yes
+32,Terveystalo Oyj,TTALO.HE,10.38,0.297,0.304,Yes
+33,Kempower Oyj,KEMPOWR.HE,20.61,0.591,1.744,Yes
+34,Fortum Oyj,FORTUM.HE,10.92,0.335,0.223,Yes
+35,Tokmanni Group Oyj,TOKMAN.HE,9.17,0.291,1.109,Yes
+36,Pihlajalinna Oyj,PIHLIS.HE,7.77,0.257,0.022,Yes
+37,Bioretec Oy,BRETEC.HE,15.58,0.517,0.382,Yes
+38,Nurminen Logistics Oyj,NLG1V.HE,15.18,0.521,0.141,Yes
+39,Raisio plc,RAIVV.HE,6.26,0.227,0.775,Yes
+40,Valmet Oyj,VALMT.HE,8.28,0.305,1.787,Yes
+41,Nokia Oyj,NOKIA.HE,5.42,0.227,0.75,Yes
+42,Vaisala Oyj,VAIAS.HE,6.21,0.27,0.955,Yes
+43,Fodelia Oyj,FODELIA.HE,6.55,0.313,0.829,Yes
+44,Marimekko Oyj,MEKKO.HE,6.85,0.347,1.315,Yes
+45,Digia Oyj,DIGIA.HE,4.41,0.228,0.557,Yes
+46,Pohjanmaan Arvo Sijoitusosuuskunta,ARVOSK.HE,4.48,0.235,,
+47,Ovaro Kiinteistösijoitus Oyj,OVARO.HE,3.36,0.188,0.364,Yes
+48,Qt Group Oyj,QTCOM.HE,8.57,0.489,2.007,Yes
+49,Aallon Group Oyj,AALLON.HE,3.0,0.189,0.596,Yes
+50,Ilkka Oyj,ILKKA1.HE,3.63,0.232,0.425,Yes
+51,Aspocomp Group Oyj,ACG1V.HE,4.36,0.367,1.083,Yes
+52,Musti Group Oyj,MUSTI.HE,4.45,0.387,1.066,Yes
+53,Loihde Oyj,LOIHDE.HE,2.95,0.267,0.653,Yes
+54,Digital Workforce Services Oyj,DWF.HE,3.75,0.416,1.072,Yes
+55,Ponsse Oyj,PON1V.HE,1.49,0.26,0.413,Yes
+56,Kesko Oyj,KESKOA.HE,0.76,0.157,0.726,Yes
+57,Huhtamäki Oyj,HUH1V.HE,0.84,0.176,0.399,Yes
+58,Raisio plc,RAIKV.HE,1.09,0.239,0.65,Yes
+59,Admicom Oyj,ADMCM.HE,1.25,0.297,0.871,Yes
+60,Orthex Oyj,ORTHEX.HE,-0.21,0.414,1.942,Yes
+61,Lassila & Tikanoja Oyj,LAT1V.HE,-0.1,0.165,0.773,Yes
+62,Relais Group Oyj,RELAIS.HE,-0.48,0.347,1.165,Yes
+63,Outokumpu Oyj,OUT1V.HE,-1.5,0.327,1.751,Yes
+64,Kesko Oyj,KESKOB.HE,-1.0,0.179,0.739,Yes
+65,Fondia Oyj,FONDIA.HE,-1.66,0.251,0.825,Yes
+66,Eagle Filters Group Oyj,EAGLE.HE,-3.61,0.524,0.762,Yes
+67,Wetteri Oyj,WETTERI.HE,-3.48,0.444,0.357,Yes
+68,Aiforia Technologies Oyj,AIFORIA.HE,-3.05,0.314,0.188,Yes
+69,Afarak Group SE,AFAGR.HE,-5.33,0.514,0.223,Yes
+70,OMX Helsinki 25,^OMXH25,-1.84,0.136,1.0,Yes
+71,Detection Technology Oyj,DETEC.HE,-5.15,0.368,0.938,Yes
+72,Sanoma Oyj,SANOMA.HE,-3.41,0.219,0.273,Yes
+73,Etteplan Oyj,ETTE.HE,-3.59,0.23,0.75,Yes
+74,UPM-Kymmene Oyj,UPM.HE,-3.32,0.211,0.919,Yes
+75,Enento Group Oyj,ENENTO.HE,-5.05,0.304,1.187,Yes
+76,Elisa Oyj,ELISA.HE,-2.87,0.159,0.621,Yes
+77,LeadDesk Oyj,LEADD.HE,-10.55,0.461,1.752,Yes
+78,CapMan Oyj,CAPMAN.HE,-5.47,0.205,0.762,Yes
+79,Titanium Oyj,TITAN.HE,-8.86,0.309,0.559,Yes
+80,Aspo Oyj,ASPO.HE,-5.09,0.172,0.502,Yes
+81,Nanoform Finland Oyj,NANOFH.HE,-20.04,0.729,0.605,Yes
+82,Glaston Oyj Abp,GLA1V.HE,-6.2,0.209,0.426,Yes
+83,TietoEVRY Oyj,TIETO.HE,-6.08,0.201,1.032,Yes
+84,Robit Oyj,ROBIT.HE,-11.23,0.373,0.967,Yes
+85,Panostaja Oyj,PNA1V.HE,-9.05,0.291,0.517,Yes
+86,Revenio Group Oyj,REG1V.HE,-11.53,0.373,1.396,Yes
+87,Administer Oyj,ADMIN.HE,-10.54,0.329,1.103,Yes
+88,F-Secure Oyj,FSECURE.HE,-11.39,0.348,,
+89,Teleste Oyj,TLT1V.HE,-10.36,0.31,0.457,Yes
+90,SSH Communications Security Oyj,SSH1V.HE,-17.81,0.467,0.67,Yes
+91,Tekova Oyj,TEKOVA.HE,-16.33,0.408,,
+92,Honkarakenne Oyj,HONBS.HE,-12.79,0.275,1.069,Yes
+93,Elecster Oyj,ELEAV.HE,-16.15,0.352,0.809,Yes
+94,Betolar Oyj,BETOLAR.HE,-29.41,0.674,0.872,Yes
+95,Citycon Oyj,CTY1S.HE,-12.4,0.251,1.089,Yes
+96,Dovre Group Plc,DOV1V.HE,-19.43,0.399,1.209,Yes
+97,Remedy Entertainment Oyj,REMEDY.HE,-18.62,0.371,1.353,Yes
+98,Norrhydro Group Oyj,NORRH.HE,-21.6,0.398,1.039,Yes
+99,Alisa Pankki Oyj,ALISA.HE,-20.94,0.353,,
+100,Spinnova Oyj,SPINN.HE,-44.73,0.836,2.184,Yes
+101,Anora Group Oyj,ANORA.HE,-19.17,0.299,1.1,Yes
+102,Sitowise Group Oyj,SITOWS.HE,-20.01,0.314,1.029,Yes
+103,Boreo Oyj,BOREO.HE,-25.19,0.376,0.608,Yes
+104,Netum Group Oyj,NETUM.HE,-15.82,0.219,0.448,Yes
+105,Oma Säästöpankki Oyj,OMASP.HE,-20.14,0.281,0.597,Yes
+106,Trainers' House Oyj,TRH1V.HE,-25.54,0.35,0.583,Yes
+107,eQ Oyj,EQV1V.HE,-17.69,0.23,0.55,Yes
+108,Siili Solutions Oyj,SIILI.HE,-22.57,0.292,0.815,Yes
+109,KH Group Oyj,KHG.HE,-24.08,0.314,,
+110,Piippo Oyj,PIIPPO.HE,-19.56,0.247,0.106,No
+111,Martela Oyj,MARAS.HE,-26.12,0.338,0.245,Yes
+112,Exel Composites Oyj,EXL1V.HE,-42.86,0.609,0.842,Yes
+113,Enersense International Oyj,ESENSE.HE,-29.44,0.382,0.335,No
+114,Talenom Oyj,TNOM.HE,-27.38,0.333,0.98,Yes
+115,Keskisuomalainen Oyj,KSL.HE,-21.96,0.241,,
+116,Vincit Oyj,VINCIT.HE,-27.96,0.315,1.322,Yes
+117,Lamor Corporation Oyj,LAMOR.HE,-31.03,0.328,1.347,Yes
+118,Neste Oyj,NESTE.HE,-34.95,0.365,0.98,Yes
+119,Eezy Oyj,EEZY.HE,-42.22,0.368,0.425,Yes
+120,Rebl Group Oyj,REBL.HE,-38.57,0.309,0.523,Yes
+121,Witted Megacorp Oyj,WITTED.HE,-35.58,0.251,,

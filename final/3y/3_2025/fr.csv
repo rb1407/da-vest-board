@@ -1,0 +1,409 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"VIEL & Cie, société anonyme",VIL.PA,41.45,0.179,0.091,Yes
+2,Technip Energies N.V.,TE.PA,48.12,0.277,0.864,Yes
+3,Safran SA,SAF.PA,38.38,0.231,1.152,Yes
+4,COFACE SA,COFA.PA,32.13,0.199,0.643,Yes
+5,Coheris SA,COH.PA,59.95,0.346,0.387,Yes
+6,AXA SA,CS.PA,25.37,0.166,0.772,Yes
+7,CFM Indosuez Wealth Management SA,MLCFM.PA,17.81,0.121,0.109,No
+8,SANOFI NV25,SANNV.PA,30.67,0.217,,
+9,EPC Groupe,EXPL.PA,60.05,0.388,0.867,Yes
+10,DNXCorp SE,ALDNX.PA,40.36,0.294,1.052,Yes
+11,Crédit Agricole S.A.,ACA.PA,32.8,0.25,0.834,Yes
+12,Engie SA,ENGI.PA,28.12,0.223,0.795,Yes
+13,L.D.C. S.A.,LOUP.PA,24.37,0.209,0.376,Yes
+14,SPIE SA,SPIE.PA,27.85,0.241,0.8,Yes
+15,Vaziva Société anonyme,ALVAZ.PA,34.92,0.295,,
+16,Unibail-Rodamco-Westfield SE,URW.PA,35.56,0.303,,
+17,Société Marseillaise du Tunnel Prado Carénage,ALTPC.PA,10.51,0.101,0.151,Yes
+18,Hopening SA,MLHPE.PA,39.78,0.343,0.175,Yes
+19,IDI,IDIP.PA,16.88,0.164,0.515,Yes
+20,Publicis Groupe S.A.,PUB.PA,25.88,0.244,1.035,Yes
+21,Hermès International Société en commandite par actions,RMS.PA,33.7,0.309,1.526,Yes
+22,CBo Territoria SA,CBOT.PA,5.23,0.055,0.162,Yes
+23,Linedata Services S.A.,LIN.PA,31.57,0.303,0.601,Yes
+24,Klépierre SA,LI.PA,25.05,0.25,1.093,Yes
+25,Danone S.A.,BN.PA,12.16,0.13,0.351,Yes
+26,BNP Paribas SA,BNP.PA,30.13,0.303,1.083,Yes
+27,MedinCell S.A.,MEDCL.PA,54.52,0.507,0.689,Yes
+28,Renault SA,RNO.PA,36.89,0.378,1.481,Yes
+29,Compagnie de Saint-Gobain S.A.,SGO.PA,27.22,0.293,1.393,Yes
+30,74SOFTWARE,74SW.PA,31.34,0.334,0.301,Yes
+31,Sidetrade SA,ALBFR.PA,25.06,0.277,0.475,Yes
+32,Société Anonyme des Bains de Mer et du Cercle des Étrangers à Monaco,BAIN.PA,16.55,0.191,0.067,Yes
+33,Exacompta Clairefontaine S.A.,ALEXA.PA,23.38,0.263,0.417,Yes
+34,Marie Brizard Wine & Spirits SA,MBWS.PA,48.04,0.5,0.603,No
+35,ADUX,ALDUX.PA,27.49,0.31,,
+36,Mercialys SA,MERY.PA,25.25,0.289,0.979,Yes
+37,Schneider Electric S.E.,SU.PA,21.64,0.254,1.162,Yes
+38,TotalEnergies SE,TTE.PA,17.27,0.209,0.42,Yes
+39,Amundi S.A.,AMUN.PA,18.96,0.237,1.033,Yes
+40,Patrimoine et Commerce SA,PAT.PA,17.45,0.226,0.188,Yes
+41,Airbus SE,AIR.PA,21.11,0.275,1.245,Yes
+42,Carmila S.A.,CARM.PA,17.59,0.232,0.743,Yes
+43,Rexel S.A.,RXL.PA,25.26,0.324,1.248,Yes
+44,SAS AG3i,MLAGI.PA,40.61,0.494,0.047,Yes
+45,Riber S.A.,ALRIB.PA,28.91,0.371,0.889,Yes
+46,Neurones S.A.,NRO.PA,16.71,0.227,0.625,Yes
+47,Bourse Direct SA,BSD.PA,17.95,0.244,0.528,Yes
+48,bonyf N.V.,MLBON.PA,12.81,0.184,0.151,Yes
+49,Elis SA,ELIS.PA,23.81,0.327,1.369,Yes
+50,Lanson-BCC,ALLAN.PA,13.39,0.193,0.242,Yes
+51,L'Air Liquide S.A.,AI.PA,12.73,0.184,0.972,Yes
+52,Caisse Régionale de Crédit Agricole Mutuel Alpes Provence Société coopérative,CRAP.PA,19.16,0.271,0.273,Yes
+53,Groupe Pizzorno Environnement,GPE.PA,25.03,0.346,0.042,No
+54,Keyrus S.A.,ALKEY.PA,38.82,0.514,1.002,Yes
+55,STEF SA,STF.PA,16.22,0.236,0.954,Yes
+56,Vinci SA,DG.PA,13.5,0.199,0.961,Yes
+57,i2S SA,ALI2S.PA,17.16,0.251,0.214,Yes
+58,Les Hôtels Baverez S.A.,ALLHB.PA,14.1,0.213,0.03,Yes
+59,Streamwide S.A.,ALSTW.PA,28.03,0.405,1.141,Yes
+60,NRJ Group SA,NRG.PA,8.89,0.141,0.119,Yes
+61,Vallourec S.A.,VK.PA,22.82,0.345,0.515,Yes
+62,Novatech Industries,MLNOV.PA,44.13,0.637,0.453,No
+63,Gaztransport & Technigaz SA,GTT.PA,15.32,0.248,0.718,Yes
+64,Groupe Guillin S.A.,ALGIL.PA,14.55,0.243,0.65,Yes
+65,Sodexo S.A.,SW.PA,14.5,0.243,0.454,Yes
+66,Voyageurs du Monde SA,ALVDM.PA,15.22,0.256,0.877,Yes
+67,Bouygues SA,EN.PA,12.03,0.206,0.786,Yes
+68,KLEA HOLDING,ALKLH.PA,24.72,0.406,,
+69,HITECHPROS Société anonyme,ALHIT.PA,7.74,0.137,0.187,Yes
+70,Accor SA,AC.PA,16.59,0.287,1.261,Yes
+71,NFL Biosciences SA,ALNFL.PA,56.74,0.861,1.875,Yes
+72,PLANISWARE,PLNW.PA,25.3,0.43,,
+73,Compagnie de l'Odet,ODET.PA,11.65,0.211,0.695,Yes
+74,Roche Bobois S.A.,RBO.PA,14.53,0.266,0.746,Yes
+75,Hopscotch Global PR Group,ALHOP.PA,22.58,0.4,0.979,Yes
+76,Bolloré SE,BOL.PA,10.2,0.192,0.645,Yes
+77,Kaufman & Broad S.A.,KOF.PA,18.46,0.339,0.95,Yes
+78,Soditech SA,SEC.PA,37.19,0.644,0.299,Yes
+79,Société BIC SA,BB.PA,11.42,0.221,0.036,No
+80,Lisi S.A.,FII.PA,19.09,0.358,1.445,Yes
+81,Signaux Girod S.A.,ALGIR.PA,16.86,0.32,0.529,Yes
+82,Atland SAS,ATLD.PA,8.37,0.165,0.174,Yes
+83,Eiffage SA,FGR.PA,10.83,0.214,0.827,Yes
+84,Caisse Régionale de Crédit Agricole Mutuel de la Touraine et du Poitou Société Coopérative,CRTO.PA,19.26,0.373,0.154,No
+85,Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,CRAV.PA,13.05,0.266,0.144,Yes
+86,Société Fermière du Casino Municipal de Cannes,FCMC.PA,12.46,0.256,0.516,Yes
+87,Caisse Régionale de Crédit Agricole du Morbihan,CMO.PA,16.33,0.334,0.266,No
+88,CAC 40,^FCHI,7.56,0.162,1.0,Yes
+89,Rubis,RUI.PA,14.87,0.313,1.057,Yes
+90,Legrand SA,LR.PA,10.58,0.229,1.135,Yes
+91,Téléverbier SA,TVRB.PA,12.95,0.279,0.1,No
+92,Eurobio Scientific Société anonyme,ALERS.PA,17.82,0.379,0.049,Yes
+93,Parrot S.A.,PARRO.PA,30.87,0.633,1.046,Yes
+94,Compagnie Générale des Établissements Michelin Société en commandite par actions,ML.PA,10.05,0.229,1.07,Yes
+95,TF1 SA,TFI.PA,12.14,0.277,0.89,Yes
+96,Etablissements Maurel & Prom S.A.,MAU.PA,15.92,0.359,0.653,Yes
+97,Believe S.A.,BLV.PA,17.53,0.403,1.497,Yes
+98,Imprimerie Chirat Société Anonyme,MLIMP.PA,11.96,0.286,0.738,Yes
+99,Arcure S.A.,ALCUR.PA,29.35,0.66,1.516,Yes
+100,Verallia Société Anonyme,VRLA.PA,15.08,0.362,1.206,Yes
+101,Compagnie Lebon,ALBON.PA,6.26,0.158,0.57,Yes
+102,GL Events SA,GLO.PA,16.08,0.398,1.338,Yes
+103,Grenobloise d'Electronique et d'Automatismes Société Anonyme,GEA.PA,9.33,0.239,0.705,Yes
+104,Compagnie des Alpes SA,CDA.PA,11.33,0.294,0.941,Yes
+105,Amoéba S.A.,ALMIB.PA,27.2,0.684,0.128,No
+106,Locasystem International SA,MLLOI.PA,19.43,0.511,0.607,No
+107,ID Logistics Group SA,IDL.PA,11.97,0.33,1.107,Yes
+108,SCOR SE,SCR.PA,11.96,0.333,0.484,Yes
+109,Adocia SA,ADOC.PA,36.22,0.921,0.345,No
+110,Lexibook - Linguistic Electronic System Société anonyme,ALLEX.PA,20.52,0.578,2.016,Yes
+111,"Azorean Aquatic Technologies, S.A.",MLAAT.PA,56.99,1.421,0.294,Yes
+112,Saint Jean Groupe Société anonyme,SABE.PA,5.61,0.173,0.191,Yes
+113,Sanofi,SAN.PA,6.58,0.207,0.561,Yes
+114,Laurent-Perrier S.A.,LPE.PA,7.3,0.231,0.109,No
+115,Lombard & Medot SA,MLCAC.PA,10.73,0.363,0.394,Yes
+116,Ipsen S.A.,IPN.PA,5.93,0.206,0.511,Yes
+117,Euroland Corporate Société anonyme,MLERO.PA,7.34,0.253,0.215,No
+118,KKO International SA,ALKKO.PA,21.1,0.696,0.275,No
+119,Umalis Group,MLUMG.PA,26.8,0.865,0.312,No
+120,Groupe CRIT SA,CEN.PA,7.68,0.275,0.589,Yes
+121,Bureau Veritas SA,BVI.PA,5.83,0.211,0.98,Yes
+122,Poulaillon SA,ALPOU.PA,4.21,0.155,0.376,Yes
+123,Fleury Michon SA,ALFLE.PA,7.72,0.28,0.189,Yes
+124,Elior Group SA,ELIOR.PA,20.08,0.695,2.187,Yes
+125,WisdomTree CAC 40 3x Daily Leveraged,3CAC.PA,10.52,0.382,,
+126,Fiducial Office Solutions,SACI.PA,0.74,0.029,0.005,No
+127,Société Française de Casinos Société Anonyme,SFCA.PA,6.14,0.239,0.296,Yes
+128,Alstom SA,ALO.PA,12.72,0.486,1.406,Yes
+129,Pierre et Vacances SA,VAC.PA,17.22,0.679,1.076,Yes
+130,Sopra Steria Group SA,SOP.PA,7.84,0.322,1.19,Yes
+131,AgroGeneration SA,ALAGR.PA,23.44,0.912,0.765,Yes
+132,Nokia Oyj,NOKIA.PA,5.28,0.222,0.501,Yes
+133,Vente-Unique.com SA,ALVU.PA,10.63,0.438,1.148,Yes
+134,France Tourisme Immobilier SA,MLFTI.PA,24.07,0.942,1.712,Yes
+135,TXCOM Société Anonyme,ALTXC.PA,7.02,0.3,0.385,Yes
+136,Sensorion SA,ALSEN.PA,22.97,0.93,0.808,Yes
+137,Eutelsat Communications S.A.,ETL.PA,43.51,1.673,1.599,No
+138,Nanobiotix S.A.,NANO.PA,25.55,1.08,0.146,No
+139,Caisse Régionale de Crédit Agricole Mutuel Nord de France Société coopérative,CNDF.PA,4.71,0.223,0.077,No
+140,OSE Immunotherapeutics SA,OSE.PA,14.37,0.686,0.708,Yes
+141,We.Connect SA,ALWEC.PA,3.68,0.193,0.446,Yes
+142,Hexaom S.A.,ALHEX.PA,7.84,0.405,0.882,Yes
+143,Savencia SA,SAVE.PA,3.18,0.169,0.103,Yes
+144,Assystem S.A.,ASY.PA,6.62,0.349,1.012,Yes
+145,Wendel,MF.PA,4.59,0.247,1.222,Yes
+146,Eurazeo SE,RF.PA,5.66,0.312,1.357,Yes
+147,Cibox Inter@ctive,ALCBX.PA,32.38,1.655,0.023,No
+148,Trilogiq S.A.,ALTRI.PA,5.39,0.314,0.591,Yes
+149,Manitou BF SA,MTU.PA,7.22,0.431,1.743,Yes
+150,Crossject Société Anonyme,ALCJ.PA,12.03,0.723,0.68,Yes
+151,Séché Environnement SA,SCHP.PA,4.09,0.256,0.877,Yes
+152,ADLPartner SA,DKUPL.PA,5.83,0.369,0.741,Yes
+153,L'Oréal S.A.,OR.PA,3.27,0.22,0.94,Yes
+154,Sapmer SA,ALMER.PA,5.61,0.385,0.258,No
+155,Wavestone SA,WAVE.PA,4.6,0.318,1.295,Yes
+156,Altamir Ord,LTA.PA,1.94,0.136,0.362,Yes
+157,Sequa Petroleum N.V.,MLSEQ.PA,4.33,0.3,0.124,Yes
+158,Racing Force S.P.A.,ALRFG.PA,3.37,0.25,,
+159,Prologue S.A.,ALPRG.PA,5.14,0.413,0.054,No
+160,Altarea SCA,ALTA.PA,4.73,0.385,0.773,Yes
+161,Tronic's Microsystems SA,ALTRO.PA,5.94,0.486,0.003,Yes
+162,Quadient S.A.,QDT.PA,3.84,0.321,1.143,Yes
+163,Ipsos SA,IPS.PA,3.22,0.278,0.899,Yes
+164,Obiz S.A.,ALBIZ.PA,3.62,0.34,0.533,Yes
+165,Cellectis S.A.,ALCLS.PA,14.6,1.332,2.694,Yes
+166,Imerys S.A.,NK.PA,3.32,0.363,1.082,Yes
+167,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",MC.PA,2.45,0.28,1.373,Yes
+168,WALLIX GROUP SA,ALLIX.PA,4.09,0.498,0.658,Yes
+169,Groupe Tera SA,ALGTR.PA,6.88,0.866,1.074,Yes
+170,Advicenne S.A.,ALDVI.PA,7.34,1.081,0.305,No
+171,Amatheon Agri Holding N.V.,MLAAH.PA,6.06,0.915,0.803,Yes
+172,Bénéteau S.A.,BEN.PA,2.45,0.395,0.94,Yes
+173,Bleecker Société Anonyme,BLEE.PA,1.93,0.347,0.136,Yes
+174,Devernois S.A.,ALDEV.PA,1.56,0.32,0.038,No
+175,"Facephi Biometria, S.A.",ALPHI.PA,1.85,0.408,1.182,Yes
+176,Christian Dior SE,CDI.PA,1.19,0.271,1.313,Yes
+177,Les Hôtels de Paris SA,HDP.PA,2.16,0.52,0.92,Yes
+178,Tikehau Capital,TKO.PA,0.92,0.233,0.683,Yes
+179,AYVENS,AYV.PA,1.14,0.345,1.052,Yes
+180,Guerbet SA,GBT.PA,1.37,0.426,1.057,Yes
+181,Haulotte Group SA,PIG.PA,1.1,0.444,0.953,Yes
+182,Lagardere SA,MMB.PA,0.74,0.301,1.18,Yes
+183,Catering International & Services Société Anonyme,ALCIS.PA,0.51,0.224,0.304,Yes
+184,ABC arbitrage SA,ABCA.PA,0.41,0.224,0.245,Yes
+185,Mare Nostrum SA,ALMAR.PA,2.44,1.543,1.412,Yes
+186,Rougier S.A.,ALRGR.PA,0.05,0.185,0.01,Yes
+187,Covivio,COV.PA,0.07,0.297,1.245,Yes
+188,Infotel SA,INF.PA,0.03,0.256,0.436,Yes
+189,U10 Corp,ALU10.PA,-0.43,0.269,0.435,Yes
+190,Bastide Le Confort Médical SA,BLC.PA,-1.17,0.459,0.499,Yes
+191,Innate Pharma S.A.,IPH.PA,-1.47,0.537,0.773,Yes
+192,S.T. Dupont S.A.,DPT.PA,-1.3,0.396,0.061,No
+193,JCDecaux SE,DEC.PA,-1.6,0.387,1.42,Yes
+194,Claranova SE,CLA.PA,-2.13,0.511,0.744,Yes
+195,Gérard Perrier Industrie S.A.,PERR.PA,-1.14,0.206,0.401,Yes
+196,Société Foncière Lyonnaise,FLY.PA,-1.06,0.188,0.255,Yes
+197,,MLPRX.PA,-8.23,1.292,1.055,No
+198,Société Centrale des Bois et des Scieries de la Manche S.A.,CBSM.PA,-0.9,0.125,0.292,Yes
+199,Innelec Multimédia SA,ALINN.PA,-3.38,0.455,0.39,Yes
+200,UV Germi SA,ALUVI.PA,-3.79,0.501,0.121,Yes
+201,Intrasense S.A.,ALINS.PA,-4.39,0.524,0.396,Yes
+202,S.M.A.I.O S.A.,ALSMA.PA,-3.15,0.366,0.579,Yes
+203,Acanthe Développement,ACAN.PA,-2.41,0.275,0.62,Yes
+204,Immobiliere Dassault SA,IMDA.PA,-1.15,0.128,0.15,Yes
+205,IDS France SAS,MLIDS.PA,-5.77,0.646,1.282,No
+206,Laboratoires Euromedis Société anonyme,ALEMG.PA,-3.03,0.333,0.222,No
+207,Implanet S.A.,ALIMP.PA,-7.74,0.657,0.378,Yes
+208,ABIONYX Pharma SA,ABNX.PA,-5.08,0.422,1.028,Yes
+209,DBV Technologies S.A.,DBV.PA,-7.71,0.645,0.787,No
+210,Finaxo Environnement Societe Anonyme,MLFXO.PA,-7.86,0.647,0.709,No
+211,Virbac SA,VIRP.PA,-3.91,0.314,0.784,Yes
+212,"Weaccess Group, Société Anonyme",MLWEA.PA,-10.93,0.873,0.228,No
+213,Installux S.A.,ALLUX.PA,-3.74,0.288,0.144,No
+214,ABIVAX Société Anonyme,ABVX.PA,-11.26,0.868,1.017,Yes
+215,LNA Santé SA,LNA.PA,-4.62,0.342,0.392,Yes
+216,Hunyvers SA,ALHUN.PA,-3.26,0.233,0.479,Yes
+217,Precia S.A.,ALPM.PA,-3.37,0.239,0.383,Yes
+218,Encres Dubuit,ALDUB.PA,-4.03,0.256,0.003,Yes
+219,Eo2 Société Anonyme,ALEO2.PA,-6.35,0.393,0.113,No
+220,Alten S.A.,ATE.PA,-5.56,0.341,1.564,Yes
+221,Predilife S.A.,ALPRE.PA,-6.87,0.397,0.111,Yes
+222,FIPP S.A.,FIPP.PA,-3.68,0.209,0.006,Yes
+223,Mersen S.A.,MRN.PA,-6.51,0.371,1.748,Yes
+224,Touax SCA,TOUP.PA,-8.44,0.481,1.128,Yes
+225,Fiducial Real Estate SA,ORIA.PA,-0.79,0.043,0.016,Yes
+226,Adeunis Société anonyme,ALARF.PA,-16.6,0.935,0.054,Yes
+227,Herige,ALHRG.PA,-8.21,0.412,0.718,Yes
+228,Ecoslops S.A.,ALESA.PA,-24.64,1.343,0.26,No
+229,OPmobility SE,OPM.PA,-7.62,0.378,1.487,Yes
+230,Sartorius Stedim Biotech S.A.,DIM.PA,-8.81,0.434,1.546,Yes
+231,Balyo SA,BALYO.PA,-13.31,0.648,1.8,Yes
+232,Cerinnov Group SA,ALPCV.PA,-12.62,0.61,1.298,Yes
+233,Magillem Design Services SA,MLMGL.PA,-11.13,0.534,0.466,Yes
+234,Global Bioenergies SA,ALGBE.PA,-16.68,0.807,0.728,Yes
+235,TFF Group,TFF.PA,-4.04,0.181,0.305,Yes
+236,"Fayenceries de Sarreguemines, Digoin & Vitry-le-Francois Société Anonyme",FAYE.PA,-9.14,0.414,0.24,Yes
+237,Méthanor SCA,ALMET.PA,-7.33,0.325,0.523,Yes
+238,EKINOPS S.A.,EKI.PA,-9.74,0.434,0.667,Yes
+239,SMCP S.A.,SMCP.PA,-11.01,0.489,1.385,Yes
+240,Forsee Power Société anonyme,FORSE.PA,-16.04,0.724,1.542,Yes
+241,Thermador Groupe SA,THEP.PA,-6.82,0.288,1.032,Yes
+242,Peugeot Invest Société anonyme,PEUG.PA,-6.79,0.278,1.392,Yes
+243,Samse SA,SAMS.PA,-4.69,0.188,0.411,Yes
+244,VEOM Group,ALVG.PA,-23.56,1.04,3.443,Yes
+245,Capgemini SE,CAP.PA,-6.68,0.262,0.995,Yes
+246,STMicroelectronics N.V.,STMPA.PA,-10.51,0.407,1.49,Yes
+247,WisdomTree CAC 40 3x Daily Short,3CAS.PA,-9.62,0.367,,
+248,Aeroports de Paris SA,ADP.PA,-7.07,0.266,1.163,Yes
+249,Lectra SA,LSS.PA,-7.8,0.294,0.954,Yes
+250,BOA Concept SAS,ALBOA.PA,-8.86,0.335,0.628,Yes
+251,écomiam SA,ALECO.PA,-17.31,0.678,1.568,Yes
+252,Ordissimo SA,ALORD.PA,-15.51,0.59,0.195,Yes
+253,X-FAB Silicon Foundries SE,XFAB.PA,-11.52,0.42,1.488,Yes
+254,Arkema S.A.,AKE.PA,-7.5,0.267,1.289,Yes
+255,EXEL Industries SA,EXE.PA,-9.42,0.333,1.262,Yes
+256,Oncodesign Precision Medicine Société anonyme,ALOPM.PA,-20.79,0.756,,
+257,Klarsen,ALKLA.PA,-19.02,0.681,0.849,Yes
+258,Median Technologies SA,ALMDT.PA,-21.18,0.766,0.128,Yes
+259,SA Catana Group,CATG.PA,-10.46,0.356,0.961,Yes
+260,Vitura SA,VTR.PA,-20.43,0.714,0.531,Yes
+261,Latécoère S.A.,LAT.PA,-25.31,0.889,0.861,Yes
+262,Uniti S.A,ALUNT.PA,-10.41,0.334,0.073,Yes
+263,Artea SA,ARTE.PA,-14.53,0.472,1.569,Yes
+264,Valeo SE,FR.PA,-12.75,0.409,1.606,Yes
+265,Poujoulat SA,ALPJT.PA,-13.04,0.419,0.996,Yes
+266,Forvia SE,FRVIA.PA,-16.15,0.52,2.0,Yes
+267,Hamilton Global Opportunities PLC,ALHGO.PA,-6.14,0.177,0.329,Yes
+268,Burelle SA,BUR.PA,-8.71,0.253,0.682,Yes
+269,GenSight Biologics S.A.,SIGHT.PA,-25.82,0.815,0.125,Yes
+270,Nexity SA,NXI.PA,-16.47,0.493,0.492,Yes
+271,Antin Infrastructure Partners SAS,ANTIN.PA,-14.72,0.435,1.49,Yes
+272,Aquila SA,ALAQU.PA,-11.27,0.326,0.639,Yes
+273,Vetoquinol SA,VETO.PA,-10.26,0.289,0.709,Yes
+274,SA Entreparticuliers.com,ALENT.PA,-24.45,0.738,0.578,Yes
+275,Euroapi S.A.,EAPI.PA,-23.36,0.7,,
+276,Lumibird SA,LBIRD.PA,-15.33,0.438,0.774,Yes
+277,Vogo SA,ALVGO.PA,-14.05,0.398,0.212,Yes
+278,Verimatrix SA,VMX.PA,-20.92,0.615,1.374,Yes
+279,Carrefour SA,CA.PA,-7.91,0.216,0.839,Yes
+280,Abéo SA,ABEO.PA,-11.89,0.331,0.074,Yes
+281,Damartex,ALDAR.PA,-19.98,0.579,0.425,Yes
+282,Icade,ICAD.PA,-12.27,0.34,1.031,Yes
+283,Voltalia SA,VLTSA.PA,-18.82,0.538,1.011,Yes
+284,High Co. SA,HCO.PA,-8.62,0.234,0.028,No
+285,Vranken-Pommery Monopole Société Anonyme,VRAP.PA,-6.07,0.158,0.378,Yes
+286,Valbiotis SA,ALVAL.PA,-25.97,0.729,0.158,No
+287,Lhyfe SA,LHYFE.PA,-19.11,0.515,,
+288,Eagle Football Group SA,EFG.PA,-6.13,0.154,,
+289,Colipays Reunion Société anonyme,MLCLP.PA,-33.52,0.962,2.142,Yes
+290,GeNeuro SA,GNRO.PA,-35.62,1.024,2.182,Yes
+291,Air France-KLM SA,AF.PA,-17.13,0.441,1.574,Yes
+292,Vinpai SAS,ALVIN.PA,-19.15,0.483,,
+293,Paref SA,PAR.PA,-9.37,0.224,0.534,Yes
+294,SpineGuard SA,ALSGD.PA,-32.47,0.882,1.3,Yes
+295,Theranexus Société Anonyme,ALTHX.PA,-26.24,0.667,1.056,Yes
+296,Selectirente,SELER.PA,-3.1,0.07,0.041,No
+297,Compagnie des Eaux de Royan,MLEDR.PA,-11.54,0.269,0.147,Yes
+298,SRP Groupe S.A.,SRP.PA,-17.72,0.425,1.072,Yes
+299,Edenred SE,EDEN.PA,-10.55,0.242,0.628,Yes
+300,Les Constructeurs du Bois S.A.,MLLCB.PA,-8.11,0.184,0.185,Yes
+301,CFI-Compagnie Foncière Internationale,CFI.PA,-9.36,0.21,0.02,Yes
+302,Nextedia S.A.,ALNXT.PA,-14.59,0.334,0.821,Yes
+303,,PROAC.PA,-18.42,0.43,0.391,Yes
+304,PHAXIAM Therapeutics S.A.,PHXM.PA,-40.63,1.072,3.124,Yes
+305,Munic S.A.,ALMUN.PA,-32.44,0.801,0.421,Yes
+306,Miliboo Société anonyme,ALMLB.PA,-18.29,0.414,0.727,Yes
+307,AdVini S.A.,ALAVI.PA,-10.25,0.222,0.359,No
+308,ATEME SA,ATEME.PA,-21.62,0.497,0.285,No
+309,La Française de l'Energie S.A.,FDE.PA,-18.47,0.417,0.85,Yes
+310,MyHotelMatch S.A.,MHM.PA,-29.35,0.702,0.404,Yes
+311,AB Science S.A.,AB.PA,-32.56,0.793,2.321,Yes
+312,Immersion SA,ALIMR.PA,-24.92,0.575,1.322,Yes
+313,AFYREN SAS,ALAFY.PA,-28.52,0.671,0.205,Yes
+314,Cogra 48 Société Anonyme,ALCOG.PA,-19.11,0.424,0.496,Yes
+315,Guillemot Corporation S.A.,GUI.PA,-17.32,0.375,0.061,Yes
+316,Charwood Energy SA,ALCWE.PA,-23.4,0.523,,
+317,Grolleau Société Anonyme,ALGRO.PA,-20.53,0.45,0.503,Yes
+318,Bluelinea Société Anonyme,ALBLU.PA,-14.99,0.315,0.178,No
+319,Toosla Société Anonyme,ALTOO.PA,-28.47,0.635,1.255,Yes
+320,IntegraGen SA,ALINT.PA,-18.19,0.377,0.842,Yes
+321,Cegedim SA,CGM.PA,-17.26,0.346,1.036,Yes
+322,Gascogne SA,ALBI.PA,-12.85,0.248,0.93,Yes
+323,Icape Holding S.A.,ALICA.PA,-20.99,0.421,,
+324,UPERGY Société Anonyme,ALUPG.PA,-18.76,0.355,0.29,Yes
+325,Bonduelle SCA,BON.PA,-16.2,0.3,0.11,Yes
+326,Delfingen Industry S.A.,ALDEL.PA,-24.39,0.472,1.216,Yes
+327,Oeneo SA,SBT.PA,-9.93,0.175,0.062,Yes
+328,SergeFerrari Group SA,SEFER.PA,-24.15,0.443,1.667,Yes
+329,FERMENTALG,ALGAE.PA,-37.08,0.733,1.584,Yes
+330,Kering SA,KER.PA,-20.95,0.376,1.48,Yes
+331,Freelance.com SA,ALFRE.PA,-23.31,0.422,1.211,Yes
+332,Equasens Société anonyme,EQS.PA,-19.51,0.338,0.835,Yes
+333,Soitec SA,SOI.PA,-26.7,0.48,1.189,Yes
+334,Hydrogène de France Société anonyme,HDF.PA,-31.03,0.567,0.624,Yes
+335,BIO-UV Group S.A.,ALTUV.PA,-21.94,0.379,0.573,Yes
+336,Groupe OKwind Société anonyme,ALOKW.PA,-34.92,0.649,,
+337,Louis Hachette Group S.A.,ALHG.PA,-25.15,0.434,,
+338,Hydrogen-Refueling-Solutions SA,ALHRS.PA,-35.09,0.64,1.944,Yes
+339,ATON,ALTAO.PA,-40.99,0.767,0.378,Yes
+340,Coil S.A./N.V.,ALCOI.PA,-20.26,0.329,0.618,Yes
+341,Eduform'action Société Anonyme,MLEFA.PA,-21.62,0.352,0.289,No
+342,Pluxee N.V.,PLX.PA,-21.39,0.341,,
+343,MGI Digital Technology Société Anonyme,ALMDG.PA,-22.31,0.353,0.702,Yes
+344,Gaumont SA,GAM.PA,-7.58,0.11,0.117,Yes
+345,WINFARM Société anonyme,ALWF.PA,-33.84,0.559,1.097,Yes
+346,Carmat SA,ALCAR.PA,-44.32,0.786,1.288,Yes
+347,Cabasse Société anonyme,ALCAB.PA,-57.45,1.108,,
+348,Broadpeak Société anonyme,ALBPK.PA,-36.13,0.591,,
+349,Teleperformance SE,TEP.PA,-28.05,0.433,0.759,Yes
+350,Plastiques du Val de Loire,PVL.PA,-29.3,0.445,1.366,Yes
+351,Prodways Group SA,PWG.PA,-31.06,0.474,0.445,Yes
+352,Teract S.A.,TRACT.PA,-43.32,0.707,,
+353,EdiliziAcrobatica S.p.A.,ALEAC.PA,-20.51,0.289,0.475,Yes
+354,Alan Allman Associates,AAA.PA,-26.82,0.388,0.351,Yes
+355,Worldline SA,WLN.PA,-36.77,0.566,1.577,Yes
+356,Witbe S.A.,ALWIT.PA,-29.96,0.433,0.954,Yes
+357,Groupimo S.A.,ALIMO.PA,-39.99,0.611,0.577,No
+358,Akwel SA,AKW.PA,-21.9,0.298,0.629,Yes
+359,Nicox S.A.,ALCOX.PA,-38.65,0.582,0.63,Yes
+360,Biosynex SA,ALBIO.PA,-42.95,0.65,0.377,No
+361,Kumulus Vape S.A.,ALVAP.PA,-20.6,0.269,0.521,Yes
+362,Groupe LDLC société anonyme,ALLDL.PA,-31.18,0.425,0.38,Yes
+363,Artmarket.com,PRC.PA,-21.97,0.283,0.779,Yes
+364,Audacia SA,ALAUD.PA,-22.34,0.285,0.408,Yes
+365,Maisons du Monde S.A.,MDM.PA,-35.88,0.483,1.561,Yes
+366,LACROIX Group SA,LACR.PA,-31.03,0.396,0.803,Yes
+367,Altheora SA,ALORA.PA,-34.93,0.447,0.742,Yes
+368,Ramsay Générale de Santé SA,GDS.PA,-22.39,0.264,0.068,Yes
+369,"ISPD Network, S.A.",ALISP.PA,-12.86,0.144,0.185,No
+370,Crypto Blockchain Industries,ALCBI.PA,-43.03,0.568,0.157,Yes
+371,Jacques Bogart S.A.,JBOG.PA,-17.59,0.198,0.35,Yes
+372,Osmosun S.A.,ALWTR.PA,-56.34,0.823,,
+373,Waga Energy SA,WAGA.PA,-30.13,0.362,0.51,Yes
+374,PAULIC Meunerie SA,ALPAU.PA,-29.14,0.343,0.969,Yes
+375,Theraclion SA,ALTHE.PA,-40.38,0.507,0.381,No
+376,RocTool S.A.,ALROC.PA,-43.89,0.562,1.164,Yes
+377,Mon Courtier Energie Groupe S.A.,ALMCE.PA,-27.43,0.315,,
+378,Pernod Ricard SA,RI.PA,-19.13,0.207,0.588,Yes
+379,Altareit SCA,AREIT.PA,-8.86,0.09,0.05,Yes
+380,Reworld Media Société Anonyme,ALREW.PA,-34.33,0.393,0.609,Yes
+381,NetMedia Group société anonyme,ALNMG.PA,-47.74,0.599,0.282,No
+382,Valerio Therapeutics Société anonyme,ALVIO.PA,-46.88,0.545,,
+383,Agripower France Société Anonyme,ALAGP.PA,-45.45,0.509,1.042,Yes
+384,Société de la Tour Eiffel,EIFF.PA,-36.67,0.38,0.502,Yes
+385,Kalray S.A.,ALKAL.PA,-60.49,0.754,1.636,Yes
+386,Xilam Animation,XIL.PA,-52.92,0.588,1.082,Yes
+387,Coty Inc.,COTY.PA,-34.92,0.338,,
+388,Arverne Group S.A.,ARVEN.PA,-24.55,0.215,0.305,Yes
+389,Lucibel SA,ALUCI.PA,-53.91,0.576,1.899,Yes
+390,Transgene SA,TNG.PA,-32.09,0.282,0.78,Yes
+391,Réalités S.A.,ALREA.PA,-56.07,0.584,0.792,Yes
+392,Alchimie SA,ALCHI.PA,-50.79,0.489,0.273,Yes
+393,Solocal Group S.A.,LOCAL.PA,-61.47,0.585,0.187,Yes
+394,Don't Nod Entertainment S.A.,ALDNE.PA,-52.7,0.453,0.575,Yes
+395,Rémy Cointreau SA,RCO.PA,-36.31,0.267,0.882,Yes
+396,Mauna Kea Technologies SA,ALMKT.PA,-50.37,0.385,,
+397,Augros Cosmetic Packaging SA,AUGR.PA,-51.16,,,
+398,WisdomTree Agriculture,AIGAP.PA,0.0,0.0,0.0,No
+399,WisdomTree Silver,SLVRP.PA,0.0,0.0,0.0,No
+400,WisdomTree Physical Ethereum ETC,WETH.PA,0.0,0.0,0.0,No
+401,WisdomTree Physical XRP ETC,WXRP.PA,0.0,0.0,,
+402,Gold Bullion Securities,GBS.PA,0.0,0.0,0.0,No
+403,WisdomTree WTI Crude Oil,CRUDP.PA,0.0,0.0,0.0,No
+404,WisdomTree Broad Commodities,AIGCP.PA,0.0,0.0,0.0,No
+405,WisdomTree Precious Metals,AIGPP.PA,0.0,0.0,0.0,No
+406,WisdomTree Brent Crude Oil,BRNT.PA,0.0,0.0,0.0,No
+407,WisdomTree Gold,BULLP.PA,0.0,0.0,0.0,No
+408,WisdomTree Copper,COPAP.PA,0.0,0.0,0.0,No

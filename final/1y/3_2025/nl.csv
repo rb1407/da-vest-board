@@ -1,0 +1,87 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,AEAM Global High Yield (EUR),AGHY.AS,12.79,0.022,,
+2,Value8 N.V.,PREVA.AS,11.91,0.023,,
+3,Volta Finance Ord,VTA.AS,44.94,0.109,0.103,Yes
+4,Amundi Physical Gold ETC C,GOLD.AS,40.4,0.131,0.257,No
+5,SBM Offshore N.V.,SBMO.AS,47.94,0.194,0.51,Yes
+6,Ferrovial SE,FER.AS,32.09,0.152,1.187,Yes
+7,Coca-Cola Europacific Partners PLC,CCEP.AS,26.37,0.137,0.43,Yes
+8,Eurocommercial Properties N.V.,ECMPA.AS,30.77,0.17,1.35,Yes
+9,Koninklijke KPN N.V.,KPN.AS,19.45,0.112,0.015,No
+10,Prosus N.V.,PRX.AS,42.45,0.235,0.406,No
+11,Koninklijke Ahold Delhaize N.V.,AD.AS,27.38,0.162,0.643,Yes
+12,Hydratec Industries NV,HYDRA.AS,25.44,0.152,0.119,Yes
+13,RELX PLC,REN.AS,24.81,0.153,1.237,Yes
+14,NSI N.V.,NSI.AS,31.27,0.211,1.77,Yes
+15,Adyen N.V.,ADYEN.AS,33.6,0.335,1.224,Yes
+16,PB Holding N.V.,PBH.AS,9.58,0.116,,
+17,NEPI Rockcastle N.V.,NRP.AS,14.13,0.169,,
+18,Aperam S.A.,APAM.AS,23.34,0.278,0.651,Yes
+19,GS Enh Index Sust NA Equity Fund (NL) P,GSENH.AS,10.51,0.145,0.537,Yes
+20,Koninklijke Vopak N.V.,VPK.AS,9.17,0.143,0.493,Yes
+21,Aegon Ltd.,AGN.AS,12.12,0.19,0.827,Yes
+22,BNP Paribas III ESG Global Prop Secs Cl,BGPSF.AS,8.01,0.13,0.491,Yes
+23,HAWICK DATA NV,HWK.AS,17.57,0.296,0.552,No
+24,LS 1x Amazon Tracker ETP,AMZN.AS,12.91,0.265,1.555,Yes
+25,Shell plc,SHELL.AS,6.5,0.146,0.198,Yes
+26,Hashdex Crypto Momentum Factor ,HAMO.AS,35.08,0.717,0.891,No
+27,Morefield Group N.V.,MORE.AS,7.99,0.19,0.226,Yes
+28,Nedap N.V.,NEDAP.AS,6.56,0.166,0.3,Yes
+29,CVC Capital Partners plc,CVC.AS,13.89,0.348,1.845,Yes
+30,CTP N.V.,CTPNV.AS,5.11,0.146,1.107,Yes
+31,AEX-Index,^AEX,2.82,0.085,1.0,Yes
+32,BANIJAY GROUP N.V.,BNJ.AS,5.8,0.189,0.755,No
+33,Bnp Paribas -  BNP Paribas ESG Netherlands Index Fund,BNPNL.AS,3.47,0.114,0.974,Yes
+34,Goldman Sachs Global Sustainable Opportunities Equity Fund (NL),GSGOF.AS,3.39,0.128,0.837,Yes
+35,Kempen Global Property Fund N.V. N,KGPFN.AS,2.7,0.122,0.529,Yes
+36,JDE Peet's N.V.,JDEP.AS,5.84,0.318,1.281,No
+37,Corbion N.V.,CRBN.AS,1.43,0.288,0.829,Yes
+38,21Shares Future of Crypto Index ETP USD Accumulation,FUTR.AS,4.63,0.943,,
+39,Brunel International N.V.,BRNL.AS,0.75,0.273,0.983,Yes
+40,Envipco Holding N.V.,ENVI.AS,0.61,0.283,2.076,Yes
+41,Value8 N.V.,VALUE.AS,0.07,0.04,,
+42,NX Filtration N.V.,NXFIL.AS,-0.99,0.495,0.551,No
+43,GS Europe Sust Small Cap Fund NL P,GSED.AS,-0.93,0.12,0.879,Yes
+44,MotorK plc,MTRK.AS,-2.06,0.206,1.005,Yes
+45,Agility Capital Holding Inc.,AGIL.AS,-5.23,0.527,0.977,Yes
+46,Universal Music Group N.V.,UMG.AS,-3.0,0.289,1.14,Yes
+47,Basic-Fit N.V.,BFIT.AS,-5.03,0.317,1.447,Yes
+48,Pharming Group N.V.,PHARM.AS,-6.72,0.382,1.139,No
+49,Fastned B.V.,FAST.AS,-13.63,0.546,1.817,No
+50,HAL Trust,HAL.AS,-2.67,0.101,0.301,Yes
+51,Akzo Nobel N.V.,AKZA.AS,-6.52,0.232,0.271,No
+52,Azerion Group N.V.,AZRN.AS,-13.95,0.497,4.399,Yes
+53,Heineken Holding N.V.,HEIO.AS,-8.72,0.27,0.579,Yes
+54,Galapagos NV,GLPG.AS,-10.04,0.29,1.196,No
+55,DSM-Firmenich AG,DSFIR.AS,-10.01,0.244,1.349,Yes
+56,21Shares Immutable ETP,AIMX.AS,-33.38,0.713,,
+57,Heineken N.V.,HEIA.AS,-15.4,0.277,0.464,Yes
+58,Allfunds Group plc,ALLFG.AS,-10.98,0.175,0.983,No
+59,Randstad N.V.,RAND.AS,-12.69,0.2,0.027,Yes
+60,ASML Holding N.V.,ASML.AS,-25.42,0.31,3.039,Yes
+61,ASM International NV,ASM.AS,-28.18,0.341,2.744,Yes
+62,Kendrion N.V.,KENDR.AS,-18.82,0.198,0.397,Yes
+63,Almunda Professionals N.V.,AMUND.AS,-11.85,0.115,0.663,Yes
+64,PostNL N.V.,PNL.AS,-19.77,0.198,0.414,Yes
+65,Avantium N.V.,AVTX.AS,-46.46,0.483,0.41,No
+66,MKB Nedsense N.V.,NEDSE.AS,-22.0,0.188,0.588,No
+67,Holland Colours N.V.,HOLCO.AS,-7.42,0.053,0.031,No
+68,Signify N.V.,LIGHT.AS,-18.68,0.135,0.616,No
+69,B&S Group S.A.,BSGR.AS,-18.93,0.127,0.543,Yes
+70,Accsys Technologies PLC,AXS.AS,-21.08,0.134,0.004,No
+71,Sligro Food Group N.V.,SLIGR.AS,-25.49,0.163,0.111,No
+72,Fugro N.V.,FUR.AS,-42.46,0.286,0.241,No
+73,Ease2pay N.V.,EAS2P.AS,-36.45,0.181,0.056,Yes
+74,New Amsterdam Invest N.V.,NAI.AS,-28.92,0.134,,
+75,WisdomTree Long JPY Short EUR 3x Daily,EJP3.AS,0.0,0.0,0.0,No
+76,WisdomTree Physical Ethereum ETC,ETHW.AS,0.0,0.0,0.0,No
+77,WisdomTree Long JPY Short EUR,EUJP.AS,0.0,0.0,0.0,No
+78,WisdomTree Long USD Short EUR 3x Daily,EUS3.AS,0.0,0.0,0.0,No
+79,FERRARI GROUP,FERGR.AS,-14.01,,,
+80,Leverage Shares -1x Short Goldman Sachs ETP Securities,GSSS.AS,0.0,0.0,0.0,No
+81,WisdomTree Short JPY Long EUR 3x Daily,JPE3.AS,0.0,0.0,0.0,No
+82,WisdomTree Short JPY Long EUR,JPEU.AS,0.0,0.0,0.0,No
+83,Leverage Shares -1x Short JPMorgan ETP Securities,JPMS.AS,0.0,0.0,0.0,No
+84,Leverage Shares -2x Short Tesla ETP Securities,2STS.AS,0.0,0.0,0.0,No
+85,Leverage Shares 3x BP ETP Securities,3BP.AS,0.0,0.0,0.0,No
+86,Leverage Shares 3x Netflix ETC,3NFL.AS,0.0,0.0,0.0,No

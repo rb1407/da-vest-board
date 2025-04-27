@@ -1,0 +1,574 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Betsson AB (publ),BETS-B.ST,48.97,0.255,0.614,Yes
+2,Envar Holding AB,ENVAR.ST,25.86,0.154,,
+3,Opter AB (publ),OPTER.ST,31.55,0.186,0.388,Yes
+4,Scandi Standard AB (publ),SCST.ST,33.44,0.209,0.21,Yes
+5,Sdiptech AB (publ),SDIP-PREF.ST,9.67,0.068,0.16,Yes
+6,Camurus AB (publ),CAMX.ST,63.34,0.376,0.799,Yes
+7,Saab AB (publ),SAAB-B.ST,69.63,0.409,0.049,No
+8,AQ Group AB (publ),AQ.ST,50.82,0.324,0.908,Yes
+9,EQL Pharma AB,EQL.ST,57.67,0.392,,
+10,Hemnet Group AB (publ),HEM.ST,49.92,0.358,1.163,Yes
+11,Bergman & Beving AB (publ),BERG-B.ST,42.53,0.319,0.889,Yes
+12,AB Volvo (publ),VOLV-B.ST,29.83,0.243,1.32,Yes
+13,ABB Ltd,ABB.ST,24.91,0.211,1.058,Yes
+14,Mycronic AB (publ),MYCR.ST,46.33,0.365,1.345,Yes
+15,AB Volvo (publ),VOLV-A.ST,28.4,0.239,1.292,Yes
+16,Investor AB (publ),INVE-B.ST,20.73,0.18,1.015,Yes
+17,AAK AB (publ.),AAK.ST,22.28,0.197,0.543,Yes
+18,Swedbank AB (publ),SWED-A.ST,25.32,0.227,0.89,Yes
+19,Attendo AB (publ),ATT.ST,40.7,0.349,0.767,Yes
+20,Ambea AB (publ),AMBEA.ST,42.21,0.36,0.741,Yes
+21,Skandinaviska Enskilda Banken AB (publ),SEB-A.ST,19.32,0.182,0.676,Yes
+22,Loomis AB (publ),LOOMIS.ST,27.36,0.251,0.561,Yes
+23,Dynavox Group AB (publ),DYVOX.ST,44.27,0.385,1.251,Yes
+24,Scandic Hotels Group AB (publ),SHOT.ST,32.69,0.303,1.312,Yes
+25,VBG Group AB (publ),VBG-B.ST,37.41,0.342,0.882,Yes
+26,Clas Ohlson AB (publ),CLAS-B.ST,44.56,0.399,1.125,Yes
+27,Lagercrantz Group AB (publ),LAGR-B.ST,36.26,0.335,1.608,Yes
+28,Solid Försäkringsaktiebolag (publ),SFAB.ST,31.19,0.296,0.945,Yes
+29,MedCap AB (publ),MCAP.ST,45.75,0.416,0.417,Yes
+30,Bahnhof AB (publ),BAHN-B.ST,19.82,0.202,0.686,Yes
+31,Firefly AB (publ),FIRE.ST,38.61,0.37,0.624,Yes
+32,Alleima AB (publ),ALLEI.ST,43.12,0.414,,
+33,Skandinaviska Enskilda Banken AB (publ),SEB-C.ST,18.57,0.199,0.779,Yes
+34,Haypp Group AB (publ),HAYPP.ST,62.4,0.575,0.844,Yes
+35,OEM International AB (publ),OEM-B.ST,32.71,0.34,1.376,Yes
+36,Investor AB (publ),INVE-A.ST,17.72,0.196,1.083,Yes
+37,Traton SE,8TRA.ST,37.24,0.383,1.426,Yes
+38,Trelleborg AB (publ),TREL-B.ST,26.31,0.282,1.276,Yes
+39,Stille AB,STIL.ST,26.39,0.283,0.886,Yes
+40,SIBEK AB,SIBEK.ST,66.43,0.624,,
+41,Dala Energi AB (publ),DE.ST,43.91,0.444,0.194,Yes
+42,Hoist Finance AB (publ),HOFI.ST,48.5,0.486,1.198,Yes
+43,Alfa Laval AB (publ),ALFA.ST,20.21,0.225,0.981,Yes
+44,Lifco AB (publ),LIFCO-B.ST,25.43,0.281,1.394,Yes
+45,Momentum Group AB (publ),MMGR-B.ST,41.17,0.432,0.774,Yes
+46,AB Industrivärden (publ),INDU-C.ST,18.27,0.21,1.236,Yes
+47,NCC AB (publ),NCC-B.ST,27.95,0.315,1.125,Yes
+48,Hifab Group AB (publ),HIFA-B.ST,18.57,0.218,0.185,Yes
+49,Nordrest Holding AB (publ),NREST.ST,23.23,0.27,,
+50,AB Industrivärden (publ),INDU-A.ST,17.61,0.209,1.234,Yes
+51,Eastnine AB (publ),EAST.ST,30.41,0.344,0.925,Yes
+52,Inwido AB (publ),INWI.ST,25.57,0.298,1.056,Yes
+53,Careium AB (Publ),CARE.ST,41.01,0.461,0.41,Yes
+54,Berner Industrier AB,BERNER-B.ST,28.08,0.333,0.755,Yes
+55,Gomero Group AB,GOMERO.ST,46.29,0.517,0.236,Yes
+56,Alimak Group AB (publ),ALIG.ST,32.17,0.38,1.654,Yes
+57,ScandBook Holding AB (publ),SBOK.ST,16.92,0.213,0.391,Yes
+58,Sectra AB (publ),SECT-B.ST,38.02,0.45,1.536,Yes
+59,CoinShares XBT Porvider Bitcoin Tracker One XBT Provider,BITCOIN-XBT.ST,60.96,0.689,1.571,Yes
+60,VALOUR BITCOIN ZERO,BTC-ZERO-EUR.ST,54.32,0.629,1.527,Yes
+61,CoinShares XBT Provider Bitcoin Tracker EUR ETN,BITCOIN-XBTE.ST,58.42,0.684,1.723,Yes
+62,NCC AB (publ),NCC-A.ST,25.36,0.334,0.917,Yes
+63,Unlimited Travel Group UTG AB (publ),UTG.ST,31.21,0.403,1.098,Yes
+64,Doro AB (publ),DORO.ST,28.09,0.367,0.455,Yes
+65,Atlas Copco AB (publ),ATCO-B.ST,19.16,0.261,1.342,Yes
+66,Yubico AB,YUBICO.ST,36.28,0.465,1.089,Yes
+67,Proact IT Group AB (publ),PACT.ST,31.57,0.415,1.213,Yes
+68,Munters Group AB (publ),MTRS.ST,33.13,0.434,0.991,Yes
+69,Addtech AB (publ.),ADDT-B.ST,29.25,0.392,1.684,Yes
+70,Railcare Group AB (publ),RAIL.ST,15.38,0.219,0.466,Yes
+71,Swedish Orphan Biovitrum AB (publ),SOBI.ST,16.72,0.237,0.259,Yes
+72,Hanza AB (publ),HANZA.ST,36.37,0.481,1.321,Yes
+73,ITAB Shop Concept AB (publ),ITAB.ST,43.13,0.558,1.676,Yes
+74,Vertiseit AB (publ),VERT-B.ST,35.54,0.475,1.275,Yes
+75,OssDsign AB (publ),OSSD.ST,37.12,0.494,1.063,Yes
+76,Fastighetsbolaget Emilshus AB (publ),EMIL-B.ST,24.97,0.351,,
+77,Atlas Copco AB (publ),ATCO-A.ST,18.8,0.272,1.399,Yes
+78,Bokusgruppen AB (publ),BOKUS.ST,17.92,0.262,0.17,Yes
+79,Gränges AB (publ),GRNG.ST,20.11,0.294,1.175,Yes
+80,Nordic Paper Holding AB (publ),NPAPER.ST,23.98,0.351,0.878,Yes
+81,Nordnet AB (publ),SAVE.ST,16.9,0.257,0.844,Yes
+82,SaltX Technology Holding AB (publ),SALT-B.ST,72.34,0.923,1.819,Yes
+83,International Petroleum Corporation,IPCO.ST,23.69,0.359,1.053,Yes
+84,engcon AB (publ),ENGCON-B.ST,24.81,0.386,,
+85,CAG Group AB (publ),CAG.ST,11.33,0.188,0.353,Yes
+86,W5 Solutions AB (publ),W5.ST,44.78,0.675,0.381,No
+87,Botnia Exploration Holding AB (publ),BOTX.ST,30.85,0.488,0.281,Yes
+88,Nordea Bank Abp,NDA-SE.ST,12.35,0.213,0.85,Yes
+89,HAKI Safety AB (publ),HAKI-B.ST,14.85,0.265,,
+90,Devyser Diagnostics AB (publ),DVYSR.ST,16.88,0.304,0.901,Yes
+91,Volati AB (publ),VOLO-PREF.ST,6.29,0.119,0.432,Yes
+92,Fractal Gaming Group AB (publ),FRACTL.ST,23.09,0.412,0.462,Yes
+93,AB Sagax (publ),SAGA-D.ST,13.22,0.246,1.054,Yes
+94,Svenska Handelsbanken AB (publ),SHB-A.ST,12.33,0.23,0.76,Yes
+95,AB SKF (publ),SKF-B.ST,14.06,0.261,1.229,Yes
+96,Bure Equity AB (publ),BURE.ST,20.21,0.371,1.815,Yes
+97,KebNi AB (publ),KEBNI-B.ST,29.06,0.519,0.082,No
+98,OMX Stockholm 30 Index,^OMX,8.06,0.157,1.0,Yes
+99,Transferator AB (publ),TRAN-B.ST,56.01,0.915,0.316,No
+100,Teqnion AB (publ),TEQ.ST,22.62,0.419,0.927,Yes
+101,Flat Capital AB (publ),FLAT-B.ST,35.16,0.628,2.024,Yes
+102,Promimic AB (publ),PRO.ST,34.02,0.619,0.444,Yes
+103,ASSA ABLOY AB (publ),ASSA-B.ST,10.09,0.202,1.123,Yes
+104,Rejlers AB (publ),REJL-B.ST,12.48,0.249,0.742,Yes
+105,Arla Plast AB,ARPL.ST,11.82,0.237,0.601,Yes
+106,Norva24 Group AB (Publ),NORVA.ST,21.66,0.419,0.193,No
+107,Sweco AB (publ),SWEC-B.ST,17.58,0.358,1.159,Yes
+108,SHT Smart High-Tech AB ser. B,SHT-B.ST,52.11,0.946,1.545,Yes
+109,Cloetta AB (publ),CLA-B.ST,11.13,0.235,0.553,Yes
+110,Karnov Group AB (publ),KAR.ST,14.37,0.3,0.783,Yes
+111,Nederman Holding AB (publ),NMAN.ST,14.79,0.309,1.18,Yes
+112,Xvivo Perfusion AB (publ),XVIVO.ST,27.51,0.547,2.336,Yes
+113,PharmaLundensis AB,PHAL.ST,55.5,1.018,0.781,Yes
+114,Atrium Ljungberg AB (publ),ATRLJ-B.ST,14.76,0.316,1.268,Yes
+115,Dicot Pharma AB,DICOT.ST,55.08,1.033,2.82,Yes
+116,AGES Industri AB (publ),AGES-B.ST,26.64,0.551,0.901,Yes
+117,Novotek AB,NTEK-B.ST,17.65,0.378,0.843,Yes
+118,Sweco AB (publ),SWEC-A.ST,16.5,0.355,1.132,Yes
+119,Samhällsbyggnadsbolaget i Norden AB (publ),SBB-D.ST,54.89,1.037,2.83,Yes
+120,Tele2 AB (publ),TEL2-B.ST,10.48,0.233,0.464,Yes
+121,Pandox AB (publ),PNDX-B.ST,16.73,0.37,1.972,Yes
+122,Studsvik AB (publ),SVIK.ST,19.06,0.42,0.891,Yes
+123,Skanska AB (publ),SKA-B.ST,12.66,0.291,1.109,Yes
+124,Link Prop Investment AB (publ),LINKAB.ST,9.61,0.224,0.597,Yes
+125,Ework Group AB (publ),EWRK.ST,14.75,0.338,1.005,Yes
+126,Paxman AB (publ),PAX.ST,18.83,0.426,0.363,Yes
+127,New Wave Group AB (publ),NEWA-B.ST,21.96,0.492,1.981,Yes
+128,Alligo AB (publ),ALLIGO-B.ST,16.14,0.37,1.343,Yes
+129,Essity AB (publ),ESSITY-B.ST,8.12,0.193,0.224,Yes
+130,Björn Borg AB (publ),BORG.ST,16.95,0.39,1.393,Yes
+131,Afry AB,AFRY.ST,11.78,0.281,1.34,Yes
+132,Bufab AB (publ),BUFAB.ST,17.5,0.408,1.776,Yes
+133,Sandvik AB (publ),SAND.ST,11.06,0.266,1.502,Yes
+134,SSAB AB (publ),SSAB-B.ST,16.61,0.392,1.595,Yes
+135,Essity AB (publ),ESSITY-A.ST,7.98,0.196,0.252,Yes
+136,Wihlborgs Fastigheter AB (publ),WIHL.ST,12.74,0.314,1.451,Yes
+137,Elicera Therapeutics AB (publ),ELIC.ST,56.08,1.213,0.202,No
+138,Alzinova AB (publ),ALZ.ST,58.73,1.266,1.174,Yes
+139,Tele2 AB (publ),TEL2-A.ST,9.38,0.243,0.574,Yes
+140,Inission AB (publ),INISS-B.ST,18.4,0.46,1.127,Yes
+141,Logistri Fastighets AB,LOGIST.ST,9.61,0.249,0.402,Yes
+142,Systemair AB (publ),SYSR.ST,13.55,0.348,1.601,Yes
+143,Cavotec SA,CCC.ST,11.83,0.309,0.755,Yes
+144,KABE Group AB (publ.),KABE-B.ST,11.82,0.31,0.805,Yes
+145,"Autoliv, Inc.",ALIV-SDB.ST,11.38,0.3,1.15,Yes
+146,Lime Technologies AB (publ),LIME.ST,14.98,0.392,0.718,Yes
+147,Idun Industrier AB (publ),IDUN-B.ST,11.79,0.314,0.937,Yes
+148,GomSpace Group AB (publ),GOMX.ST,62.97,1.424,1.764,Yes
+149,SynAct Pharma AB,SYNACT.ST,41.18,1.0,0.277,Yes
+150,Nicoccino Holding AB (publ),NICO.ST,57.3,1.32,0.57,No
+151,Indutrade AB (publ),INDT.ST,12.55,0.341,1.786,Yes
+152,Svedbergs Group AB (publ),SVED-B.ST,15.71,0.421,1.366,Yes
+153,Neola Medical AB (publ),NEOLA.ST,24.13,0.627,1.939,Yes
+154,Fastighetsbolaget Emilshus AB (publ),EMIL-PREF.ST,10.51,0.292,1.123,Yes
+155,Neobo Fastigheter AB (publ),NEOBO.ST,22.18,0.59,,
+156,H & M Hennes & Mauritz AB (publ),HM-B.ST,13.48,0.372,1.402,Yes
+157,SSAB AB (publ),SSAB-A.ST,13.9,0.384,1.532,Yes
+158,Hamlet BioPharma AB ser. B,HAMLET-B.ST,39.04,0.986,1.553,Yes
+159,Aixia Group AB ser. B,AIXIA-B.ST,31.28,0.834,2.077,Yes
+160,Serstech AB,SERT.ST,24.49,0.679,0.962,Yes
+161,Medicover AB (publ),MCOV-B.ST,13.96,0.406,1.671,Yes
+162,Meko AB (publ),MEKO.ST,9.66,0.287,1.061,Yes
+163,Net Insight AB (publ),NETI-B.ST,13.74,0.407,0.767,Yes
+164,Ovzon AB (publ),OVZON.ST,39.0,1.05,1.512,Yes
+165,Electrolux Professional AB (publ),EPRO-B.ST,11.29,0.343,1.398,Yes
+166,Safe at Sea AB (publ),SAFE.ST,14.33,0.432,0.501,Yes
+167,Infant Bacterial Therapeutics AB (publ),IBT-B.ST,24.57,0.713,0.928,No
+168,Sydsvenska Hem AB,SYDSV.ST,12.89,0.405,0.063,No
+169,Egetis Therapeutics AB (publ),EGTX.ST,27.57,0.82,0.922,Yes
+170,Embellence Group AB (publ),EMBELL.ST,10.45,0.336,0.951,Yes
+171,Investment AB Öresund (publ),ORES.ST,7.61,0.249,0.971,Yes
+172,Tura Group AB,TURA.ST,13.53,0.436,0.983,Yes
+173,Realfiction Holding AB (publ),REALFI.ST,26.36,0.819,2.275,Yes
+174,Qliro AB (publ),QLIRO.ST,14.87,0.488,1.057,Yes
+175,NP3 Fastigheter AB (publ),NP3-PREF.ST,8.09,0.274,1.21,Yes
+176,AstraZeneca PLC,AZN.ST,5.59,0.192,0.376,Yes
+177,Medhelp Care Aktiebolag (publ),MEDHLP.ST,11.28,0.38,1.04,Yes
+178,EQT AB (publ),EQT.ST,12.11,0.41,1.889,Yes
+179,Everysport Group AB,EVERY.ST,36.73,1.137,1.337,Yes
+180,AB SKF (publ),SKF-A.ST,7.94,0.276,1.261,Yes
+181,Magle Chemoswed Holding AB (publ),MAGLE.ST,12.08,0.414,0.027,Yes
+182,Carasent AB (publ),CARA.ST,11.17,0.387,0.063,Yes
+183,Swedish Logistic Property AB,SLP-B.ST,9.5,0.332,1.226,Yes
+184,Bilia AB (publ),BILI-A.ST,6.68,0.243,0.672,Yes
+185,TradeDoubler AB (publ),TRAD.ST,13.03,0.462,0.823,Yes
+186,IAR Systems Group AB (publ),IAR-B.ST,11.01,0.396,0.795,Yes
+187,Telefonaktiebolaget LM Ericsson (publ),ERIC-B.ST,7.45,0.276,0.487,Yes
+188,AB Igrene (publ),ABI.ST,27.8,0.951,2.344,Yes
+189,White Pearl Technology Group AB,WPTG-B.ST,18.26,0.651,,
+190,Rederiaktiebolaget Gotland (publ),GOTL-B.ST,5.77,0.217,,
+191,Freja eID Group AB (publ),FREJA.ST,22.97,0.807,1.011,Yes
+192,Nordic Iron Ore AB (publ),NIO.ST,13.7,0.504,0.691,Yes
+193,L E Lundbergföretagen AB (publ),LUND-B.ST,5.71,0.218,1.173,Yes
+194,Hoodin AB,HOODIN.ST,39.13,1.316,1.219,No
+195,SensoDetect Aktiebolag (publ),SDET.ST,20.21,0.736,1.385,Yes
+196,Corem Property Group AB (publ),CORE-D.ST,10.3,0.408,1.073,Yes
+197,HEXPOL AB (publ),HPOL-B.ST,6.88,0.277,1.23,Yes
+198,CTT Systems AB (publ),CTT.ST,7.67,0.311,0.529,Yes
+199,Precise Biometrics AB (publ),PREC.ST,30.8,1.149,0.5,Yes
+200,Empir Group AB (publ),SAFETY-B.ST,15.42,0.613,1.018,Yes
+201,Investment AB Latour (publ),LATO-B.ST,7.43,0.307,1.589,Yes
+202,Sleep Cycle AB (publ),SLEEP.ST,11.48,0.469,0.064,No
+203,FastPartner AB (publ),FPAR-D.ST,7.81,0.326,1.13,Yes
+204,Bredband2 i Skandinavien AB (publ),BRE2.ST,6.43,0.272,0.647,Yes
+205,LumenRadio AB (publ),LUMEN.ST,8.79,0.369,,
+206,AB Traction,TRAC-B.ST,4.31,0.187,0.848,Yes
+207,Job Solution Sweden Holding AB (publ),JOBS.ST,11.31,0.477,,
+208,Enzymatica AB (publ),ENZY.ST,22.23,0.9,1.786,No
+209,Double Bond Pharmaceutical Int.,DBP-B.ST,23.83,0.987,2.037,Yes
+210,Besqab AB (publ),BESQAB-PREF-B.ST,4.33,0.202,0.602,Yes
+211,HAKI Safety AB (publ),HAKI-A.ST,8.56,0.394,1.249,Yes
+212,Norion Bank AB (publ),NORION.ST,8.86,0.411,,
+213,Telia Company AB (publ),TELIA.ST,4.53,0.217,0.216,Yes
+214,Corem Property Group AB (publ),CORE-PREF.ST,8.51,0.406,1.405,Yes
+215,Telefonaktiebolaget LM Ericsson (publ),ERIC-A.ST,5.49,0.267,0.558,Yes
+216,Scandinavian Enviro Systems AB (publ),SES.ST,11.01,0.528,1.693,Yes
+217,Svolder AB (publ),SVOL-A.ST,6.57,0.333,0.86,Yes
+218,Logistea AB (publ),LOGI-B.ST,9.7,0.486,1.639,Yes
+219,Havsfrun Investment AB (publ),HAV-B.ST,8.19,0.416,0.753,Yes
+220,AlzeCure Pharma AB (publ),ALZCUR.ST,12.73,0.639,0.238,No
+221,Resurs Holding AB (publ),RESURS.ST,8.85,0.454,1.084,Yes
+222,Kallebäck Property Invest AB (publ),KAPIAB.ST,3.09,0.163,0.352,Yes
+223,Nokia Oyj,NOKIA-SEK.ST,4.26,0.223,0.27,Yes
+224,CoinShares XBT Provider Ether Tracker One ETN,ETHEREUM-XBT.ST,17.11,0.852,2.622,Yes
+225,Karnell Group AB ser. B,KARNEL-B.ST,8.26,0.427,,
+226,Dlaboratory Sweden AB (publ),DLAB.ST,12.05,0.625,1.2,Yes
+227,Annexin Pharmaceuticals AB (publ),ANNX.ST,12.32,0.654,0.607,Yes
+228,Micro Systemation AB (publ),MSAB-B.ST,5.72,0.313,0.324,Yes
+229,Addnode Group AB (publ),ANOD-B.ST,7.36,0.406,1.59,Yes
+230,ADDvise Group AB (publ),ADDV-A.ST,12.2,0.696,1.097,Yes
+231,Acast AB (publ),ACAST.ST,7.68,0.447,0.58,Yes
+232,Diamyd Medical AB (publ),DMYD-B.ST,14.92,0.847,1.693,Yes
+233,Veteranpoolen AB ser. B,VPAB-B.ST,4.95,0.297,0.826,Yes
+234,Nyfosa AB (publ),NYF.ST,8.52,0.507,2.202,Yes
+235,Gentoo Media Inc.,G2M.ST,5.22,0.317,0.243,Yes
+236,BrainCool AB (publ),BRAIN.ST,17.15,1.005,0.936,Yes
+237,Bulten AB (publ),BULTEN.ST,6.51,0.4,1.52,Yes
+238,Bravida Holding AB (publ),BRAV.ST,5.22,0.33,1.113,Yes
+239,Implantica AG,IMP-A-SDB.ST,8.98,0.579,0.615,Yes
+240,NetJobs Group AB (publ),NJOB.ST,9.16,0.591,0.053,Yes
+241,Humana AB (publ),HUM.ST,8.31,0.544,0.097,No
+242,Beijer Alma AB (publ),BEIA-B.ST,5.21,0.348,1.521,Yes
+243,Phase Holographic Imaging PHI AB (publ),PHI.ST,25.39,1.636,0.732,No
+244,Alligator Bioscience AB (publ),ATORX.ST,18.43,1.24,3.934,Yes
+245,Beijer Ref AB (publ),BEIJ-B.ST,4.72,0.341,1.438,Yes
+246,NP3 Fastigheter AB (publ),NP3.ST,5.99,0.435,1.962,Yes
+247,Acrinova AB (publ),ACRI-B.ST,3.93,0.298,0.667,Yes
+248,Peab AB (publ),PEAB-B.ST,4.65,0.355,1.529,Yes
+249,TalkPool AG,TALK.ST,7.88,0.599,1.362,Yes
+250,ES Energy Save Holding AB (publ),ESGR-B.ST,8.92,0.687,0.414,Yes
+251,Pila Pharma AB (publ),PILA.ST,11.25,0.866,1.541,Yes
+252,BeammWave AB (publ),BEAMMW-B.ST,14.88,1.146,1.784,Yes
+253,Gruvaktiebolaget Viscaria,VISC.ST,4.54,0.37,0.75,Yes
+254,NCAB Group AB (publ),NCAB.ST,5.57,0.471,1.54,Yes
+255,NAXS AB (publ),NAXS.ST,1.87,0.162,0.512,Yes
+256,Nosa Plugs AB,NOSA.ST,7.27,0.649,,
+257,Gasporox AB (publ),GPX.ST,5.51,0.508,1.148,Yes
+258,Lindab International AB (publ),LIAB.ST,3.6,0.364,1.137,Yes
+259,Lundin Mining Corporation,LUMI.ST,3.68,0.389,0.995,Yes
+260,Thule Group AB (publ),THULE.ST,3.29,0.362,1.572,Yes
+261,Sustainion Group AB,SUSG.ST,4.52,0.494,0.523,Yes
+262,Lipum AB (publ),LIPUM.ST,4.39,0.485,0.172,Yes
+263,Sprint Bioscience AB (publ),SPRINT.ST,12.45,1.393,0.275,Yes
+264,Nanexa AB (publ),NANEXA.ST,7.73,0.893,0.884,Yes
+265,Amido AB,AMIDO.ST,6.33,0.748,1.488,Yes
+266,AB Sagax (publ),SAGA-B.ST,3.41,0.423,2.064,Yes
+267,FluoGuide A/S,FLUO.ST,5.76,0.713,1.126,Yes
+268,Fastighets AB Balder (publ),BALD-B.ST,3.9,0.513,1.987,Yes
+269,Fagerhult Group AB,FAG.ST,2.82,0.388,1.508,Yes
+270,Catena AB (publ),CATE.ST,2.58,0.368,1.492,Yes
+271,Metacon AB (publ),META.ST,14.56,2.02,,
+272,,OURLIV.ST,9.47,1.536,0.562,Yes
+273,TagMaster AB (publ),TAGM-B.ST,3.07,0.512,0.423,Yes
+274,Nolato AB (publ),NOLA-B.ST,1.88,0.324,0.92,Yes
+275,Acarix AB (publ),ACARIX.ST,4.21,0.767,0.209,No
+276,BioGaia AB (publ),BIOG-B.ST,1.57,0.293,0.712,Yes
+277,Hufvudstaden AB (publ),HUFV-A.ST,1.31,0.261,1.213,Yes
+278,Corline Biomedical AB,CLBIO.ST,2.43,0.498,0.323,Yes
+279,Invent Medic Sweden AB,IMS.ST,4.47,0.968,2.239,Yes
+280,Tingsvalvet Fastighets AB ser. ,TINGS-B.ST,1.8,0.396,,
+281,AAC Clyde Space AB (publ),AAC.ST,2.37,0.564,0.212,Yes
+282,AB Sagax (publ),SAGA-A.ST,1.73,0.419,2.032,Yes
+283,Softronic AB (publ),SOF-B.ST,1.1,0.276,0.788,Yes
+284,G5 Entertainment AB (publ),G5EN.ST,1.97,0.496,1.106,Yes
+285,BioInvent International AB (publ),BINV.ST,1.98,0.596,0.102,Yes
+286,Adtraction Group AB,ADTR.ST,1.58,0.499,1.53,Yes
+287,SkiStar AB (publ),SKIS-B.ST,0.92,0.298,0.962,Yes
+288,Boliden AB (publ),BOL.ST,1.06,0.352,1.156,Yes
+289,Enad Global 7 AB (publ),EG7.ST,1.53,0.554,1.029,Yes
+290,Prevas AB,PREV-B.ST,0.54,0.359,1.624,Yes
+291,Frilans,FRILAN.ST,0.39,0.28,,
+292,Smart Eye AB (publ),SEYE.ST,0.84,0.605,1.624,Yes
+293,RVRC Holding AB (publ),RVRC.ST,0.61,0.566,2.302,Yes
+294,Catella AB (publ),CAT-B.ST,0.29,0.297,0.661,Yes
+295,Rederiaktiebolaget Gotland (publ),GOTL-A.ST,0.14,0.247,,
+296,DevPort AB (publ),DEVP-B.ST,0.11,0.301,0.85,Yes
+297,Drillcon AB (publ),DRIL.ST,0.09,0.274,0.887,Yes
+298,Elekta AB (publ),EKTA-B.ST,0.05,0.304,1.092,Yes
+299,Troax Group AB (publ),TROAX.ST,-0.15,0.398,1.738,Yes
+300,Concejo AB (publ),CNCJO-B.ST,-0.17,0.408,0.953,Yes
+301,Ascelia Pharma AB (publ),ACE.ST,-1.11,1.181,1.265,Yes
+302,FastPartner AB (publ),FPAR-A.ST,-0.65,0.51,2.313,Yes
+303,NOTE AB (publ),NOTE.ST,-0.71,0.343,0.538,Yes
+304,Dedicare AB (publ),DEDI.ST,-1.03,0.488,1.36,Yes
+305,Creades AB,CRED-A.ST,-0.66,0.306,1.551,Yes
+306,ALM Equity AB (publ),ALM-PREF.ST,-0.54,0.233,0.498,Yes
+307,Enea AB (publ),ENEA.ST,-1.16,0.473,0.317,Yes
+308,Safeture AB (publ),SFTR.ST,-1.11,0.426,0.539,Yes
+309,Hansa Biopharma AB (publ),HNSA.ST,-2.23,0.827,1.791,Yes
+310,Xspray Pharma AB (publ),XSPRAY.ST,-1.92,0.686,0.49,Yes
+311,ABAS Protect AB,ABAS.ST,-0.94,0.329,,
+312,Hexagon AB (publ),HEXA-B.ST,-0.97,0.331,1.538,Yes
+313,Odinwell AB,ODIN.ST,-3.88,1.243,0.879,No
+314,Wallenstam AB (publ),WALL-B.ST,-1.17,0.347,1.336,Yes
+315,FSport AB (publ),FSPORT.ST,-5.24,1.456,1.658,Yes
+316,Hedera Group AB (publ),HEGR.ST,-1.95,0.505,1.061,Yes
+317,Sound Dimension AB,SOUND.ST,-7.45,1.703,2.991,No
+318,GiG Software PLC,GIG-SDB.ST,-1.07,0.201,,
+319,NanoEcho AB,NANECH.ST,-12.26,2.393,,
+320,4C Group AB (publ),4C.ST,-4.04,0.731,,
+321,Kambi Group plc,KAMBI.ST,-2.74,0.487,0.873,Yes
+322,Binero Group AB (publ),BINERO.ST,-3.91,0.636,1.791,Yes
+323,Arion banki hf.,ARION-SDB.ST,-1.37,0.202,0.275,Yes
+324,Better Collective A/S,BETCO.ST,-2.68,0.39,0.701,Yes
+325,JM AB (publ),JM.ST,-3.13,0.446,1.638,Yes
+326,Heimstaden AB (publ),HEIM-PREF.ST,-4.47,0.599,1.88,Yes
+327,Initiator Pharma A/S,INIT.ST,-2.54,0.336,0.325,Yes
+328,BTS Group AB (publ),BTS-B.ST,-2.79,0.363,1.366,Yes
+329,Terranet AB,TERRNT-B.ST,-8.46,1.118,0.876,Yes
+330,Axfood AB (publ),AXFO.ST,-2.13,0.248,0.483,Yes
+331,Diös Fastigheter AB (publ),DIOS.ST,-2.75,0.315,1.368,Yes
+332,Billerud AB (publ),BILL.ST,-2.83,0.299,0.749,Yes
+333,Kancera AB (publ),KAN.ST,-9.64,1.01,0.2,No
+334,Touchtech AB,TOUCH.ST,-5.35,0.535,0.133,Yes
+335,Mashup Ireland AB,MASHUP.ST,-3.87,0.382,,
+336,Malmbergs Elektriska AB (publ),MEAB-B.ST,-2.5,0.241,0.877,Yes
+337,Lyko Group AB (publ),LYKO-A.ST,-5.0,0.488,1.467,Yes
+338,Viva Wine Group AB,VIVA.ST,-2.56,0.242,0.335,Yes
+339,Africa Oil Corp.,AOI.ST,-4.35,0.407,0.408,Yes
+340,Pricer AB (publ),PRIC-B.ST,-5.3,0.494,1.276,Yes
+341,Renewable Ventures Nordic AB,RVN.ST,-7.0,0.648,0.07,No
+342,Green Landscaping Group AB (publ),GREEN.ST,-3.53,0.321,1.116,Yes
+343,Bong AB (publ),BONG.ST,-4.48,0.401,1.539,Yes
+344,Tellusgruppen AB (publ),TELLUS.ST,-3.58,0.312,0.487,No
+345,AcuCort AB,ACUC.ST,-8.46,0.746,1.684,Yes
+346,Starbreeze AB (publ),STAR-A.ST,-9.66,0.841,1.257,Yes
+347,Windon Energy Group AB,WEG.ST,-6.48,0.551,0.271,No
+348,Acrinova AB (publ),ACRI-A.ST,-3.38,0.279,0.006,No
+349,Upsales Technology AB (publ),UPSALE.ST,-5.16,0.414,0.646,Yes
+350,Mips AB (publ),MIPS.ST,-6.29,0.506,2.193,Yes
+351,Dignitana AB (publ),DIGN.ST,-11.54,0.836,0.435,No
+352,Modus Therapeutics Holding AB (publ),MODTX.ST,-10.11,0.662,0.194,No
+353,Castellum AB (publ),CAST.ST,-5.64,0.354,1.501,Yes
+354,NextCell Pharma AB,NXTCL.ST,-11.04,0.708,0.895,Yes
+355,Skåne-möllan AB (publ),SKMO.ST,-8.27,0.522,0.996,Yes
+356,SolTech Energy Sweden AB (publ),SOLT.ST,-18.11,1.198,1.544,Yes
+357,Solnaberg Property AB (publ),SOLNA.ST,-3.92,0.228,0.434,Yes
+358,Hexatronic Group AB (publ),HTRO.ST,-12.89,0.779,2.654,Yes
+359,Preservium Property AB,PRESRV.ST,-11.13,0.659,0.442,Yes
+360,Synsam AB (publ),SYNSAM.ST,-5.8,0.334,0.971,Yes
+361,ScandiDos AB (publ),SDOS.ST,-7.1,0.383,0.426,Yes
+362,Lyckegård Group AB (publ),LYGRD.ST,-10.0,0.545,0.356,No
+363,Freemelt Holding AB (publ),FREEM.ST,-18.69,1.059,0.963,No
+364,Netel Holding AB (publ),NETEL.ST,-14.38,0.76,1.635,Yes
+365,Aquaticus Real Estate AB,AQUAT.ST,-5.57,0.279,0.364,Yes
+366,Integrum AB (publ),INTEG-B.ST,-12.2,0.624,0.884,Yes
+367,Toleranzia AB,TOL.ST,-11.98,0.599,0.501,Yes
+368,Genovis AB (publ.),GENO.ST,-12.69,0.634,2.324,Yes
+369,Online Brands Nordic AB (publ),OBAB.ST,-10.93,0.535,0.069,No
+370,Ortivus AB (publ),ORTI-A.ST,-9.54,0.46,0.503,No
+371,Suntrade Group AB (publ),STRD-B.ST,-12.76,0.603,0.844,Yes
+372,Samhällsbyggnadsbolaget i Norden AB (publ),SBB-B.ST,-16.79,0.803,2.922,Yes
+373,Gapwaves AB (publ),GAPW-B.ST,-11.84,0.549,1.53,Yes
+374,Flerie AB (publ),FLERIE.ST,-5.73,0.257,,
+375,Cibus Nordic Real Estate AB (publ),CIBUS.ST,-7.71,0.348,1.282,Yes
+376,ExpreS2ion Biotech Holding AB (publ),EXPRS2.ST,-26.85,1.278,3.996,Yes
+377,Newbury Pharmaceuticals AB (publ),NEWBRY.ST,-14.08,0.616,0.807,Yes
+378,Midsummer AB (publ),MIDS.ST,-24.86,1.118,1.123,Yes
+379,CombiGene AB (publ),COMBI.ST,-16.44,0.693,0.868,Yes
+380,Qiiwi Games AB (publ),QIIWI.ST,-19.61,0.816,0.101,Yes
+381,Mendus AB (publ),IMMU.ST,-19.46,0.808,1.155,Yes
+382,Nexam Chemical Holding AB (publ),NEXAM.ST,-12.26,0.486,0.848,Yes
+383,EatGood Sweden AB (Publ),EATG.ST,-19.04,0.772,1.026,Yes
+384,Starbreeze AB (publ),STAR-B.ST,-18.93,0.757,1.443,Yes
+385,Evolution AB (publ),EVO.ST,-7.16,0.265,1.097,Yes
+386,High Coast Distillery AB (Publ),HIGHCO-B.ST,-8.42,0.31,0.149,No
+387,Fenix Outdoor International AG,FOI-B.ST,-7.29,0.264,0.636,Yes
+388,Ogunsen AB (publ),OGUN-B.ST,-8.06,0.29,0.893,Yes
+389,Ellen AB (publ),ELN.ST,-20.57,0.78,0.511,Yes
+390,Novus Group International AB,NOVU.ST,-11.64,0.406,0.396,Yes
+391,Nanoform Finland Oyj,NANOFS.ST,-20.04,0.724,0.251,No
+392,Instalco AB (publ),INSTAL.ST,-12.3,0.425,1.244,Yes
+393,Respiratorius AB,RESP.ST,-23.96,0.877,1.858,Yes
+394,Infrea AB,INFREA.ST,-12.86,0.434,1.272,Yes
+395,Heliospectra AB (publ),HELIO.ST,-23.27,0.82,0.428,Yes
+396,Prebona AB (publ),PREBON.ST,-18.51,0.634,0.045,Yes
+397,SenzaGen AB,SENZA.ST,-13.46,0.447,1.011,Yes
+398,SpectraCure AB (publ),SPEC.ST,-23.25,0.812,1.075,Yes
+399,BibbInstruments AB,BIBB.ST,-17.52,0.592,0.781,Yes
+400,Lucara Diamond Corp.,LUC.ST,-12.47,0.403,0.464,Yes
+401,SOZAP AB (publ),SOZAP.ST,-32.99,1.179,2.249,No
+402,Westpay AB,WPAY.ST,-16.08,0.509,0.247,No
+403,Sdiptech AB (publ),SDIP-B.ST,-12.32,0.383,1.781,Yes
+404,Husqvarna AB (publ),HUSQ-A.ST,-11.92,0.367,1.719,Yes
+405,B3 Consulting Group AB (publ),B3.ST,-13.86,0.427,1.606,Yes
+406,Eniro Group AB (publ),ENRO.ST,-8.49,0.253,0.504,Yes
+407,Brilliant Future AB (publ),BRILL.ST,-12.63,0.373,1.162,Yes
+408,Immunovia AB (publ),IMMNOV.ST,-46.71,1.695,3.326,Yes
+409,Triboron International AB (publ),TRIBO-B.ST,-19.94,0.607,1.526,Yes
+410,MAG Interactive AB (publ),MAGI.ST,-13.0,0.381,0.595,Yes
+411,Oneflow AB (publ),ONEF.ST,-13.58,0.4,0.959,Yes
+412,Lovisagruvan AB (publ),LOVI.ST,-16.41,0.488,0.834,Yes
+413,LifeClean International AB (publ),LCLEAN.ST,-31.94,1.022,2.11,Yes
+414,Husqvarna AB (publ),HUSQ-B.ST,-12.7,0.364,1.7,Yes
+415,Vicore Pharma Holding AB (publ),VICO.ST,-19.89,0.577,0.544,Yes
+416,Scandinavian Real Heart AB (Publ),HEART.ST,-33.74,1.056,1.486,Yes
+417,Viaplay Group AB (publ),VPLAY-A.ST,-48.02,1.654,0.146,Yes
+418,EcoRub AB (publ),ECO-B.ST,-23.55,0.689,0.003,Yes
+419,Greater Than AB,GREAT.ST,-24.65,0.723,1.023,Yes
+420,PowerCell Sweden AB (publ),PCELL.ST,-27.57,0.809,1.431,Yes
+421,BrightBid Group AB (publ),BRIGHT.ST,-31.44,0.914,1.806,Yes
+422,Micropos Medical AB (publ),MPOS.ST,-19.53,0.527,,
+423,Katalysen Ventures AB,KAV.ST,-23.13,0.629,0.208,Yes
+424,C-Rad AB (publ),CRAD-B.ST,-13.44,0.342,0.645,Yes
+425,AB Electrolux (publ),ELUX-B.ST,-13.3,0.336,1.408,Yes
+426,Kontigo Care AB (publ),KONT.ST,-18.9,0.49,0.048,Yes
+427,Polyplank AB (publ),POLY.ST,-31.78,0.875,0.749,Yes
+428,Dometic Group AB (publ),DOM.ST,-14.62,0.365,1.689,Yes
+429,Crunchfish AB (publ),CFISH.ST,-38.84,1.112,2.054,Yes
+430,NanoCap Group AB (publ),NANOC-B.ST,-23.09,0.587,,
+431,Biotage AB (publ),BIOT.ST,-16.4,0.393,0.976,Yes
+432,Gaming Corps AB (publ),GCOR.ST,-17.6,0.416,0.249,Yes
+433,TietoEVRY Oyj,TIETOS.ST,-8.96,0.199,0.777,Yes
+434,Purefun Group AB (publ),PURE.ST,-14.9,0.336,0.909,Yes
+435,Blick Global Group AB,BLICK.ST,-35.26,0.882,1.448,Yes
+436,Elanders AB (publ),ELAN-B.ST,-16.18,0.357,1.213,Yes
+437,OrganoClick AB (publ),ORGC.ST,-16.34,0.356,0.939,Yes
+438,Västra Hamnen Corporate Finance AB (publ),VH.ST,-13.63,0.29,,
+439,Cell Impact AB (publ),CI.ST,-47.26,1.226,2.544,Yes
+440,Exsitec Holding AB (publ),EXS.ST,-12.94,0.269,0.439,Yes
+441,Moment Group AB,MOMENT.ST,-16.79,0.355,0.03,Yes
+442,MoveByBike Europe AB (publ),MBBAB.ST,-50.5,1.318,0.052,Yes
+443,Unibap AB (publ),UNIBAP.ST,-31.79,0.722,0.742,Yes
+444,New Nordic Healthbrands AB (publ),NNH.ST,-20.7,0.439,0.709,Yes
+445,QleanAir AB (publ),QAIR.ST,-19.37,0.397,0.599,Yes
+446,ADDvise Group AB (publ),ADDV-B.ST,-29.66,0.642,1.948,Yes
+447,Diadrom Holding AB (publ),DIAH.ST,-15.89,0.315,0.911,Yes
+448,AB Electrolux (publ),ELUX-A.ST,-17.31,0.337,1.316,Yes
+449,Beyond Frames Entertainment AB,BEYOND.ST,-26.94,0.536,0.714,Yes
+450,Transtema Group AB,TRANS.ST,-23.34,0.45,1.168,Yes
+451,Aktiebolaget Fastator (publ),FASTAT.ST,-39.5,0.84,1.313,Yes
+452,Checkin.Com Group AB (publ),CHECK.ST,-24.91,0.461,1.365,Yes
+453,Consensus Asset Management AB s,CAM-B.ST,-33.83,0.659,1.618,Yes
+454,Wall to Wall Group AB,WTW-A.ST,-15.35,0.269,0.431,Yes
+455,Ortivus AB (publ),ORTI-B.ST,-26.66,0.497,0.776,Yes
+456,Nordic Asia Investment Group 1987 AB (publ),NAIG-B.ST,-18.94,0.334,0.378,Yes
+457,Northbaze Group AB (publ),NBZ.ST,-27.7,0.513,0.617,Yes
+458,Syncro Group AB ser. B,SYNC-B.ST,-63.65,1.535,,
+459,Wise Group AB (publ),WISE.ST,-23.86,0.419,0.851,Yes
+460,VibroSense Dynamics AB ser. B,VSD-B.ST,-47.01,0.961,1.305,Yes
+461,DistIT AB (publ),DIST.ST,-45.31,0.911,1.745,Yes
+462,Candles Scandinavia AB (publ),CANDLE-B.ST,-28.89,0.519,0.298,Yes
+463,Nordic Flanges Group AB (publ),NFGAB.ST,-31.31,0.571,0.366,Yes
+464,Flexion Mobile Plc,FLEXM.ST,-20.39,0.347,0.943,Yes
+465,Minesto AB (publ),MINEST.ST,-37.98,0.716,1.247,Yes
+466,FX International AB,FXI.ST,-37.86,0.712,1.35,Yes
+467,Adventure Box Technology AB (publ),ADVBOX.ST,-52.99,1.095,3.225,Yes
+468,Nitro Games Oyj,NITRO.ST,-37.6,0.692,0.681,Yes
+469,Wyld Networks AB (publ),WYLD.ST,-55.9,1.172,0.785,Yes
+470,Enersize Oyj,ENERS.ST,-43.09,0.815,0.704,Yes
+471,SolidX AB,SOLIDX.ST,-26.83,0.456,0.93,Yes
+472,Effnetplattformen Holding AB (publ),EFFH.ST,-29.87,0.507,0.251,No
+473,Bonava AB (publ),BONAV-A.ST,-33.38,0.571,1.081,Yes
+474,NIBE Industrier AB (publ),NIBE-B.ST,-22.54,0.358,1.184,Yes
+475,Neovici Holding AB ser. B,NEO-B.ST,-29.09,0.476,,
+476,Mangold Fondkommission AB,MANG.ST,-17.52,0.264,0.092,No
+477,PExA AB,PEXA-B.ST,-31.7,0.518,1.105,Yes
+478,Besqab AB (publ),BESQAB.ST,-20.46,0.309,0.156,Yes
+479,Biofrigas Sweden AB,BIOF.ST,-46.47,0.823,0.394,Yes
+480,Kakel Max AB (publ),KAKEL.ST,-18.6,0.276,0.319,Yes
+481,Bonava AB (publ),BONAV-B.ST,-33.51,0.542,1.073,Yes
+482,Cint Group AB (publ),CINT.ST,-41.93,0.713,0.895,Yes
+483,Acenta Group AB (publ),PADEL.ST,-60.54,1.192,2.707,Yes
+484,Coor Service Management Holding AB,COOR.ST,-19.34,0.282,0.585,Yes
+485,Nordisk Bergteknik AB (publ),NORB-B.ST,-29.1,0.446,0.253,Yes
+486,Sileon AB (publ),SILEON.ST,-50.6,0.896,0.434,No
+487,Ngenic AB (publ),NGENIC.ST,-56.49,1.051,0.399,Yes
+488,Intrum AB (publ),INTRUM.ST,-37.79,0.608,1.348,Yes
+489,Eevia Health Plc,EEVIA.ST,-52.49,0.942,0.089,Yes
+490,aXichem AB,AXIC-A.ST,-43.45,0.723,1.808,No
+491,Kinnevik AB,KINV-B.ST,-24.57,0.359,1.667,Yes
+492,Krona Public Real Estate AB,KRONA.ST,-21.96,0.315,0.222,Yes
+493,Finepart Sweden AB,FINE.ST,-44.57,0.737,1.557,Yes
+494,BE Group AB (publ),BEGR.ST,-27.76,0.41,1.259,Yes
+495,Prisma Properties AB (publ),PRISMA.ST,-13.93,0.19,,
+496,SciBase Holding AB (publ),SCIB.ST,-41.49,0.668,0.077,Yes
+497,Tourn International AB (publ),TOURN.ST,-33.64,0.511,1.325,Yes
+498,Vo2 Cap Holding AB (publ),VO2.ST,-33.33,0.505,1.516,Yes
+499,Beowulf Mining plc,BEO-SDB.ST,-46.55,0.767,1.658,Yes
+500,M.O.B.A. Network AB,MOBA.ST,-29.13,0.424,0.391,Yes
+501,Vidhance AB (publ),VIDH.ST,-37.04,0.566,0.757,Yes
+502,Kinnevik AB,KINV-A.ST,-25.64,0.361,1.662,Yes
+503,EasyFill AB ser. B,EASY-B.ST,-41.98,0.646,1.191,Yes
+504,Stillfront Group AB (publ),SF.ST,-32.01,0.453,0.411,Yes
+505,Profoto Holding AB (publ),PRFO.ST,-24.77,0.332,0.562,Yes
+506,MTI Investment AB (publ),MTI.ST,-33.79,0.473,0.709,Yes
+507,Chordate Medical Holding AB (publ),CMH.ST,-57.48,0.961,1.365,Yes
+508,Active Biotech AB (publ),ACTI.ST,-45.5,0.688,0.356,Yes
+509,Kjell Group AB (publ),KJELL.ST,-35.64,0.502,1.855,Yes
+510,Hexicon AB (publ),HEXI.ST,-43.76,0.634,0.351,Yes
+511,Viaplay Group AB (publ),VPLAY-B.ST,-60.73,0.995,0.568,Yes
+512,JLT Mobile Computers AB (publ),JLT.ST,-28.24,0.352,1.01,Yes
+513,Acconeer AB (publ),ACCON.ST,-45.77,0.611,1.178,Yes
+514,Tobii AB (publ),TOBII.ST,-48.32,0.638,1.036,Yes
+515,Alcadon Group AB (publ),ALCA.ST,-28.95,0.331,0.353,Yes
+516,First Venture Sweden AB (publ),FIRST-B.ST,-28.02,0.312,0.804,Yes
+517,Hitech & Development Wireless Sweden Holding AB (publ),HDW-B.ST,-67.06,1.021,1.734,No
+518,Aptahem AB (publ),APTA.ST,-56.97,0.782,0.599,No
+519,Inhalation Sciences Sweden AB,ISAB.ST,-43.88,0.539,0.011,Yes
+520,Zenergy AB (publ),ZENZIP-B.ST,-59.02,0.81,0.935,Yes
+521,Miris Holding AB (publ),MIR.ST,-49.92,0.632,0.956,Yes
+522,Bactiguard Holding AB (publ),BACTI-B.ST,-32.74,0.367,0.493,Yes
+523,Medivir AB (publ),MVIR.ST,-35.81,0.409,0.118,No
+524,Acroud AB (publ),ACROUD.ST,-51.66,0.662,1.89,Yes
+525,Nanologica AB (publ),NICA.ST,-46.87,0.577,1.168,Yes
+526,Garo Aktiebolag (publ),GARO.ST,-42.06,0.499,2.026,Yes
+527,Apotea AB,APOTEA.ST,-39.26,0.455,,
+528,Fram Skandinavien AB (publ),FRAM-B.ST,-37.41,0.419,1.242,Yes
+529,Provide IT Sweden AB (publ),PROVIT.ST,-31.91,0.34,0.3,No
+530,Catena Media plc,CTM.ST,-52.81,0.653,1.706,Yes
+531,Xbrane Biopharma AB (publ),XBRANE.ST,-69.71,1.011,0.418,Yes
+532,Intervacc AB (publ),IVACC.ST,-58.14,0.745,0.048,No
+533,Agtira AB,AGTIRA-B.ST,-58.31,0.735,,
+534,2cureX AB (publ),2CUREX.ST,-56.81,0.705,0.222,Yes
+535,Boho Group AB (publ),BOHO.ST,-45.51,0.511,,
+536,Nordic LEVEL Group AB (publ.),LEVEL.ST,-32.13,0.326,0.406,Yes
+537,PION Group AB (publ),PION-B.ST,-28.5,0.283,1.265,Yes
+538,XMReality AB (publ),XMR.ST,-65.47,0.857,1.019,Yes
+539,SaveLend Group AB (publ),YIELD.ST,-37.72,0.388,0.161,No
+540,Ferroamp AB (publ),FERRO.ST,-53.77,0.618,0.601,Yes
+541,Nobia AB (publ),NOBI.ST,-48.38,0.526,1.075,Yes
+542,FlexQube AB (publ),FLEXQ.ST,-45.79,0.487,0.817,Yes
+543,Cinis Fertilizer AB (publ),CINIS.ST,-51.52,0.559,,
+544,Gabather AB (publ),GABA.ST,-68.71,0.873,0.829,Yes
+545,Mantex AB (publ),MANTEX.ST,-62.6,0.728,0.545,Yes
+546,Bio-Works Technologies AB (publ),BIOWKS.ST,-50.74,0.523,0.972,Yes
+547,Iconovo AB (publ),ICO.ST,-56.51,0.603,0.759,Yes
+548,Zenicor Medical Systems AB,ZENI.ST,-51.62,0.524,1.292,Yes
+549,Monivent AB,MONI.ST,-58.6,0.629,0.036,No
+550,OXE Marine AB (publ),OXE.ST,-45.92,0.438,0.415,Yes
+551,Ecoclime Group AB (publ),ECC-B.ST,-51.96,0.52,0.461,Yes
+552,ProstaLund AB (publ),PLUN.ST,-58.57,0.615,0.029,No
+553,Absolicon Solar Collector AB,ABSL-B.ST,-61.15,0.648,0.092,No
+554,Baltic Horizon Fund,NHCBHFFSDB.ST,-34.41,0.288,,
+555,Episurf Medical AB (publ),EPIS-B.ST,-56.16,0.548,0.155,Yes
+556,Seafire AB (publ),SEAF.ST,-43.04,0.378,0.841,Yes
+557,Doxa AB (publ),DOXA.ST,-55.32,0.512,0.39,Yes
+558,AppSpotr AB (publ),APTR.ST,-74.56,0.83,0.838,Yes
+559,Qlucore AB (publ),QCORE.ST,-51.79,0.44,0.713,Yes
+560,NGS Group AB (publ),NGS.ST,-44.95,0.358,0.677,Yes
+561,Raketech Group Holding PLC,RAKE.ST,-43.06,0.337,0.513,Yes
+562,SeaTwirl AB (publ),STW.ST,-56.08,0.454,0.213,Yes
+563,Thunderful Group AB,THUNDR.ST,-66.89,0.596,1.032,Yes
+564,Fleming Properties AB,FLMNG.ST,-58.02,0.448,0.136,Yes
+565,WebRock Ventures AB,WRV.ST,-65.79,0.533,,
+566,,HERNO-B.ST,-53.82,0.374,,
+567,Qlosr Group AB (publ),QLOSR-B.ST,-74.14,0.632,,
+568,ALM Equity AB (publ),ALM.ST,-50.79,0.305,0.606,Yes
+569,Navigo Invest AB (publ),NAVIGO-STAM.ST,-59.13,0.338,,
+570,Qben Infra AB (publ),QBEN.ST,-73.56,0.459,,
+571,Cinclus Pharma Holding AB (publ),CINPHA.ST,-69.58,0.407,,
+572,Qualisys Holding Aktiebolag,QSYS.ST,-39.19,,,
+573,Asmodee Group AB (publ),ASMDEE-B.ST,-63.2,,,

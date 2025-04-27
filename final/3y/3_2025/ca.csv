@@ -1,0 +1,287 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Allianz SE,ALZ.NE,94.32,0.018,,
+2,YorkHarbMet,YORK.CN,79.59,0.245,,
+3,RTX Corporation,RTX.NE,55.08,0.217,,
+4,"Netflix, Inc.",NFLX.NE,78.84,0.353,1.259,Yes
+5,Grown Rogue International Inc.,GRIN.CN,165.71,0.64,0.944,No
+6,CanaryGoldCo,BRAZ.CN,156.61,0.678,,
+7,KobreaExploCo,KBX.CN,83.72,0.451,,
+8,NVIDIA Corporation,NVDA.NE,102.36,0.528,1.711,Yes
+9,"CrowdStrike Holdings, Inc.",CRWD.NE,62.0,0.373,,
+10,Broadcom Inc.,AVGO.NE,73.16,0.46,,
+11,"Uber Technologies, Inc.",UBER.NE,60.82,0.417,,
+12,International Business Machines Corporation,IBM.NE,30.27,0.236,0.803,Yes
+13,JPMorgan Chase & Co.,JPM.NE,33.7,0.27,1.518,Yes
+14,Eli Lilly and Company,LLY.NE,37.67,0.314,,
+15,"Meta Platforms, Inc.",META.NE,54.99,0.441,0.948,Yes
+16,DEERE CDR (CAD HEDGED),DEER.NE,30.18,0.272,,
+17,Citigroup Inc.,CITI.NE,29.38,0.267,,
+18,Costco Wholesale Corporation,COST.NE,25.64,0.254,1.066,Yes
+19,Berkshire Hathaway Inc.,BRK.NE,19.48,0.201,1.062,Yes
+20,"The Goldman Sachs Group, Inc.",GS.NE,28.25,0.297,1.818,Yes
+21,Abitibi Metals Corp.,AMQ.CN,165.15,1.383,2.487,Yes
+22,Mastercard Incorporated,MA.NE,16.75,0.221,1.331,Yes
+23,BLACKROCK CDR (CAD HEDGED),BLK.NE,14.67,0.2,,
+24,Forge Resources Corp.,FRG.CN,170.15,1.508,1.407,Yes
+25,BRSResou,BRS.CN,110.96,1.13,,
+26,AbbVie Inc.,ABBV.NE,16.02,0.22,,
+27,BOOKING CDR (CAD HEDGED),BKNG.NE,22.05,0.297,,
+28,Abaxx Technologies Inc.,ABXX.NE,57.03,0.709,0.947,Yes
+29,Myriad Uranium Corp.,M.CN,79.55,0.959,0.964,Yes
+30,American Critical Minerals Corp.,KCLI.CN,111.4,1.299,1.315,No
+31,Emperor Metals Inc.,AUOZ.CN,64.74,0.872,0.382,Yes
+32,Dark Star Minerals Inc.,BATT.CN,125.98,1.486,,
+33,Micromem Technologies Inc.,MRM.CN,143.04,1.635,0.68,Yes
+34,Microsoft Corporation,MSFT.NE,12.59,0.218,0.623,Yes
+35,MTL Cannabis Corp.,MTLC.CN,71.98,1.02,,
+36,"Amazon.com, Inc.",AMZN.NE,19.88,0.337,1.103,Yes
+37,Rain City Resources Inc.,RAIN.CN,172.44,1.951,2.94,No
+38,Apple Inc.,AAPL.NE,14.89,0.265,1.015,Yes
+39,"Salesforce, Inc.",CRM.NE,21.85,0.38,1.267,Yes
+40,S&P/TSX Composite Index,^GSPTSE,7.43,0.137,1.0,Yes
+41,Sona Nanotech Inc.,SONA.CN,66.84,1.012,1.164,Yes
+42,The Procter & Gamble Company,PG.NE,8.98,0.168,,
+43,Seahawk Ventures Inc.,SEAG-X.CN,119.69,1.605,3.212,No
+44,Ovation Science Inc.,OVAT.CN,84.72,1.301,1.399,Yes
+45,Xcite Resources Inc.,XRI.CN,87.75,1.352,,
+46,McDonald's Corporation,MCDS.NE,9.55,0.194,,
+47,GreenridgeExpl,GXP.CN,36.33,0.674,,
+48,Alphabet Inc.,GOOG.NE,13.41,0.275,0.654,Yes
+49,Axcap Ventures Inc.,AXCP.CN,106.84,1.69,4.47,Yes
+50,Aion Therapeutic Inc.,AION.CN,89.61,1.485,0.728,No
+51,"The Home Depot, Inc.",HD.NE,10.98,0.237,1.42,Yes
+52,Pasinex Resources Limited,PSE.CN,52.5,0.975,0.138,Yes
+53,Gold Digger Resources Inc.,GDIG.CN,42.54,0.823,,
+54,Cannabix Technologies Inc.,BLO.CN,64.42,1.171,2.53,Yes
+55,3M Company,MMMM.NE,14.92,0.325,,
+56,General Electric Company,GE.NE,18.82,0.406,,
+57,Metalsource Mining Inc.,MSM.CN,67.16,1.23,,
+58,Muzhu Mining Ltd.,MUZU.CN,55.25,1.058,1.828,Yes
+59,ImagineAR Inc.,IP.CN,84.98,1.522,2.828,Yes
+60,Vireo Growth Inc.,VREO.CN,43.1,0.91,,
+61,Black Gold,BGX.CN,52.97,1.11,,
+62,,CUH.CN,90.36,1.701,,
+63,Biomark Diagnostics Inc.,BUX.CN,21.87,0.521,1.524,No
+64,"Direct Communication Solutions, Inc.",DCSI.CN,70.11,1.425,1.38,No
+65,Exxon Mobil Corporation,XOM.NE,7.53,0.194,,
+66,PALO ALTO NETWORKS CDR (CAD HED,PANW.NE,10.62,0.274,,
+67,JOHNSON & JOHNSON CDR (CAD HEDG,JNJ.NE,6.38,0.173,,
+68,Headwater Gold Inc.,HWG.CN,28.32,0.725,0.151,No
+69,Verizon Communications Inc.,VZ.NE,7.96,0.221,,
+70,Bank of America Corporation,BOFA.NE,10.65,0.295,1.755,Yes
+71,Goldrea Resources Corp.,GOR.CN,56.01,1.327,1.327,No
+72,Plaintree Systems Inc.,NPT.CN,51.85,1.248,1.821,Yes
+73,Starbucks Corporation,SBUX.NE,10.24,0.289,,
+74,Vibe Growth Corporation,VIBE.CN,133.1,2.648,4.484,Yes
+75,,EOM.CN,57.53,1.425,0.349,No
+76,Biosenta Inc.,ZRO.CN,58.7,1.449,0.107,No
+77,Pegmatite One Lithium and Gold Corp.,PGA.CN,121.05,2.525,3.294,Yes
+78,"Advanced Micro Devices, Inc.",AMD.NE,18.44,0.526,1.552,Yes
+79,McFarlane Lake Mining Limited,MLM.NE,64.67,1.594,2.661,No
+80,Slave Lake Zinc Corp.,SLZ.CN,64.83,1.602,1.386,No
+81,Silverstock Metals Inc.,STK.CN,30.06,0.836,1.36,No
+82,Westmount Minerals Corp.,WMC.CN,48.25,1.29,0.418,No
+83,Rottenstone Gold Inc.,SK.CN,43.97,1.202,2.397,No
+84,James Bay Resources Limited,JBR.CN,56.25,1.479,1.522,Yes
+85,Izotropic Corporation,IZO.CN,84.91,2.055,2.805,Yes
+86,McLaren Resources Inc.,MCL.CN,17.8,0.542,1.223,No
+87,Panther Minerals Inc.,PURR.CN,123.55,2.737,3.347,Yes
+88,Glass House Brands Inc.,GLAS-A.NE,25.94,0.793,,
+89,High Tide Resources Corp.,HTRC.CN,54.27,1.524,0.053,No
+90,CameoResInc,MEO.CN,22.84,0.719,,
+91,Urano Energy Corp.,UE.CN,89.52,2.307,2.971,Yes
+92,Psyence Group Inc.,PSYG.CN,55.16,1.596,2.213,Yes
+93,Predictmedix AI Inc.,PMED.CN,46.0,1.409,0.324,No
+94,Forte Minerals Corp.,CUAU.CN,14.86,0.531,1.599,Yes
+95,Sparc Al Inc,SPAI.CN,28.56,0.969,0.643,No
+96,Rapid Dose Therapeutics Corp.,DOSE.CN,28.77,1.027,1.593,No
+97,CAT Strategic Metals Corporation,CAT.CN,35.62,1.292,0.38,Yes
+98,Unidoc Health Corp.,UDOC.CN,28.78,1.119,0.348,Yes
+99,Chevron Corporation,CHEV.NE,4.85,0.21,,
+100,PUDO Inc.,PDO.CN,28.43,1.201,1.098,No
+101,Telescope Innovations Corp.,TELI.CN,15.65,0.711,1.628,Yes
+102,Glow Lifetech Corp.,GLOW.CN,20.65,0.94,1.145,Yes
+103,Argo Gold Inc.,ARQ.CN,11.36,0.538,0.697,No
+104,Pangea Natural Foods Inc.,PNGA.CN,32.81,1.556,,
+105,StrategX Elements Corp.,STGX.CN,22.39,1.118,0.271,No
+106,Wedgemount Resources Corp.,WDGY.CN,21.85,1.149,0.49,No
+107,"ServiceNow, Inc.",NOWS.NE,5.8,0.326,,
+108,Optimi Health Corp.,OPTI.CN,11.75,0.671,1.415,Yes
+109,Tier One Capital Limited Partnership,TLP-UN.CN,6.46,0.38,0.18,No
+110,Westward Gold Inc.,WG.CN,11.44,0.663,1.326,Yes
+111,Nova Pacific Metals Corp.,NVPC.CN,26.22,1.758,,
+112,Tempus Capital Inc.,TEMP.CN,10.96,0.803,0.497,No
+113,Getchell Gold Corp.,GTCH.CN,11.12,0.855,0.22,Yes
+114,Gold Hunter Resources Inc.,HUNT.CN,11.6,0.929,0.296,No
+115,Spetz Inc.,SPTZ.CN,22.16,1.714,0.998,Yes
+116,EnviroGold Global Limited,NVRO.CN,11.33,0.916,0.536,Yes
+117,Yukon Metals Corp.,YMC.CN,11.53,0.971,,
+118,Western Uranium & Vanadium Corp.,WUC.CN,6.38,0.611,0.193,Yes
+119,Cult Food Science Corp.,CULT.CN,21.41,1.968,1.343,No
+120,Terra Balcanica Resources Corp.,TERA.CN,8.65,0.861,,
+121,Ares Strategic Mining Inc.,ARS.CN,8.15,0.833,1.475,Yes
+122,Hercules Resources Corp.,HERC.CN,12.62,1.309,,
+123,Silicon Metals Corp.,SI.CN,8.7,0.935,0.606,Yes
+124,GoldHaven Resources Corp.,GOH.CN,17.95,1.886,2.267,Yes
+125,"Intuitive Surgical, Inc.",ISRG.NE,2.47,0.278,,
+126,CordovaCann Corp.,CDVA.CN,9.69,1.09,1.629,No
+127,Nine Mile Metals Ltd.,NINE.CN,9.5,1.109,0.219,Yes
+128,Shoal Point Energy Ltd.,SHP.CN,8.02,1.127,0.852,Yes
+129,Torrent Gold Inc.,TGLD.CN,10.06,1.45,0.756,Yes
+130,Nerds on Site Inc.,NERD.CN,5.43,0.809,0.097,Yes
+131,AMERICAN EXPRESS CDR (CAD HEDGE,AXP.NE,1.93,0.309,,
+132,UnitedHealth Group Incorporated,UNH.NE,1.34,0.223,,
+133,BetterLife Pharma Inc.,BETR.CN,3.23,0.654,1.028,Yes
+134,Abound Energy Inc.,ABND.CN,8.16,1.702,3.812,Yes
+135,Bird River Resources Inc.,BDR.CN,2.43,0.874,0.041,Yes
+136,Global Li-Ion Graphite Corp.,LION.CN,1.97,0.829,0.656,Yes
+137,Leopard Lake Gold Corp.,LP.CN,2.11,0.961,0.115,Yes
+138,Appia Rare Earths & Uranium Corp.,API.CN,2.62,1.24,0.246,No
+139,Windfall Geotek Inc.,WIN.CN,2.54,1.248,0.778,Yes
+140,One World Lithium Inc.,OWLI.CN,1.2,0.851,0.759,Yes
+141,Taurus Gold Corp.,TAUR.CN,1.87,1.389,,
+142,The Walt Disney Company,DIS.NE,0.33,0.35,1.807,Yes
+143,Britannia Life Sciences Inc.,BLAB.CN,-0.7,0.63,0.461,No
+144,Kingsview Minerals Ltd.,KVM.CN,-2.67,1.271,0.127,Yes
+145,Four Nines Gold Inc.,FNAU.CN,-2.04,0.598,0.832,Yes
+146,GalloperGldCo,BOOM.CN,-4.05,1.05,,
+147,Trulieve Cannabis Corp.,TRUL.CN,-3.72,0.899,1.72,Yes
+148,EMP Metals Corp.,EMPS.CN,-3.36,0.66,1.004,No
+149,Rise Gold Corp.,RISE.CN,-5.8,1.004,1.299,No
+150,Max Power Mining Corp.,MAXX.CN,-5.4,0.848,0.864,Yes
+151,Restart Life Sciences Corp.,HEAL.CN,-12.13,1.764,,
+152,ArgyleRes,ARGL.CN,-4.46,0.568,,
+153,Beyond Lithium Inc.,BY.CN,-8.06,1.04,0.004,Yes
+154,RedCanyonRes,REDC.CN,-5.3,0.648,,
+155,AmmPower Corp.,AMMP.CN,-11.54,1.329,2.807,Yes
+156,Vanguard Mining Corp.,UUU.CN,-12.54,1.334,0.65,Yes
+157,Christina Lake Cannabis Corp.,CLC.CN,-7.75,0.763,1.252,No
+158,Mount Logan Capital Inc.,MLC.NE,-3.33,0.316,1.174,Yes
+159,Green Thumb Industries Inc.,GTII.CN,-6.75,0.631,1.056,Yes
+160,Captor Capital Corp.,CPTR.CN,-13.99,1.351,1.635,Yes
+161,Hi-View Resources Inc,HVW.CN,-10.39,0.968,0.47,No
+162,SyntheiaCo,SYAI.CN,-13.2,1.149,,
+163,Regenx Tech Corp.,RGX.CN,-13.72,1.153,0.313,Yes
+164,Asante Gold Corporation,ASE.CN,-5.91,0.45,0.682,Yes
+165,Cannibble Food-Tech Ltd.,PLCN.CN,-15.12,1.198,1.168,No
+166,Cartier Silver Corporation,CFE.CN,-11.59,0.837,0.151,No
+167,"PayPal Holdings, Inc.",PYPL.NE,-5.35,0.369,1.884,Yes
+168,Blockchain Venture Capital Inc.,BVCI.CN,-17.81,1.265,,
+169,Arctic Fox Lithium Corp.,AFX.CN,-19.22,1.352,3.218,Yes
+170,ChitogenX Inc.,CHGX.CN,-22.77,1.624,2.369,No
+171,Permex Petroleum Corporation,OIL.CN,-18.96,1.252,2.475,Yes
+172,MariMed Inc.,MRMD.CN,-15.34,0.977,,
+173,Intel Corporation,INTC.NE,-8.28,0.443,,
+174,American Copper Development Corporation,ACDX.CN,-17.52,0.923,0.769,Yes
+175,St-Georges Eco-Mining Corp.,SX.CN,-14.37,0.738,0.111,Yes
+176,FLUENT Corp.,FNT-U.CN,-15.24,0.779,1.021,Yes
+177,The Boeing Company,BA.NE,-6.98,0.342,,
+178,Golden Lake Exploration Inc.,GLM.CN,-15.4,0.746,0.099,Yes
+179,Defence Therapeutics Inc.,DTC.CN,-15.22,0.691,1.417,Yes
+180,Golden Spike Resources Corp.,GLDS.CN,-21.86,1.012,0.421,Yes
+181,Musk Metals Corp.,MUSK.CN,-23.14,1.064,2.354,Yes
+182,Inverite Insights Inc.,INVR.CN,-13.55,0.585,0.194,No
+183,Aether Global Innovations Corp.,AETH.CN,-27.43,1.263,,
+184,Newlox Gold Ventures Corp.,LUX.CN,-12.47,0.5,2.326,Yes
+185,Gold'n Futures Mineral Corp.,FUTR.CN,-23.51,0.999,0.274,Yes
+186,Origen Resources Inc.,ORGN.CN,-20.28,0.804,0.947,Yes
+187,Delota Corp.,NIC.CN,-14.37,0.521,0.524,No
+188,Interra Copper Corp.,CQX.CN,-21.21,0.784,0.793,No
+189,BacTech Environmental Corporation,BAC.CN,-14.15,0.491,0.245,No
+190,Burrell Resources Inc.,BURY.CN,-13.42,0.449,0.409,No
+191,Quantum BioPharma Ltd.,QNTM.CN,-25.94,0.918,0.477,Yes
+192,"The INX Digital Company, Inc.",INXD.NE,-29.47,1.055,1.018,Yes
+193,AlphaGen Intelligence Corp.,AIC.CN,-29.86,1.05,1.162,Yes
+194,Red Light Holland Corp.,TRIP.CN,-19.77,0.652,1.836,Yes
+195,Vital Battery Metals Inc.,VBAM.CN,-20.95,0.693,,
+196,MindBio Therapeutics Corp.,MBIO.CN,-37.81,1.35,,
+197,Tantalex Lithium Resources Corp.,TTX.CN,-22.22,0.692,0.482,Yes
+198,Maritime Launch Services Inc.,MAXQ.NE,-24.39,0.767,0.897,Yes
+199,nDatalyze Corp.,NDAT.CN,-31.37,0.982,0.281,Yes
+200,United Lithium Corp.,ULTH.CN,-30.16,0.865,0.165,No
+201,Quinsam Capital Corporation,QCA.CN,-15.88,0.41,0.669,Yes
+202,Discovery Energy Metals Corp.,DEMC.CN,-33.55,0.953,,
+203,Irving Resources Inc.,IRV.CN,-28.42,0.78,2.075,Yes
+204,Thermo Fisher Scientific Inc.,TMO.NE,-10.48,0.259,,
+205,Foremost Clean Energy Ltd.,FAT.CN,-33.51,0.93,0.466,Yes
+206,Terra Clean Energy Corp.,TCEC.CN,-27.94,0.743,0.669,No
+207,Adobe Inc.,ADBE.NE,-14.21,0.345,,
+208,Intellabridge Technology Corp.,KASH.CN,-33.87,0.921,0.565,No
+209,Linear Minerals Corp.,LINE.CN,-41.88,1.105,2.06,Yes
+210,"NIKE, Inc.",NKE.NE,-15.42,0.336,,
+211,Québec Nickel Corp.,QNI.CN,-38.92,0.957,0.409,No
+212,,MANN.CN,-37.68,0.869,1.603,Yes
+213,Spearmint Resources Inc.,SPMT.CN,-32.81,0.733,1.202,Yes
+214,Fathom Nickel Inc.,FNI.CN,-38.01,0.872,0.368,No
+215,SolarBank Corporation,SUNN.NE,-33.64,0.736,,
+216,Reflex Advanced Materials Corp.,RFLX.CN,-38.72,0.856,,
+217,Quest Critical Metals Inc.,BULL.CN,-41.14,0.83,2.27,No
+218,Carlyle Commodities Corp.,CCC.CN,-44.68,0.916,0.887,No
+219,Traction Uranium Corp.,TRAC.CN,-39.92,0.764,0.681,Yes
+220,Gander Gold Corporation,GAND.CN,-47.35,0.938,0.607,Yes
+221,QUALCOMM Incorporated,QCOM.NE,-16.45,0.255,,
+222,Sharc International Systems Inc.,SHRC.CN,-27.4,0.445,1.073,Yes
+223,FendX Technologies Inc.,FNDX.CN,-39.6,0.686,,
+224,Lithos Group Ltd.,LITS.NE,-40.42,0.703,0.677,No
+225,Verano Holdings Corp.,VRNO.NE,-40.9,0.711,1.022,Yes
+226,Forte Group Holdings Inc.,FGH.CN,-50.59,0.893,0.938,No
+227,Global Uranium Corp.,GURN.CN,-57.94,1.087,,
+228,Vencanna Ventures Inc.,VENI.CN,-35.36,0.548,0.175,No
+229,Cybeats Technologies Corp.,CYBT.CN,-47.65,0.796,,
+230,Hertz Energy Inc.,HZ.CN,-46.1,0.742,,
+231,Hillcrest Energy Technologies Ltd.,HEAT.CN,-39.22,0.581,0.19,No
+232,Nextech3D.AI Corporation,NTAR.CN,-50.04,0.785,1.023,Yes
+233,Global Helium Corp.,HECO.CN,-51.43,0.795,0.585,No
+234,BayridgeRes,BYRG.CN,-68.99,1.263,,
+235,Nexus Uranium Corp.,NEXU.CN,-41.0,0.584,,
+236,GldRaptMinCo,GLDR.CN,-61.57,1.036,,
+237,Avanti Gold Corp.,AGC.CN,-55.68,0.886,,
+238,"United Parcel Service, Inc.",UPS.NE,-17.29,0.212,,
+239,lululemon athletica inc.,LULU.NE,-32.38,0.432,,
+240,US Critical Metals Corp.,USCM.CN,-55.65,0.861,,
+241,Pfizer Inc.,PFE.NE,-16.69,0.198,0.269,Yes
+242,Scryb Inc.,SCYB.CN,-43.88,0.612,0.623,No
+243,Gelum Resources Ltd.,GMR.CN,-49.14,0.694,0.338,No
+244,Supreme Critical Metals Inc.,CRIT.CN,-57.02,0.839,1.194,Yes
+245,"Constellation Brands, Inc.",STZ.NE,-22.22,0.255,,
+246,"Super Micro Computer, Inc.",SMCI.NE,-53.08,0.751,,
+247,PlasCred Circular Innovations Inc.,PLAS.CN,-61.74,0.939,,
+248,Armory Mining Corp,ARMY.CN,-74.38,1.25,,
+249,HybridPowSol,HPSS.CN,-70.85,1.066,,
+250,Nuran Wireless Inc.,NUR.CN,-49.15,0.547,0.413,Yes
+251,"Micron Technology, Inc.",MU.NE,-28.38,0.273,,
+252,Faircourt Gold Income Corp.,FGX.NE,-41.27,0.4,,
+253,Zefiro Methane Corp.,ZEFI.NE,-61.47,0.644,,
+254,Trillion Energy International Inc.,TCF.CN,-66.9,0.654,1.217,Yes
+255,Texas Instruments Incorporated,TXN.NE,-25.2,0.147,,
+256,BluSkyCarb,BSKY.CN,-84.5,0.681,,
+257,Lithos Group Ltd.,LITS.CN,-84.76,0.613,,
+258,SILVER CROWN ROYALTIES INC.,SCRI.NE,-40.94,0.169,,
+259,SAP SE,SAPS.NE,-36.57,0.134,,
+260,GrtNrthEnrMtls,GNEM.CN,-98.49,0.628,,
+261,SOFTBANK CDR (CAD HEDGED),SFTB.NE,-71.09,,,
+262,SIEMENS CDR (CAD HEDGED),SMNS.NE,-25.05,,,
+263,Toyota Motor Corporation,TOYM.NE,-19.24,,,
+264,WELLS FARGO CDR (CAD HEDGED),WFCS.NE,-74.56,,,
+265,"Merck & Co., Inc.",MRK.NE,-12.5,,,
+266,Nestlé S.A.,NEST.NE,43.6,,,
+267,NINTENDO CDR (CAD HEDGED),NTDO.NE,-57.81,,,
+268,NOVO NORDISK CDR (CAD HEDGED),NVON.NE,-96.89,,,
+269,NOVARTIS CDR (CAD HEDGED),NVS.NE,3.71,,,
+270,Oracle Corporation,ORAC.NE,-85.28,,,
+271,Occidental Petroleum Corporation,OXY.NE,27.16,,,
+272,Palantir Technologies Inc.,PLTR.NE,-13.44,,,
+273,,PP-H.V,0.0,0.0,0.0,No
+274,Roche Holding AG,ROG.NE,-15.66,,,
+275,"Honda Motor Co., Ltd.",HNDA.NE,13.11,,,
+276,ING CDR (CAD HEDGED),INGS.NE,130.17,,,
+277,MERCEDES CDR (CAD HEDGED),MB.NE,-46.36,,,
+278,BMW CDR (CAD HEDGED),BMW.NE,-61.0,,,
+279,Blackstone Inc.,BX.NE,-81.88,,,
+280,"Chipotle Mexican Grill, Inc.",CMGS.NE,-65.88,,,
+281,"Airbnb, Inc.",ABNB.NE,-84.76,,,
+282,"Applied Materials, Inc.",AMAT.NE,-63.4,,,
+283,Arista Networks Inc,ANET.NE,-89.89,,,
+284,Anteros Metals Inc.,ANT.CN,-99.99,,,
+285,ASML Holding N.V.,ASML.NE,-75.82,,,
+286,MERCEDES-BENZ CDR (CAD HEDGED),BENZ.NE,-71.16,,,

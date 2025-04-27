@@ -1,0 +1,386 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Türk Tuborg Bira ve Malt Sanayii A.S.,TBORG.IS,133.27,0.43,0.234,Yes
+2,Migros Ticaret A.S.,MGROS.IS,152.44,0.482,1.0,Yes
+3,MLP Saglik Hizmetleri A.S.,MPARK.IS,139.93,0.455,0.808,Yes
+4,Pegasus Hava Tasimaciligi Anonim Sirketi,PGSUS.IS,135.65,0.466,1.003,Yes
+5,Reysas Gayrimenkul Yatirim Ortakligi A.S.,RYGYO.IS,210.92,0.647,1.39,Yes
+6,KIRAC GALVANIZ,TCKRC.IS,87.78,0.354,,
+7,BIM Birlesik Magazalar A.S.,BIMAS.IS,95.91,0.386,0.662,Yes
+8,TAV Havalimanlari Holding A.S.,TAVHL.IS,92.68,0.381,0.844,Yes
+9,Çelebi Hava Servisi A.S.,CLEBI.IS,176.96,0.605,0.621,Yes
+10,Lydia Yesil Enerji Kaynaklari A.S.,LYDYE.IS,49.69,0.238,,
+11,Turkiye Garanti Bankasi A.S.,GARAN.IS,141.07,0.531,1.028,Yes
+12,Panora Gayrimenkul Yatirim Ortakligi A.S.,PAGYO.IS,91.27,0.389,0.715,Yes
+13,Çimsa Çimento Sanayi ve Ticaret A.S.,CIMSA.IS,170.27,0.618,1.279,Yes
+14,Türkiye Sigorta A.S.,TURSG.IS,209.09,0.715,1.294,Yes
+15,Türk Hava Yollari Anonim Ortakligi,THYAO.IS,120.57,0.497,1.182,Yes
+16,Akçansa Çimento Sanayi ve Ticaret Anonim Sirketi,AKCNS.IS,132.04,0.537,1.096,Yes
+17,Dinamik Isi Makina Yalitim Malzemeleri Sanayi Ve Ticaret Anonim Sirketi,DNISI.IS,161.08,0.616,1.033,Yes
+18,Safkar Ege Sogutmacilik Klima Soguk Hava Tesisleri Ihracat Ithalat Sanayi ve Ticaret Anonim Sirketi,SAFKR.IS,159.13,0.616,1.251,Yes
+19,AG Anadolu Grubu Holding A.S.,AGHOL.IS,121.06,0.511,0.729,Yes
+20,Akbank T.A.S.,AKBNK.IS,115.28,0.498,1.126,Yes
+21,Anadolu Anonim Türk Sigorta Sirketi,ANSGR.IS,215.18,0.758,1.138,Yes
+22,Torunlar Gayrimenkul Yatirim Ortakligi A.S.,TRGYO.IS,136.93,0.563,1.224,Yes
+23,DO & CO Aktiengesellschaft,DOCO.IS,93.44,0.428,0.295,Yes
+24,Anel Elektrik Proje Taahhüt ve Ticaret Anonim Sirketi,ANELE.IS,116.74,0.506,0.618,Yes
+25,Kalekim Kimyevi Maddeler Sanayi Ve Ticaret Anonim Sirketi,KLKIM.IS,117.05,0.508,0.685,Yes
+26,Orge Enerji Elektrik Taahhüt Anonim Sirketi,ORGE.IS,176.61,0.68,1.159,Yes
+27,Mavi Giyim Sanayi ve Ticaret A.S.,MAVI.IS,128.25,0.548,0.93,Yes
+28,Eminis Ambalaj Sanayi ve Ticaret A.S.,EMNIS.IS,236.51,0.82,0.521,Yes
+29,BIST 100,XU100.IS,68.97,0.345,1.0,Yes
+30,Göltas Göller Bölgesi Cimento Sanayi ve Ticaret A.S.,GOLTS.IS,152.07,0.631,1.147,Yes
+31,Hitit Bilgisayar Hizmetleri A.S.,HTTBT.IS,138.04,0.591,0.848,Yes
+32,Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi,AEFES.IS,108.66,0.498,0.882,Yes
+33,Türkiye Is Bankasi A.S.,ISCTR.IS,123.86,0.552,1.082,Yes
+34,AgeSA Hayat ve Emeklilik Anonim Sirketi,AGESA.IS,124.34,0.562,0.912,Yes
+35,Escar Filo Kiralama Hizmetleri A.S.,ESCAR.IS,198.56,0.782,1.077,Yes
+36,Haci Ömer Sabanci Holding A.S.,SAHOL.IS,81.1,0.416,1.095,Yes
+37,Türkiye Petrol Rafinerileri A.S.,TUPRS.IS,99.75,0.487,1.043,Yes
+38,Enka Insaat ve Sanayi A.S.,ENKAI.IS,81.18,0.419,0.617,Yes
+39,Aygaz A.S.,AYGAZ.IS,161.4,0.691,1.176,Yes
+40,Margün Enerji Üretim Sanayi ve Ticaret A.S.,MAGEN.IS,183.14,0.757,1.375,Yes
+41,DYO Boya Fabrikalari Sanayi ve Ticaret A.S.,DYOBY.IS,116.0,0.559,0.929,Yes
+42,Selçuk Ecza Deposu Ticaret ve Sanayi A.S.,SELEC.IS,103.15,0.515,0.733,Yes
+43,Global Yatirim Holding A.S.,GLYHO.IS,131.67,0.616,1.339,Yes
+44,Ford Otomotiv Sanayi A.S.,FROTO.IS,72.08,0.393,0.737,Yes
+45,Türk Traktör ve Ziraat Makineleri A.S.,TTRAK.IS,133.0,0.623,1.269,Yes
+46,Yapi ve Kredi Bankasi A.S.,YKBNK.IS,102.71,0.519,1.145,Yes
+47,Selçuk Gida Endüstri Ihracat Ithalat A.S.,SELGD.IS,191.88,0.804,0.725,Yes
+48,Akis Gayrimenkul Yatirim Ortakligi A.S.,AKSGY.IS,155.94,0.705,1.211,Yes
+49,Yibitas Yozgat Isçi Birligi Insaat Malzemeleri Ticaret ve Sanayi A.S.,YBTAS.IS,190.55,0.806,0.643,Yes
+50,Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S.,PRZMA.IS,152.04,0.696,0.318,Yes
+51,Is Yatirim Menkul Degerler Anonim Sirketi,ISMEN.IS,180.89,0.782,1.453,Yes
+52,Derimod Konfeksiyon Ayakkabi Deri Sanayi ve Ticaret A.S.,DERIM.IS,151.78,0.698,0.81,Yes
+53,Enerjisa Enerji A.S.,ENJSA.IS,90.02,0.481,1.134,Yes
+54,Koç Holding A.S.,KCHOL.IS,79.1,0.436,1.072,Yes
+55,Ülker Bisküvi Sanayi A.S.,ULKER.IS,131.43,0.636,1.07,Yes
+56,Ata Gayrimenkul Yatirim Ortakligi A.S.,ATAGY.IS,92.43,0.5,0.916,Yes
+57,Anadolu Hayat Emeklilik Anonim Sirketi,ANHYT.IS,147.47,0.703,1.162,Yes
+58,Turkcell Iletisim Hizmetleri A.S.,TCELL.IS,89.76,0.495,1.136,Yes
+59,Ege Profil Ticaret ve Sanayi Anonim Sirketi,EGPRO.IS,136.69,0.68,1.272,Yes
+60,Verusa Holding A.S.,VERUS.IS,84.41,0.48,0.562,Yes
+61,Dogan Sirketler Grubu Holding A.S.,DOHOL.IS,95.51,0.533,1.294,Yes
+62,Hedef Holding A.S,HEDEF.IS,141.79,0.712,1.05,Yes
+63,Ostim Endüstriyel Yatirimlar ve Isletme A.S.,OSTIM.IS,165.26,0.799,1.555,Yes
+64,Körfez Gayrimenkul Yatirim Ortakligi A.S.,KRGYO.IS,201.71,0.911,0.183,Yes
+65,Bms Celik Hasir Sanayi Ve Ticaret Anonim Sirketi,BMSCH.IS,82.83,0.488,0.487,Yes
+66,Konfrut Gida Sanayi ve Ticaret A.S.,KNFRT.IS,82.98,0.489,0.575,Yes
+67,Otokar Otomotiv ve Savunma Sanayi A.S.,OTKAR.IS,113.45,0.619,1.056,Yes
+68,Ekiz Kimya Sanayi ve Ticaret Anonim Sirketi,EKIZ.IS,155.51,0.771,1.276,Yes
+69,ICU Girisim Sermayesi Yatirim Ortakligi A.S.,ICUGS.IS,155.28,0.772,0.908,Yes
+70,Gimat Magazacilik Sanayi ve Ticaret A.S.,GMTAS.IS,77.33,0.465,0.05,Yes
+71,Isiklar Enerji ve Yapi Holding A.S.,IEYHO.IS,192.82,0.892,1.349,Yes
+72,Desa Deri Sanayi ve Ticaret A.S.,DESA.IS,145.5,0.743,1.542,Yes
+73,Dogus Otomotiv Servis ve Ticaret A.S.,DOAS.IS,91.93,0.534,1.074,Yes
+74,Astor Enerji A.S.,ASTOR.IS,138.41,0.72,,
+75,Türk Telekomünikasyon Anonim Sirketi,TTKOM.IS,94.72,0.548,1.034,Yes
+76,"EIS Eczacibasi Ilaç, Sinai ve Finansal Yatirimlar Sanayi ve Ticaret A.S.",ECILC.IS,90.2,0.532,1.1,Yes
+77,Borusan Birlesik Boru Fabrikalari Sanayi ve Ticaret A.S.,BRSAN.IS,237.83,1.044,0.724,Yes
+78,Gedik Yatirim Menkul Degerler A.S.,GEDIK.IS,67.0,0.429,0.732,Yes
+79,Gelecek Varlik Yönetimi Anonim Sirketi,GLCVY.IS,83.31,0.509,1.041,Yes
+80,OYAK Çimento Fabrikalari A.S.,OYAKC.IS,203.5,0.954,1.014,Yes
+81,Arsan Tekstil Ticaret ve Sanayi Anonim Sirketi,ARSAN.IS,97.92,0.581,1.106,Yes
+82,Batiçim Bati Anadolu Çimento Sanayii Anonim Sirketi,BTCIM.IS,123.21,0.688,0.679,Yes
+83,Birko Birlesik Koyunlulular Mensucat Ticaret ve Sanayi A.S.,BRKO.IS,216.14,1.005,0.363,Yes
+84,Global Menkul Degerler Anonim Sirketi,GLBMD.IS,98.32,0.587,0.71,Yes
+85,Emlak Konut Gayrimenkul Yatirim Ortakligi A.S.,EKGYO.IS,102.3,0.605,1.274,Yes
+86,Ulaslar Turizm Yatirimlari ve Dayanikli Tüketim Mallari Ticaret Pazarlama A.S.,ULAS.IS,149.77,0.794,0.929,Yes
+87,Nuh Çimento Sanayi A.S.,NUHCM.IS,157.82,0.823,0.891,Yes
+88,Datagate Bilgisayar Malzemeleri Ticaret Anonim Sriketi,DGATE.IS,95.02,0.575,1.223,Yes
+89,Pinar Su ve Icecek Sanayi ve Ticaret A.S.,PINSU.IS,99.07,0.597,0.965,Yes
+90,Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi,YEOTK.IS,226.28,1.047,1.956,Yes
+91,Türkiye Sinai Kalkinma Bankasi A.S.,TSKB.IS,131.13,0.733,1.468,Yes
+92,Ege Endüstri ve Ticaret A.S.,EGEEN.IS,112.12,0.66,1.063,Yes
+93,MMC Sanayi Ve Ticari Yatirimlar A.S.,MMCAS.IS,174.38,0.896,1.112,Yes
+94,Yünsa Yünlü Sanayi ve Ticaret A.S.,YUNSA.IS,91.07,0.569,1.138,Yes
+95,Ahlatci Dogal Gaz Dagitim Enerji ve Yatirim A.S.,AHGAZ.IS,76.1,0.498,,
+96,Polisan Holding A.S.,POLHO.IS,88.3,0.56,0.975,Yes
+97,Despec Bilgisayar Pazarlama ve Ticaret Anonim Sirketi,DESPC.IS,84.21,0.542,0.867,Yes
+98,Türkiye Vakiflar Bankasi Türk Anonim Ortakligi,VAKBN.IS,108.45,0.658,1.209,Yes
+99,Merit Turizm Yatirim ve Isletme Anonim Sirketi,MERIT.IS,84.21,0.545,0.805,Yes
+100,Akmerkez Gayrimenkul Yatirim Ortakligi A.S.,AKMGY.IS,98.41,0.614,0.896,Yes
+101,TGS Dis Ticaret Anonim Sirketi,TGSAS.IS,98.76,0.616,0.998,Yes
+102,Gersan Elektrik Ticaret ve Sanayi Anonim Sirketi,GEREL.IS,116.07,0.695,0.381,Yes
+103,Ayes Celik Hasir Ve Cit Sanayi A.S.,AYES.IS,87.49,0.567,0.93,Yes
+104,Bogazici Beton Sanayi Ve Ticaret Anonim Sirketi,BOBET.IS,106.96,0.66,1.056,Yes
+105,Balatacilar Balatacilik Sanayi Ve Ticaret A.S.,BALAT.IS,160.42,0.877,0.572,Yes
+106,ODINE TEKNOLOJI,ODINE.IS,226.12,1.094,,
+107,Yayla Enerji Üretim Turizm ve Insaat Ticaret A.S.,YAYLA.IS,160.22,0.88,1.014,Yes
+108,Europap Tezol Kagit Sanayi ve Ticaret A.S.,TEZOL.IS,101.7,0.639,1.235,Yes
+109,Alarko Holding A.S.,ALARK.IS,80.53,0.537,1.089,Yes
+110,Konya Çimento Sanayii Anonim Sirketi,KONYA.IS,143.19,0.818,1.31,Yes
+111,Bosch Fren Sistemleri Sanayi ve Ticaret A.S.,BFREN.IS,160.53,0.884,1.232,Yes
+112,Ozak Gayrimenkul Yatirim Ortakligi A.S.,OZKGY.IS,101.12,0.639,1.359,Yes
+113,Isik Plastik Sanayi ve Dis Ticaret Pazarlama Anonim Sirketi,ISKPL.IS,105.58,0.66,0.922,Yes
+114,Cimbeton Hazir Beton ve Prefabrik Yapi Elemanlari Sanayi ve Ticaret Anonim Sirketi,CMBTN.IS,222.5,1.097,0.751,Yes
+115,Yesil Gayrimenkul Yatirim Ortakligi A.S.,YGYO.IS,156.91,0.88,1.497,Yes
+116,Otto Holding A.S.,OTTO.IS,192.25,1.009,1.101,Yes
+117,Turcas Petrol A.S.,TRCAS.IS,123.47,0.748,1.333,Yes
+118,Orma Orman Mahsulleri Integre Sanayi Ve Ticaret A.S.,ORMA.IS,129.79,0.776,0.883,Yes
+119,Temapol Polimer Plastik ve Insaat Sanayi Ticaret Anonim Sirketi,TMPOL.IS,93.43,0.612,0.838,Yes
+120,Albaraka Türk Katilim Bankasi A.S.,ALBRK.IS,101.86,0.654,1.365,Yes
+121,Borusan Yatirim ve Pazarlama A.S.,BRYAT.IS,114.89,0.715,1.243,Yes
+122,Eczacibasi Yatirim Holding Ortakligi A.S.,ECZYT.IS,88.89,0.592,1.119,Yes
+123,Elite Naturel Organik Gida Sanayi ve Ticaret A.S.,ELITE.IS,107.35,0.682,0.823,Yes
+124,Is Girisim Sermayesi Yatirim Ortakligi AS,ISGSY.IS,94.06,0.623,1.223,Yes
+125,Ard Grup Bilisim Teknolojileri Anonim Sirketi,ARDYZ.IS,115.3,0.728,1.407,Yes
+126,Mistral Gayrimenkul Yatirim Ortakligi A.S.,MSGYO.IS,83.47,0.574,0.893,Yes
+127,Metemtur Yatirim Enerji Turizm ve Insaat Anonim Sirketi,METUR.IS,195.69,1.048,1.316,Yes
+128,Vanet Gida Sanayi Iç Ve Dis Ticaret Anonim Sirketi,VANGD.IS,120.69,0.756,0.775,Yes
+129,Naturel Yenilenebilir Enerji Ticaret Anonim Sirketi,NATEN.IS,124.74,0.78,1.266,Yes
+130,Kafein Yazilim Hizmetleri Ticaret A.S.,KFEIN.IS,141.52,0.856,0.891,Yes
+131,Duran Dogan Basim ve Ambalaj Sanayi A.S.,DURDO.IS,77.08,0.548,0.615,Yes
+132,Avrasya Petrol ve Turistik Tesisler Yatirimlar Anonim Sirketi,AVTUR.IS,93.24,0.636,0.94,Yes
+133,Bastas Baskent Cimento Sanayi ve Ticaret A.S.,BASCM.IS,104.48,0.693,0.9,Yes
+134,Fuzul Gayrimenkul Yatirim Ortakligi Anonim Sirketi,FZLGY.IS,173.82,0.988,,
+135,Metro Yatirim Ortakligi A.S.,MTRYO.IS,82.35,0.581,1.006,Yes
+136,Garanti Faktoring A.S.,GARFA.IS,137.87,0.849,1.384,Yes
+137,Altin Yunus Çesme Turistik Tesisler A.S.,AYCES.IS,156.09,0.924,1.437,Yes
+138,Galata Wind Enerji A.S.,GWIND.IS,87.88,0.613,1.328,Yes
+139,Suwen Tekstil Sanayi Pazarlama A.S.,SUWEN.IS,117.5,0.762,0.314,Yes
+140,Menderes Tekstil Sanayi ve Ticaret Anonim Sirketi,MNDRS.IS,93.43,0.651,1.115,Yes
+141,Tümosan Motor ve Traktör Sanayi A.S.,TMSN.IS,105.78,0.714,0.943,Yes
+142,Kerevitas Gida Sanayi ve Ticaret A.S.,KERVT.IS,86.84,0.619,1.159,Yes
+143,Aksa Akrilik Kimya Sanayii A.S.,AKSA.IS,65.77,0.498,0.68,Yes
+144,Trend Gayrimenkul Yatirim Ortakligi A.S.,TDGYO.IS,103.91,0.714,0.911,Yes
+145,Bursa Cimento Fabrikasi A.S.,BUCIM.IS,65.15,0.501,0.97,Yes
+146,Vakif Finansal Kiralama A.S.,VAKFN.IS,96.33,0.679,1.586,Yes
+147,Burçelik Bursa Çelik Döküm Sanayii A.S.,BURCE.IS,127.54,0.833,0.511,Yes
+148,Oylum Sinai Yatirimlar Anonim Sirketi,OYLUM.IS,72.53,0.547,0.812,Yes
+149,Koleksiyon Mobilya Sanayi A.S.,KLSYN.IS,52.69,0.424,0.631,Yes
+150,Aksigorta A.S.,AKGRT.IS,89.18,0.645,1.354,Yes
+151,Türkiye Halk Bankasi A.S.,HALKB.IS,87.01,0.635,1.232,Yes
+152,Gübre Fabrikalari Türk Anonim Sirketi,GUBRF.IS,90.83,0.665,1.003,Yes
+153,Ulusal Faktoring A.S.,ULUFA.IS,129.88,0.864,1.157,Yes
+154,Özsu Balik Üretim Anonim Sirketi,OZSUB.IS,118.88,0.813,,
+155,Sok Marketler Ticaret A.S.,SOKM.IS,61.07,0.489,0.811,Yes
+156,Garanti Yatirim Ortakligi A.S.,GRNYO.IS,79.08,0.6,0.895,Yes
+157,Akenerji Elektrik Üretim A.S.,AKENR.IS,159.16,0.998,1.037,Yes
+158,Net Holding A.S.,NTHOL.IS,67.61,0.535,0.89,Yes
+159,San-el Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.S.,SANEL.IS,98.15,0.716,0.449,Yes
+160,Sumas Suni Tahta ve Mobilya Sanayi A.S.,SUMAS.IS,123.57,0.848,0.776,Yes
+161,Burçelik Vana Sanayi ve Ticaret A.S.,BURVA.IS,120.45,0.833,1.203,Yes
+162,Logo Yazilim Sanayi ve Ticaret A.S.,LOGO.IS,64.24,0.519,0.788,Yes
+163,Lüks Kadife Ticaret ve Sanayi A.S.,LUKSK.IS,83.92,0.641,1.075,Yes
+164,Çelik Halat ve Tel Sanayii A.S.,CELHA.IS,121.89,0.846,1.454,Yes
+165,VBT Yazilim Anonim Sirketi,VBTYZ.IS,111.5,0.798,1.467,Yes
+166,Atlas Menkul Kiymetler Yatirim Ortakligi A.S.,ATLAS.IS,92.08,0.694,1.432,Yes
+167,Atakule Gayrimenkul Yatirim Ortakligi A.S.,AGYO.IS,46.3,0.401,0.435,Yes
+168,Bossa Ticaret ve Sanayi Isletmeleri T.A.S.,BOSSA.IS,64.62,0.529,0.883,Yes
+169,Tek-Art Insaat Ticaret Turizm Sanayi ve Yatirimlar Anonim Sirketi,TEKTU.IS,54.01,0.457,0.938,Yes
+170,Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret A.S.,BRISA.IS,63.39,0.521,1.072,Yes
+171,Nasmed Özel Saglik Hizmetleri Ticaret Anonim Sirketi,EGEPO.IS,83.75,0.649,0.994,Yes
+172,Özerden Ambalaj Sanayi A.S.,OZRDN.IS,75.91,0.603,0.445,Yes
+173,Smartiks Yazilim A.S.,SMART.IS,141.7,0.956,1.58,Yes
+174,Alarko Carrier Sanayi ve Ticaret A.S.,ALCAR.IS,95.94,0.723,0.998,Yes
+175,Birlik Mensucat Ticaret ve Sanayi Isletmesi A.S.,BRMEN.IS,115.17,0.827,1.013,Yes
+176,Kiler Gayrimenkul Yatirim Ortakligi A.S.,KLGYO.IS,98.98,0.741,1.61,Yes
+177,Merko Gida Sanayi ve Ticaret A.S.,MERKO.IS,93.57,0.714,1.033,Yes
+178,Trabzon Liman Isletmeciligi Anonim Sirketi,TLMAN.IS,64.75,0.539,1.183,Yes
+179,Rodrigo Tekstil Sanayi ve Ticaret A.S.,RODRG.IS,125.48,0.892,0.085,Yes
+180,Afyon Çimento Sanayi Türk Anonim Sirketi,AFYON.IS,105.31,0.787,1.091,Yes
+181,Koza Anadolu Metal Madencilik Isletmeleri A.S.,KOZAA.IS,59.06,0.505,0.93,Yes
+182,Creditwest Faktoring Anonim Sirketi,CRDFA.IS,92.67,0.723,1.119,Yes
+183,Kocaer Celik Sanayi ve Ticaret Anonim Sirketi,KCAER.IS,93.69,0.731,,
+184,Seker Finansal Kiralama A.S.,SEKFK.IS,63.54,0.542,1.301,Yes
+185,Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.S.,MEPET.IS,57.45,0.499,1.091,Yes
+186,Skyalp Finansal Teknolojiler ve Danismanlik A.S.,SKYLP.IS,131.47,0.942,1.376,Yes
+187,Bera Holding A.S.,BERA.IS,74.81,0.619,0.904,Yes
+188,Berkosan Yalitim Ve Tecrit Maddeleri Üretim Ve Ticaret A.S.,BRKSN.IS,144.42,1.009,1.988,Yes
+189,Indeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret Anonim Sirketi,INDES.IS,68.72,0.582,1.172,Yes
+190,Yesil Yapi Endüstrisi A.S.,YYAPI.IS,92.18,0.731,1.235,Yes
+191,AVRUPAKENT GMYO,AVPGY.IS,54.34,0.482,,
+192,Vakif Gayrimenkul Yatirim Ortakligi AS,VKGYO.IS,71.14,0.6,1.255,Yes
+193,Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S.,PKART.IS,97.42,0.765,1.358,Yes
+194,Park Elektrik Üretim Madencilik Sanayi ve Ticaret A.S.,PRKME.IS,75.02,0.628,1.432,Yes
+195,Aztek Teknoloji Urunleri Ticaret Anonim Sirketi,AZTEK.IS,131.24,0.959,,
+196,Dogan Burda Dergi Yayincilik Ve Pazarlama A.S.,DOBUR.IS,126.02,0.932,0.631,Yes
+197,Banvit Bandirma Vitaminli Yem Sanayii Anonim Sirketi,BANVT.IS,60.03,0.53,0.229,Yes
+198,Alcatel Lucent Teletas Telekomünikasyon A.S.,ALCTL.IS,96.13,0.768,1.326,Yes
+199,Sekerbank T.A.S.,SKBNK.IS,139.6,1.005,1.608,Yes
+200,Pergamon Status Dis Ticaret A.S.,PSDTC.IS,87.39,0.716,0.958,Yes
+201,Euro Menkul Kiymet Yatirim Ortakligi Anonim Sirketi,EUYO.IS,104.55,0.821,1.484,Yes
+202,Lider Faktoring A.S.,LIDFA.IS,71.52,0.615,0.381,Yes
+203,Is Yatirim Ortakligi A.S.,ISYAT.IS,58.75,0.527,0.914,Yes
+204,Tugçelik Alüminyum Ve Metal Mamulleri Sanayi Ve Ticaret A.S.,TUCLK.IS,84.7,0.707,1.441,Yes
+205,Kiler Holding Anonim Sirketi,KLRHO.IS,110.01,0.859,,
+206,Ege Gübre Sanayii A.S.,EGGUB.IS,63.0,0.563,0.958,Yes
+207,Gipta Ofis Kirtasiye ve Promosyon Ürünleri Imalat Sanayi A.S.,GIPTA.IS,75.87,0.653,,
+208,Tofas Türk Otomobil Fabrikasi Anonim Sirketi,TOASO.IS,53.57,0.493,1.034,Yes
+209,Sodas Sodyum Sanayii A.S.,SODSN.IS,102.06,0.821,0.815,Yes
+210,ATP Yazilim ve Teknoloji Anonim Sirketi,ATATP.IS,97.17,0.793,1.07,Yes
+211,Beyaz Filo Oto Kiralama A.S.,BEYAZ.IS,58.63,0.535,0.876,Yes
+212,Ihlas Yayin Holding A.S.,IHYAY.IS,85.99,0.724,0.98,Yes
+213,Zedur Enerji Elektrik Üretim Anonim Sirketi,ZEDUR.IS,104.05,0.839,1.777,Yes
+214,Sanko Pazarlama Ithalat Ihracat Anonim Sirketi,SANKO.IS,59.01,0.541,0.989,Yes
+215,Ensari Deri Gida Sanayi ve Ticaret A.S.,ENSRI.IS,98.88,0.815,0.777,Yes
+216,Marshall Boya Ve Vernik Sanayii A.S.,MRSHL.IS,160.63,1.155,0.118,Yes
+217,Euro Kapital Yatirim Ortakligi Anonim Sirketi,EUKYO.IS,82.26,0.714,0.85,Yes
+218,CEM ZEYTIN,CEMZY.IS,52.23,0.497,,
+219,Kontrolmatik Teknoloji Enerji Ve Muhendislik Anonim Sirketi,KONTR.IS,101.86,0.841,1.85,Yes
+220,Pinar Süt Mamülleri Sanayii A.S.,PNSUT.IS,46.77,0.455,1.08,Yes
+221,Dogusan Boru Sanayii ve Ticaret A.S.,DOGUB.IS,133.94,1.029,0.806,Yes
+222,ICBC Turkey Bank A.S.,ICBCT.IS,55.36,0.528,0.94,Yes
+223,Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S.,IPEKE.IS,75.08,0.676,1.368,Yes
+224,Intema Insaat ve Tesisat Malzemeleri Yatirim ve Pazarlama A.S.,INTEM.IS,92.65,0.795,0.728,Yes
+225,Is Finansal Kiralama Anonim Sirketi,ISFIN.IS,102.45,0.857,1.517,Yes
+226,Sekuro Plastik Ambalaj Sanayi A.S.,SEKUR.IS,70.31,0.646,1.009,Yes
+227,Marmaris Altinyunus Turistik Tesisler A.S.,MAALT.IS,70.48,0.65,0.924,Yes
+228,Kervansaray Yatirim Holding A.S.,KERVN.IS,96.96,0.833,1.323,Yes
+229,Edip Gayrimenkul Yatirim Sanayi ve Ticaret A.S.,EDIP.IS,228.63,1.494,2.809,Yes
+230,Euro Trend Yatirim Ortakligi A.S.,ETYAT.IS,92.35,0.805,1.066,Yes
+231,Netas Telekomünikasyon A.S.,NETAS.IS,85.76,0.762,1.137,Yes
+232,Pinar Entegre Et ve Un Sanayii A.S.,PETUN.IS,53.92,0.527,1.168,Yes
+233,Zorlu Enerji Elektrik Üretim A.S.,ZOREN.IS,68.69,0.641,1.499,Yes
+234,Doganlar Mobilya Grubu Imalat Sanayi ve Ticaret Anonim Sirketi,DGNMO.IS,73.04,0.676,1.535,Yes
+235,Aciselsan Acipayam Selüloz Sanayi ve Ticaret A.S.,ACSEL.IS,50.52,0.503,0.908,Yes
+236,Servet Gayrimenkul Yatirim Ortakligi A.S.,SRVGY.IS,47.23,0.478,0.702,Yes
+237,Alarko Gayrimenkul Yatirim Ortakligi A.S.,ALGYO.IS,48.89,0.493,1.144,Yes
+238,Adese Gayrimenkul Yatirim A.S.,ADESE.IS,53.46,0.531,1.297,Yes
+239,Dogus Gayrimenkul Yatirim Ortakligi A.S.,DGGYO.IS,124.59,1.025,0.489,Yes
+240,Arena Bilgisayar Sanayi ve Ticaret A.S.,ARENA.IS,79.28,0.733,1.028,Yes
+241,ÜNLÜ Yatirim Holding A.S.,UNLU.IS,53.48,0.538,0.978,Yes
+242,Kent Gida Maddeleri Sanayii ve Ticaret A.S.,KENT.IS,132.43,1.077,0.412,Yes
+243,Sarkuysan Elektrolitik Bakir Sanayi ve Ticaret A.S.,SARKY.IS,46.46,0.479,1.011,Yes
+244,Federal-Mogul Izmit Piston Ve Pim Üretim Tesisleri A.S.,FMIZP.IS,60.5,0.604,0.551,Yes
+245,Gediz Ambalaj Sanayi ve Ticaret A.S.,GEDZA.IS,60.7,0.607,0.971,Yes
+246,Parsan Makina Parçalari Sanayii A.S.,PARSN.IS,47.29,0.494,1.085,Yes
+247,Arçelik Anonim Sirketi,ARCLK.IS,40.05,0.429,0.934,Yes
+248,Turk Ilac Ve Serum Sanayi Anonim Sirketi,TRILC.IS,54.64,0.558,0.78,Yes
+249,Enerya Enerji Anonim Sirketi,ENERY.IS,37.22,0.404,,
+250,Makim Makina Teknolojileri Sanayi Ve Ticaret A.S.,MAKIM.IS,53.28,0.548,,
+251,Alfa Solar Enerji Sanayi ve Ticaret A.S.,ALFAS.IS,109.58,0.966,,
+252,Baskent Dogalgaz Dagitim Gayrimenkul Yatirim Ortakligi A.S.,BASGZ.IS,51.32,0.534,0.939,Yes
+253,Sönmez Filament Sentetik Iplik ve Elyaf Sanayi A.S.,SONME.IS,62.29,0.628,0.78,Yes
+254,Avrasya Gayrimenkul Yatirim Ortakligi Anonim Sirketi,AVGYO.IS,81.21,0.777,1.382,Yes
+255,Kron Teknoloji A.S.,KRONT.IS,72.11,0.712,1.515,Yes
+256,Klimasan Klima Sanayi ve Ticaret A.S.,KLMSN.IS,43.01,0.467,1.022,Yes
+257,CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.,CRFSA.IS,49.82,0.528,0.748,Yes
+258,Kimteks Poliüretan Sanayi ve Ticaret A.S.,KMPUR.IS,63.51,0.657,1.469,Yes
+259,OBA MAKARNACILIK,OBAMS.IS,56.7,0.6,,
+260,Ozderici Gayrimenkul Yatirim Ortakligi A.S.,OZGYO.IS,50.88,0.559,1.187,Yes
+261,QUA Granite Hayal Yapi ve Ürünleri Sanayi Ticaret A.S.,QUAGR.IS,46.91,0.522,0.531,Yes
+262,PC Iletisim ve Medya Hizmetleri Sanayi Ticaret A.S.,PCILT.IS,81.19,0.818,1.488,Yes
+263,Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.S.,KRDMD.IS,44.69,0.504,0.917,Yes
+264,CVK Maden Isletmeleri Sanayi ve Ticaret Anonim Sirketi,CVKMD.IS,86.35,0.858,,
+265,Yonga Mobilya Sanayi ve Ticaret A.S.,YONGA.IS,67.28,0.718,0.859,Yes
+266,Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.S.,KRDMB.IS,47.01,0.535,0.888,Yes
+267,Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret A.S.,SAYAS.IS,89.65,0.904,2.002,Yes
+268,GSD Holding A.S.,GSDHO.IS,49.33,0.561,1.357,Yes
+269,Jantsa Jant Sanayi ve Ticaret A.S.,JANTS.IS,56.95,0.638,1.026,Yes
+270,Karsan Otomotiv Sanayii ve Ticaret A.S.,KARSN.IS,54.87,0.62,0.965,Yes
+271,Metro Ticari ve Mali Yatirimlar Holding A.S.,METRO.IS,48.09,0.561,1.245,Yes
+272,Karel Elektronik Sanayi Ve Ticaret A.S.,KAREL.IS,78.34,0.837,1.699,Yes
+273,Aydem Yenilenebilir Enerji A.S.,AYDEM.IS,47.61,0.561,1.282,Yes
+274,Kaplamin Ambalaj Sanayi ve Ticaret A.S.,KAPLM.IS,63.48,0.712,1.006,Yes
+275,Türker Proje Gayrimenkul ve Yatirim Gelistirme A.S.,TURGG.IS,56.52,0.649,0.612,Yes
+276,Kutahya Seker Fabrikasi Anonim Sirketi,KTSKR.IS,49.28,0.58,1.257,Yes
+277,Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.S.,ARZUM.IS,60.85,0.693,0.834,Yes
+278,Osmanli Yatirim Menkul Degerler A.S.,OSMEN.IS,105.0,1.058,1.727,Yes
+279,Sinpas Gayrimenkul Yatirim Ortakligi A.S.,SNGYO.IS,45.87,0.548,0.206,Yes
+280,Sasa Polyester Sanayi A.S.,SASA.IS,51.37,0.61,0.931,Yes
+281,Inveo Yatirim Holding A.S.,INVEO.IS,56.03,0.659,1.216,Yes
+282,Gozde Girisim Sermayesi Yatirim Ortakligi A.S.,GOZDE.IS,52.71,0.63,1.258,Yes
+283,Kervan Gida Sanayi ve Ticaret A.S.,KRVGD.IS,44.48,0.547,1.174,Yes
+284,Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S.,KIMMR.IS,92.49,0.995,0.374,Yes
+285,Platform Turizm Tasimacilik Gida Insaat Temizlik Hizmetleri Sanayi ve Ticaret Anonim Sirketi,PLTUR.IS,45.79,0.568,,
+286,Obase Bilgisayar ve Danismanlik Hizmetleri Ticaret A.S.,OBASE.IS,59.05,0.707,,
+287,Odas Elektrik Üretim Sanayi Ticaret A.S.,ODAS.IS,54.07,0.661,1.464,Yes
+288,Penguen Gida Sanayi A.S.,PENGD.IS,37.79,0.488,0.863,Yes
+289,Fade Gida Yatirim Sanayi Ticaret Anonim Sirketi,FADE.IS,47.93,0.601,1.173,Yes
+290,Iz Yatirim Holding A.S.,IZINV.IS,43.7,0.558,0.855,Yes
+291,Ihlas Gazetecilik A.S.,IHGZT.IS,52.04,0.659,1.077,Yes
+292,Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi,VESTL.IS,41.79,0.553,1.094,Yes
+293,Akin Tekstil Anonim Sirketi,ATEKS.IS,56.89,0.721,1.447,Yes
+294,Dogu Aras Enerji Yatirimlari AS,ARASE.IS,38.3,0.518,0.843,Yes
+295,Oyak Yatirim Ortakligi AS,OYAYO.IS,121.43,1.328,1.914,Yes
+296,ALVES KABLO,ALVES.IS,222.72,1.999,,
+297,Vakif Menkul Kiymet Yatirim Ortakligi A.S.,VKFYO.IS,133.25,1.438,1.526,Yes
+298,Petkim Petrokimya Holding Anonim Sirketi,PETKM.IS,37.92,0.539,1.214,Yes
+299,Saray Matbaacilik Kagitçilik kirtasiyecilik Ticaret Ve Sanayi A.S.,SAMAT.IS,113.0,1.305,0.73,Yes
+300,SDT Uzay ve Savunma Teknolojileri Anonim Sirketi,SDTTR.IS,86.64,1.076,,
+301,Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi,RNPOL.IS,37.72,0.552,0.957,Yes
+302,Kütahya Porselen Sanayi Anonim Sirketi,KUTPO.IS,33.25,0.495,0.971,Yes
+303,Bantas Bandirma Ambalaj Sanayi ve Ticaret A.S.,BNTAS.IS,45.89,0.655,1.331,Yes
+304,Karsu Tekstil Sanayii ve Ticaret A.S.,KRTEK.IS,36.47,0.546,0.928,Yes
+305,Döktas Dökümcülük Ticaret ve Sanayi A.S.,DOKTA.IS,43.58,0.637,0.8,Yes
+306,Besiktas Futbol Yatirimlari Sanayi ve Ticaret A.S.,BJKAS.IS,79.8,1.051,1.181,Yes
+307,Demisas Döküm Emaye Mamülleri Sanayi Anonim Sirketi,DMSAS.IS,59.07,0.833,0.902,Yes
+308,Deva Holding A.S.,DEVA.IS,34.65,0.546,1.05,Yes
+309,Hub Girisim Sermayesi Yatirim Ortakligi A.S.,HUBVC.IS,37.63,0.592,1.198,Yes
+310,Tukas Gida Sanayi ve Ticaret A.S.,TUKAS.IS,76.03,1.062,1.851,Yes
+311,Is Gayrimenkul Yatirim Ortakligi A.S.,ISGYO.IS,45.62,0.702,1.144,Yes
+312,Erbosan Erciyas Boru Sanayii ve Ticaret A.S.,ERBOS.IS,27.88,0.462,0.606,Yes
+313,Vestel Beyaz Esya Sanayi ve Ticaret A.S.,VESBE.IS,26.42,0.442,0.926,Yes
+314,Bizim Toptan Satis Magazalari A.S.,BIZIM.IS,29.21,0.485,0.736,Yes
+315,Goodyear Lastikleri T.A.S.,GOODY.IS,35.4,0.582,1.207,Yes
+316,Dardanel Onentas Gida Sanayi A.S.,DARDL.IS,32.33,0.546,1.151,Yes
+317,Dmr Unlu Mamuller Uretim Gida Toptan Perakende Ihracat A.S.,DMRGD.IS,37.55,0.624,,
+318,Nigbas Nigde Beton Sanayi Ve Ticaret A.S.,NIBAS.IS,38.56,0.647,1.012,Yes
+319,Galatasaray Sportif Sinai ve Ticari Yatirimlar A.S.,GSRAY.IS,45.91,0.758,1.002,Yes
+320,Yukselen Celik Anonim Sirketi,YKSLN.IS,23.03,0.414,0.792,Yes
+321,Oncosem Onkolojik Sistemler Sanayi Ve Ticaret Anonim Sirketi,ONCSM.IS,85.35,1.285,,
+322,Isbir Holding A.S.,ISBIR.IS,40.89,0.714,0.895,Yes
+323,Hedef Girisim Sermayesi Yatirim Ortakligi A.S.,HDFGS.IS,23.45,0.437,0.977,Yes
+324,Söktas Tekstil Sanayi Ve Ticaret A.S.,SKTAS.IS,37.41,0.669,1.196,Yes
+325,Rubenis Tekstil Sanayi Ticaret A.S.,RUBNS.IS,30.44,0.577,,
+326,Alkim Alkali Kimya A.S.,ALKIM.IS,23.31,0.472,0.958,Yes
+327,LIMAK DOGU ANADOLU,LMKDC.IS,25.73,0.517,,
+328,Eregli Demir ve Çelik Fabrikalari T.A.S.,EREGL.IS,19.63,0.404,0.798,Yes
+329,Iskenderun Demir ve Çelik A.S.,ISDMR.IS,20.66,0.424,0.742,Yes
+330,A.V.O.D Kurutulmus Gida ve Tarim Ürünleri Sanayi Ticaret Anonim Sirketi,AVOD.IS,20.43,0.434,0.969,Yes
+331,Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S.,VERTU.IS,24.4,0.526,1.035,Yes
+332,Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret Anonim Sirketi,EUPWR.IS,46.32,0.931,,
+333,Idealist Gayrimenkul Yatirim Ortakligi A.S.,IDGYO.IS,26.61,0.575,1.064,Yes
+334,Bilici Yatirim Sanayi ve Ticaret A.S.,BLCYT.IS,24.05,0.529,0.961,Yes
+335,Büyük Sefler Gida Turizm Tekstil Danismanlik Organizasyon Egitim Sanayi Ve Ticaret A.S.,BIGCH.IS,26.51,0.598,,
+336,Kordsa Teknik Tekstil A.S.,KORDS.IS,17.96,0.427,0.964,Yes
+337,Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.,KLSER.IS,112.11,2.009,,
+338,Yesil Yatirim Holding Anonim Sirketi,YESIL.IS,48.83,1.074,2.191,Yes
+339,Göknur Gida Maddeleri Enerji Imalat Ithalat Ihracat Ticaret ve Sanayi Anonim Sirketi,GOKNR.IS,30.32,0.721,,
+340,Kayseri Seker Fabrikasi Anonim Sirketi,KAYSE.IS,35.06,0.853,,
+341,Horoz Lojistik Kargo Hizmetleri ve Ticaret Anonim Sirketi,HOROZ.IS,23.21,0.595,,
+342,Eyg Gayrimenkul Yatirim Ortakligi A.S.,EYGYO.IS,17.87,0.474,,
+343,Nurol Gayrimenkul Yatirim Ortakligi A.S.,NUGYO.IS,17.23,0.474,1.096,Yes
+344,Seyitler Kimya Sanayi A.S.,SEYKM.IS,27.85,0.769,1.673,Yes
+345,Aksu Enerji ve Ticaret Anonim Sirketi,AKSUE.IS,19.37,0.555,0.22,Yes
+346,Gulermak Aglr Sanayi Insaat ve Taahhut A.S.,GLRMK.IS,21.56,0.668,,
+347,Adra Gayrimenkul Yatirim Ortakligi Anonim Sirketi,ADGYO.IS,14.4,0.474,,
+348,Petrokent Turizm A.S.,PKENT.IS,20.42,0.693,0.599,Yes
+349,Tarkim Bitki Koruma Sanayi ve Ticaret A.S.,TARKM.IS,30.25,1.034,,
+350,EGEYAPI AVRUPA GMYO,EGEGY.IS,7.91,0.314,,
+351,Europen Endustri Insaat Sanayi ve Ticaret A.S.,EUREN.IS,18.41,0.736,,
+352,Akfen Yenilenebilir Enerji,AKFYE.IS,14.45,0.595,,
+353,Tat Gida Sanayi A.S.,TATGD.IS,10.59,0.559,0.884,Yes
+354,1000 YATIRIMLAR HOL.,BINHO.IS,21.62,1.095,,
+355,CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi,CWENE.IS,11.1,0.672,,
+356,Hektas Ticaret T.A.S.,HEKTS.IS,8.98,0.78,1.258,Yes
+357,IC Enterra Yenilenebilir Enerji A.S.,ENTRA.IS,3.52,0.327,,
+358,Türk Prysmian Kablo ve Sistemleri Anonim Sirketi,PRKAB.IS,4.61,0.447,0.876,Yes
+359,DURUKAN SEKERLEME,DURKN.IS,3.12,0.365,,
+360,CATES ELEKTRIK,CATES.IS,4.4,0.968,,
+361,Pasifik Teknoloji A.S.,PATEK.IS,-4.91,0.845,,
+362,Kuzugrup Gayrimenkul Yatirim Ortakligi A.S.,KZGYO.IS,-4.77,0.442,,
+363,Penta Teknoloji Urunleri Dagitim Ticaret A.S.,PENTA.IS,-9.01,0.696,1.042,Yes
+364,Trabzonspor Sportif Yatirim ve Futbol Isletmeciligi Ticaret A.S.,TSPOR.IS,-7.88,0.576,0.947,Yes
+365,Tureks Turunc Madencilik Ic ve Dis Ticaret A.S.,MARBL.IS,-10.17,0.574,,
+366,Dofer Yapi Malzemeleri Sanayi ve Ticaret A.S.,DOFER.IS,-14.06,0.745,,
+367,Loras Holding A.S.,LRSHO.IS,-14.14,0.603,,
+368,Yigit Aku Malzemeleri Nakliyat Turizm Insaat Sanayi ve Ticaret A.S.,YIGIT.IS,-14.49,0.583,,
+369,Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S.,MNDTR.IS,-15.39,0.547,0.458,Yes
+370,Ebebek Magazacilik Anonim Sirketi,EBEBK.IS,-13.67,0.442,,
+371,RONESANS GAYRIMENKUL YAT.,RGYAS.IS,-13.33,0.362,,
+372,Barem Ambalaj Sanayi ve Ticaret Anonim Sirketi,BARMA.IS,-5.73,0.143,,
+373,Meka Beton Santralleri Imalat Sanayi ve Ticaret A.S.,MEKAG.IS,-19.42,0.486,,
+374,AHES GMYO,AHSGY.IS,-23.05,0.504,,
+375,Sanica Isi Sanayi A.S.,SNICA.IS,-18.34,0.342,,
+376,LILA KAGIT,LILAK.IS,-14.77,0.23,,
+377,ARTEMIS HALI,ARTMS.IS,-36.01,0.534,,
+378,KOC METALURJI,KOCMT.IS,-35.26,0.431,,
+379,Innosa Teknoloji A.S.,INTEK.IS,-37.85,0.236,,
+380,KOTON MAGAZACILIK,KOTON.IS,-39.79,0.248,,
+381,ARMADA GIDA,ARMGD.IS,-62.81,0.08,,
+382,BULLS GSYO,BULGS.IS,-48.41,,,
+383,KALYON GUNES TEKNOLOJILERI,KLYPV.IS,-40.17,,,
+384,SERANIT GRANIT SERAMIK,SERNT.IS,-47.59,,,
+385,Birlesim Grup Enerji,BIGEN.IS,-33.88,,,

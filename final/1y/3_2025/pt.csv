@@ -1,0 +1,19 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"Ibersol, S.G.P.S., S.A.",IBS.LS,38.23,0.14,0.523,Yes
+2,"Ramada Investimentos e Industria, S.A.",RAM.LS,14.53,0.083,0.211,Yes
+3,"Altri, SGPS, S.A.",ALTR.LS,24.32,0.16,0.261,No
+4,"Martifer SGPS, S.A.",MAR.LS,21.84,0.202,1.205,Yes
+5,"Pharol, SGPS S.A.",PHR.LS,12.77,0.218,1.01,Yes
+6,PSI 20,PSI20.LS,4.71,0.11,1.0,Yes
+7,"Vista Alegre Atlantis, SGPS, S.A.",VAF.LS,5.48,0.146,0.372,No
+8,"Jerónimo Martins, SGPS, S.A.",JMT.LS,8.23,0.252,0.93,Yes
+9,"Semapa - Sociedade de Investimento e Gestão, SGPS, S.A.",SEM.LS,1.03,0.13,0.401,Yes
+10,"EDP, S.A.",EDP.LS,-4.34,0.265,1.818,Yes
+11,"Sporting Clube de Portugal - Futebol, SAD",SCP.LS,-4.79,0.195,0.23,Yes
+12,"Mota-Engil, SGPS, S.A.",EGL.LS,-9.62,0.358,1.041,Yes
+13,,CDU.LS,-11.22,0.352,1.509,Yes
+14,"EDP Renováveis, S.A.",EDPR.LS,-36.02,0.403,2.383,Yes
+15,"The Navigator Company, S.A.",NVG.LS,-13.86,0.123,0.425,No
+16,"Corticeira Amorim, S.G.P.S., S.A.",COR.LS,-15.48,0.111,0.692,Yes
+17,"Galp Energia, SGPS, S.A.",GALP.LS,-21.44,0.143,0.042,No
+18,"Impresa - Sociedade Gestora de Participações Sociais, S.A.",IPR.LS,-29.87,0.144,0.236,No

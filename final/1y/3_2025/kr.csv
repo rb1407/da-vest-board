@@ -1,0 +1,1864 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Kiwoom No.10 SPAC,487720.KQ,24.56,0.041,,
+2,Shinhan 14th SPAC,487360.KQ,16.35,0.037,,
+3,KB No.31 SPAC,492220.KQ,14.96,0.043,,
+4,Kiwoom No.11 SPAC,489480.KQ,15.42,0.045,,
+5,Daishin Balance No.19 Special Purpose Acquisition Co Ltd,482690.KQ,8.03,0.027,,
+6,Samsung Special Purpose Acquisition 7 Company,439250.KQ,6.25,0.023,0.024,Yes
+7,Yuanta SPAC 17,493790.KQ,15.6,0.057,,
+8,Hana Financial Twenty-five Special Purpose Acquisition Company,435620.KQ,6.51,0.029,0.006,Yes
+9,"Jinro Distillers Co., Ltd.",018120.KQ,24.8,0.103,0.233,Yes
+10,"Korea Investment Holdings Co., Ltd.",071055.KS,30.11,0.135,0.531,Yes
+11,"Hanil Cement Co., Ltd.",300720.KS,33.33,0.159,0.059,No
+12,Motonic Corporation,009680.KS,20.2,0.102,0.244,Yes
+13,"NH Investment & Securities Co., Ltd.",005940.KS,22.74,0.122,0.437,Yes
+14,"Hankook Shell Oil Co.,Ltd.",002960.KS,37.55,0.191,0.08,No
+15,"Mirae Asset Securities Co., Ltd.",00680K.KS,20.44,0.116,0.244,Yes
+16,"KEPCO Plant Service & Engineering Co.,Ltd.",051600.KS,29.33,0.162,0.115,No
+17,"Korea Environment Technology Co., LTD.",029960.KQ,40.63,0.22,0.676,No
+18,"Seoho Electric Co.,Ltd",065710.KQ,28.33,0.162,0.404,No
+19,"DB Securities Co., Ltd.",016610.KS,41.57,0.228,0.362,Yes
+20,ESTec Corporation,069510.KQ,37.55,0.21,0.431,No
+21,"Hanil Holdings Co., Ltd.",003300.KS,17.87,0.109,0.209,No
+22,"KRAFTON, Inc.",259960.KS,48.23,0.263,1.322,Yes
+23,"Michang Oil Ind. Co., Ltd.",003650.KS,37.4,0.212,0.526,No
+24,Youngone Corporation,111770.KS,38.34,0.222,0.411,Yes
+25,Woori Financial Group Inc.,316140.KS,27.5,0.171,0.504,Yes
+26,"Yuhwa Securities co.,ltd.",003460.KS,12.2,0.081,0.117,No
+27,"Mirae Asset Securities Co., Ltd.",006805.KS,17.58,0.116,0.114,Yes
+28,Hanjin Kal,180640.KS,44.31,0.266,0.387,Yes
+29,DCM Corp.,024090.KS,19.78,0.133,0.112,No
+30,"Samsung Securities Co.,Ltd.",016360.KS,33.67,0.214,0.824,Yes
+31,"Mirae Asset Securities Co., Ltd.",006800.KS,28.4,0.189,0.332,Yes
+32,"BioNote, Inc.",377740.KS,21.38,0.15,0.137,No
+33,"Korea Ratings Co., Ltd.",034950.KQ,10.36,0.08,0.21,Yes
+34,"INVENI Co., Ltd.",015360.KS,26.64,0.194,0.269,No
+35,Korean Reinsurance Company,003690.KS,23.19,0.171,0.084,No
+36,"VITZROCELL Co.,Ltd.",082920.KQ,44.89,0.327,0.512,Yes
+37,Samyang Corporation,145995.KS,7.91,0.066,0.17,No
+38,"DoubleUGames Co., Ltd.",192080.KS,19.81,0.158,0.462,No
+39,"HMM Co.,Ltd",011200.KS,33.96,0.26,0.788,Yes
+40,NH Special Purpose Acquistion 26 Company,439410.KQ,2.93,0.025,0.138,Yes
+41,Huneed Technologies,005870.KS,28.3,0.222,0.684,No
+42,"HWASEUNG Industries Co.,Ltd.",006060.KS,25.37,0.205,0.107,Yes
+43,"Yuhwa Securities co.,ltd.",003465.KS,14.53,0.123,0.32,No
+44,KB No.30 SPAC,486630.KQ,2.53,0.023,,
+45,"SK Reits Co., Ltd.",395400.KS,29.09,0.234,1.107,Yes
+46,ORION Holdings Corp.,001800.KS,16.99,0.146,0.132,Yes
+47,"Hanla IMS Co., Ltd.",092460.KQ,40.09,0.324,0.373,Yes
+48,BNK Financial Group Inc.,138930.KS,38.6,0.316,0.576,Yes
+49,DN Automotive Corporation,007340.KS,33.57,0.285,0.732,Yes
+50,"Anterogen.Co.,Ltd.",065660.KQ,42.44,0.358,0.451,No
+51,Hyundai Corporation,011760.KS,43.45,0.367,1.325,Yes
+52,"NH All-One REIT Co., Ltd.",400760.KS,14.09,0.137,0.453,Yes
+53,"SK Telecom Co., Ltd.",017670.KS,16.25,0.158,0.005,Yes
+54,"NICE Information Service Co., Ltd.",030190.KS,17.34,0.171,0.023,No
+55,DaishinBalanceNo.18 SPAC,478780.KQ,5.24,0.055,,
+56,"REFINE Co., Ltd.",377450.KQ,27.1,0.265,0.302,No
+57,"Hyundai Green Food Co., Ltd",453340.KS,21.47,0.215,0.498,No
+58,ATON Inc.,158430.KQ,37.34,0.361,0.718,No
+59,"AhnLab, Inc.",053800.KQ,24.99,0.256,0.38,Yes
+60,Industrial Bank of Korea,024110.KS,11.05,0.12,0.485,Yes
+61,"Daesang Holdings Co., Ltd.",084690.KS,45.62,0.441,1.63,Yes
+62,"T&L Co., Ltd.",340570.KQ,36.5,0.366,0.836,Yes
+63,"Hanjin Heavy Industries & Construction Holdings Co., Ltd.",003480.KS,13.0,0.143,0.333,No
+64,"Samsung Fire & Marine Insurance Co., Ltd.",000810.KS,27.93,0.292,0.769,Yes
+65,Protia Inc.,303360.KQ,19.53,0.218,1.199,Yes
+66,"Kukbo Design Co., Ltd.",066620.KQ,13.36,0.154,0.539,No
+67,"Eagon Holdings Co.,Ltd",039020.KQ,44.79,0.459,2.152,No
+68,"Korea Asset Investment Securities Co., Ltd.",190650.KQ,25.61,0.283,1.539,Yes
+69,KT&G Corporation,033780.KS,25.93,0.286,0.019,No
+70,"Cosmax BTI, Inc.",044820.KS,16.71,0.193,0.007,Yes
+71,S-1 Corporation,012750.KS,15.43,0.181,0.703,No
+72,"KC Feed Co., Ltd.",025880.KQ,31.12,0.344,0.272,No
+73,"BOOKOOK Securities Co., Ltd.",001270.KS,11.58,0.139,0.228,Yes
+74,"Yuanta Securities Korea Co., Ltd.",003475.KS,8.89,0.108,0.215,Yes
+75,"Korea Investment Holdings Co., Ltd.",071050.KS,17.39,0.205,1.354,Yes
+76,"iMBC Co.,Ltd.",052220.KQ,49.78,0.53,0.286,Yes
+77,"Daishin Balance No.15 Special Purpose Acquisition Co., Ltd.",457390.KQ,28.35,0.329,1.688,Yes
+78,"Kolmar Korea Co., Ltd.",161890.KS,43.09,0.477,1.218,Yes
+79,"Youngone Holdings Co., Ltd.",009970.KS,14.16,0.182,0.48,No
+80,"Mona Yongpyong Co.,Ltd",070960.KS,45.49,0.522,1.679,Yes
+81,Komelon Corporation,049430.KQ,20.19,0.254,0.116,No
+82,i3system Inc.,214430.KQ,39.13,0.463,0.89,Yes
+83,"IGIS RESIDENCE REIT Co., Ltd.",350520.KS,10.06,0.134,0.041,No
+84,"EASY BIO,Inc.",353810.KQ,24.53,0.308,1.31,Yes
+85,Hojeon Limited,111110.KS,20.09,0.257,0.398,No
+86,"SK Square Co., Ltd.",402340.KS,35.34,0.45,3.065,Yes
+87,"Taeyang Metal Industrial Co., Ltd.",004100.KS,40.46,0.508,1.271,Yes
+88,"DGB Financial Group Co., Ltd.",139130.KS,14.98,0.209,0.478,Yes
+89,"KT Submarine Co., Ltd.",060370.KQ,47.63,0.596,1.807,Yes
+90,"Global Tax Free Co., Ltd.",204620.KQ,25.48,0.351,0.634,Yes
+91,"Neo Cremar Co., Ltd.",311390.KQ,28.07,0.384,0.946,Yes
+92,"Kyung Dong Navien Co., Ltd.",009450.KS,35.68,0.475,0.802,No
+93,"Hyundai Mobis Co.,Ltd",012330.KS,24.2,0.337,1.676,Yes
+94,"MEDIPOST Co., Ltd.",078160.KQ,45.38,0.592,1.864,No
+95,"Digital Daesung Co., Ltd.",068930.KQ,8.27,0.125,0.193,Yes
+96,"Busan Industrial Co., Ltd.",011390.KS,32.51,0.446,0.181,No
+97,"Daehan Steel Co., Ltd.",084010.KS,18.82,0.272,1.187,No
+98,GaeaSoft Corp.,051160.KQ,36.07,0.491,0.388,Yes
+99,"GAMSUNG Corporation Co., Ltd.",036620.KQ,39.29,0.531,0.191,No
+100,Hyundai Everdigm Corp.,041440.KQ,37.12,0.516,1.007,Yes
+101,"SNT Motiv Co., Ltd.",064960.KS,23.15,0.34,1.937,Yes
+102,"HD Hyundai Co., Ltd.",267250.KS,15.3,0.233,0.877,Yes
+103,"Dongbang Ship Machinery Co., Ltd.",099410.KQ,18.76,0.283,1.105,Yes
+104,"Cosmax, Inc.",192820.KS,37.87,0.533,1.543,Yes
+105,Hanyang Securities Co. Ltd.,001750.KS,29.92,0.434,0.512,Yes
+106,Revu Corporation,443250.KQ,27.23,0.401,0.283,No
+107,"LOTTE REIT Co., Ltd.",330590.KS,19.33,0.295,0.253,Yes
+108,"Daishin Information & Communications Co.,Ltd.",020180.KQ,17.12,0.274,0.007,No
+109,KSS Line Ltd.,044450.KS,10.96,0.18,0.201,Yes
+110,"Cube Entertainment, Inc.",182360.KQ,24.54,0.385,1.138,No
+111,"Miwon Specialty Chemical Co., Ltd.",268280.KS,12.9,0.212,0.568,No
+112,"Cell Biotech Co., Ltd.",049960.KQ,10.68,0.178,0.447,Yes
+113,"Shinsung Tongsang Co., Ltd.",005390.KS,19.53,0.315,1.768,Yes
+114,"HYUNDAI MOVEX Co., Ltd.",319400.KQ,21.21,0.34,1.206,Yes
+115,"ILSEUNG Co., Ltd.",333430.KQ,48.09,0.712,0.08,Yes
+116,"Samsung Card Co., Ltd.",029780.KS,12.51,0.213,0.054,Yes
+117,"Dongnam Chemical Co., Ltd.",023450.KS,14.02,0.238,0.336,No
+118,"Kolmar Holdings Co.,Ltd.",024720.KS,34.84,0.547,0.529,Yes
+119,"Namkwang Engineering & Construction Co., Ltd.",001260.KS,30.47,0.486,0.593,No
+120,"Shinhung Co., Ltd",004080.KS,2.15,0.039,0.03,Yes
+121,"LOTTE rental co.,ltd.",089860.KS,11.07,0.192,0.312,Yes
+122,"ATEC MOBILITY Co., Ltd",224110.KQ,47.93,0.727,1.12,No
+123,"Shinyoung Securities Co., Ltd.",001720.KS,15.68,0.27,0.051,Yes
+124,"Itcen Co., Ltd.",124500.KQ,32.7,0.529,0.305,No
+125,"UIL Co., Ltd.",049520.KQ,27.37,0.452,0.379,Yes
+126,"ES Cube Co., Ltd.",050120.KQ,31.95,0.523,0.054,No
+127,"JCH Systems, Inc.",033320.KQ,26.41,0.441,0.727,No
+128,"DAEYANG ELECTRIC.Co.,Ltd.",108380.KQ,22.38,0.381,0.129,Yes
+129,"SK Discovery Co., Ltd.",006125.KS,6.04,0.11,0.116,No
+130,"SeAH SPECIAL STEEL CO., LTD.",019440.KS,2.46,0.046,0.067,No
+131,Daou Technology Inc.,023590.KS,9.06,0.169,0.077,No
+132,"ezCaretech Co., LTD",099750.KQ,6.61,0.126,0.083,Yes
+133,KOREIT,034830.KS,5.7,0.109,0.128,No
+134,"Samil Pharmaceutical Co.,Ltd",000520.KS,39.66,0.67,0.46,No
+135,"ESR Kendall Square REIT Co., Ltd.",365550.KS,11.34,0.215,0.307,Yes
+136,"Iljin Electric Co.,Ltd",103590.KS,34.39,0.598,0.455,Yes
+137,"Kangwon Land, Inc.",035250.KS,11.94,0.227,0.536,No
+138,"sindoh Co.,Ltd.",029530.KS,7.45,0.144,0.127,Yes
+139,"Husteel Co., Ltd.",005010.KS,13.27,0.251,1.461,Yes
+140,"Sebang Co., Ltd",004365.KS,2.93,0.058,0.077,Yes
+141,"Kuk Young G&M Co., Ltd.",006050.KQ,44.4,0.754,0.592,No
+142,"Caregen Co., Ltd.",214370.KQ,34.17,0.605,0.717,No
+143,"SUN&L Co., Ltd.",002820.KS,17.68,0.335,0.781,Yes
+144,"Solution Advanced Technology Co., Ltd.",351320.KQ,35.02,0.625,1.029,Yes
+145,"SK Biopharmaceuticals Co., Ltd.",326030.KS,26.49,0.489,0.949,No
+146,"DeepMind Platform Co., Ltd.",223310.KQ,40.07,0.708,0.339,Yes
+147,"IGIS Value Plus REIT Co., Ltd.",334890.KS,6.96,0.14,0.142,No
+148,"Daehyun Co.,Ltd.",016090.KS,10.79,0.215,0.436,No
+149,STX Green Logis Ltd,465770.KS,46.9,0.82,3.176,Yes
+150,"Dongwoon Anatech Co., Ltd.",094170.KQ,19.1,0.371,0.466,Yes
+151,"Bio Plus Co., Ltd",099430.KQ,32.49,0.601,1.264,Yes
+152,Studio Dragon Corporation,253450.KQ,28.16,0.53,1.113,No
+153,"BAIKSAN Co,. Ltd",035150.KS,16.62,0.34,1.229,Yes
+154,DB Finance No.13 SPAC,489730.KQ,2.75,0.06,,
+155,Great Rich Technologies Limited,900290.KQ,31.81,0.623,1.47,Yes
+156,Suprema Inc.,236200.KQ,14.19,0.298,1.102,Yes
+157,"JUSUNG ENGINEERING Co.,Ltd.",036930.KQ,20.01,0.421,1.53,Yes
+158,Assems Inc.,136410.KQ,10.64,0.237,0.337,Yes
+159,"SOLiD, Inc.",050890.KQ,24.31,0.518,0.296,Yes
+160,"KOYJ Co., Ltd.",121850.KQ,46.65,0.924,0.195,Yes
+161,"Inscobee., Inc.",006490.KS,29.67,0.629,0.038,No
+162,Posco International Corporation,047050.KS,33.29,0.701,4.348,Yes
+163,"LS THiRA-UTECH Co., Ltd.",322180.KQ,15.49,0.352,2.087,Yes
+164,"Changhae Ethanol Co., Ltd.",004650.KQ,2.81,0.068,0.098,Yes
+165,"Cheil Electric Co., Ltd.",199820.KQ,48.08,0.974,0.222,No
+166,Dong-Ah Geological Engineering Company Ltd.,028100.KS,6.8,0.162,0.838,Yes
+167,"WISE iTech Co., Ltd.",065370.KQ,28.86,0.632,0.084,No
+168,Daesang Corporation,001680.KS,18.2,0.416,1.742,Yes
+169,KB Financial Group Inc.,105560.KS,13.63,0.321,0.359,Yes
+170,"Finetek Co., Ltd.",131760.KQ,20.44,0.468,0.343,Yes
+171,Hana 34 Special Purpose Acquisition Co,484130.KQ,1.56,0.039,,
+172,"Tonymoly Co., Ltd",214420.KS,33.89,0.746,1.586,Yes
+173,Polaris AI Corp.,039980.KQ,32.7,0.724,1.601,No
+174,GC Biopharma Corp.,006280.KS,22.36,0.523,1.917,No
+175,"CyberOne Co., Ltd",356890.KQ,20.81,0.493,,
+176,HVM,295310.KQ,37.65,0.852,,
+177,"Noul Co.,Ltd.",376930.KQ,32.72,0.754,0.018,No
+178,"BINEX Co., Ltd.",053030.KQ,28.27,0.671,2.184,Yes
+179,WebCash Corporation,053580.KQ,18.29,0.453,0.873,No
+180,JW Pharmaceutical Corporation,001067.KS,3.22,0.085,0.344,No
+181,"Shinhan 11th Special Purpose Acquisition Company Co., Ltd.",452980.KQ,1.27,0.034,0.018,Yes
+182,"Korea Electric Terminal Co., Ltd.",025540.KS,15.53,0.393,0.633,Yes
+183,"SAMYOUNG M-Tek Co., Ltd",054540.KQ,10.8,0.279,1.174,Yes
+184,SHINSEGAE Information & Communication Inc.,035510.KS,32.35,0.769,1.47,No
+185,SANIL ELECTRIC,062040.KS,34.63,0.819,,
+186,"FOODWELL Co., Ltd.",005670.KQ,10.32,0.269,0.456,Yes
+187,"K-TOP Reits Co.,Ltd.",145270.KS,2.34,0.063,0.134,Yes
+188,"Seohee Construction Co., Ltd.",035890.KQ,7.78,0.207,0.785,No
+189,Lumir,474170.KQ,24.96,0.627,,
+190,"GI Innovation, Inc.",358570.KQ,33.61,0.818,1.9,Yes
+191,HANSUN ENGINEERING,452280.KQ,43.94,1.04,0.388,Yes
+192,"ENEX Co., LTD.",011090.KS,19.04,0.495,1.012,No
+193,"Hyundai G.F. Holdings Co., Ltd.",005440.KS,8.91,0.242,0.264,No
+194,"DL E&C Co.,Ltd.",37550L.KS,9.6,0.264,0.026,Yes
+195,"SPC Samlip Co., Ltd.",005610.KS,10.41,0.286,0.382,No
+196,"GABIA, Inc.",079940.KQ,14.08,0.386,0.676,No
+197,"Winhitech Co., Ltd.",192390.KQ,15.86,0.434,0.857,Yes
+198,"Histeel Co.,Ltd.",071090.KS,11.37,0.322,1.005,Yes
+199,GS Global Corp.,001250.KS,32.46,0.852,4.526,Yes
+200,"In the F CO.,LTD.",014990.KS,21.74,0.594,1.263,No
+201,Cheil Worldwide Inc.,030000.KS,2.42,0.072,0.008,No
+202,"Wonik Holdings Co., Ltd",030530.KQ,20.63,0.573,1.185,Yes
+203,"SG Global Co.,Ltd.",001380.KS,24.8,0.677,1.765,Yes
+204,Com2uS Corporation,078340.KQ,7.1,0.209,0.759,No
+205,URACLE,088340.KQ,17.57,0.496,,
+206,"OPASNET co., Ltd.",173130.KQ,22.11,0.624,0.335,Yes
+207,"Korean Airlines Co.,Ltd.",003490.KS,9.21,0.278,1.009,Yes
+208,"Daedong Steel Co., Ltd.",048470.KQ,12.25,0.378,2.026,Yes
+209,"Korea Business News Co., Ltd.",039340.KQ,6.2,0.197,1.056,No
+210,"LS ELECTRIC Co., Ltd.",010120.KS,22.18,0.669,2.781,Yes
+211,"Ibkimyoung Co., Ltd.",339950.KQ,7.52,0.248,0.093,Yes
+212,"Laseroptek Co., Ltd.",199550.KQ,19.56,0.615,2.618,Yes
+213,"Dongwon Industries Co., Ltd.",006040.KS,7.84,0.262,0.441,No
+214,GS Engineering & Construction Corporation,006360.KS,12.77,0.42,0.144,Yes
+215,"SKC Co., Ltd.",011790.KS,27.4,0.852,4.384,Yes
+216,"Taeyang Metal Industrial Co., Ltd.",004105.KS,15.82,0.514,0.262,Yes
+217,"KPX Holdings Co., Ltd.",092230.KS,2.15,0.076,0.259,Yes
+218,KCC Corporation,002380.KS,9.36,0.323,1.081,Yes
+219,"Yura Tech. Co., Ltd.",048430.KQ,9.17,0.319,0.438,Yes
+220,"Shinhan Financial Group Co., Ltd.",055550.KS,9.67,0.337,0.616,Yes
+221,NAVER Corporation,035420.KS,8.28,0.292,0.047,No
+222,"Carry Co., Ltd.",313760.KQ,42.09,1.313,0.613,No
+223,Sajo Industries Company Limited,007160.KS,20.42,0.694,2.249,Yes
+224,"Samil Enterprise Co., Ltd.",002290.KQ,10.45,0.376,1.003,No
+225,"Coloray International Investment Co., Ltd.",900310.KQ,16.84,0.594,1.779,Yes
+226,Korea Electric Power Corporation,015760.KS,7.37,0.271,0.289,Yes
+227,"HNK Machine Tool Co., Ltd.",101680.KQ,12.93,0.468,0.565,No
+228,SeAH Steel Holdings Corporation,003030.KS,7.51,0.279,0.396,Yes
+229,"Nongshim Co., Ltd.",004370.KS,10.54,0.387,0.233,Yes
+230,Medy-Tox Inc.,086900.KQ,11.66,0.429,1.231,Yes
+231,Korea No.15 SPAC,479880.KQ,1.48,0.057,,
+232,"Sungwoo Electronics Co., Ltd.",081580.KQ,16.42,0.598,1.022,Yes
+233,"Daewoong Pharmaceutical Co., Ltd",069620.KS,13.2,0.49,0.404,Yes
+234,"STO Co., Ltd.",098660.KQ,16.34,0.614,1.026,No
+235,"Silla Textile Co.,Ltd",001000.KQ,15.41,0.584,0.717,No
+236,"Meta Biomed Co., Ltd.",059210.KQ,7.68,0.303,1.084,Yes
+237,People & Technology Inc.,137400.KQ,21.39,0.797,0.649,Yes
+238,"Hyundai Engineering & Construction Co.,Ltd.",000720.KS,8.25,0.325,1.39,Yes
+239,"L&C BIO Co.,LTD",290650.KQ,17.22,0.655,1.403,Yes
+240,HAATZ Inc.,066130.KQ,8.87,0.35,0.336,Yes
+241,"Seegene, Inc.",096530.KQ,7.11,0.282,0.229,No
+242,"Daewoong Co., Ltd.",003090.KS,14.88,0.573,0.391,No
+243,"KUMHO Engineering & Construction Co., Ltd.",002995.KS,17.58,0.678,1.203,No
+244,CJ Corporation,00104K.KS,7.67,0.308,0.509,No
+245,"Dongkuk CM Co., Ltd.",460850.KS,5.65,0.229,0.807,Yes
+246,Aniplus Inc.,310200.KQ,7.38,0.3,1.318,Yes
+247,HBL Corporation,452190.KQ,24.34,0.935,1.673,Yes
+248,"SI Resources Co., Ltd.",065420.KQ,11.33,0.459,0.025,Yes
+249,"Finger, Inc.",163730.KQ,20.08,0.803,1.087,No
+250,FreeMs Corporation,053160.KQ,13.78,0.568,0.72,No
+251,"Tong Yang Life Insurance Co., Ltd.",082640.KS,18.2,0.739,4.978,Yes
+252,"Prestige Biologics Co., Ltd.",334970.KQ,12.38,0.548,0.868,No
+253,"HD Hyundai Infracore Co., Ltd.",042670.KS,7.35,0.333,0.006,No
+254,"Dyc Co.,Ltd.",310870.KQ,6.32,0.289,0.492,No
+255,"Daewon Media Co., Ltd.",048910.KQ,6.18,0.284,0.496,Yes
+256,"FIRSTEC Co., Ltd",010820.KS,4.23,0.196,0.48,Yes
+257,"Genians, Inc.",263860.KQ,6.99,0.321,0.005,Yes
+258,Smac Co. Ltd.,097780.KQ,6.94,0.324,1.246,Yes
+259,"JOONGANG ADVANCED MATERIALS Co., Ltd.",051980.KQ,30.28,1.293,1.119,Yes
+260,Koh Young Technology Inc.,098460.KQ,26.62,1.183,6.056,Yes
+261,"Dongwon Metal Co., Ltd.",018500.KS,18.35,0.843,0.305,No
+262,"Seoyon Topmetal Co., Ltd.",019770.KQ,3.84,0.193,1.241,Yes
+263,Kyobo 17 SPAC,489210.KQ,0.64,0.033,,
+264,"CQV Co., Ltd.",101240.KQ,8.96,0.447,0.607,No
+265,Poongsan Corporation,103140.KS,7.97,0.401,1.026,Yes
+266,"Korea Export Packaging Industrial Co.,Ltd",002200.KS,2.57,0.133,0.125,No
+267,"InkTec Co., Ltd.",049550.KQ,4.13,0.216,0.441,No
+268,"IL Science Co., Ltd.",307180.KQ,5.86,0.305,1.132,Yes
+269,"The Asia Business Daily Co., Ltd.",127710.KQ,7.49,0.387,1.116,No
+270,"Sejin Heavy Industries Co., Ltd.",075580.KS,12.29,0.623,3.13,Yes
+271,"Kiwoom Securities Co., Ltd.",039490.KS,4.1,0.217,0.039,No
+272,"Korea Movenex Co., Ltd.",010100.KS,22.5,1.11,6.374,Yes
+273,Mobidays Inc.,363260.KQ,13.53,0.708,,
+274,NH Special Purpose Acquisition 29 Company,451700.KQ,0.59,0.033,0.084,Yes
+275,"Intergis Co., Ltd",129260.KS,4.79,0.266,0.385,Yes
+276,SAMHYUN,437730.KQ,11.73,0.635,1.268,Yes
+277,"KPX Chemical Co.,Ltd.",025000.KS,2.12,0.121,0.4,Yes
+278,NEOWIZ,095660.KQ,3.25,0.19,0.335,Yes
+279,Otoki Corporation,007310.KS,2.95,0.174,0.476,No
+280,Sunny Electronics Corp.,004770.KS,6.4,0.385,0.598,No
+281,"Dongbang Transport Logistics Co., Ltd.",004140.KS,10.62,0.627,3.737,Yes
+282,Oscotec Inc.,039200.KQ,7.46,0.45,2.838,Yes
+283,NAU IB Capital,293580.KQ,7.4,0.457,0.411,Yes
+284,"Wooree Bio Co.,Ltd",082850.KQ,15.39,0.933,0.805,Yes
+285,"F&F Co., Ltd",383220.KS,6.14,0.389,0.771,Yes
+286,"Daehan Synthetic Fiber Co., Ltd.",003830.KS,4.39,0.286,0.289,No
+287,"Kangstem Biotech Co., Ltd.",217730.KQ,10.19,0.656,0.868,No
+288,"Seoul Viosys Co., Ltd",092190.KQ,7.85,0.513,1.758,Yes
+289,"Dongil Steelux Co., Ltd.",023790.KQ,6.52,0.431,1.885,Yes
+290,Wing Yip Food (China) Holdings Group Limited,900340.KQ,7.04,0.469,0.503,Yes
+291,Pearl Abyss Corp.,263750.KQ,8.25,0.563,1.118,Yes
+292,Konan Technology Inc.,402030.KQ,13.98,0.942,0.369,No
+293,"Hansol Inticube Co., Ltd.",070590.KQ,7.16,0.501,0.587,Yes
+294,"Synergy Innovation Co., Ltd.",048870.KQ,3.53,0.252,0.178,Yes
+295,Doosan Bobcat Inc.,241560.KS,4.87,0.353,0.192,No
+296,Lunit Inc.,328130.KQ,12.25,0.87,2.586,No
+297,JYP Entertainment Corporation,035900.KQ,10.4,0.746,0.246,No
+298,E Kocref Cr-Reit,088260.KS,3.03,0.228,0.322,Yes
+299,"Dong Yang Piston Co., Ltd.",092780.KS,6.68,0.496,2.355,Yes
+300,"Sungdo Engineering & Construction Co., Ltd.",037350.KQ,5.91,0.444,1.287,No
+301,HL Mando Corporation,204320.KS,3.94,0.299,0.479,Yes
+302,Sugentech Inc.,253840.KQ,6.97,0.526,1.666,Yes
+303,"Cell Bio Human Tech Co.,Ltd",318160.KQ,4.08,0.343,0.536,Yes
+304,Yuanta 13 SPECIAL PURPOSE ACQUISITION COMPANY,449020.KQ,0.44,0.038,0.081,Yes
+305,"Micro Contact Solution Co., Ltd.",098120.KQ,8.2,0.7,1.867,Yes
+306,"Seouleaguer Co., Ltd.",043710.KQ,3.42,0.3,2.098,Yes
+307,JS Corporation,194370.KS,4.72,0.422,0.323,No
+308,PSK HOLDINGS Inc.,031980.KQ,10.51,0.919,4.638,Yes
+309,"AprilBio Co.,Ltd.",397030.KQ,7.07,0.629,2.426,Yes
+310,"Q.S.I Co., LTD.",066310.KQ,9.16,0.811,1.441,No
+311,"Bluecom Co., Ltd.",033560.KQ,3.29,0.305,0.229,Yes
+312,Wonpoong Corporation,008370.KQ,2.27,0.223,0.193,Yes
+313,"SP Systems Co.,Ltd.",317830.KQ,11.34,1.082,4.866,Yes
+314,"Codes Combine Co., Ltd.",047770.KQ,3.98,0.398,1.214,No
+315,Hyundai Motor Company,005387.KS,3.05,0.311,1.607,Yes
+316,"Daejoo Electronic Materials Co., Ltd.",078600.KQ,6.68,0.681,4.276,Yes
+317,"Shinsung ST Co., Ltd.",416180.KQ,4.58,0.478,0.945,Yes
+318,"Amotech Co., Ltd.",052710.KQ,6.36,0.679,1.782,Yes
+319,"Moda-InnoChips Co., Ltd.",080420.KQ,2.34,0.271,0.001,Yes
+320,Hyundai Motor Company,005385.KS,2.42,0.291,1.521,Yes
+321,"SK oceanplant Co.,Ltd",100090.KS,4.13,0.507,0.423,No
+322,"Pyung Hwa Industrial Co., Ltd.",090080.KS,4.28,0.549,2.523,Yes
+323,"Moorim P&P Co., Ltd.",009580.KS,1.7,0.228,0.025,Yes
+324,"Singsong Holdings Co.,Ltd.",006880.KS,3.51,0.496,0.697,Yes
+325,Saltlux Inc.,304100.KQ,5.74,0.813,1.031,No
+326,"HYUNDAI BIOLAND Co.,Ltd.",052260.KQ,3.47,0.503,1.107,No
+327,"Samwha Electronics Co.,Ltd.",011230.KS,2.83,0.412,0.676,No
+328,"TES Co., Ltd",095610.KQ,3.15,0.494,2.969,Yes
+329,4by4 Inc,389140.KQ,7.75,1.199,1.013,Yes
+330,CJ Freshway Corporation,051500.KQ,1.57,0.263,0.696,Yes
+331,SEERS,458870.KQ,3.65,0.629,,
+332,"Mecaro Co., Ltd.",241770.KQ,1.7,0.305,0.133,No
+333,"Pan Entertainment Co., Ltd.",068050.KQ,2.15,0.399,1.545,Yes
+334,HYUNDAI HYMS,460930.KQ,4.03,0.751,1.981,Yes
+335,"Douzone Bizon Co., Ltd.",012510.KS,2.48,0.48,1.649,Yes
+336,"Samsung Life Insurance Co., Ltd.",032830.KS,1.07,0.209,0.004,Yes
+337,SECUCEN,232830.KQ,3.11,0.611,2.176,No
+338,Boditech Med Inc.,206640.KQ,1.24,0.261,0.915,No
+339,"HUMAN TECHNOLOGY Co., Ltd",175140.KQ,3.1,0.663,0.001,No
+340,"Hankook & Company Co., Ltd.",000240.KS,0.73,0.163,0.227,No
+341,"HS Hwasung Co., Ltd.",002460.KS,0.74,0.173,0.213,No
+342,"CNPLUS Co., Ltd.",115530.KQ,3.04,0.759,0.607,No
+343,"Bixolon Co., Ltd",093190.KQ,0.93,0.24,0.084,Yes
+344,"Hanil Hyundai Cement Co., Ltd",006390.KS,0.4,0.104,0.234,Yes
+345,Hannong Chemicals Inc.,011500.KS,3.06,0.815,0.529,Yes
+346,COOCON Corporation,294570.KQ,0.87,0.285,0.821,No
+347,"Hankook Furniture Co., Ltd.",004590.KQ,0.47,0.161,0.031,Yes
+348,"SKAI worldwide Co., Ltd.",357880.KQ,3.16,1.347,4.013,No
+349,"J2KBIO Co., Ltd.",420570.KQ,2.45,1.086,0.908,No
+350,"Genohco., Inc.",361390.KQ,0.96,0.441,1.018,Yes
+351,Shinhan 15th Special Purpose Acquisition Company Co Ltd,487830.KQ,0.03,0.028,,
+352,"Eugene Special Purpose Acquisition 11 Co., Ltd",488060.KQ,0.02,0.023,,
+353,"WIZ CORP, Inc.",038620.KQ,0.24,0.361,0.351,Yes
+354,"VALOFE Co.,Ltd",331520.KQ,0.27,0.535,2.632,Yes
+355,TYM Corporation,002900.KS,0.19,0.545,0.186,No
+356,"Hanchang Ind.Co.,Ltd",079170.KQ,0.06,0.352,0.46,No
+357,"HanmiGlobal Co., Ltd.",053690.KS,0.03,0.404,0.127,No
+358,"Daelim Bath Co.,Ltd.",005750.KS,-0.0,0.219,0.603,No
+359,"Korea Arlico Pharm Co.,Ltd.",260660.KQ,-0.02,0.377,0.797,Yes
+360,"DT&CRO CO., Ltd.",383930.KQ,-0.3,0.672,1.042,Yes
+361,Hy-Lok Corporation,013030.KQ,-0.17,0.227,0.811,Yes
+362,Byucksan Corporation,007210.KS,-0.19,0.22,0.707,Yes
+363,"M.I.TECH Co.,Ltd",179290.KQ,-0.36,0.373,0.182,Yes
+364,Raontec Inc.,232680.KQ,-0.57,0.547,3.674,Yes
+365,"INFINITT Healthcare Co., Ltd.",071200.KQ,-0.46,0.429,0.651,Yes
+366,"i-Components Co., Ltd",059100.KQ,-0.21,0.179,0.18,No
+367,DONGBANG AGRO Corporation,007590.KS,-0.06,0.053,0.019,No
+368,Synopex Inc.,025320.KQ,-0.84,0.657,1.822,Yes
+369,"MCNEX Co., Ltd",097520.KS,-0.51,0.35,1.222,Yes
+370,"Cellumed Co.,Ltd.",049180.KQ,-1.73,1.127,2.264,No
+371,"Finetechnix. Co.,Ltd.",106240.KQ,-1.06,0.617,2.341,Yes
+372,"ENF Technology Co., Ltd.",102710.KQ,-0.86,0.466,0.992,Yes
+373,"Galaxia Moneytree Co., Ltd.",094480.KQ,-1.19,0.599,0.186,Yes
+374,"HITEJINRO Co., Ltd.",000087.KS,-0.12,0.056,0.062,Yes
+375,"Mezzion Pharma Co.,Ltd.",140410.KQ,-1.1,0.522,0.297,No
+376,"Tplex Co., Ltd.",081150.KQ,-0.42,0.181,0.633,Yes
+377,LF Corp.,093050.KS,-0.42,0.172,0.318,No
+378,"DHP Korea Co., Ltd.",131030.KQ,-0.84,0.349,1.934,Yes
+379,"Photon Co., Ltd.",208710.KQ,-1.22,0.493,0.548,Yes
+380,"Yuanta Securities Korea Co., Ltd.",003470.KS,-0.4,0.147,0.589,Yes
+381,Choheung Corporation,002600.KS,-0.32,0.115,0.35,No
+382,"Kumho Petro Chemical Co.,Ltd",011780.KS,-1.31,0.461,1.416,Yes
+383,"Se Gyung Hi Tech Co., Ltd.",148150.KQ,-2.67,0.862,0.367,Yes
+384,"DB Insurance Co., Ltd.",005830.KS,-0.63,0.197,0.232,Yes
+385,"HYUNDAI CORPORATION HOLDINGS Co., Ltd.",227840.KS,-0.21,0.067,0.102,Yes
+386,"DAEA TI Co., Ltd.",045390.KQ,-0.77,0.211,0.298,Yes
+387,"eSang Networks Co.,Ltd",080010.KQ,-0.49,0.123,0.242,Yes
+388,"Youlchon Chemical Co.,Ltd.",008730.KS,-3.06,0.747,3.365,Yes
+389,LX International Corp.,001120.KS,-1.06,0.235,0.279,No
+390,"Ewon Comfortech Co., Ltd.",088290.KQ,-2.42,0.537,0.772,No
+391,"Chokwang Leather Co.,Ltd.",004700.KS,-0.63,0.12,0.269,No
+392,Nable Inc.,153460.KQ,-0.77,0.134,0.082,No
+393,"YEST Co., Ltd.",122640.KQ,-5.1,0.875,4.29,Yes
+394,Ubion Co.Ltd.,084440.KQ,-3.07,0.509,0.415,No
+395,"Nsys Co., Ltd.",333620.KQ,-2.52,0.412,1.903,Yes
+396,"Lotte Wellfood Co.,Ltd",280360.KS,-2.8,0.457,2.221,Yes
+397,"KS Industry Co., Ltd.",101000.KQ,-2.39,0.377,0.768,Yes
+398,NH Special Purpose Acquisition 27 Company,440820.KQ,-0.21,0.032,0.189,Yes
+399,"CITECH Co., Ltd.",004920.KS,-2.16,0.327,1.091,No
+400,"iFamilySC Co., Ltd.",114840.KQ,-5.78,0.876,0.77,Yes
+401,"NEXTIN, Inc.",348210.KQ,-3.31,0.495,1.245,Yes
+402,"Sbb Tech Co.,Ltd",389500.KQ,-5.28,0.788,0.907,Yes
+403,SCL Science Inc.,246960.KQ,-3.09,0.442,0.617,Yes
+404,Devsisters corporation,194480.KQ,-3.49,0.495,1.981,Yes
+405,"Chonbang Co., Ltd.",000950.KS,-0.88,0.116,0.379,Yes
+406,"HMNEX Co., Ltd.",036170.KQ,-1.91,0.252,0.183,No
+407,Agabang&Company,013990.KQ,-2.82,0.364,1.051,No
+408,ESTsoft Corp.,047560.KQ,-7.66,1.013,2.68,No
+409,"Dong-A Socio Holdings Co., Ltd.",000640.KS,-2.35,0.297,0.167,No
+410,Korea Engineering Consultants Corp.,023350.KS,-3.75,0.445,0.329,No
+411,"HLB Genex, Inc.",187420.KQ,-5.62,0.669,0.028,No
+412,"Korea Steel Co., Ltd.",007280.KS,-2.32,0.27,0.44,No
+413,"SELVAS Healthcare, Inc.",208370.KQ,-4.73,0.554,0.141,Yes
+414,"Yangjisa Co., Ltd.",030960.KQ,-3.72,0.429,0.068,No
+415,Neosem Inc.,253590.KQ,-6.18,0.704,4.128,Yes
+416,"Hwaseung Corporation Co.,Ltd.",013520.KS,-2.44,0.271,0.989,Yes
+417,"DreamCIS, Inc.",223250.KQ,-3.54,0.383,1.351,Yes
+418,"KSP Co., Ltd.",073010.KQ,-3.16,0.325,1.384,Yes
+419,Yw Company Limited,051390.KQ,-0.78,0.079,0.203,Yes
+420,"BH Co., Ltd.",090460.KS,-6.6,0.681,1.419,No
+421,AeroSpace Technology of Korea Inc.,067390.KQ,-7.23,0.726,4.534,Yes
+422,Hyundai Livart Furniture Company Limited,079430.KS,-4.18,0.398,0.276,No
+423,"Satrec Initiative Co., Ltd.",099320.KQ,-5.14,0.489,2.395,Yes
+424,"Osang Healthcare Co.,Ltd",036220.KQ,-4.97,0.46,3.548,Yes
+425,KB No.25 Special Purpose Acquisition Company,455250.KQ,-3.51,0.321,1.975,Yes
+426,RFHIC Corporation,218410.KQ,-4.44,0.398,0.831,Yes
+427,"CUCKOO Homesys Co., Ltd",284740.KS,-3.17,0.282,0.903,Yes
+428,"SAMIL C&S Co., Ltd.",004440.KS,-6.06,0.546,1.468,Yes
+429,Artist United Inc.,321820.KQ,-7.31,0.653,2.916,No
+430,"GAON CABLE Co., Ltd.",000500.KS,-6.08,0.53,0.14,No
+431,UniTest Incorporation,086390.KQ,-8.06,0.702,2.955,Yes
+432,D.I Corporation,003160.KS,-9.91,0.867,3.344,Yes
+433,"NOVAREX Co.,Ltd.",194700.KQ,-5.16,0.439,0.979,Yes
+434,GGUMBI Inc.,407400.KQ,-7.57,0.65,0.309,Yes
+435,NEOWIZ HOLDINGS Corporation,042420.KQ,-3.01,0.252,0.795,No
+436,CJ Corporation,001040.KS,-4.23,0.354,0.619,No
+437,"Yuanta 5 SPECIAL PURPOSE ACQUISITION CO., LTD.",336060.KQ,-6.41,0.52,3.112,Yes
+438,"Kyeryong Construction Industrial Co., Ltd.",013580.KS,-2.59,0.207,0.138,No
+439,"Heungkuk Metaltech Co.,Ltd.",010240.KQ,-2.7,0.214,0.12,Yes
+440,"Sebang Co., Ltd",004360.KS,-2.94,0.234,1.663,Yes
+441,"Eco&Dream Co., Ltd.",101360.KQ,-9.77,0.797,4.015,Yes
+442,"Hwaseung Enterprise Co., Ltd.",241590.KS,-5.2,0.407,0.338,Yes
+443,"U2Bio Co., Ltd.",221800.KQ,-6.28,0.487,0.132,Yes
+444,HK inno.N Corporation,195940.KQ,-4.64,0.354,0.017,No
+445,"Kbi Metal Co., Ltd.",024840.KQ,-9.95,0.746,0.308,No
+446,DAP Corporation,066900.KQ,-6.3,0.459,0.213,Yes
+447,"Hankook Cosmetics Co., Ltd.",123690.KS,-6.66,0.481,0.183,No
+448,Sidiz.Inc.,134790.KS,-3.7,0.263,1.139,Yes
+449,"Nature & Environment Co.,Ltd.",043910.KQ,-8.21,0.596,0.234,No
+450,ASTA Corporation,246720.KQ,-5.51,0.394,0.769,Yes
+451,"NOROO PAINT & COATINGS Co., Ltd.",090355.KS,-3.4,0.24,0.728,No
+452,"Celltrion, Inc.",068270.KS,-3.61,0.253,0.123,No
+453,"Hyulim ROBOT Co.,Ltd.",090710.KQ,-9.92,0.704,0.286,No
+454,"Hyundai Engineering & Construction Co.,Ltd.",000725.KS,-2.92,0.197,0.927,Yes
+455,Daedong Corporation,000490.KS,-7.38,0.507,1.131,Yes
+456,Smart Radar System Inc.,424960.KQ,-10.92,0.76,1.693,No
+457,Hana 33 SPAC,475250.KQ,-0.87,0.057,0.215,Yes
+458,"Hwashin Precision Engineering Co., Ltd.",126640.KQ,-5.39,0.356,1.561,Yes
+459,"Hanwha Investment & Securities Co., Ltd.",003530.KS,-4.19,0.271,0.748,Yes
+460,Hung -Gu Oil Ltd,024060.KQ,-6.46,0.411,1.652,Yes
+461,"SIMMTECH Co., Ltd.",222800.KQ,-13.9,0.914,3.784,Yes
+462,"YBM Net, Inc.",057030.KQ,-7.08,0.444,0.861,No
+463,"Seoul Pharma Co., Ltd",018680.KQ,-5.24,0.324,0.452,Yes
+464,Visang Education Inc,100220.KS,-4.37,0.27,0.585,Yes
+465,"TSI Co., Ltd.",277880.KQ,-7.86,0.491,0.31,Yes
+466,HANBIT SOFT Inc.,047080.KQ,-14.03,0.897,0.717,No
+467,CJ Seafood Corporation,011155.KS,-5.7,0.345,0.246,No
+468,"ELC Co.,Ltd.",041520.KQ,-5.1,0.308,0.655,Yes
+469,Multicampus Corporation,067280.KQ,-2.44,0.146,0.361,No
+470,Suprema ID Inc.,317770.KQ,-11.21,0.696,1.821,Yes
+471,"Jeil Pharmaceutical Co.,Ltd",271980.KS,-6.85,0.415,0.095,No
+472,"Miwon Commercial Co., Ltd.",002840.KS,-2.54,0.151,0.196,No
+473,"SGC Energy Co.,Ltd.",005090.KS,-3.02,0.176,0.632,No
+474,FURONTEER Inc.,370090.KQ,-16.46,1.011,2.77,No
+475,"SD Biosensor, Inc",137310.KS,-6.34,0.369,0.025,No
+476,"StarFlex Co., Ltd.",115570.KQ,-5.4,0.309,0.343,No
+477,"JINSUNG T.E.C., Inc.",036890.KQ,-4.5,0.255,0.2,Yes
+478,"Hankuk Steel Wire Co., Ltd.",025550.KQ,-8.57,0.491,0.091,Yes
+479,"Yeong Hwa Metal Co., Ltd.",012280.KS,-4.76,0.267,0.791,No
+480,"Formetal Co., Ltd.",119500.KQ,-9.45,0.533,1.927,Yes
+481,"IMAGIS Co., Ltd.",115610.KQ,-17.73,1.026,1.42,Yes
+482,"Yujin Robot Co., Ltd.",056080.KQ,-8.01,0.436,1.115,Yes
+483,Genomictree Inc.,228760.KQ,-14.22,0.797,1.241,Yes
+484,"Yungjin Pharm. Co., Ltd.",003520.KS,-5.62,0.3,0.867,Yes
+485,"Englewood Lab, Inc.",950140.KQ,-17.79,1.008,1.177,Yes
+486,T.S. Investment Corporation,246690.KQ,-9.83,0.533,1.182,Yes
+487,"Thumbage Co., Ltd.",208640.KQ,-11.36,0.606,0.045,No
+488,"YG-1 Co., Ltd.",019210.KQ,-3.23,0.165,0.401,Yes
+489,"Ycchem Co., Ltd.",112290.KQ,-15.5,0.84,3.739,Yes
+490,"Taewoong Logistics Co., Ltd.",124560.KQ,-8.13,0.423,0.811,Yes
+491,"Lotte Shopping Co., Ltd.",023530.KS,-5.27,0.268,0.442,Yes
+492,"Neungyule Education, Inc.",053290.KQ,-5.5,0.277,0.314,No
+493,Hanatour Service Inc.,039130.KS,-6.44,0.322,0.316,Yes
+494,"Intelligent Digital Integrated Security Co., Ltd.",143160.KQ,-8.12,0.407,0.65,No
+495,Zero to Seven Inc.,159580.KQ,-10.08,0.508,0.42,No
+496,"HCT Co., Ltd.",072990.KQ,-5.61,0.276,0.19,Yes
+497,"Yuyu Pharma, Inc.",000220.KS,-4.47,0.217,0.111,No
+498,"HanJung Natural Connectivity System.co.,Ltd",107640.KQ,-16.1,0.82,0.91,Yes
+499,"HLB Therapeutics Co.,Ltd.",115450.KQ,-10.26,0.505,1.425,No
+500,"ECOCAB Co.,Ltd",128540.KQ,-14.77,0.739,1.017,Yes
+501,"SLS BIO Co., Ltd",246250.KQ,-16.22,0.81,0.082,No
+502,"CHEMTRONICS.CO.,Ltd.",089010.KQ,-10.58,0.512,2.649,Yes
+503,"ASTech Co., Ltd.",453860.KQ,-15.81,0.78,0.408,No
+504,Hanwha Solutions Corporation,009835.KS,-9.7,0.461,0.986,Yes
+505,Mirae Asset Vision SPAC 6,478440.KQ,-1.03,0.047,,
+506,"YES24 Co.,Ltd",053280.KQ,-6.99,0.321,0.205,No
+507,"WSI Co., Ltd.",299170.KQ,-10.17,0.473,2.6,Yes
+508,"D&D platform REIT Co., Ltd.",377190.KS,-5.44,0.241,0.142,Yes
+509,Poongsan Holdings Corporation,005810.KS,-4.27,0.187,0.086,Yes
+510,"Yulho Co., Ltd.",072770.KQ,-10.92,0.493,0.079,Yes
+511,"SK eternix Co., Ltd.",475150.KS,-13.45,0.613,0.934,No
+512,3billion,394800.KQ,-10.06,0.443,,
+513,"JNK Global Co.,Ltd.",126880.KQ,-5.67,0.244,0.323,No
+514,Nano Chem Tech Inc.,091970.KQ,-8.74,0.376,0.943,No
+515,"Eusu Holdings Co., Ltd.",000700.KS,-2.01,0.083,0.005,Yes
+516,YC Corporation,232140.KQ,-12.35,0.534,1.349,Yes
+517,"PI Advanced Materials Co., Ltd.",178920.KS,-12.51,0.529,0.343,Yes
+518,JW Pharmaceutical Corporation,001065.KS,-3.31,0.133,0.603,Yes
+519,"Samyoung Electronics Co., Ltd",005680.KS,-4.78,0.194,0.002,No
+520,"Bubang Co., Ltd.",014470.KQ,-10.46,0.434,1.194,Yes
+521,Shinhan 13th SPAC,474930.KQ,-2.15,0.085,0.274,Yes
+522,"ASIA SEED Co.,Ltd.",154030.KQ,-9.27,0.375,0.6,Yes
+523,"Dk Tech Co.,Ltd",290550.KQ,-12.02,0.492,0.081,No
+524,"POSCO STEELEON Co., Ltd.",058430.KS,-10.08,0.408,1.183,Yes
+525,Dongyang E&P Inc.,079960.KQ,-3.97,0.156,0.249,Yes
+526,"ABOV Semiconductor Co., Ltd.",102120.KQ,-19.6,0.826,4.382,Yes
+527,APS Inc.,054620.KQ,-12.9,0.518,1.902,Yes
+528,NH Special Purpose Acquisition 24 Company,437780.KQ,-1.61,0.06,0.338,Yes
+529,"Lotte Chilsung Beverage Co., Ltd.",005305.KS,-1.43,0.054,0.081,No
+530,Exion Group Company Limited,069920.KQ,-21.77,0.903,3.712,Yes
+531,EMRO. Incorporated,058970.KQ,-13.83,0.545,1.896,No
+532,"Dexter Studios Co.,Ltd.",206560.KQ,-11.42,0.443,1.049,No
+533,Opticis Company Limited,109080.KQ,-9.26,0.355,0.239,Yes
+534,Megatouch,446540.KQ,-18.32,0.73,1.844,Yes
+535,"Kukje Pharma Co., Ltd.",002720.KS,-8.29,0.313,1.753,Yes
+536,"SGC E&C Co., Ltd.",016250.KQ,-5.72,0.212,0.068,Yes
+537,"Eutilex.Co.,Ltd",263050.KQ,-19.75,0.781,0.037,Yes
+538,"Orbitech Co., Ltd.",046120.KQ,-11.63,0.44,0.717,Yes
+539,SK Securities ACPC No.7 Special Purpose Acquisition Company,408920.KQ,-5.88,0.214,1.046,Yes
+540,"ISC Co., Ltd.",095340.KQ,-17.34,0.667,1.441,No
+541,"Samho Development Co., LTD",010960.KS,-3.67,0.131,0.317,Yes
+542,Logisys Inc.,067730.KQ,-7.86,0.286,0.785,No
+543,"From Bio Co.,Ltd",377220.KQ,-10.98,0.403,0.016,No
+544,DEEPNOID Inc.,315640.KQ,-14.62,0.537,1.023,Yes
+545,Daejoo Inc.,003310.KQ,-5.53,0.194,0.62,Yes
+546,"Maum.AI, Inc.",377480.KQ,-19.88,0.748,1.359,No
+547,"EASY HOLDINGS Co., Ltd.",035810.KQ,-5.48,0.19,0.4,No
+548,"Youil Energy Tech Co.,Ltd.",340930.KQ,-34.22,1.389,2.043,Yes
+549,"Manyo Factory Co., Ltd",439090.KQ,-12.51,0.447,2.288,Yes
+550,"Metalabs Co., Ltd.",090370.KS,-13.02,0.466,0.557,Yes
+551,G2Power Co. Ltd,388050.KQ,-17.98,0.656,1.461,Yes
+552,"Songwon Industrial Co., Ltd.",004430.KS,-10.97,0.384,0.495,Yes
+553,"Geumhwa Plant Service & Construction Co., Ltd.",036190.KQ,-4.41,0.149,0.055,No
+554,Seoul Broadcasting System,034120.KS,-16.76,0.6,0.456,No
+555,"Castec Korea Co.,Ltd",071850.KQ,-18.97,0.679,1.66,No
+556,"Wantedlab, Inc.",376980.KQ,-17.24,0.61,1.218,Yes
+557,Wavice,289930.KQ,-23.45,0.857,,
+558,"G.I. Tech Co., Ltd.",382480.KQ,-9.42,0.317,0.374,Yes
+559,"LOTTE Fine Chemical Co., Ltd.",004000.KS,-10.47,0.354,0.072,Yes
+560,"Lake Materials Co., Ltd.",281740.KQ,-23.46,0.849,2.33,Yes
+561,"Samyang Tongsang Co., Ltd",002170.KS,-2.55,0.083,0.631,No
+562,"AUROS Technology, Inc.",322310.KQ,-16.36,0.564,3.09,Yes
+563,Xplus Inc.,373200.KQ,-21.39,0.751,0.705,Yes
+564,ECOEYE,448280.KQ,-21.53,0.751,1.573,No
+565,"Union Community Co., Ltd.",203450.KQ,-7.1,0.23,0.179,No
+566,"UNITEKNO Co.,Ltd",241690.KQ,-18.76,0.643,0.591,Yes
+567,GREEN CROSS WellBeing Corporation,234690.KQ,-13.32,0.441,0.631,No
+568,"NK Co., Ltd.",085310.KS,-9.73,0.314,0.893,Yes
+569,"TOMATOSYSTEM Co.,Ltd.",393210.KQ,-22.86,0.787,0.449,Yes
+570,"PJ Electronics Co., Ltd.",006140.KQ,-10.55,0.333,2.07,Yes
+571,"TLB Co., Ltd",356860.KQ,-19.26,0.636,1.51,Yes
+572,BNK SPAC 2,473370.KQ,-1.27,0.038,0.077,Yes
+573,"Kyungdong Invest Co., Ltd",012320.KS,-12.54,0.396,0.616,Yes
+574,"Daesung Energy Co., Ltd.",117580.KS,-7.22,0.221,0.954,Yes
+575,Hancom Inc.,030520.KQ,-16.6,0.533,0.825,No
+576,Misto Holdings Corp.,081660.KS,-4.29,0.13,0.08,No
+577,"Tuksu Engineering & Construction,Ltd.",026150.KQ,-7.86,0.241,0.412,Yes
+578,"Cenit Co., Ltd",037760.KQ,-4.97,0.15,0.276,No
+579,Amorepacific Corporation,090435.KS,-16.97,0.537,0.616,Yes
+580,"ASTORY Co.,Ltd",241840.KQ,-18.03,0.573,1.471,No
+581,"Dayou A-Tech Co.,Ltd",002880.KS,-8.29,0.249,0.543,No
+582,"Taihan Cable & Solution Co., Ltd.",001440.KS,-12.68,0.389,1.032,Yes
+583,DY Power Corporation,210540.KS,-6.78,0.201,0.506,Yes
+584,KISCO Holdings Corp.,001940.KS,-7.31,0.216,0.306,No
+585,"Soosan Heavy Industries Co., Ltd.",017550.KS,-9.35,0.278,0.836,Yes
+586,JTC Inc.,950170.KQ,-11.38,0.342,1.982,Yes
+587,"Yuyu Pharma, Inc.",000225.KS,-4.29,0.124,0.164,Yes
+588,Korea Petroleum Industries Company,004090.KS,-14.83,0.449,2.567,Yes
+589,"Samhwa Networks Co., Ltd.",046390.KQ,-13.71,0.41,0.329,Yes
+590,"IMT Co., Ltd.",451220.KQ,-22.88,0.712,2.636,Yes
+591,Suresofttech Inc.,298830.KQ,-18.89,0.572,0.397,Yes
+592,"DMOA Co., Ltd",016670.KQ,-19.63,0.592,,
+593,"Haisung Aero-Robotics Co., Ltd.",059270.KQ,-21.02,0.638,2.809,Yes
+594,"MONITORAPP Co., Ltd.",434480.KQ,-24.78,0.767,1.97,Yes
+595,"ENVIONEER Co.,Ltd.",317870.KQ,-12.99,0.377,1.377,Yes
+596,"Inzisoft Co.,Ltd.",100030.KQ,-9.37,0.267,0.346,No
+597,K-Auction.Co.Ltd.,102370.KQ,-21.78,0.661,0.655,No
+598,TAEYANG Corporation,053620.KQ,-5.69,0.159,0.231,Yes
+599,Curexo Inc.,060280.KQ,-23.53,0.718,3.062,Yes
+600,Dilli Illustrate Inc.,131180.KQ,-11.41,0.326,0.281,Yes
+601,Hanwha Solutions Corporation,009830.KS,-18.3,0.542,1.117,Yes
+602,"Hwaseung R&A Co., Ltd.",378850.KS,-16.44,0.48,2.761,Yes
+603,Hyosung ITX Co. Ltd,094280.KS,-2.92,0.079,0.1,Yes
+604,"CMG Pharmaceutical Co., Ltd.",058820.KQ,-6.96,0.193,0.861,Yes
+605,"AztechWB Co., Ltd.",032080.KQ,-6.86,0.19,0.254,Yes
+606,"Korea Parts & Fasteners Co.,Ltd",024880.KQ,-10.86,0.306,1.152,Yes
+607,"DongKook Pharmaceutical Co., Ltd.",086450.KQ,-9.53,0.266,0.454,No
+608,"SK Discovery Co., Ltd.",006120.KS,-9.74,0.272,1.598,No
+609,"3S KOREA Co., Ltd.",060310.KQ,-12.14,0.342,0.68,No
+610,Kakao Pay Corp.,377300.KS,-14.45,0.409,0.028,No
+611,"Aju IB Investment Co., Ltd.",027360.KQ,-19.09,0.552,0.258,Yes
+612,"OHEIM INT Co.,Ltd.",309930.KQ,-22.14,0.65,2.039,No
+613,VM Inc.,089970.KQ,-20.67,0.599,2.181,Yes
+614,Suprema HQ Inc.,094840.KQ,-11.66,0.32,0.224,No
+615,EyeGene Inc.,185490.KQ,-11.44,0.312,0.211,Yes
+616,"COTS Technology Co., Ltd.",448710.KQ,-19.35,0.55,2.726,Yes
+617,TegoScience Inc.,191420.KQ,-19.27,0.548,3.348,Yes
+618,Hana 27 Special Purpose Acquisition Company,448370.KQ,-2.17,0.056,0.357,Yes
+619,SG&G Corporation,040610.KQ,-5.97,0.158,0.07,Yes
+620,WINPAC Inc.,097800.KQ,-33.25,1.014,7.482,Yes
+621,"Samsung E&A Co., Ltd.",028050.KS,-16.4,0.453,1.119,Yes
+622,"LG Energy Solution, Ltd.",373220.KS,-11.48,0.309,0.095,No
+623,"ADBiotech Co., Ltd.",179530.KQ,-26.85,0.786,1.491,No
+624,"DL E&C Co.,Ltd.",37550K.KS,-5.9,0.154,0.118,No
+625,"Elcomtec Co., Ltd",037950.KQ,-10.78,0.287,0.122,No
+626,"Korea Industrial Co., Ltd.",002140.KS,-12.38,0.331,0.202,Yes
+627,"Bngt Co.,Ltd.",032790.KQ,-22.51,0.63,0.381,No
+628,"Black Yak I&C Co.,Ltd",478560.KQ,-37.77,1.152,,
+629,"PAKERS.Co.,Ltd.",065690.KQ,-17.28,0.466,0.356,No
+630,"Kocom Co., Ltd.",015710.KQ,-11.19,0.291,0.747,No
+631,"Watos Corea Co., Ltd.",079000.KQ,-13.21,0.347,0.485,Yes
+632,"Hanall Biopharma Co., Ltd.",009420.KS,-17.48,0.469,0.475,Yes
+633,Korea No.13 Special Purpose Acquisition Company,464440.KQ,-2.58,0.064,0.296,Yes
+634,Aurora World Corporation,039830.KQ,-9.95,0.255,0.831,Yes
+635,"Doosan Fuel Cell Co., Ltd.",33626L.KS,-18.17,0.485,0.732,No
+636,Oricom Inc.,010470.KQ,-11.91,0.307,0.668,Yes
+637,"Soop Co., Ltd.",067160.KQ,-19.7,0.526,1.008,Yes
+638,DB Inc.,012030.KS,-12.94,0.332,0.304,No
+639,Mgame Corp.,058630.KQ,-9.68,0.244,0.813,Yes
+640,"KNJ Co., Ltd.",272110.KQ,-15.08,0.39,1.257,Yes
+641,"NOVATECH Co., Ltd.",285490.KQ,-19.13,0.506,1.214,Yes
+642,"NICE Total Cash Management Co., Ltd",063570.KQ,-8.2,0.204,0.562,Yes
+643,"Dawon Nexview Co., Ltd.",323350.KQ,-27.39,0.752,,
+644,Green Cross Holdings Corporation,005250.KS,-13.45,0.341,0.8,No
+645,"KG Dongbu Steel Co.,Ltd.",016380.KS,-11.96,0.301,0.16,Yes
+646,"NPD Co., Ltd",198080.KQ,-16.04,0.411,1.054,No
+647,IMBdx,461030.KQ,-33.02,0.928,0.788,No
+648,"S.Biomedics Co., Ltd.",304360.KQ,-21.83,0.574,2.838,Yes
+649,Chinyang Holdings Corp.,100250.KS,-2.77,0.066,0.19,Yes
+650,"Hannet Co., Ltd.",052600.KQ,-7.75,0.188,0.903,No
+651,UNID Company Ltd.,014830.KS,-18.6,0.471,0.334,No
+652,Daou Data Corp.,032190.KQ,-8.6,0.207,0.194,Yes
+653,"Innometry Co., Ltd.",302430.KQ,-14.86,0.368,0.396,Yes
+654,Uniquest Corporation,077500.KS,-18.86,0.474,0.865,No
+655,LB Investment Inc.,309960.KQ,-15.94,0.394,0.12,Yes
+656,Selvas AI Inc.,108860.KQ,-22.22,0.568,0.036,No
+657,"CHUNGDAMGLOBAL Co., Ltd.",362320.KQ,-24.16,0.624,3.042,Yes
+658,"Seong An Materials Co.,Ltd",011300.KS,-28.52,0.753,0.014,Yes
+659,"Sy Co., Ltd.",109610.KQ,-13.34,0.323,0.767,Yes
+660,"BORATR CO., Ltd.",250000.KQ,-9.92,0.235,0.055,Yes
+661,"BGF retail CO., LTD.",282330.KS,-11.35,0.271,0.657,No
+662,"Hyundai Industrial Co., Ltd.",170030.KQ,-10.22,0.242,0.652,Yes
+663,CJ Cheiljedang Corporation,097955.KS,-6.12,0.142,0.439,Yes
+664,SANDS LAB Inc.,411080.KQ,-29.09,0.762,1.081,Yes
+665,SDSYSTEM,121890.KQ,-15.76,0.381,1.253,Yes
+666,"HLB Co., Ltd.",028300.KQ,-31.63,0.836,0.986,Yes
+667,Com2uS Holdings Corporation,063080.KQ,-21.9,0.546,1.874,No
+668,"Nextchip Co., Ltd.",396270.KQ,-28.78,0.746,1.761,No
+669,"Milae Bioresources Co., Ltd.",218150.KQ,-17.25,0.418,0.679,Yes
+670,"Zeus Co.,Ltd.",079370.KQ,-15.82,0.379,1.437,Yes
+671,Green Cross Medical Science Corporation,142280.KQ,-9.94,0.23,0.391,Yes
+672,"IREM Co.,Ltd.",009730.KQ,-27.87,0.711,1.368,Yes
+673,"BOHAE BREWERY Co., Ltd.",000890.KS,-7.22,0.165,0.251,No
+674,"JLK, Inc.",322510.KQ,-25.34,0.634,0.405,No
+675,"Daewon Co., Ltd.",007680.KQ,-8.3,0.19,0.406,No
+676,"Linkgenesis Co., Ltd.",219420.KQ,-25.26,0.631,0.419,Yes
+677,"Hyundai Ezwel Co.,Ltd.",090850.KQ,-11.21,0.259,0.634,No
+678,"Hanchangpaper co., Ltd",009460.KS,-9.88,0.226,0.37,Yes
+679,"Wooriro Co., Ltd",046970.KQ,-15.97,0.376,0.363,Yes
+680,Shinhan 12th SPAC,474660.KQ,-3.38,0.074,0.54,Yes
+681,"Avaco Co., Ltd.",083930.KQ,-18.7,0.442,2.113,Yes
+682,Organic Tea Cosmetics Holdings Company Limited,900300.KQ,-39.87,1.06,,
+683,FADU Inc.,440110.KQ,-28.51,0.701,2.173,Yes
+684,"Hanjin Transportation Co., Ltd.",002320.KS,-4.51,0.098,0.312,Yes
+685,"YM Tech Co., Ltd.",273640.KQ,-13.98,0.317,0.433,Yes
+686,"KleanNara Co., Ltd.",004545.KS,-12.72,0.285,0.244,No
+687,LS Networks Corporation Limited,000680.KS,-22.61,0.533,2.797,Yes
+688,"Daiyang Metal Co., Ltd.",009190.KS,-19.62,0.454,0.471,No
+689,"Korea Circuit Co., Ltd.",007815.KS,-9.7,0.213,1.438,Yes
+690,INNOSPACE,462350.KQ,-24.45,0.58,,
+691,"Sejin T.S Co.,Ltd",067770.KQ,-11.9,0.261,0.695,No
+692,Jeju Semiconductor Corp.,080220.KQ,-32.12,0.788,3.87,Yes
+693,"Sewoo Global Co., Ltd",013000.KS,-12.67,0.278,0.439,No
+694,Alchera Inc.,347860.KQ,-42.29,1.107,2.58,No
+695,"CHOSUN WELDING POHANG Co., Ltd",120030.KS,-4.29,0.09,0.481,Yes
+696,"Hitejinro Holdings Co., Ltd.",000140.KS,-4.04,0.084,0.058,Yes
+697,KMH Co. Ltd.,122450.KQ,-15.57,0.341,0.618,Yes
+698,CS Wind Corporation,112610.KS,-25.27,0.584,0.34,No
+699,"Avatec Co., Ltd.",149950.KQ,-23.38,0.534,2.82,Yes
+700,"Saramin Co.,Ltd.",143240.KQ,-13.04,0.277,0.552,Yes
+701,"Dongil Industries Co.,Ltd.",004890.KS,-4.84,0.098,0.176,No
+702,"SEOHAN Const. & Eng.co.,Ltd",011370.KQ,-7.21,0.146,0.413,No
+703,"CS BEARING Co.,Ltd.",297090.KQ,-32.29,0.751,2.464,Yes
+704,"GOLFZON Co., Ltd.",215000.KQ,-12.03,0.248,0.139,No
+705,VC Inc.,365900.KQ,-20.68,0.445,0.76,Yes
+706,"HITEJINRO Co., Ltd.",000080.KS,-5.42,0.108,0.381,Yes
+707,"SM Culture & Contents Co., Ltd.",048550.KQ,-17.19,0.361,0.277,No
+708,"Pan Ocean Co., Ltd.",028670.KS,-13.21,0.271,0.384,Yes
+709,Hanwha Galleria Corporation,452260.KS,-17.45,0.365,0.193,Yes
+710,HancomWITH Inc.,054920.KQ,-15.19,0.314,1.055,No
+711,GMB Korea Corp.,013870.KS,-7.44,0.147,0.058,No
+712,"Samsung Electro-Mechanics Co., Ltd.",009150.KS,-14.13,0.289,1.121,Yes
+713,"CTK Co., Ltd",260930.KQ,-20.09,0.424,0.674,No
+714,SK Networks Company Limited,001740.KS,-12.5,0.253,0.155,Yes
+715,"Namhwa Industrial Co., Ltd.",111710.KQ,-8.24,0.163,0.129,No
+716,"Model Solution Co., Ltd.",417970.KQ,-20.83,0.439,1.479,Yes
+717,CTCBIO Inc.,060590.KQ,-14.75,0.3,0.982,Yes
+718,"Heerim Architects & Planners Co., Ltd.",037440.KQ,-19.04,0.394,0.365,Yes
+719,SeAH Besteel Holdings Corporation,001430.KS,-14.39,0.288,1.035,No
+720,"Woori Technology Investment Co., Ltd",041190.KQ,-23.11,0.485,0.195,Yes
+721,"Neuromeka Co., Ltd.",348340.KQ,-24.67,0.522,0.102,No
+722,"Hanssem Co., Ltd.",009240.KS,-15.17,0.304,0.688,Yes
+723,Saeron Automotive Corporation,075180.KS,-9.56,0.186,0.697,Yes
+724,LG Electronics Inc.,066575.KS,-9.41,0.182,0.213,Yes
+725,"Zaigle Co., Ltd.",234920.KQ,-41.69,0.975,1.684,No
+726,Savezone I&C Corporation,067830.KS,-7.25,0.139,0.526,Yes
+727,OCI Holdings Company Ltd.,010060.KS,-23.86,0.497,1.945,Yes
+728,Gradiant Corporation,035080.KQ,-16.08,0.32,0.298,No
+729,"Daesung Hi-Tech Co., Ltd.",129920.KQ,-22.18,0.456,0.533,No
+730,"Dongwon F&B Co., Ltd.",049770.KS,-13.73,0.268,0.998,Yes
+731,"Newtree Co., Ltd.",270870.KQ,-28.02,0.59,1.508,Yes
+732,"Eagon Industrial Co., Ltd.",008250.KS,-7.0,0.131,0.098,Yes
+733,"Gold Pacific Co., Ltd.",038530.KQ,-19.2,0.383,1.121,Yes
+734,"DUKSAN TECHOPIA Co.,Ltd.",317330.KQ,-37.63,0.838,4.988,Yes
+735,"Dukshinepc Co., Ltd.",090410.KQ,-11.24,0.214,0.486,Yes
+736,"i-SENS, Inc.",099190.KQ,-19.14,0.379,2.128,Yes
+737,KORCHIP,126730.KQ,-30.93,0.655,,
+738,"Hwacheon Machine Tool Co., Ltd.",000850.KS,-9.53,0.178,0.347,Yes
+739,"Jeil Technos Co.,Ltd",038010.KQ,-13.83,0.264,1.751,Yes
+740,"Robostar Co., Ltd.",090360.KQ,-25.06,0.508,1.82,Yes
+741,ASICLAND,445090.KQ,-38.76,0.853,1.48,Yes
+742,Vitzro Tech Co. Ltd,042370.KQ,-14.36,0.274,0.776,Yes
+743,"Samchully Co.,Ltd",004690.KS,-3.21,0.058,0.264,Yes
+744,Deutsch Motors Inc.,067990.KQ,-10.38,0.193,0.161,No
+745,"Fidelix Co., Ltd.",032580.KQ,-28.46,0.582,2.188,Yes
+746,"Daemyoung Energy Co.,Ltd",389260.KQ,-24.09,0.48,0.615,No
+747,"Duksung Co., Ltd.",004835.KS,-23.01,0.456,1.011,Yes
+748,"Daehan Flour Mills Co.,Ltd",001130.KS,-4.48,0.08,0.46,Yes
+749,"ISU Abxis Co., Ltd.",086890.KQ,-24.36,0.483,1.609,Yes
+750,ATUM,355690.KQ,-32.77,0.68,1.607,Yes
+751,"NeoPharm CO., LTD.",092730.KQ,-32.53,0.672,0.229,Yes
+752,"CROWNHAITAI Holdings Co.,Ltd.",005740.KS,-10.16,0.185,0.834,Yes
+753,"RFTech Co., Ltd.",061040.KQ,-16.38,0.308,0.944,No
+754,Hyundai Steel Company,004020.KS,-17.92,0.339,1.283,Yes
+755,Yuanta 12 Special Purpose Acquisition Company,446150.KQ,-8.82,0.159,0.163,Yes
+756,"Finger Story CO., LTD.",417180.KQ,-31.08,0.632,1.123,No
+757,"RF Materials Co., Ltd.",327260.KQ,-27.98,0.557,0.704,Yes
+758,"NEOOTO Co., Ltd",212560.KQ,-16.11,0.3,0.038,No
+759,Yuanta 10 SPECIAL PURPOSE ACQUISITION COMPANY,435380.KQ,-3.12,0.054,0.329,Yes
+760,iMarketKorea Inc.,122900.KS,-3.38,0.058,0.075,Yes
+761,Hyundai Motor Company,005380.KS,-16.03,0.294,0.984,Yes
+762,"Asia Technology Co.,Ltd",050860.KQ,-11.89,0.214,1.011,Yes
+763,"YTN Co.,Ltd.",040300.KQ,-16.18,0.297,0.67,No
+764,SFA Engineering Corporation,056190.KQ,-15.24,0.278,0.268,No
+765,"NOROO Holdings Co., Ltd.",000325.KS,-9.05,0.16,0.412,No
+766,Amorepacific Corporation,090430.KS,-30.64,0.61,1.036,Yes
+767,ESTaid Corp.,239340.KQ,-39.47,0.83,2.458,No
+768,"Pixelplus. Co., Ltd.",087600.KQ,-17.69,0.325,0.116,No
+769,"SEKONIX Co., Ltd.",053450.KQ,-22.52,0.425,1.064,Yes
+770,"Kwangmu Co.,Ltd.",029480.KQ,-29.49,0.579,0.166,Yes
+771,Humasis Co. Ltd.,205470.KQ,-20.96,0.391,0.074,Yes
+772,"Shin Hwa Dynamics Co.,Ltd.",001770.KS,-15.58,0.282,1.147,Yes
+773,"Global Standard Technology, Limited",083450.KQ,-21.52,0.402,0.471,Yes
+774,"YOUNGHWA TECH Co., Ltd.",265560.KQ,-14.01,0.251,0.735,Yes
+775,Haein Corporation,003010.KS,-11.36,0.201,0.942,Yes
+776,"Cosmax Nbt, Inc.",222040.KQ,-19.93,0.367,0.657,Yes
+777,"Openbase, Inc.",049480.KQ,-11.85,0.209,0.229,Yes
+778,Paratech Company Limited,033540.KQ,-26.06,0.495,0.403,No
+779,"Kukdo Chemical Co., Ltd.",007690.KS,-15.84,0.282,1.14,Yes
+780,"SUN KWANG CO.,Ltd.",003100.KQ,-9.34,0.161,0.879,Yes
+781,LG Electronics Inc.,066570.KS,-14.72,0.259,0.43,Yes
+782,PanGen Biotech Inc.,222110.KQ,-22.3,0.408,2.157,No
+783,Sangsangin SPAC IV,452670.KQ,-1.83,0.03,0.159,Yes
+784,LX Holdings Corp.,383800.KS,-4.01,0.066,0.247,Yes
+785,"Anam Electronics Co.,Ltd.",008700.KS,-21.56,0.391,0.34,Yes
+786,RF Systems,474610.KQ,-38.66,0.778,,
+787,"APT Neuroscience, Inc.",270520.KQ,-40.42,0.823,1.934,No
+788,"Korea Information Engineering Services Co., Ltd.",039740.KQ,-13.07,0.226,1.16,Yes
+789,Kolon Mobility Group Corporation,450140.KS,-25.28,0.466,1.89,Yes
+790,Kia Corporation,000270.KS,-14.95,0.26,0.696,Yes
+791,AP Healthcare Inc.,109960.KQ,-22.73,0.412,0.129,No
+792,"MOBASE Co.,Ltd.",101330.KQ,-11.66,0.199,0.616,Yes
+793,"OKins Electronics Co.,Ltd.",080580.KQ,-23.5,0.426,2.779,Yes
+794,"WIZIT Co., Ltd.",036090.KQ,-13.65,0.235,0.577,Yes
+795,Hyundai Home Shopping Network Corporation,057050.KS,-9.49,0.16,0.664,Yes
+796,"Medience Co., Ltd.",014100.KQ,-27.27,0.505,0.05,Yes
+797,"I&C Technology Co., Ltd.",052860.KQ,-32.29,0.615,1.145,Yes
+798,"Daekyo Co., Ltd.",019685.KS,-13.09,0.223,1.001,No
+799,ABION Inc.,203400.KQ,-17.9,0.313,0.14,No
+800,"Samsung FN REIT Co., Ltd.",448730.KS,-5.43,0.089,0.189,Yes
+801,"SEOWONINTECH. Co., Ltd.",093920.KQ,-4.69,0.077,0.149,No
+802,"Cheryong Electric Co.,Ltd.",033100.KQ,-36.68,0.716,3.244,Yes
+803,GL Pharm Tech Corp.,204840.KQ,-18.37,0.321,0.323,No
+804,"e-future.Co.,Ltd.",134060.KQ,-11.57,0.195,0.615,Yes
+805,"Shinhan Seobu T&D REIT Co., Ltd.",404990.KS,-11.8,0.199,0.36,Yes
+806,SHT-10 SPAC,472220.KQ,-3.35,0.054,0.357,Yes
+807,"C&C International Co., Ltd.",352480.KQ,-41.78,0.837,3.271,Yes
+808,Hana Materials Inc.,166090.KQ,-33.87,0.643,4.223,Yes
+809,H&S Hightech Corp.,044990.KQ,-27.91,0.511,0.868,Yes
+810,"TRUEN Co., Ltd.",417790.KQ,-10.53,0.175,0.207,No
+811,Hyosung TNC Corporation,298020.KS,-30.49,0.566,0.638,No
+812,"Sungwoo Techron. Co,.Ltd",045300.KQ,-20.21,0.353,1.578,Yes
+813,"Asiana Airlines, Inc.",020560.KS,-9.24,0.152,0.091,No
+814,Hana 31 SPAC,469900.KQ,-3.74,0.06,0.215,Yes
+815,"Daewoo Engineering & Construction Co., Ltd.",047040.KS,-16.35,0.277,1.018,Yes
+816,HyVision System. Inc,126700.KQ,-21.92,0.381,0.117,Yes
+817,"Miraeasset Maps REIT 1 Co., Ltd.",357250.KS,-8.59,0.139,0.266,Yes
+818,SCI Information Service Inc.,036120.KQ,-22.3,0.386,1.577,No
+819,"09WOMEN Co., Ltd.",366030.KQ,-26.46,0.469,1.094,Yes
+820,"Solueta Co., Ltd.",154040.KQ,-28.47,0.51,0.676,Yes
+821,Eugene Corporation,023410.KQ,-6.59,0.104,0.518,Yes
+822,ktcs corporation,058850.KS,-18.07,0.304,0.706,Yes
+823,"STI Co., Ltd.",039440.KQ,-34.89,0.646,3.963,Yes
+824,"LG Innotek Co., Ltd.",011070.KS,-23.36,0.399,0.787,Yes
+825,"KPX Lifescience.Co.,Ltd.",114450.KQ,-23.73,0.405,0.472,Yes
+826,"RS Automation Co.,Ltd.",140670.KQ,-26.21,0.453,0.152,Yes
+827,"Daihan Pharmaceutical Co.,Ltd.",023910.KQ,-8.66,0.136,0.378,No
+828,"Shinhan Alpha REIT Co., Ltd.",293940.KS,-10.31,0.162,0.526,Yes
+829,"Kns Co., Ltd",432470.KQ,-26.99,0.464,2.1,Yes
+830,Webzen Inc.,069080.KQ,-15.72,0.253,0.332,Yes
+831,SHINSEGAE FOOD Inc.,031440.KS,-15.99,0.256,0.448,No
+832,"Essen Tech Co., Ltd.",043340.KQ,-17.59,0.284,0.514,Yes
+833,SHIFT UP,462870.KS,-20.39,0.334,,
+834,"Telcoware Co.,Ltd.",078000.KS,-9.37,0.145,0.022,Yes
+835,"Chosun Refractories Co.,Ltd.",462520.KS,-16.17,0.258,0.312,Yes
+836,Genome & Company,314130.KQ,-30.63,0.529,0.359,Yes
+837,Yuanta SPAC 15,473050.KQ,-2.5,0.037,0.145,Yes
+838,"Samhwa Crown & Closure Co., Ltd",004450.KS,-5.57,0.083,0.219,No
+839,"Xavis Co., Ltd.",254120.KQ,-25.05,0.416,2.117,Yes
+840,"Nara Mold & Die Co., Ltd.",051490.KQ,-18.46,0.294,0.758,Yes
+841,"Elensys Co.,Ltd.",264850.KQ,-27.24,0.455,0.99,Yes
+842,"Maeil Dairies Co., Ltd.",267980.KQ,-10.77,0.163,0.044,Yes
+843,"Han Kook Capital.Co., Ltd",023760.KQ,-6.11,0.09,0.169,No
+844,"T Scientific Co.,Ltd.",057680.KQ,-29.06,0.486,0.908,No
+845,"Seoyon E-Hwa Co., Ltd.",200880.KS,-27.59,0.457,3.04,Yes
+846,"COPUS KOREA Co., Ltd.",322780.KQ,-35.54,0.618,1.513,Yes
+847,"NIBEC Co., Ltd.",138610.KQ,-21.44,0.342,1.592,Yes
+848,"Duksung Co., Ltd.",004830.KS,-20.29,0.32,0.804,Yes
+849,"Korea No.12 Special Purpose Acquisition Co., Ltd.",458610.KQ,-4.23,0.062,0.495,Yes
+850,Yooshin Engineering Corporation,054930.KQ,-21.76,0.346,0.846,Yes
+851,"Ram Technology Co., Ltd",171010.KQ,-30.67,0.513,2.682,Yes
+852,"Ascendio Co., Ltd.",012170.KS,-50.2,0.962,0.069,No
+853,"Seowon Co., Ltd.",021050.KS,-13.23,0.2,0.048,No
+854,"Sejoong Co., Ltd.",039310.KQ,-18.18,0.281,1.175,Yes
+855,E1 Corporation,017940.KS,-9.47,0.139,0.421,Yes
+856,"Vieworks Co., Ltd.",100120.KQ,-14.1,0.212,0.265,Yes
+857,"HANMI Semiconductor Co., Ltd.",042700.KS,-39.91,0.701,3.173,Yes
+858,Hanjin Kal,18064K.KS,-8.25,0.12,0.321,Yes
+859,Kolon ENP,138490.KS,-17.28,0.264,0.185,Yes
+860,PSK Inc.,319660.KQ,-27.24,0.438,2.866,Yes
+861,S&S Tech Corporation,101490.KQ,-22.94,0.359,0.471,Yes
+862,"Kumho Petro Chemical Co.,Ltd",011785.KS,-15.57,0.234,0.625,Yes
+863,"DUAL Co., Ltd.",016740.KS,-15.23,0.228,0.102,Yes
+864,"Uni-Chem Co., Ltd.",011330.KS,-21.43,0.332,0.859,No
+865,KOSPI Composite Index,^KS11,-7.97,0.115,1.0,Yes
+866,"D&C Media Co.,Ltd.",263720.KQ,-24.8,0.39,1.57,No
+867,IBKS No.24 SPAC,469480.KQ,-4.91,0.07,0.397,Yes
+868,DIO Corporation,039840.KQ,-15.69,0.234,0.619,Yes
+869,"Bitmax Co., Ltd",377030.KQ,-48.29,0.886,1.555,Yes
+870,"Hwail Pharmaceutical Co.,Ltd.",061250.KQ,-30.99,0.504,0.378,Yes
+871,"Eugene Investment & Securities Co.,Ltd.",001200.KS,-36.56,0.615,4.035,Yes
+872,Lotte Chemical Corporation,011170.KS,-31.66,0.513,0.916,Yes
+873,BRIDGETEC Corp.,064480.KQ,-29.46,0.467,1.508,No
+874,"Kolon Industries, Inc.",120110.KS,-21.85,0.331,0.491,Yes
+875,RBW Inc.,361570.KQ,-32.45,0.524,0.91,No
+876,"Lotte Chilsung Beverage Co., Ltd.",005300.KS,-12.79,0.185,0.097,Yes
+877,"Haesung Industrial Co., Ltd.",034810.KQ,-13.44,0.194,0.909,Yes
+878,"Iljeong Industrial Co.,Ltd",008500.KS,-17.45,0.257,0.226,Yes
+879,"Hanwha Life Insurance Co., Ltd.",088350.KS,-13.39,0.193,1.212,Yes
+880,"Dt&C Co., Ltd.",187220.KQ,-24.67,0.376,0.483,Yes
+881,"Y-Entec Co., Ltd.",067900.KQ,-13.72,0.196,1.038,Yes
+882,Hana 28 Special Purpose Acquisition Company,454750.KQ,-3.78,0.051,0.34,Yes
+883,"Wooshin Systems Co., Ltd.",017370.KS,-27.08,0.415,0.604,Yes
+884,"CJ ENM CO., Ltd.",035760.KQ,-23.63,0.355,0.104,Yes
+885,Hyundai Autoever Corporation,307950.KS,-20.06,0.293,1.665,Yes
+886,"Sinil Pharmaceutical Co., Ltd.",012790.KQ,-11.36,0.159,1.039,Yes
+887,"Korea Information Certificate Authority, Inc.",053300.KQ,-14.64,0.208,0.217,Yes
+888,"Korea Petrochemical Ind. Co., Ltd.",006650.KS,-28.72,0.44,0.861,Yes
+889,"MYUNGMOON Pharm co.,Ltd",017180.KS,-23.76,0.353,0.287,Yes
+890,"Bonne Co., Ltd.",226340.KQ,-41.8,0.696,0.638,Yes
+891,"Curiox Biosystems Co., Ltd",445680.KQ,-39.35,0.643,1.414,Yes
+892,Kyungbangco.Ltd,000050.KS,-12.43,0.173,0.269,Yes
+893,Macquarie Korea Infrastructure Fund,088980.KS,-8.08,0.11,0.432,Yes
+894,JW Lifescience Corporation,234080.KS,-8.1,0.11,0.191,No
+895,KoMiCo Ltd.,183300.KQ,-33.38,0.523,1.161,Yes
+896,Korea Fuel-Tech Corporation,123410.KQ,-31.65,0.49,0.178,Yes
+897,"LG Display Co., Ltd.",034220.KS,-15.91,0.225,1.585,Yes
+898,Seung Il Corporation,049830.KQ,-8.6,0.117,0.003,Yes
+899,"S-Energy Co.,Ltd.",095910.KQ,-25.51,0.378,0.826,No
+900,"BNC Korea Co., Ltd.",256840.KQ,-34.74,0.544,0.911,Yes
+901,"Ray Co., Ltd.",228670.KQ,-36.84,0.583,4.156,Yes
+902,Wonik Cube Corp.,014190.KQ,-16.46,0.23,0.897,Yes
+903,"Duk San Neolux Co.,Ltd",213420.KQ,-26.82,0.396,0.19,No
+904,"Korea Circuit Co., Ltd.",007810.KS,-30.49,0.459,1.853,Yes
+905,SANIGEN,188260.KQ,-32.78,0.5,0.022,No
+906,Paseco Co. Ltd,037070.KQ,-31.03,0.468,2.976,Yes
+907,"Lion Chemtech Co., Ltd.",171120.KQ,-22.04,0.315,0.143,No
+908,"Chemtros Co., Ltd.",220260.KQ,-37.01,0.578,0.858,Yes
+909,HANDOK Inc.,002390.KS,-17.98,0.25,0.161,No
+910,"KidariStudio, Inc.",020120.KS,-29.08,0.43,0.645,No
+911,"Samjin Pharmaceuticals Co., Ltd.",005500.KS,-7.14,0.094,0.087,Yes
+912,"Soosung Webtoon co., Ltd.",084180.KQ,-19.33,0.27,0.293,Yes
+913,IBKS No.23 SPAC,467930.KQ,-5.37,0.07,0.485,Yes
+914,Posco Dx Company Ltd.,022100.KS,-34.38,0.523,1.655,Yes
+915,"MH Ethanol Co.,Ltd.",023150.KS,-16.21,0.222,0.499,No
+916,GS Holdings Corp.,078930.KS,-12.15,0.162,0.751,Yes
+917,"ChinHung International, Inc.",002785.KS,-25.68,0.369,0.585,Yes
+918,Chong Kun Dang Pharmaceutical Corp.,185750.KS,-19.7,0.274,0.397,No
+919,PaperCorea Inc.,001020.KS,-17.47,0.24,0.396,No
+920,"Mobiis Co., Ltd.",250060.KQ,-30.61,0.453,0.111,No
+921,Dongwon Systems Corporation,014820.KS,-21.4,0.3,0.541,Yes
+922,mPLUS Corp.,259630.KQ,-23.63,0.335,1.323,Yes
+923,"Dohwa Engineering Co., Ltd.",002150.KS,-10.97,0.145,0.137,Yes
+924,"Victek Co., Ltd.",065450.KQ,-15.38,0.207,1.098,Yes
+925,DAE-IL Corporation,092200.KS,-28.32,0.41,2.067,Yes
+926,Yuanta 14 SPECIAL PURPOSE ACQUISITION COMPANY,450940.KQ,-4.9,0.063,0.223,Yes
+927,Ananti Inc.,025980.KQ,-16.98,0.23,0.434,Yes
+928,"YMT Co., Ltd.",251370.KQ,-29.18,0.423,0.667,No
+929,"Korea Airport Service Co.,Ltd.",005430.KS,-27.29,0.391,1.024,Yes
+930,"KC Co., Ltd.",029460.KS,-18.64,0.254,0.288,Yes
+931,INICS Corp.,452400.KQ,-44.06,0.705,0.07,No
+932,"Wemade Co.,Ltd.",112040.KQ,-33.83,0.501,1.09,Yes
+933,"Ildong Holdings Co., Ltd.",000230.KS,-27.13,0.385,1.211,No
+934,"HYUNGKUK F&B Co., Ltd.",189980.KQ,-24.9,0.348,2.457,Yes
+935,"BCWORLD PHARM. Co., Ltd.",200780.KQ,-18.98,0.256,0.292,Yes
+936,KTIS Corporation,058860.KS,-11.54,0.149,0.053,Yes
+937,"HB Technology CO.,LTD.",078150.KQ,-37.06,0.553,3.764,Yes
+938,"Doosan Fuel Cell Co., Ltd.",336260.KS,-27.67,0.387,0.577,No
+939,"Daedong Metals Co., Ltd.",020400.KQ,-23.34,0.318,0.352,Yes
+940,"HuM&C Co., Ltd.",263920.KQ,-14.79,0.192,0.286,No
+941,"Omnisystem Co.,Ltd.",057540.KQ,-18.93,0.251,0.913,Yes
+942,"Cellromax Science Co., Ltd.",471820.KQ,-26.99,0.374,,
+943,LG Corp.,003550.KS,-14.65,0.189,0.288,Yes
+944,"Wooree Lighting Co.,Ltd",037400.KQ,-23.74,0.323,0.833,Yes
+945,Hyundai Wia Corporation,011210.KS,-20.94,0.28,0.77,Yes
+946,"Jin Young Co.,Ltd.",285800.KQ,-38.77,0.578,2.383,Yes
+947,"Fine M-Tec CO.,LTD.",441270.KQ,-38.3,0.569,0.386,Yes
+948,"Moorim SP Co., Ltd.",001810.KQ,-13.56,0.174,0.374,No
+949,DSR Corp,155660.KS,-10.74,0.136,0.446,Yes
+950,"DIAC Co., Ltd.",078590.KQ,-31.64,0.448,0.03,No
+951,EXA E&C Inc.,054940.KQ,-12.59,0.16,0.417,Yes
+952,Kyobo 15 Special Purpose Acquisition Company,465320.KQ,-5.03,0.061,0.157,Yes
+953,"ChinHung International, Inc.",002787.KS,-21.2,0.281,0.916,Yes
+954,"Hansae Yes24 Holdings Co., Ltd",016450.KS,-15.28,0.196,0.27,No
+955,TBC,033830.KQ,-15.18,0.194,0.084,No
+956,"CAELUM Co., Ltd.",258610.KQ,-39.12,0.576,0.459,Yes
+957,"N Citron, Inc.",101400.KQ,-25.78,0.349,0.514,Yes
+958,"Tae Won Mulsan Co., Ltd.",001420.KS,-15.29,0.195,0.157,No
+959,"Eugene Technology Co.,Ltd.",084370.KQ,-26.38,0.357,1.89,Yes
+960,"Lotte Tour Development Co., Ltd.",032350.KS,-19.19,0.249,0.196,No
+961,"Korea New Network Co., Ltd.",058400.KQ,-12.88,0.162,0.115,No
+962,"Koryo Credit Information Co., Ltd.",049720.KQ,-8.11,0.099,0.284,No
+963,"TJ media Co., Ltd.",032540.KQ,-13.4,0.168,0.292,Yes
+964,"Pro2000 Co.,Ltd.",321260.KQ,-18.19,0.234,0.708,Yes
+965,"Optipharm.CO.,LTD",153710.KQ,-19.04,0.245,1.114,Yes
+966,NVH Korea Inc.,067570.KQ,-14.13,0.177,0.223,No
+967,"Spigen Korea Co.,Ltd",192440.KQ,-19.53,0.251,1.238,Yes
+968,"Aekyung Industrial Co., Ltd.",018250.KS,-31.56,0.435,0.823,No
+969,DAVOLINK Inc.,340360.KQ,-36.26,0.515,0.677,Yes
+970,Xi S&D Inc.,317400.KS,-19.85,0.255,1.354,Yes
+971,"Iljin Display Co., Ltd.",020760.KS,-25.02,0.331,0.017,Yes
+972,"LX Semicon Co., Ltd.",108320.KS,-23.16,0.301,1.837,Yes
+973,Global SM Tech Limited,900070.KQ,-11.61,0.141,0.432,Yes
+974,Samsung C&T Corporation,028260.KS,-19.64,0.249,1.043,Yes
+975,Twim Corp.,290090.KQ,-23.95,0.31,0.374,Yes
+976,"Wemade Max Co., Ltd.",101730.KQ,-30.4,0.408,1.382,Yes
+977,"Hanwha General Insurance Co., Ltd.",000370.KS,-20.64,0.261,0.744,Yes
+978,"Viatron Technologies, Inc.",141000.KQ,-21.97,0.28,0.764,Yes
+979,"Corentec Co., Ltd.",104540.KQ,-30.14,0.403,2.393,Yes
+980,"EV Advanced Material Co.,Ltd",131400.KQ,-33.51,0.456,0.802,No
+981,JW Shinyak Corporation,067290.KQ,-22.66,0.289,0.139,Yes
+982,GH Advanced Materials Inc.,130500.KQ,-21.29,0.269,0.159,Yes
+983,Hana 29 Special Purpose Acquisition Company,454640.KQ,-3.7,0.043,0.177,Yes
+984,Eugene SPAC X,468760.KQ,-4.16,0.048,0.114,Yes
+985,Chobi Company Limited,001550.KS,-18.53,0.229,1.09,Yes
+986,AMOREPACIFIC Group,002795.KS,-20.79,0.259,0.352,No
+987,"KOLMAR BNH Co.,Ltd.",200130.KQ,-21.09,0.262,2.034,Yes
+988,ANGEL,455900.KQ,-36.89,0.505,0.781,Yes
+989,"ICD Co., Ltd.",040910.KQ,-45.35,0.657,2.033,Yes
+990,"KOSES Co.,Ltd",089890.KQ,-46.42,0.678,4.093,Yes
+991,"Fine besteel. Co., Ltd.",133820.KS,-36.12,0.49,1.134,Yes
+992,SHINSEGAE Inc.,004170.KS,-14.91,0.179,0.182,Yes
+993,"Samwha Electric Co.,Ltd.",009470.KS,-45.78,0.664,2.583,Yes
+994,"Secuve Co., Ltd.",131090.KQ,-14.04,0.167,0.174,Yes
+995,"Heungkuk Fire&Marine Insurance Co., Ltd.",000540.KS,-21.85,0.271,0.219,Yes
+996,"Innowireless Co., Ltd.",073490.KQ,-25.94,0.328,0.215,Yes
+997,"ECSTELECOM Co., Ltd.",067010.KQ,-13.15,0.155,0.381,Yes
+998,Cubic Korea Inc.,021650.KQ,-15.44,0.184,0.154,No
+999,Tongyang Inc.,001525.KS,-22.48,0.278,0.588,Yes
+1000,KEM Tech Corp.,106080.KQ,-50.61,0.755,2.186,Yes
+1001,SK Securities No.12 SPAC,473000.KQ,-3.33,0.037,,
+1002,"MK Electron Co., Ltd.",033160.KQ,-37.24,0.503,2.119,Yes
+1003,"Virnect Co., Ltd.",438700.KQ,-45.24,0.645,0.297,Yes
+1004,Hana 30 Special Purpose Acquisition Company,469880.KQ,-5.07,0.057,0.234,Yes
+1005,Samyang KCI Corporation,036670.KQ,-13.25,0.155,0.215,No
+1006,"GS Retail Co., Ltd.",007070.KS,-35.29,0.468,0.427,Yes
+1007,"Samsung Electronics Co., Ltd.",005930.KS,-23.13,0.283,1.594,Yes
+1008,"nTels Co., Ltd.",069410.KQ,-22.73,0.277,0.162,Yes
+1009,"Protec Co., Ltd.",053610.KQ,-38.65,0.518,1.648,Yes
+1010,"Dong-A Hwa Sung Co.,Ltd.",041930.KQ,-26.57,0.33,0.012,Yes
+1011,"Macrogen, Inc.",038290.KQ,-21.15,0.254,0.004,Yes
+1012,"BBIA Co., Ltd.",451250.KQ,-40.08,0.542,1.126,Yes
+1013,Sandoll Inc.,419120.KQ,-22.98,0.279,0.134,No
+1014,"FNC ENTERTAINMENT Co., Ltd.",173940.KQ,-25.91,0.319,0.15,No
+1015,SK D&D Co. Ltd.,210980.KS,-27.27,0.339,0.089,Yes
+1016,"Tapex Co., Ltd.",055490.KS,-36.74,0.482,1.297,Yes
+1017,Linked Inc.,193250.KQ,-37.37,0.491,1.196,No
+1018,Lotte Energy Materials Corporation,020150.KS,-43.69,0.6,1.857,Yes
+1019,Yuanta SPAC 11,444920.KQ,-4.78,0.052,0.303,Yes
+1020,"Dongjin Semichem Co., Ltd.",005290.KQ,-30.61,0.384,1.294,Yes
+1021,"ITEK, Inc.",119830.KQ,-23.6,0.284,1.293,Yes
+1022,SMCore.Inc,007820.KQ,-26.07,0.318,0.847,Yes
+1023,"Kolon Industries, Inc.",120115.KS,-11.21,0.126,0.194,Yes
+1024,"EGTRONICS Co.,Ltd.",377330.KQ,-30.84,0.385,0.797,Yes
+1025,"Barun Electronics Co., Ltd.",064520.KQ,-34.4,0.439,0.91,Yes
+1026,"SurplusGLOBAL, Inc.",140070.KQ,-29.65,0.367,1.227,Yes
+1027,HMCIB No.6 SPECIAL PURPOSE ACQUISITION COMPANY,462020.KQ,-4.31,0.047,0.204,Yes
+1028,TP Inc.,007980.KS,-20.3,0.237,0.066,No
+1029,"Worldex Industry & Trading Co., Ltd.",101160.KQ,-24.41,0.291,1.132,Yes
+1030,"PIM Korea Co., Ltd.",448900.KQ,-36.22,0.464,0.452,Yes
+1031,"Moonbaesteel Co.,Ltd",008420.KS,-18.13,0.209,0.3,Yes
+1032,"A.F.W Co., Ltd.",312610.KQ,-37.0,0.476,1.75,Yes
+1033,"Senko Co., Ltd",347000.KQ,-26.09,0.314,1.081,Yes
+1034,"Jayjun Cosmetic Co., Ltd.",025620.KS,-32.48,0.406,0.479,No
+1035,"SK Securities Co., Ltd.",001515.KS,-22.92,0.27,0.318,No
+1036,"Intops Co., Ltd.",049070.KQ,-37.53,0.482,2.264,Yes
+1037,"DongWon Development Co.,Ltd.",013120.KQ,-16.33,0.185,0.251,No
+1038,Hantop Inc.,002680.KQ,-16.63,0.188,0.358,Yes
+1039,"GOLD&S Co.,Ltd",035290.KQ,-29.19,0.354,0.364,No
+1040,"Taekyung Chemical Co., Ltd.",006890.KS,-18.82,0.215,0.635,Yes
+1041,"Wysiwyg Studios Co., Ltd.",299900.KQ,-45.09,0.608,1.678,No
+1042,Y-Biologics,338840.KQ,-35.54,0.448,1.458,Yes
+1043,AMOREPACIFIC Group,00279K.KS,-20.95,0.242,0.02,No
+1044,"Mirae Asset Global REIT Co., Ltd.",396690.KS,-11.72,0.128,0.159,Yes
+1045,"Philenergy Co., Ltd.",378340.KQ,-35.32,0.441,0.791,Yes
+1046,"Samick THK Co., Ltd.",004380.KS,-28.3,0.337,1.401,Yes
+1047,"Hanshin Machinery Co., Ltd.",011700.KS,-36.2,0.453,0.892,Yes
+1048,"Guyoung Technology Co., Ltd",053270.KQ,-23.42,0.271,1.223,Yes
+1049,Wise birds Inc.,273060.KQ,-33.5,0.411,0.94,Yes
+1050,Fine Semitech Corp.,036810.KQ,-39.02,0.497,2.867,Yes
+1051,"Woorison F&G Co., Ltd.",073560.KQ,-11.51,0.125,0.452,Yes
+1052,"Kainos Medicine, Inc.",284620.KQ,-56.77,0.827,0.233,Yes
+1053,"Doosan Fuel Cell Co., Ltd.",33626K.KS,-27.6,0.324,0.545,No
+1054,DSR Wire Corp,069730.KS,-20.24,0.228,1.125,Yes
+1055,"MiraeING.Co.,Ltd.",007120.KS,-30.64,0.366,0.557,Yes
+1056,AMOREPACIFIC Group,002790.KS,-36.41,0.449,0.117,Yes
+1057,"Comtec Systems Co.,Ltd.",031820.KS,-16.91,0.185,0.431,Yes
+1058,Obzen Inc.,417860.KQ,-35.23,0.429,0.584,Yes
+1059,Manho Rope & Wire Ltd.,001080.KS,-37.46,0.461,0.241,No
+1060,Hydro Lithium Inc,101670.KQ,-61.95,0.93,1.541,No
+1061,"KCC Engineering & Construction Co., Ltd.",021320.KQ,-13.89,0.149,0.184,No
+1062,"DaeChang Steel Co., Ltd.",140520.KQ,-10.32,0.108,0.307,No
+1063,NanoTIM Co. Ltd.,417010.KQ,-48.62,0.645,0.036,No
+1064,Jeil Pharma Holdings Inc,002620.KS,-19.99,0.22,0.171,No
+1065,UTI Inc.,179900.KQ,-35.86,0.434,0.681,No
+1066,"NDFOS Co., Ltd.",238090.KQ,-40.08,0.498,1.069,No
+1067,"Dong-A ST Co., Ltd.",170900.KS,-30.67,0.358,0.149,Yes
+1068,"Seoyon Co., Ltd.",007860.KS,-19.77,0.216,0.909,Yes
+1069,"Kumkang Kind Co., Ltd.",014280.KS,-18.94,0.206,0.444,Yes
+1070,"Jeong Moon Information. Co., Ltd",033050.KQ,-16.17,0.173,0.302,Yes
+1071,"Kukdong Oil & Chemicals Co.,Ltd",014530.KS,-10.6,0.11,0.138,Yes
+1072,"DAEDUCK ELECTRONICS Co., Ltd.",353200.KS,-29.91,0.345,1.474,Yes
+1073,"Cherrybro co.,Ltd",066360.KQ,-27.34,0.31,0.753,Yes
+1074,"SM Life Design Group Co., Ltd.",063440.KQ,-19.66,0.213,0.094,Yes
+1075,Aprogen Medicines Inc.,007460.KS,-49.14,0.645,1.081,Yes
+1076,"Simmtech Holdings Co., Ltd.",036710.KQ,-39.47,0.482,2.871,Yes
+1077,"Seoulin Bioscience Co.,Ltd.",038070.KQ,-22.23,0.244,0.055,No
+1078,"KG Mobilians Co., Ltd",046440.KQ,-17.62,0.188,0.275,No
+1079,"New Power Plasma Co.,Ltd",144960.KQ,-20.0,0.217,0.938,Yes
+1080,"Sang-A Frontec Co.,Ltd.",089980.KQ,-34.57,0.407,0.462,No
+1081,NHN Corporation,181710.KS,-23.52,0.259,0.377,Yes
+1082,L&K Biomed Ltd.,156100.KQ,-27.37,0.308,0.523,Yes
+1083,"Dongkuk Holdings Co.,Ltd.",001230.KS,-11.01,0.113,0.593,Yes
+1084,"Youngsin Metal Industrial Co., Ltd.",007530.KQ,-24.34,0.269,0.252,No
+1085,"Vissem Electronics Co., Ltd.",072950.KQ,-25.87,0.288,0.375,Yes
+1086,"Vistos Co., Ltd",419540.KQ,-22.65,0.247,0.534,No
+1087,"Exicon Co., Ltd.",092870.KQ,-43.24,0.538,1.909,Yes
+1088,"Sung Woo Co.,Ltd",458650.KQ,-63.43,0.934,,
+1089,"KMPHARMACEUTICAL Co.,Ltd.",225430.KQ,-27.64,0.308,0.906,No
+1090,Vuno Inc.,338220.KQ,-34.39,0.399,0.156,No
+1091,"WiSoL CO.,LTD.",122990.KQ,-28.07,0.313,1.269,Yes
+1092,"iCRAFT Co., Ltd.",052460.KQ,-31.53,0.358,1.023,Yes
+1093,"GSE Co., Ltd.",053050.KQ,-16.73,0.175,0.132,Yes
+1094,Hana 32 SPAC,475240.KQ,-6.36,0.063,0.303,Yes
+1095,"IDIS Holdings Co., Ltd.",054800.KQ,-14.59,0.15,0.215,No
+1096,"UNID btplus Co., Ltd.",446070.KS,-21.42,0.229,0.164,No
+1097,"Hanil Chemical Ind. Co., Ltd.",007770.KQ,-23.86,0.257,0.524,Yes
+1098,Korea United Pharm Inc.,033270.KS,-19.36,0.203,0.588,Yes
+1099,"KODI CO., LTD",080530.KQ,-34.41,0.394,1.238,Yes
+1100,"Shinyoung HappyTomorrow No.9 Special Purpose Acquisition Company Co., Ltd.",445970.KQ,-5.58,0.054,0.231,Yes
+1101,MDS Tech Inc.,086960.KQ,-33.66,0.382,1.585,Yes
+1102,"Green Plus Co., Ltd.",186230.KQ,-35.51,0.407,0.842,No
+1103,Netmarble Corporation,251270.KS,-28.49,0.312,1.173,No
+1104,BECU AI Inc.,148780.KQ,-27.43,0.298,0.477,Yes
+1105,"ONEJOON Co., Ltd.",382840.KQ,-40.47,0.477,0.862,Yes
+1106,"Human N, Inc.",032860.KQ,-52.04,0.669,0.956,Yes
+1107,"Dongil Technology, Ltd",032960.KQ,-10.6,0.105,0.404,No
+1108,"HPSP Co., Ltd.",403870.KQ,-31.98,0.355,0.763,Yes
+1109,"HLB GLOBAL Co., Ltd.",003580.KS,-48.07,0.597,0.703,Yes
+1110,"CUBOX Co., Ltd",340810.KQ,-36.06,0.411,0.175,No
+1111,Powernet Technologies Corporation,037030.KQ,-21.89,0.228,0.356,Yes
+1112,"Barrel Co., Ltd",267790.KQ,-29.29,0.319,0.278,Yes
+1113,"Samhwa Paints Industrial Co., Ltd.",000390.KS,-22.76,0.238,0.726,Yes
+1114,Xcell Therapeutics,373110.KQ,-49.84,0.625,,
+1115,"Cosmo Chemical Co., Ltd.",005420.KS,-48.13,0.595,2.339,Yes
+1116,"ALMAC Co., Ltd.",354320.KQ,-33.48,0.371,0.179,No
+1117,"Paradise Co., Ltd.",034230.KS,-25.7,0.271,0.527,Yes
+1118,"Lindeman Asia Investment Co., Ltd.",277070.KQ,-40.93,0.476,0.061,No
+1119,Hanwha Galleria Corporation,45226K.KS,-25.71,0.271,0.193,No
+1120,"MEKICS CO., Ltd",058110.KQ,-32.69,0.359,1.282,Yes
+1121,"HDC Hyundai Engineering Plastics Co., Ltd.",089470.KS,-16.7,0.167,0.348,Yes
+1122,"CU Medical Systems, Inc.",115480.KQ,-19.86,0.202,0.409,No
+1123,"Wonpung Mulsan Co.,Ltd",008290.KQ,-26.22,0.276,1.216,Yes
+1124,CHF/BND,290740.KQ,-29.61,0.318,1.441,Yes
+1125,"Hansol IONES Co.,Ltd.",114810.KQ,-39.23,0.448,0.171,No
+1126,PLAYWITH KOREA Inc.,023770.KQ,-40.9,0.471,1.302,Yes
+1127,Seoul Auction Co. Ltd.,063170.KQ,-29.43,0.314,0.272,Yes
+1128,"Korea Electronic Certification Authority, Inc.",041460.KQ,-17.04,0.169,1.187,Yes
+1129,"Clean & Science co., Ltd",045520.KQ,-22.53,0.23,1.233,Yes
+1130,"MOCOMSYS, Inc.",333050.KQ,-10.96,0.105,0.026,Yes
+1131,"Mirae Asset Venture Investment Co., Ltd.",100790.KQ,-21.68,0.22,0.83,Yes
+1132,POSCO Holdings Inc.,005490.KS,-28.81,0.305,0.726,Yes
+1133,"System and Application Technologies Co., Ltd",060540.KQ,-30.98,0.331,1.265,Yes
+1134,"Kumkang Kind Co., Ltd.",014285.KS,-23.98,0.245,0.434,Yes
+1135,"Hanwha REIT Co., Ltd.",451800.KS,-21.0,0.211,0.53,Yes
+1136,"Mirai Semiconductors Co., Ltd.",254490.KQ,-39.49,0.444,1.03,Yes
+1137,"TOP Engineering Co., Ltd",065130.KQ,-36.95,0.408,1.256,No
+1138,"FASOO Co.,Ltd.",150900.KQ,-27.13,0.279,0.168,No
+1139,"Iljin Power Co., Ltd.",094820.KQ,-31.35,0.331,0.836,Yes
+1140,"NPC Co., Ltd.",004250.KS,-24.83,0.252,0.334,No
+1141,"Fine DNC Co., Ltd.",049120.KQ,-26.93,0.277,1.385,Yes
+1142,"LG H&H Co., Ltd.",051900.KS,-24.44,0.247,0.837,No
+1143,"P&K Skin Research Center Co., Ltd.",347740.KQ,-27.65,0.285,1.581,Yes
+1144,"Cancer Rop Co., Ltd.",180400.KQ,-53.35,0.658,0.108,Yes
+1145,"WITHTECH Co., LTD.",348350.KQ,-30.02,0.313,0.106,No
+1146,"Q Capital Partners Co., Ltd.",016600.KQ,-20.46,0.201,0.93,Yes
+1147,"Nousbo Co., Ltd.",332290.KQ,-27.33,0.28,0.65,Yes
+1148,"Abko Co., Ltd.",129890.KQ,-30.37,0.317,0.634,No
+1149,"Asiana IDT, Inc.",267850.KS,-31.82,0.334,0.188,Yes
+1150,"Daechang Solution Co., Ltd.",096350.KQ,-29.51,0.304,0.617,Yes
+1151,"Hanil Iron & Steel Co., Ltd",002220.KS,-22.58,0.223,0.217,No
+1152,"Youngwire Co., Ltd.",012160.KS,-19.87,0.193,0.648,Yes
+1153,CJ Cheiljedang Corporation,097950.KS,-25.22,0.253,1.042,Yes
+1154,"Partron Co., Ltd.",091700.KQ,-13.63,0.128,0.565,Yes
+1155,"XIIlab Co.,Ltd",189330.KQ,-46.26,0.531,2.146,Yes
+1156,MAV SPAC4,477380.KQ,-3.71,0.033,,
+1157,"Dong Won Fisheries Co., Ltd.",030720.KS,-22.02,0.215,0.173,Yes
+1158,"Nongwoobio Co., Ltd.",054050.KQ,-8.66,0.079,0.288,Yes
+1159,Narae Nanotech Corporation,137080.KQ,-49.27,0.577,1.59,No
+1160,"T&R Biofab Co., Ltd.",246710.KQ,-47.5,0.547,0.813,No
+1161,"Sewoon Medical Co., Ltd",100700.KQ,-13.35,0.124,0.011,No
+1162,"Dongwha Enterprise Co.,Ltd",025900.KQ,-49.26,0.571,,
+1163,"Heung-A Shipping Co.,Ltd.",003280.KS,-36.73,0.389,2.295,Yes
+1164,"Sebang Global Battery Co., Ltd.",004490.KS,-34.18,0.355,0.93,Yes
+1165,Nuvotec Co. Ltd.,060260.KQ,-38.76,0.414,,
+1166,"Sungshin Cement Co., Ltd",004980.KS,-18.86,0.178,0.759,Yes
+1167,"CLOVER HITECH.CO., LTD.",043590.KQ,-41.42,0.45,1.64,No
+1168,"ENBIO Co., Ltd.",352940.KQ,-22.69,0.219,0.467,Yes
+1169,Samsung C&T Corporation,02826K.KS,-19.25,0.182,0.47,Yes
+1170,Austem Company Ltd.,031510.KQ,-24.11,0.233,0.296,No
+1171,"CreoSG Co.,Ltd.",040350.KQ,-36.47,0.381,1.237,Yes
+1172,"Tokai Carbon Korea Co., Ltd.",064760.KQ,-32.78,0.334,2.049,Yes
+1173,"BioInfra Co., Ltd.",199730.KQ,-30.44,0.305,0.828,No
+1174,LOTTE Corporation,004990.KS,-18.79,0.176,0.022,No
+1175,"DH AUTOLEAD Co.,Ltd.",290120.KQ,-27.75,0.273,0.994,Yes
+1176,"Daelim Trading Co., Ltd.",006570.KS,-15.39,0.141,0.015,Yes
+1177,"Mobase Electronics Co.,Ltd.",012860.KQ,-25.14,0.244,0.96,Yes
+1178,"YAS Co., Ltd.",255440.KQ,-42.02,0.454,0.465,Yes
+1179,"Dongyang S.Tec Co.,Ltd",060380.KQ,-29.73,0.295,1.787,Yes
+1180,"Hanmi Pharm. Co., Ltd.",128940.KS,-27.98,0.274,0.653,No
+1181,"HI Special purpose Acquisition Company 8 Co., Ltd.",450050.KQ,-5.18,0.045,0.252,Yes
+1182,"A-Jin Industrial Co.,Ltd.",013310.KQ,-29.92,0.297,1.511,Yes
+1183,"NGeneBio Co., Ltd.",354200.KQ,-57.2,0.693,0.192,Yes
+1184,"Enjet Co., Ltd.",419080.KQ,-36.37,0.375,0.848,Yes
+1185,"KOREA ADVANCED MATERIALS Co., Ltd.",062970.KQ,-47.78,0.535,,
+1186,dotmill,464580.KQ,-57.84,0.701,,
+1187,"Hansol Holdings Co., Ltd.",004150.KS,-13.72,0.123,0.344,Yes
+1188,Hana 26 Special Purpose Acquisition Company,446750.KQ,-6.08,0.052,0.352,Yes
+1189,Digital Graphics Incorporation,043360.KQ,-18.88,0.174,0.217,No
+1190,WISEnut,096250.KQ,-50.58,0.574,,
+1191,"Precision Biosensor, Inc.",335810.KQ,-35.25,0.358,2.212,Yes
+1192,"CLIO Cosmetics Co.,Ltd",237880.KQ,-43.79,0.47,0.913,Yes
+1193,NH Special Purpose Acquisition 25 Company,438580.KQ,-8.88,0.077,0.303,Yes
+1194,"The Nature Holdings Co., Ltd.",298540.KQ,-32.52,0.321,1.053,No
+1195,THN Corporation,019180.KS,-18.11,0.165,0.415,Yes
+1196,Eyesvision Corp.,031310.KQ,-32.4,0.319,1.074,Yes
+1197,Quratis Inc.,348080.KQ,-52.4,0.597,1.318,Yes
+1198,"K-Ensol Co., Ltd.",053080.KQ,-34.59,0.346,0.472,Yes
+1199,NHN BUGS Corporation,104200.KQ,-32.53,0.321,1.48,Yes
+1200,Puloon Technology Inc.,094940.KQ,-20.52,0.188,0.094,Yes
+1201,BG T&A Co.,046310.KQ,-21.21,0.195,0.452,Yes
+1202,"DongKoo Bio & Pharma Co., Ltd.",006620.KQ,-25.33,0.239,1.201,Yes
+1203,"NewFlex Technology Co., Ltd.",085670.KQ,-43.89,0.466,1.083,No
+1204,LDT Inc.,096870.KQ,-22.22,0.205,0.629,Yes
+1205,"Kyung Chang Industrial Co., Ltd.",024910.KQ,-21.43,0.196,0.289,Yes
+1206,"INSUN Environmental New Technology Co., Ltd.",060150.KQ,-27.07,0.256,1.032,Yes
+1207,"Serim B&G Co., Ltd.",340440.KQ,-26.12,0.246,0.895,Yes
+1208,CORESTEMCHEMON Inc.,166480.KQ,-61.16,0.747,0.827,Yes
+1209,"Tailim Packaging Co., Ltd.",011280.KS,-31.39,0.303,1.018,Yes
+1210,Unick Corporation,011320.KQ,-27.95,0.264,0.132,No
+1211,TCC Steel Corp.,002710.KS,-54.62,0.62,2.328,Yes
+1212,"MegaStudy Co., Ltd.",072870.KQ,-9.3,0.079,0.045,Yes
+1213,"Seoul Semiconductor Co., Ltd.",046890.KQ,-33.21,0.32,0.313,Yes
+1214,ViGenCell Inc.,308080.KQ,-40.19,0.405,0.164,Yes
+1215,"Hanwha Investment & Securities Co., Ltd.",003535.KS,-26.33,0.243,0.06,Yes
+1216,"Grand Korea Leisure Co., Ltd.",114090.KS,-24.77,0.226,0.197,Yes
+1217,"Hansol Chemical Co., Ltd.",014680.KS,-36.84,0.362,0.843,Yes
+1218,"Brainzcompany Co., Ltd.",099390.KQ,-27.49,0.254,0.691,Yes
+1219,"VIOL Co., Ltd.",335890.KQ,-30.86,0.29,0.421,Yes
+1220,"Seoam Machinery Industry Co.,Ltd.",100660.KQ,-25.44,0.231,1.237,Yes
+1221,"Panstar Enterprise Co.,Ltd.",054300.KQ,-23.61,0.212,0.927,Yes
+1222,LX Holdings Corp.,38380K.KS,-8.9,0.074,0.195,Yes
+1223,"Topco Media Co., Ltd.",134580.KQ,-40.41,0.403,1.537,Yes
+1224,"JI-Tech Co., Ltd.",417500.KQ,-34.43,0.33,1.01,Yes
+1225,"BENO TNR, Inc.",206400.KQ,-51.33,0.555,0.905,No
+1226,Samyang Packaging Corporation,272550.KS,-17.43,0.151,0.042,No
+1227,"SEMCNS Co., Ltd.",252990.KQ,-43.28,0.435,2.32,Yes
+1228,"Csa Cosmic Co., Ltd.",083660.KQ,-45.77,0.469,2.404,No
+1229,SK Securities No.11 SPAC,472230.KQ,-5.52,0.044,0.116,Yes
+1230,NP Inc.,291230.KQ,-40.21,0.394,0.635,No
+1231,"SDN Company., Ltd.",099220.KQ,-41.61,0.412,0.077,No
+1232,"Haesung Industrial Co., Ltd.",03481K.KQ,-15.2,0.128,0.317,Yes
+1233,"Sungmoon Electronics Co., Ltd.",014910.KS,-25.66,0.229,0.998,Yes
+1234,"Dentium CO., LTD",145720.KS,-42.54,0.422,2.044,Yes
+1235,"Pintel Co., Ltd.",291810.KQ,-35.24,0.333,0.398,Yes
+1236,"Daeryuk Can Co., Ltd.",004780.KQ,-7.87,0.064,0.152,No
+1237,ilShinbiobase Co. Ltd.,068330.KQ,-27.45,0.246,0.179,Yes
+1238,"HAESUNG DS Co., Ltd.",195870.KS,-43.99,0.44,1.7,Yes
+1239,Kmw Inc.,032500.KQ,-46.41,0.472,0.227,Yes
+1240,"Pavonine Co., Ltd.",177830.KQ,-18.46,0.157,0.37,Yes
+1241,"Psomagen, Inc.",950200.KQ,-32.32,0.298,0.845,No
+1242,"Taekyung Bk Co., Ltd",014580.KS,-17.27,0.146,0.036,No
+1243,"Samjin LND Co., Ltd.",054090.KQ,-43.41,0.43,1.797,Yes
+1244,"KSIGN Co.,Ltd.",192250.KQ,-33.71,0.311,,
+1245,"JUNGDAWN Co., Ltd.",208140.KQ,-22.59,0.195,0.069,Yes
+1246,Okong Corporation,045060.KQ,-14.5,0.12,0.109,Yes
+1247,"KEYEAST.Co.,Ltd.",054780.KQ,-30.77,0.278,0.92,No
+1248,"BYC Co., Ltd.",001465.KS,-17.7,0.149,0.531,Yes
+1249,"SAMJIN Co., Ltd.",032750.KQ,-16.3,0.135,0.209,No
+1250,"Y2 Solution Co., Ltd",011690.KS,-49.52,0.508,0.038,No
+1251,"China Crystal New Material Holdings Co.,Ltd.",900250.KQ,-33.73,0.308,0.427,Yes
+1252,"Nice D&B Co., Ltd.",130580.KQ,-19.51,0.164,0.171,No
+1253,"Dongkuk Refractories & Steel Co., Ltd.",075970.KQ,-26.09,0.227,0.387,Yes
+1254,"HK Co., Ltd.",044780.KQ,-28.31,0.249,0.392,Yes
+1255,"ChoA Pharmaceutical Co., LTD.",034940.KQ,-37.59,0.351,1.408,Yes
+1256,"METACARE CO., Ltd.",118000.KS,-40.61,0.387,0.057,No
+1257,Union Materials Corp.,047400.KS,-30.05,0.267,0.249,Yes
+1258,"JOOYONTECH CO., Ltd",044380.KS,-30.27,0.269,0.551,Yes
+1259,"PungKang. Co., Ltd.",093380.KQ,-31.57,0.283,1.437,Yes
+1260,EVERYBOT Inc.,270660.KQ,-35.52,0.326,0.279,No
+1261,Tongyang Inc.,001527.KS,-23.58,0.201,0.093,Yes
+1262,Genolution Inc.,225220.KQ,-43.0,0.414,2.717,Yes
+1263,"NPC Co., Ltd.",004255.KS,-12.59,0.101,0.359,No
+1264,"Chabiotech Co.,Ltd.",085660.KQ,-36.0,0.329,0.088,Yes
+1265,Mason Capital Corporation,021880.KQ,-25.95,0.223,0.588,No
+1266,InfoBank Corporation,039290.KQ,-39.68,0.372,1.138,No
+1267,"Dongil Metal Co., Ltd.",109860.KQ,-11.36,0.09,0.389,Yes
+1268,"PC Direct, Inc.",051380.KQ,-31.34,0.278,0.706,Yes
+1269,Asia Pacific Satellite Inc.,211270.KQ,-34.92,0.316,0.002,Yes
+1270,"Hankook Steel Co., Ltd.",025890.KS,-26.56,0.229,0.13,No
+1271,"LX Hausys, Ltd.",108675.KS,-15.79,0.128,0.361,Yes
+1272,"Kyungin Synthetic Co., Ltd.",012610.KS,-14.32,0.115,0.476,Yes
+1273,"Fashion Platform Co.,Ltd.",225590.KQ,-18.03,0.147,0.468,No
+1274,"Shinil Electronics Co.,Ltd.",002700.KS,-21.28,0.177,0.423,Yes
+1275,"Handok Clean Tech Co., Ltd.",256150.KQ,-15.15,0.122,0.731,Yes
+1276,SK Securities No.13 SPAC,473950.KQ,-5.25,0.04,,
+1277,Mirae Corporation,025560.KS,-60.57,0.667,3.22,Yes
+1278,"Huons Co., Ltd.",243070.KQ,-28.08,0.242,0.243,Yes
+1279,"UNISEM Co., Ltd.",036200.KQ,-41.56,0.391,2.215,Yes
+1280,"VINA TECH Co.,Ltd.",126340.KQ,-47.24,0.464,0.392,Yes
+1281,"Samsung Electro-Mechanics Co., Ltd.",009155.KS,-22.92,0.191,0.709,Yes
+1282,"Asia Paper Manufacturing. Co., Ltd",002310.KS,-19.85,0.163,0.675,Yes
+1283,"Booster Co., Ltd.",008470.KQ,-17.26,0.139,0.255,No
+1284,"Chunil Express Co., Ltd.",000650.KS,-18.35,0.149,0.929,Yes
+1285,"Jahwa Electronics. Co., Ltd",033240.KS,-50.54,0.507,2.247,Yes
+1286,"Daekyo Co., Ltd.",019680.KS,-22.53,0.187,0.449,No
+1287,ToolGen Incorporated,199800.KQ,-50.51,0.505,2.287,Yes
+1288,"UST Co., Ltd.",263770.KQ,-25.79,0.218,0.831,Yes
+1289,"Korea Refractories Co., Ltd",010040.KS,-23.2,0.192,0.11,Yes
+1290,LG Corp.,003555.KS,-6.3,0.048,0.201,No
+1291,"LTC Co.,Ltd",170920.KQ,-38.95,0.356,1.632,Yes
+1292,"Jeju Beer Company, Limited",276730.KQ,-64.68,0.734,3.022,Yes
+1293,"Samsung Electronics Co., Ltd.",005935.KS,-26.36,0.222,1.004,Yes
+1294,"AJ Networks Co.,Ltd.",095570.KS,-19.31,0.156,0.93,No
+1295,"JNB Co., Ltd.",452160.KQ,-62.61,0.694,5.08,Yes
+1296,"Dongkuk Industries Co., Ltd.",005160.KQ,-47.44,0.459,1.451,Yes
+1297,S&W Corporation,103230.KQ,-27.39,0.231,0.519,Yes
+1298,Sempio Company,007540.KS,-19.6,0.158,0.753,Yes
+1299,"Korea Alcohol Industrial Co., Ltd.",017890.KQ,-14.48,0.113,0.609,Yes
+1300,"SoftCamp Co., Ltd.",258790.KQ,-29.0,0.246,0.455,Yes
+1301,GENINUS Inc.,389030.KQ,-26.53,0.221,0.018,Yes
+1302,Dreamus Company,060570.KQ,-43.95,0.41,0.042,Yes
+1303,"Mcnulty Korea Co., Ltd.",222980.KQ,-24.02,0.197,0.247,Yes
+1304,GC Cell Corporation,144510.KQ,-45.36,0.428,0.384,No
+1305,"Woongjin Co., Ltd.",016880.KS,-28.19,0.237,0.38,Yes
+1306,IBKS No.22 Special Purpose Acquisition Company,448760.KQ,-11.63,0.089,0.512,Yes
+1307,S-Oil Corporation,010950.KS,-23.24,0.189,0.78,Yes
+1308,"Korea Cable T.V Chung-Buk System Co., Ltd.",066790.KQ,-56.49,0.58,0.646,No
+1309,"Motrex Co., Ltd",118990.KQ,-38.93,0.349,0.849,Yes
+1310,"Hanexpress.Co., Ltd",014130.KS,-25.75,0.212,0.427,Yes
+1311,Shinwha Intertek Corp.,056700.KQ,-23.17,0.188,0.205,No
+1312,AUK Corp.,017900.KS,-21.35,0.171,0.382,Yes
+1313,"INNOGENE Co.,Ltd.",344860.KQ,-30.29,0.256,1.203,Yes
+1314,Wonlim Corporation,005820.KS,-27.34,0.226,1.123,Yes
+1315,"Ildong Pharmaceutical Co., Ltd.",249420.KS,-28.7,0.239,0.046,Yes
+1316,"Solus Advanced Materials Co., Ltd.",33637L.KS,-45.82,0.426,1.997,Yes
+1317,Namhae Chemical Corporation,025860.KS,-12.8,0.097,0.66,Yes
+1318,"Access Bio, Inc.",950130.KQ,-29.48,0.245,0.817,Yes
+1319,Mercury Corporation,100590.KQ,-35.78,0.309,0.137,No
+1320,"DREAMINSIGHT Co,.Ltd.",362990.KQ,-33.83,0.288,1.271,Yes
+1321,"Wonik IPS Co., Ltd.",240810.KQ,-35.1,0.302,1.259,Yes
+1322,IBKS No.21 Special Purpose Acquisition Company,442770.KQ,-16.53,0.127,0.802,Yes
+1323,"Mobile Appliance, Inc.",087260.KQ,-37.96,0.332,0.791,Yes
+1324,"ITM Semiconductor Co., Ltd.",084850.KQ,-41.65,0.374,0.824,Yes
+1325,"DHAUTOWARE Co., LTD",025440.KQ,-62.72,0.669,,
+1326,"Kbi Dongkook Ind.Co.,Ltd.",001620.KS,-19.51,0.152,0.816,Yes
+1327,"Daebo Magnetic Co.,Ltd.",290670.KQ,-54.37,0.535,0.401,Yes
+1328,"RSUPPORT Co., Ltd.",131370.KQ,-21.05,0.165,0.684,Yes
+1329,"YeSUN Tech Co.,Ltd.",250930.KQ,-35.85,0.306,0.279,Yes
+1330,"Daishin Balance No.14 Special Purpose Acquisition Co., Ltd.",442310.KQ,-9.3,0.068,0.486,Yes
+1331,OCI Company Ltd.,456040.KS,-41.45,0.366,1.905,Yes
+1332,"Samsung Publishing Co., Ltd",068290.KS,-21.48,0.167,0.127,Yes
+1333,Welcron Company Limited,065950.KQ,-27.56,0.222,0.355,No
+1334,Bankware Global,199480.KQ,-57.99,0.584,,
+1335,"Jin Air Co., Ltd.",272450.KS,-33.55,0.28,0.012,No
+1336,THINKWARE Corporation,084730.KQ,-34.91,0.294,0.746,Yes
+1337,"Amosense Co.,Ltd.",357580.KQ,-46.06,0.42,0.774,Yes
+1338,INFAC Corporation,023810.KS,-32.44,0.269,0.215,Yes
+1339,"Saedong Co.,Ltd.",053060.KQ,-27.75,0.223,0.917,Yes
+1340,"Dynamic Design Co., LTD.",145210.KS,-73.84,0.88,2.575,No
+1341,"Solus Advanced Materials Co., Ltd.",33637K.KS,-47.68,0.436,2.128,Yes
+1342,"Choong Ang Vaccine Laboratory Co., Ltd.",072020.KQ,-11.4,0.083,0.306,Yes
+1343,"Picogram.co.,Ltd.",376180.KQ,-42.33,0.371,0.609,Yes
+1344,"Danal Co., Ltd.",064260.KQ,-31.79,0.26,1.604,Yes
+1345,Hs Hyosung Advanced Materials,298050.KS,-48.3,0.442,1.54,Yes
+1346,"Yoosung T&S Co., Ltd",024800.KQ,-15.15,0.112,0.542,Yes
+1347,"SBSUNGBO Co., Ltd.",003080.KS,-14.06,0.103,0.238,Yes
+1348,"Genexine, Inc.",095700.KQ,-45.8,0.408,0.538,No
+1349,"COWELL FASHION Co.,Ltd",033290.KQ,-33.21,0.271,0.575,Yes
+1350,"Hankukpackage Co., Ltd.",037230.KQ,-21.29,0.162,0.653,Yes
+1351,"BBC Co., Ltd.",318410.KQ,-38.06,0.32,0.586,Yes
+1352,"Huvitz Co., Ltd.",065510.KQ,-42.76,0.371,0.847,No
+1353,"Samhyun Steel Co., Ltd.",017480.KQ,-11.42,0.082,0.184,No
+1354,"Elentec Co., Ltd.",054210.KQ,-38.98,0.328,0.822,Yes
+1355,Dongkuk Structures & Construction Company Limited,100130.KQ,-31.85,0.256,0.493,No
+1356,Ebest No 6 SPAC,478110.KQ,-3.58,0.025,,
+1357,"Wooree E&L Co., Ltd.",153490.KQ,-35.33,0.29,0.387,Yes
+1358,"BMT Co., Ltd.",086670.KQ,-33.27,0.269,1.342,Yes
+1359,Farmsco,036580.KS,-28.27,0.22,0.069,No
+1360,SINSIWAY,290560.KQ,-41.38,0.351,0.151,No
+1361,CYMECHS Inc.,160980.KQ,-49.82,0.45,1.798,Yes
+1362,"Kyungdong City Gas Co., Ltd",267290.KS,-5.62,0.039,0.097,Yes
+1363,"LS SECURITIES Co., Ltd.",078020.KQ,-25.83,0.198,0.315,Yes
+1364,"MEDIANA Co.,Ltd",041920.KQ,-26.47,0.203,0.212,Yes
+1365,"Crown Confectionery Co., Ltd.",26490K.KS,-11.25,0.079,0.02,Yes
+1366,"Soulbrain Holdings Co., Ltd.",036830.KQ,-49.43,0.443,0.246,Yes
+1367,"Dong A Eltek Co., Ltd.",088130.KQ,-64.01,0.654,0.239,Yes
+1368,"Suheung Co., Ltd.",008490.KS,-35.97,0.291,1.556,Yes
+1369,LAON PEOPLE Inc,300120.KQ,-39.75,0.329,1.576,Yes
+1370,"Hurum Co., Ltd.",353190.KQ,-33.59,0.266,1.703,Yes
+1371,"Celltrion Pharm, Inc.",068760.KQ,-45.67,0.393,0.93,Yes
+1372,"Yellow Balloon Tour Co., Ltd.",104620.KQ,-37.0,0.299,0.243,No
+1373,"Ilyang Pharmaceutical Co.,Ltd",007570.KS,-28.27,0.216,0.336,Yes
+1374,"ABCO Electronics Co., Ltd.",036010.KQ,-57.1,0.539,2.034,Yes
+1375,"S-Fuelcell co., Ltd.",288620.KQ,-44.5,0.378,0.369,No
+1376,Wonik QnC Corporation,074600.KQ,-43.04,0.362,2.221,Yes
+1377,"Yuyu Pharma, Inc.",000227.KS,-14.18,0.099,0.245,Yes
+1378,"Shinhwa Contech Co., Ltd",187270.KQ,-28.87,0.219,0.466,Yes
+1379,"Sambo Motors Co., Ltd",053700.KQ,-24.55,0.182,0.649,Yes
+1380,"Advanced Nano Products Co., Ltd.",121600.KQ,-49.36,0.431,2.493,Yes
+1381,TS Corporation,001795.KS,-19.53,0.14,0.196,No
+1382,Sungho Electronics Corp.,043260.KQ,-37.76,0.303,0.814,Yes
+1383,Kyobo 14 Special Purpose Acquisition Company,456490.KQ,-9.43,0.064,0.432,Yes
+1384,GS P&L,499790.KS,-59.03,0.556,,
+1385,"Eugene Special Purpose Acquisition 9 Co., Ltd",442130.KQ,-14.18,0.098,0.518,Yes
+1386,"Hyunwoo Industrial Co., LTD",092300.KQ,-29.88,0.226,0.305,Yes
+1387,TS Corporation,001790.KS,-11.22,0.076,0.249,Yes
+1388,"Bcnc Co.,Ltd.",146320.KQ,-52.14,0.461,2.975,Yes
+1389,"EcoBio Holdings Co., Ltd.",038870.KQ,-41.98,0.343,0.104,Yes
+1390,FINEDIGITAL Inc.,038950.KQ,-24.0,0.175,0.537,Yes
+1391,"Woosung Co., Ltd.",006980.KS,-23.03,0.167,0.195,No
+1392,"Soulbrain Co., Ltd.",357780.KQ,-36.18,0.284,0.266,Yes
+1393,"Alphanox Co.,Ltd.",043100.KQ,-67.6,0.69,0.329,Yes
+1394,"Zinitix Co., Ltd.",303030.KQ,-46.17,0.387,0.495,Yes
+1395,"ChinHung International, Inc.",002780.KS,-26.35,0.194,0.331,Yes
+1396,"Openedges Technology, Inc.",394280.KQ,-51.78,0.453,0.733,Yes
+1397,"SJM Co., Ltd.",123700.KS,-13.09,0.089,0.186,Yes
+1398,TPC Mechatronics Corporation,048770.KQ,-42.8,0.348,1.98,Yes
+1399,UBIVELOX Inc,089850.KQ,-39.29,0.312,1.396,Yes
+1400,KM Corporation,083550.KQ,-28.03,0.207,0.607,Yes
+1401,"Shin Heung Energy & Electronics Co.,Ltd.",243840.KQ,-55.53,0.499,0.958,Yes
+1402,"APACT Co., Ltd.",200470.KQ,-58.52,0.539,3.864,Yes
+1403,Creative & Innovative System Corporation,222080.KQ,-37.1,0.288,0.305,Yes
+1404,DRTECH Corporation,214680.KQ,-45.06,0.37,0.915,Yes
+1405,"Iljin Diamond Co.,Ltd",081000.KS,-30.08,0.223,0.301,Yes
+1406,MICUBE Solution Inc.,373170.KQ,-38.81,0.305,0.638,Yes
+1407,"Aekyungchemical Co., Ltd.",161000.KS,-44.96,0.368,1.183,Yes
+1408,"SJM Holdings Co.,Ltd.",025530.KS,-17.64,0.121,0.17,No
+1409,"HANYANG ENG Co.,Ltd",045100.KQ,-20.33,0.142,0.472,Yes
+1410,LS Materials,417200.KQ,-55.63,0.494,0.048,Yes
+1411,"Nice Information & Telecommunication, Inc.",036800.KQ,-18.87,0.13,0.235,Yes
+1412,"Powerlogics Co., Ltd.",047310.KQ,-44.87,0.363,0.624,No
+1413,RAONTECH Inc.,418420.KQ,-53.91,0.469,1.644,No
+1414,"GigaVis Co., Ltd.",420770.KQ,-55.66,0.49,1.612,Yes
+1415,"Bookook Steel Co., Ltd.",026940.KS,-24.48,0.172,0.445,Yes
+1416,"Korea Bio-Gen Co.,Ltd",318000.KQ,-41.1,0.322,0.335,Yes
+1417,"Device ENG Co.,Ltd.",187870.KQ,-37.38,0.285,0.737,Yes
+1418,"Leaders Cosmetics Co., Ltd.",016100.KQ,-31.88,0.234,0.032,No
+1419,"INTEKPLUS Co., Ltd.",064290.KQ,-67.52,0.665,4.391,Yes
+1420,"SK bioscience Co.,Ltd.",302440.KS,-33.52,0.248,0.337,Yes
+1421,"Ajinextek Co., Ltd.",059120.KQ,-41.38,0.323,1.654,Yes
+1422,HKD/CNH,018620.KQ,-23.69,0.165,0.1,Yes
+1423,"KoBioLabs, Inc",348150.KQ,-45.46,0.366,0.105,Yes
+1424,"Wonil Special Steel Co., Ltd.",012620.KQ,-15.87,0.106,0.024,Yes
+1425,"Hecto Innovation Co., Ltd.",214180.KQ,-12.77,0.084,0.158,No
+1426,"Actoz Soft Co.,Ltd.",052790.KQ,-36.02,0.27,0.116,Yes
+1427,LOTTE Corporation,00499K.KS,-22.64,0.157,0.173,Yes
+1428,"Haesung Optics Co., Ltd.",076610.KQ,-38.01,0.289,0.375,Yes
+1429,"Samchuly Bicycle Co., Ltd",024950.KQ,-25.73,0.181,0.321,Yes
+1430,"WITHUS PHARMACEUTICAL Co.,LTD.",330350.KQ,-27.08,0.192,0.236,Yes
+1431,HANDSOME Corporation,020000.KS,-22.83,0.158,0.502,Yes
+1432,"Solus Advanced Materials Co., Ltd.",336370.KS,-54.99,0.473,2.87,Yes
+1433,"WONIK Materials Co.,Ltd.",104830.KQ,-45.53,0.362,1.328,Yes
+1434,NFC Corporation,265740.KQ,-39.61,0.302,1.541,Yes
+1435,"Softcen Co., Ltd.",032685.KQ,-33.98,0.249,0.584,Yes
+1436,JR Global REIT,348950.KS,-27.6,0.194,0.015,Yes
+1437,"Rothwell International Co., Limited",900260.KQ,-30.24,0.216,0.549,Yes
+1438,"LX Hausys, Ltd.",108670.KS,-30.45,0.217,1.268,Yes
+1439,"SunBio,Inc.",067370.KQ,-28.97,0.205,0.449,No
+1440,"Sungchang Autotech Co., Ltd.",080470.KQ,-26.58,0.185,0.022,No
+1441,Enzychem Lifesciences Corporation,183490.KQ,-44.72,0.35,0.987,Yes
+1442,"Joong Ang Enervis Co., Ltd",000440.KQ,-35.17,0.258,1.514,Yes
+1443,"Sangsangin Co., Ltd.",038540.KQ,-48.31,0.387,0.92,Yes
+1444,Micro Friend Inc.,147760.KQ,-57.21,0.494,0.575,Yes
+1445,Autech Corporation,067170.KQ,-31.31,0.222,0.5,Yes
+1446,"GO Element Co., Ltd.",311320.KQ,-44.33,0.343,1.483,Yes
+1447,HANA Micron Inc.,067310.KQ,-49.94,0.403,1.971,Yes
+1448,"Hansung Cleantech Co., Ltd.",066980.KQ,-55.47,0.469,0.111,No
+1449,Aloys Inc.,297570.KQ,-47.15,0.371,0.508,Yes
+1450,"kt alpha Co., Ltd.",036030.KQ,-30.57,0.213,0.068,No
+1451,"Homecast Co.,Ltd.",064240.KQ,-35.08,0.251,0.146,No
+1452,"LG Chem, Ltd.",051910.KS,-39.19,0.288,0.079,No
+1453,Barunson Entertainment & Arts Corporation,035620.KQ,-36.45,0.262,0.144,Yes
+1454,DOOSAN TESNA Inc.,131970.KQ,-48.31,0.378,1.473,Yes
+1455,"Insung Information Co., Ltd",033230.KQ,-45.26,0.346,1.177,Yes
+1456,Lightron Fiber-Optic Devices Inc.,069540.KQ,-72.83,0.726,2.494,Yes
+1457,"SG HealthCare Co., Ltd.",398120.KQ,-74.57,0.761,,
+1458,"Taihan Textile Co., Ltd.",001070.KS,-22.16,0.146,0.431,Yes
+1459,"NEORIGIN Co., Ltd.",094860.KQ,-44.51,0.338,0.115,Yes
+1460,"FORCS Co.,Ltd.",189690.KQ,-26.54,0.179,0.939,Yes
+1461,"DL Holdings CO., LTD.",000210.KS,-37.68,0.272,1.669,Yes
+1462,"Genoray Co., Ltd.",122310.KQ,-16.92,0.108,0.596,Yes
+1463,Millie Seojae.,418470.KQ,-33.13,0.231,0.606,No
+1464,"DGP Co.,Ltd.",060900.KQ,-34.3,0.24,0.879,No
+1465,"CJ Bioscience, Inc.",311690.KQ,-33.04,0.229,0.259,No
+1466,"KHVATEC Co.,Ltd.",060720.KQ,-45.43,0.343,1.675,Yes
+1467,"Ymc Co., Ltd.",155650.KQ,-34.93,0.245,0.202,Yes
+1468,"Outin Futures Co., Ltd",227610.KQ,-50.36,0.394,0.442,Yes
+1469,"Dentis Co.,Ltd",261200.KQ,-33.66,0.234,1.508,Yes
+1470,"Hitejinro Holdings Co., Ltd.",000145.KS,-13.46,0.083,0.129,Yes
+1471,"SAMRYOONG Co.,Ltd",014970.KQ,-32.83,0.226,0.105,Yes
+1472,"TKG Huchems Co., Ltd.",069260.KS,-17.09,0.107,0.22,Yes
+1473,Aptamer Sciences Inc.,291650.KQ,-63.87,0.563,1.576,Yes
+1474,"Myoung Shin Industrial Co.,Ltd",009900.KS,-42.47,0.312,0.553,Yes
+1475,"Gemvaxlink Co., Ltd.",064800.KQ,-61.59,0.53,1.169,Yes
+1476,"WAPS Co., Ltd",196700.KQ,-33.02,0.227,0.873,Yes
+1477,Ubiquoss Inc.,264450.KQ,-34.15,0.236,0.432,Yes
+1478,"Hyupjin Co., Ltd.",138360.KQ,-34.67,0.24,0.186,Yes
+1479,Genesem Inc.,217190.KQ,-41.94,0.304,1.124,Yes
+1480,"SAMT Co., Ltd.",031330.KQ,-28.19,0.187,0.788,Yes
+1481,"Wave Electronics Co., Ltd.",095270.KQ,-32.31,0.219,1.448,Yes
+1482,"NANOCMS Co.,Ltd",247660.KQ,-48.71,0.37,0.652,Yes
+1483,"YUNSUNG F&C Co.,Ltd",372170.KQ,-54.79,0.438,1.442,Yes
+1484,"Hankuk Paper Mfg. Co., Ltd",027970.KS,-26.55,0.174,1.076,Yes
+1485,"iWIN CO.,LTD",090150.KQ,-35.43,0.244,0.001,No
+1486,IBKS No.18 Special Purpose Acquisition Company,424760.KQ,-50.74,0.391,0.623,Yes
+1487,"Atinum Investment Co., Ltd",021080.KQ,-26.07,0.169,0.19,No
+1488,"Moatech Co., Ltd.",033200.KQ,-34.74,0.238,0.962,No
+1489,TOEBOX KOREA.Ltd.,215480.KQ,-37.05,0.257,0.226,Yes
+1490,"POSCO M-TECH Co., Ltd.",009520.KQ,-40.8,0.29,1.197,Yes
+1491,"Ilyang Pharmaceutical Co.,Ltd",007575.KS,-32.54,0.219,0.356,Yes
+1492,"Sigetronics, Inc",429270.KQ,-61.79,0.522,0.659,No
+1493,"Alton Co.,Ltd.",123750.KQ,-25.12,0.161,0.772,Yes
+1494,"Ocean In W Co.,Ltd.",052300.KQ,-36.97,0.255,0.366,No
+1495,"TOP MATERIAL Co., Ltd",360070.KQ,-54.85,0.433,1.483,Yes
+1496,"P&H Tech Co., Ltd.",239890.KQ,-62.52,0.529,0.871,Yes
+1497,"Intellian Technologies, Inc.",189300.KQ,-44.97,0.327,1.071,Yes
+1498,"Sungwoo Hitech Co., Ltd.",015750.KQ,-41.61,0.295,1.616,Yes
+1499,"Hyundai Marine & Fire Insurance Co., Ltd.",001450.KS,-31.07,0.204,0.981,Yes
+1500,"EMnI Co., Ltd.",083470.KQ,-40.11,0.28,0.537,No
+1501,"Keyang Electric Machinery Co., Ltd.",012205.KS,-29.12,0.189,0.675,Yes
+1502,"PharmGen Science, Inc.",004720.KS,-26.34,0.167,0.8,Yes
+1503,INSAN Inc.,277410.KQ,-28.04,0.18,0.33,No
+1504,"Russell Co., Ltd.",217500.KQ,-40.61,0.281,1.276,Yes
+1505,"V-One Tech Co., Ltd.",251630.KQ,-52.27,0.396,1.209,Yes
+1506,Polaris AI Pharma Corp.,041910.KQ,-39.84,0.274,0.847,Yes
+1507,"Sunjin Co.,Ltd.",136490.KS,-27.16,0.172,0.148,Yes
+1508,Fantagio Corp.,032800.KQ,-53.25,0.404,,
+1509,"CTR Mobility Co.,Ltd.",308170.KS,-45.85,0.327,0.284,No
+1510,"SK Chemicals Co.,Ltd",285130.KS,-35.22,0.233,0.276,No
+1511,"CBI Co., Ltd.",013720.KQ,-48.62,0.354,0.409,No
+1512,"DNF Co.,Ltd.",092070.KQ,-54.15,0.411,1.761,Yes
+1513,Dongbu Corporation,005965.KS,-25.8,0.16,0.054,Yes
+1514,"F&F Holdings Co., Ltd.",007700.KS,-18.02,0.107,0.022,No
+1515,"HanWool Materials Science, Inc.",091440.KQ,-66.69,0.57,0.091,No
+1516,"TPC Co., Ltd.",130740.KQ,-33.38,0.217,0.625,No
+1517,"Ajin Electronic Components Co.,Ltd",009320.KS,-29.72,0.188,0.482,Yes
+1518,"NuriFlex Co.,Ltd.",040160.KQ,-30.23,0.192,0.082,Yes
+1519,"Sungmoon Electronics Co., Ltd.",014915.KS,-29.55,0.187,0.956,Yes
+1520,Tfe Inc.,425420.KQ,-50.82,0.372,0.017,Yes
+1521,"Daeho Special Steel Co., Ltd.",021045.KQ,-63.43,0.52,1.026,Yes
+1522,ELP Corporation,063760.KQ,-34.81,0.226,1.011,Yes
+1523,"People & Technology Ms, Inc.",257370.KQ,-65.19,0.544,0.822,Yes
+1524,CoAsia Corporation,045970.KQ,-60.27,0.476,2.175,Yes
+1525,"JLS Co.,Ltd.",040420.KQ,-12.35,0.07,0.301,No
+1526,"YoungWoo DSP Co.,Ltd",143540.KQ,-32.07,0.203,0.565,Yes
+1527,Huvis Corporation,079980.KS,-31.57,0.199,0.623,No
+1528,"Sungshin Cement Co., Ltd",004985.KS,-15.5,0.088,0.053,Yes
+1529,"Interflex Co., Ltd.",051370.KQ,-44.56,0.304,0.841,Yes
+1530,"Rayence Co., Ltd.",228850.KQ,-28.01,0.171,1.128,Yes
+1531,Innocean Worldwide Inc.,214320.KS,-19.23,0.111,0.143,No
+1532,JW Pharmaceutical Corporation,001060.KS,-32.65,0.205,0.946,Yes
+1533,Modetour Network Inc.,080160.KQ,-35.91,0.229,0.193,Yes
+1534,USD/PYG,042040.KQ,-42.16,0.281,0.1,No
+1535,"DONGSUNG CHEMICAL Co., Ltd.",102260.KS,-20.28,0.118,0.578,Yes
+1536,VECT,457600.KQ,-64.89,0.525,,
+1537,"Samsung SDS Co.,Ltd.",018260.KS,-26.82,0.161,0.295,No
+1538,"Taihan Fiber Optics Co., Ltd",010170.KQ,-56.5,0.42,0.544,Yes
+1539,"Hansol Paper Co., Ltd.",213500.KS,-21.37,0.124,0.482,Yes
+1540,"DL Holdings CO., LTD.",000215.KS,-25.28,0.15,0.57,Yes
+1541,GOODPEOPLE,033340.KQ,-69.45,0.588,2.045,Yes
+1542,"Hanil Feed Co., Ltd.",005860.KQ,-29.38,0.179,0.59,Yes
+1543,EG Corporation,037370.KQ,-32.09,0.198,0.37,Yes
+1544,"DigiCAP Co., Ltd.",197140.KQ,-43.42,0.289,0.372,Yes
+1545,"FarmStory Co., Ltd.",027710.KQ,-27.0,0.161,0.616,Yes
+1546,"Whan In Pharm Co.,Ltd.",016580.KS,-20.25,0.116,0.423,Yes
+1547,SV Investment Corporation,289080.KQ,-35.94,0.226,0.741,Yes
+1548,Gencurix Inc.,229000.KQ,-49.45,0.343,0.2,Yes
+1549,"SK Chemicals Co.,Ltd",28513K.KS,-31.27,0.191,0.195,No
+1550,"Ecopro BM. Co., Ltd.",247540.KQ,-59.0,0.444,1.978,Yes
+1551,"Hotel Shilla Co.,Ltd",008775.KS,-28.93,0.174,0.334,Yes
+1552,"Biotoxtech Co., Ltd.",086040.KQ,-48.58,0.333,0.102,Yes
+1553,"TKG Aikang Co.,Ltd.",022220.KQ,-29.71,0.179,0.177,Yes
+1554,"Korean Drug Co., Ltd.",014570.KQ,-26.6,0.157,0.212,Yes
+1555,"DE&T Co., Ltd.",079810.KQ,-58.98,0.438,2.068,Yes
+1556,IBKS No.20 Special Purpose Acquisition Company,439730.KQ,-19.06,0.107,0.55,Yes
+1557,Mintech,452200.KQ,-59.39,0.441,,
+1558,Laserssel Co. Ltd.,412350.KQ,-65.83,0.52,0.908,Yes
+1559,"Shin Steel Co.,Ltd.",162300.KQ,-32.4,0.195,0.567,No
+1560,"KB Autosys Co., Ltd.",024120.KQ,-30.02,0.178,0.517,Yes
+1561,L&F,066970.KS,-62.68,0.478,0.602,Yes
+1562,"Jiransecurity Co.,Ltd",208350.KQ,-33.26,0.201,0.159,No
+1563,"Theragen Etex Co.,Ltd.",066700.KQ,-26.65,0.154,0.208,Yes
+1564,"Daejung Chemicals & Metals Co., Ltd.",120240.KQ,-24.95,0.143,0.445,Yes
+1565,"DAEDUCK ELECTRONICS Co., Ltd.",35320K.KS,-16.59,0.091,0.291,Yes
+1566,"Posco Future M Co., Ltd.",003670.KS,-57.18,0.412,1.204,Yes
+1567,"Hansol Technics Co., Ltd.",004710.KS,-28.09,0.164,0.447,Yes
+1568,"NOROO PAINT & COATINGS Co., Ltd.",090350.KS,-19.03,0.105,0.335,Yes
+1569,"Plateer Co., Ltd.",367000.KQ,-42.39,0.271,0.243,Yes
+1570,"Kx Hitech Co., Ltd.",052900.KQ,-34.86,0.211,0.875,Yes
+1571,"Ahn-Gook Pharmaceutical Co., Ltd.",001540.KQ,-15.0,0.081,0.211,Yes
+1572,"KEC Holdings Co., Ltd.",006200.KS,-28.23,0.164,0.596,Yes
+1573,"Hanyang Digitech Co., Ltd.",078350.KQ,-62.87,0.477,2.306,Yes
+1574,"Eagle Veterinary Technology Co.,Ltd",044960.KQ,-20.49,0.113,0.239,Yes
+1575,"Sangsin Energy Display Precision Co.,Ltd.",091580.KQ,-53.44,0.37,1.516,Yes
+1576,"Jeju Air Co., Ltd.",089590.KS,-40.49,0.253,0.03,Yes
+1577,"Kumyang Green Power Co., Ltd.",282720.KQ,-45.01,0.291,0.672,No
+1578,"MNtech Co., Ltd.",095500.KQ,-55.14,0.386,2.141,Yes
+1579,"CROWNHAITAI Holdings Co.,Ltd.",005745.KS,-24.91,0.14,0.48,Yes
+1580,"Helixmith Co., Ltd",084990.KQ,-47.07,0.307,0.194,Yes
+1581,JT Corporation,089790.KQ,-60.83,0.445,2.386,Yes
+1582,"Seoul Food Industrial.Co.,Ltd",004410.KS,-20.17,0.11,0.234,Yes
+1583,"Kwang Dong Pharmaceutical Co., Ltd.",009290.KS,-24.34,0.136,0.399,Yes
+1584,"Saltware Co., Ltd.",328380.KQ,-39.27,0.241,0.776,Yes
+1585,SK Securities No.9 Special Purpose Acquisition Company,455910.KQ,-8.47,0.043,0.125,Yes
+1586,"TY Holdings Co., Ltd",36328K.KS,-33.61,0.197,0.682,Yes
+1587,"Kornic Automation Co., Ltd.",391710.KQ,-55.51,0.382,2.225,Yes
+1588,"Keum Kang Steel Co., Ltd.",053260.KQ,-23.76,0.13,0.204,Yes
+1589,"Ecopro Co., Ltd.",086520.KQ,-52.33,0.348,1.104,Yes
+1590,"Woojin Plaimm Co., Ltd.",049800.KS,-28.0,0.157,0.035,Yes
+1591,"KD Chem Co., Ltd.",221980.KQ,-16.36,0.086,0.327,Yes
+1592,"INZI Controls Co.,Ltd.",023800.KS,-26.14,0.144,0.465,Yes
+1593,LVMC Holdings,900140.KS,-38.85,0.231,0.593,Yes
+1594,"Wemade Play Co., Ltd.",123420.KQ,-39.31,0.234,0.598,Yes
+1595,"LG H&H Co., Ltd.",051905.KS,-34.31,0.198,1.238,No
+1596,Chong Kun Dang Holdings Corp.,001630.KS,-29.62,0.165,0.27,No
+1597,"Nasmedia Co., Ltd.",089600.KQ,-25.22,0.137,0.149,Yes
+1598,"DSK Co., Ltd.",109740.KQ,-38.39,0.226,0.669,Yes
+1599,Innox Corporation,088390.KQ,-61.33,0.434,2.958,Yes
+1600,"Duksan Hi Metal Co.,Ltd",077360.KQ,-47.59,0.299,0.629,Yes
+1601,"JEIO Co., Ltd.",418550.KQ,-60.14,0.42,1.391,Yes
+1602,"Value Added Technology Co., Ltd.",043150.KQ,-32.1,0.18,0.909,Yes
+1603,"Maniker.Co.,Ltd",027740.KS,-25.97,0.141,0.375,Yes
+1604,"Ilsung Is Co., Ltd.",003120.KS,-19.85,0.104,0.146,Yes
+1605,"AK Holdings, Inc.",006840.KS,-33.76,0.191,0.68,Yes
+1606,"Creverse, Inc.",096240.KQ,-24.2,0.129,0.122,Yes
+1607,YounglimwonSoftLab Co.Ltd,060850.KQ,-41.95,0.251,1.102,Yes
+1608,HiDeep Inc.,365590.KQ,-52.99,0.342,0.533,Yes
+1609,"Hanjoo Light Metal Co., Ltd.",198940.KQ,-60.79,0.421,1.489,Yes
+1610,"Paru Co., Ltd",043200.KQ,-22.77,0.119,0.206,No
+1611,"Daesung Finetec Co.,Ltd.",104040.KQ,-22.5,0.117,0.26,Yes
+1612,"Aminologics Co.,Ltd.",074430.KQ,-41.55,0.244,0.711,Yes
+1613,"MS Autotech Co.,Ltd",123040.KQ,-42.53,0.251,0.832,Yes
+1614,"BIFIDO Co., Ltd.",238200.KQ,-45.16,0.271,0.912,Yes
+1615,"LOT VACUUM Co., Ltd.",083310.KQ,-56.38,0.37,1.171,Yes
+1616,MegaStudyEdu Co. Ltd,215200.KQ,-34.74,0.193,0.61,No
+1617,"CoAsia CM Co.,Ltd",196450.KQ,-52.28,0.328,0.466,Yes
+1618,CAMUS ENGINEERING & CONSTRUCTION Inc.,013700.KS,-24.54,0.127,0.405,Yes
+1619,"Dongwoo Farm To Table Co ., Ltd",088910.KQ,-29.25,0.155,0.554,Yes
+1620,"AJUSTEEL Co.,Ltd",139990.KS,-35.43,0.195,0.41,Yes
+1621,"Yulchon Co., Ltd",146060.KQ,-29.55,0.157,0.684,Yes
+1622,"TEMC CNS Co., Ltd.",241790.KQ,-57.49,0.375,1.621,Yes
+1623,"Kwang Myung Electric Co.,Ltd",017040.KS,-53.33,0.335,0.554,Yes
+1624,Dongwon Systems Corporation,014825.KS,-28.41,0.149,0.201,Yes
+1625,"Daeho Special Steel Co., Ltd.",021040.KQ,-74.71,0.588,2.836,Yes
+1626,"WooDeumGee Farm Co., Ltd",403490.KQ,-41.53,0.237,0.138,Yes
+1627,"Vaxcell-Bio Therapeutics Co., Ltd.",323990.KQ,-51.11,0.314,0.344,No
+1628,"Softcen Co., Ltd.",032680.KQ,-53.85,0.338,2.078,Yes
+1629,Zungwon En-Sys Inc.,045510.KQ,-38.38,0.214,0.476,Yes
+1630,"Cytogen, Inc.",217330.KQ,-68.78,0.499,0.848,Yes
+1631,"Hana Pharm Co., Ltd.",293480.KS,-20.38,0.102,0.248,No
+1632,Namsung Corp.,004270.KS,-46.14,0.271,0.664,Yes
+1633,ME2ZEN Limited,950190.KQ,-29.38,0.154,0.254,No
+1634,"Naturalendo Tech Co., Ltd.",168330.KQ,-47.56,0.281,0.325,Yes
+1635,HB Investment,440290.KQ,-43.79,0.251,0.733,Yes
+1636,"HIMS Co.,Ltd.",238490.KQ,-45.86,0.267,1.267,Yes
+1637,"ASFLOW Co., LTD.",159010.KQ,-55.97,0.354,2.043,Yes
+1638,"Cosmo Advanced Materials & Technology Co., Ltd.",005070.KS,-73.38,0.558,1.691,Yes
+1639,"Woongjin Thinkbig Co., Ltd.",095720.KS,-29.03,0.15,0.178,Yes
+1640,"Cp System Co.,Ltd",413630.KQ,-69.93,0.509,0.515,No
+1641,"Dong Sung Bio Pharm.Co.,Ltd.",002210.KS,-27.24,0.138,0.685,No
+1642,"Tamul Multimedia Co., Ltd",093640.KQ,-57.06,0.36,1.167,No
+1643,"Hytc Co., Ltd",148930.KQ,-45.25,0.258,1.196,Yes
+1644,KT Genie Music Corporation,043610.KQ,-42.75,0.239,0.206,Yes
+1645,"NARA CELLAR Co., Ltd.",405920.KQ,-48.27,0.281,0.21,Yes
+1646,"Nam Hwa Construction Co.,Ltd",091590.KQ,-22.42,0.11,0.135,Yes
+1647,SANGBO Corp.,027580.KQ,-42.97,0.24,0.085,Yes
+1648,Hancom Lifecare Inc.,372910.KS,-50.39,0.297,0.791,Yes
+1649,"SJ Group Co., Ltd.",306040.KQ,-44.97,0.253,0.445,No
+1650,"Sebitchem Co., LTD",107600.KQ,-67.76,0.469,1.697,Yes
+1651,"E-World Co.,Ltd.",084680.KS,-36.62,0.193,0.05,Yes
+1652,Catis. Inc.,140430.KQ,-69.46,0.488,,
+1653,"SAMWHA CAPACITOR Co.,LTD",001820.KS,-50.17,0.292,1.157,Yes
+1654,"Samsung SDI Co., Ltd.",006400.KS,-56.94,0.348,0.106,No
+1655,"Sangsangin Investment & Securities Co.,Ltd.",001290.KS,-39.18,0.208,0.616,Yes
+1656,"TOPTEC Co., Ltd",108230.KQ,-46.42,0.26,0.928,Yes
+1657,"Sangsin Brake Co., Ltd.",041650.KS,-25.15,0.122,0.378,Yes
+1658,"HANJOO ART Co.,LTD.",058450.KQ,-77.89,0.603,2.364,Yes
+1659,"Wiscom Co.,Ltd.",024070.KS,-25.65,0.124,0.3,No
+1660,"JC Chemical Co., Ltd.",137950.KQ,-38.81,0.204,0.4,Yes
+1661,"Fine Circuit Co., Ltd.",127980.KQ,-29.88,0.148,0.63,Yes
+1662,"A-Tech Solution Co., Ltd.",071670.KQ,-44.91,0.245,0.553,Yes
+1663,"Hyundai Bioscience Co., Ltd.",048410.KQ,-47.39,0.264,0.238,No
+1664,"KANGWON ENERGY Co., Ltd.",114190.KQ,-62.94,0.401,1.957,Yes
+1665,HansBiomed Corporation,042520.KQ,-48.96,0.275,0.173,No
+1666,Tongyang Pile Inc.,228340.KQ,-24.74,0.118,0.456,Yes
+1667,"SeA Mechanics Co., Ltd",396300.KQ,-44.86,0.243,0.939,Yes
+1668,"MEDICOX Co., Ltd.",054180.KQ,-58.87,0.358,0.447,Yes
+1669,"Next Entertainment World Co., Ltd.",160550.KQ,-40.22,0.21,0.703,Yes
+1670,"Shinpoong Pharmaceutical Co.,Ltd",019170.KS,-48.75,0.27,0.065,No
+1671,"Korea Information & Communications Co., Ltd.",025770.KQ,-16.79,0.076,0.172,Yes
+1672,"N.I Steel Co., Ltd.",008260.KS,-30.05,0.146,0.364,Yes
+1673,"Daesung Industrial Co., Ltd.",128820.KS,-18.89,0.086,0.244,Yes
+1674,Nexen Tire Corporation,002355.KS,-23.23,0.108,0.474,Yes
+1675,"Purit Co., Ltd.",445180.KQ,-52.75,0.3,1.207,Yes
+1676,"Kwang Jin Ind. Co., Ltd.",026910.KQ,-44.48,0.236,0.192,Yes
+1677,LB Semicon Inc.,061970.KQ,-57.13,0.336,1.392,Yes
+1678,NBT Inc.,236810.KQ,-54.13,0.31,0.384,No
+1679,"Amogreentech Co.,Ltd",125210.KQ,-51.22,0.286,0.275,Yes
+1680,"SungEel HiTech Co., Ltd.",365340.KQ,-60.22,0.363,1.27,Yes
+1681,"Sensorview Co., LTD",321370.KQ,-69.4,0.46,0.341,No
+1682,"LG Chem, Ltd.",051915.KS,-57.43,0.335,0.291,No
+1683,YUJIN TECHNOLOGY,240600.KQ,-59.03,0.35,1.482,Yes
+1684,"TY Holdings Co., Ltd",363280.KS,-46.56,0.248,0.335,Yes
+1685,"GNCO Co., Ltd.",065060.KQ,-67.55,0.435,1.468,Yes
+1686,M2I Corporation,347890.KQ,-26.33,0.122,0.101,Yes
+1687,Bioneer Corporation,064550.KQ,-54.49,0.308,0.015,No
+1688,Wiable Corp.,065530.KQ,-33.54,0.162,0.124,Yes
+1689,"BGFecomaterials CO., LTD.",126600.KQ,-35.47,0.173,0.49,Yes
+1690,"DAEWON Chemical Co., Ltd.",024890.KS,-50.33,0.272,0.915,Yes
+1691,"Osangjaiel Co., Ltd.",053980.KQ,-34.53,0.167,0.967,Yes
+1692,"Me2on Co., Ltd.",201490.KQ,-37.31,0.183,0.493,Yes
+1693,"S Connect Co., LTD.",096630.KQ,-66.14,0.414,0.212,No
+1694,"Hansae Co., Ltd.",105630.KS,-47.66,0.252,0.776,No
+1695,"KESPION Co., Ltd.",079190.KQ,-40.83,0.205,0.926,Yes
+1696,Nepes Ark Corporation,330860.KQ,-64.34,0.394,1.51,Yes
+1697,"Korea Asset In Trust Co., Ltd",123890.KS,-21.43,0.095,0.124,Yes
+1698,"BK Holdings CO.,LTD.",050090.KQ,-48.48,0.257,0.158,Yes
+1699,"KNW Co., Ltd.",105330.KQ,-53.39,0.293,0.282,Yes
+1700,"Kyung Nam Pharm Co.,Ltd.",053950.KQ,-61.36,0.361,,
+1701,"Sam-A Aluminium Company, Limited",006110.KS,-68.54,0.434,0.278,Yes
+1702,"Seoul Food Industrial.Co.,Ltd",004415.KS,-31.78,0.148,0.151,Yes
+1703,"Enchem Co., Ltd.",348370.KQ,-76.28,0.531,0.672,No
+1704,"Pungguk Ethanol Co., Ltd",023900.KQ,-28.22,0.128,0.396,Yes
+1705,"H.PIO Co., Ltd.",357230.KQ,-39.28,0.191,0.8,Yes
+1706,Ecoplastic Corporation,038110.KQ,-48.68,0.253,1.435,Yes
+1707,"Woojin I&S Co., Ltd.",010400.KS,-41.36,0.203,0.676,No
+1708,"Seojin Automotive Co.,Ltd.",122690.KQ,-46.54,0.237,0.73,Yes
+1709,"NeoImmuneTech, Inc.",950220.KQ,-45.94,0.232,0.48,Yes
+1710,"DREAMTECH Co., Ltd.",192650.KS,-30.61,0.139,0.314,Yes
+1711,"Hyundai Motor Securities Co.,Ltd.",001500.KS,-38.29,0.183,0.035,No
+1712,"Pharos iBio Co., Ltd.",388870.KQ,-62.57,0.364,0.902,Yes
+1713,"Shinsegae International Co., Ltd.",031430.KS,-46.5,0.235,0.41,Yes
+1714,Kec Corporation,092220.KS,-49.21,0.254,0.514,Yes
+1715,"Korea Circuit Co., Ltd.",00781K.KS,-26.86,0.119,0.656,Yes
+1716,"Seobu T&D Co., Ltd.",006730.KQ,-27.79,0.123,0.531,Yes
+1717,"Iljin Hysolus Co., Ltd.",271940.KS,-45.19,0.224,0.372,No
+1718,"Aluko Co., Ltd.",001780.KS,-41.13,0.197,0.589,Yes
+1719,"Seoul City Gas Co., Ltd.",017390.KS,-11.34,0.046,0.207,Yes
+1720,SG Corporation,004060.KS,-27.47,0.12,0.457,Yes
+1721,"SK Securities Co., Ltd.",001510.KS,-27.03,0.118,0.611,Yes
+1722,"Samsung SDI Co., Ltd.",006405.KS,-54.14,0.286,0.487,Yes
+1723,"Daewon Kang Up Co., Ltd.",000430.KS,-40.71,0.194,1.091,Yes
+1724,"Sjg Sejong Co.,Ltd",033530.KS,-31.58,0.141,0.381,Yes
+1725,"Echomarketing Co.,Ltd.",230360.KQ,-42.77,0.206,0.131,No
+1726,"Sangshin Electronics Co., Ltd.",263810.KQ,-31.17,0.139,0.471,Yes
+1727,DY Corporation,013570.KS,-34.29,0.156,0.32,Yes
+1728,"IS DongSeo Co., Ltd.",010780.KS,-38.89,0.182,0.45,No
+1729,"Dongwha Pharm.Co.,Ltd",000020.KS,-30.87,0.137,0.355,Yes
+1730,"LOTTE Himart Co.,Ltd.",071840.KS,-25.24,0.108,0.552,Yes
+1731,"Monami Co., Ltd.",005360.KS,-30.4,0.134,0.444,Yes
+1732,"Foosung Co., Ltd.",093370.KS,-43.52,0.209,0.458,Yes
+1733,"THE CODI Co.,LTD.",224060.KQ,-47.92,0.237,0.061,No
+1734,"Hansaemk Co.,Ltd.",069640.KS,-49.18,0.246,1.31,Yes
+1735,Ranix Inc.,317120.KQ,-48.94,0.244,0.922,Yes
+1736,"Korea Plasma Technology U Co.,Ltd",054410.KQ,-36.24,0.164,0.324,Yes
+1737,E8IGHT,418620.KQ,-83.74,0.627,2.8,Yes
+1738,Samkee EV Corp.,419050.KQ,-49.04,0.244,0.066,Yes
+1739,S-Oil Corporation,010955.KS,-24.55,0.103,0.477,Yes
+1740,Kishin Corporation,092440.KS,-27.39,0.116,0.315,Yes
+1741,"SCM Lifescience Co., Ltd.",298060.KQ,-58.44,0.312,1.46,No
+1742,PIMS Inc.,347770.KQ,-63.22,0.353,1.498,Yes
+1743,"ISU Chemical Co., Ltd",005950.KS,-55.42,0.287,0.808,Yes
+1744,"MASTERN PREMIER REIT 1 Co., Ltd.",357430.KS,-48.19,0.235,0.088,No
+1745,"BioSmart Co.,Ltd.",038460.KQ,-48.26,0.235,0.105,Yes
+1746,Tongyang Inc.,001520.KS,-42.7,0.199,0.322,Yes
+1747,"Kukil Metal Co., Ltd.",060480.KQ,-38.2,0.173,0.101,Yes
+1748,"Ecopro HN Co., Ltd.",383310.KQ,-63.67,0.355,0.201,Yes
+1749,"Daesung Microbiological Labs. Co., Ltd.",036480.KQ,-22.81,0.094,0.262,Yes
+1750,Synapsoft Corp,466410.KQ,-68.41,0.401,,
+1751,"Home Center Holdings Co.,Ltd",060560.KQ,-48.59,0.234,,
+1752,"Hotel Shilla Co.,Ltd",008770.KS,-37.1,0.164,0.582,Yes
+1753,"Chunbo Co., Ltd.",278280.KQ,-59.14,0.312,1.344,Yes
+1754,"Sambo Corrugated Board Co., Ltd.",023600.KQ,-27.37,0.114,0.014,Yes
+1755,"Rifa Co.,Ltd.",000760.KS,-30.57,0.129,0.628,Yes
+1756,"Plutus Investment Co.,Ltd",019570.KQ,-64.73,0.358,0.152,Yes
+1757,TELCON RF PHARMACEUTICAL. Inc.,200230.KQ,-61.35,0.328,0.962,No
+1758,"INCON Co.,Ltd.",083640.KQ,-46.71,0.22,0.633,Yes
+1759,POSBANK,105760.KQ,-49.86,0.24,0.327,Yes
+1760,"N2Tech Co.,Ltd",227950.KQ,-47.46,0.224,0.328,Yes
+1761,"LOTTE INNOVATE Co.,Ltd",286940.KS,-41.21,0.185,0.757,Yes
+1762,Sungchang Enterprise Holdings Limited,000180.KS,-38.8,0.171,0.259,Yes
+1763,"Shinsung E&G Co.,Ltd.",011930.KS,-49.0,0.232,0.704,Yes
+1764,"SFA Semicon Co., Ltd.",036540.KQ,-48.24,0.227,1.474,Yes
+1765,"KG Eco Solution Co.,Ltd.",151860.KQ,-47.48,0.221,0.934,Yes
+1766,"Wonik Pne Co., Ltd.",217820.KQ,-62.66,0.334,0.977,Yes
+1767,"PNC Technologies co., Ltd",237750.KQ,-46.11,0.211,0.923,Yes
+1768,"Kaonmedia Co, Ltd.",078890.KQ,-51.39,0.244,0.23,Yes
+1769,"TiumBio Co., Ltd.",321550.KQ,-58.72,0.297,0.804,No
+1770,"SAMWONSTEEL Co.,Ltd.",023000.KS,-12.98,0.048,0.321,Yes
+1771,"Shinpoong Pharmaceutical Co.,Ltd",019175.KS,-57.2,0.282,0.368,Yes
+1772,"Kyungin Electronics Co., Ltd",009140.KS,-18.78,0.071,0.304,No
+1773,Kakao Games Corp.,293490.KQ,-35.83,0.149,0.072,Yes
+1774,"POLARIS UNO, Inc.",114630.KQ,-30.95,0.124,0.049,Yes
+1775,Optrontec Inc.,082210.KQ,-75.91,0.456,0.006,No
+1776,JOYCITY Corporation,067000.KQ,-43.1,0.187,0.339,Yes
+1777,Nepes Corporation,033640.KQ,-63.98,0.331,1.295,Yes
+1778,"CG MedTech Co.,Ltd.",056090.KQ,-43.54,0.188,,
+1779,"Daesung Holdings Co., Ltd.",016710.KS,-22.66,0.086,0.495,Yes
+1780,"Woory Industrial Holdings Co.,Ltd.",072470.KQ,-39.62,0.166,1.097,Yes
+1781,"Woory Industrial Co., Ltd.",215360.KQ,-40.3,0.169,0.887,Yes
+1782,"Ich Co.,Ltd.",368600.KQ,-50.0,0.225,1.27,Yes
+1783,"TigerElec Co., Ltd.",219130.KQ,-69.18,0.375,0.282,Yes
+1784,"HANDYSOFT, Inc.",220180.KQ,-55.51,0.261,0.351,Yes
+1785,"DRB Holding Co., Ltd.",004840.KS,-35.06,0.14,0.482,Yes
+1786,"Hwang Kum Steel & Technology Co., Ltd",032560.KS,-25.5,0.096,0.194,Yes
+1787,"Innosimulation Co., Ltd",274400.KQ,-56.28,0.263,0.338,Yes
+1788,"SuNam Co., Ltd.",294630.KQ,-50.8,0.227,0.434,Yes
+1789,"JMT Co.,Ltd.",094970.KQ,-60.7,0.294,0.289,Yes
+1790,"BIT Computer Co., Ltd",032850.KQ,-26.97,0.102,0.124,Yes
+1791,CHA Vaccine Research Institute,261780.KQ,-46.58,0.2,0.842,Yes
+1792,"Derkwoo Electronics Co., Ltd",263600.KQ,-52.89,0.238,0.607,Yes
+1793,"Seronics Co., Ltd.",042600.KQ,-62.96,0.309,0.53,Yes
+1794,KWR,068100.KQ,-56.51,0.261,0.047,Yes
+1795,RP Bio Inc.,314140.KQ,-43.28,0.177,0.724,Yes
+1796,"The LEADCORP, Inc.",012700.KQ,-27.6,0.101,0.059,Yes
+1797,"GeneBioTech Co. ,Ltd",086060.KQ,-22.05,0.077,0.42,Yes
+1798,"Namu Tech Co.,Ltd.",242040.KQ,-43.11,0.173,0.533,Yes
+1799,"KUMHO Engineering & Construction Co., Ltd.",002990.KS,-43.35,0.174,0.126,Yes
+1800,Dongbu Corporation,005960.KS,-32.4,0.12,0.076,No
+1801,"OSP Co., Ltd.",368970.KQ,-47.89,0.196,0.201,Yes
+1802,"Pamtek Co., Ltd.",271830.KQ,-58.1,0.258,1.292,Yes
+1803,"TEMC Co., Ltd.",425040.KQ,-65.35,0.31,0.557,Yes
+1804,KineMaster Corporation,139670.KQ,-52.94,0.221,0.409,No
+1805,"Nuintek Co.,Ltd.",012340.KQ,-41.29,0.157,0.251,Yes
+1806,"BYC Co., Ltd.",001460.KS,-32.01,0.114,0.223,Yes
+1807,East Asia Holdings Investment Limited,900110.KQ,-50.4,0.203,0.6,No
+1808,"Humax Co., Ltd.",115160.KQ,-60.85,0.268,0.88,Yes
+1809,Mr. Blue Corporation,207760.KQ,-65.27,0.301,0.374,Yes
+1810,"Wonbiogen Co., Ltd.",307280.KQ,-45.04,0.173,0.744,Yes
+1811,"DY DEOKYANG Co.,Ltd.",024900.KS,-48.6,0.189,0.062,No
+1812,"ODTech Co., Ltd.",080520.KQ,-32.68,0.113,0.483,Yes
+1813,CXI Healthcare Technology Group Limited,900120.KQ,-53.81,0.215,0.462,No
+1814,"INVENIA Co., Ltd.",079950.KQ,-47.23,0.179,0.682,Yes
+1815,"Pharmsville Co., Ltd.",318010.KQ,-49.13,0.188,0.334,Yes
+1816,Nexen Tire Corporation,002350.KS,-44.16,0.161,0.333,No
+1817,"Barunson Co., Ltd.",018700.KQ,-49.94,0.19,0.236,No
+1818,"GIGALANE Co.,Ltd.",049080.KQ,-46.33,0.172,0.837,Yes
+1819,"M2N Co.,Ltd",033310.KQ,-37.86,0.132,0.606,Yes
+1820,"Creas F&C Co.,Ltd",110790.KQ,-44.87,0.164,0.049,Yes
+1821,"Kginicis Co.,Ltd",035600.KQ,-25.09,0.08,0.023,No
+1822,"Billions Co.,Ltd.",044480.KQ,-57.94,0.235,0.434,Yes
+1823,"SH Energy & Chemical Co., Ltd.",002360.KS,-31.42,0.103,0.237,No
+1824,"NPK Co.,Ltd",048830.KQ,-30.32,0.099,0.204,Yes
+1825,"Nuon Co., Ltd.",123840.KQ,-71.67,0.332,0.033,Yes
+1826,DRGEM Corporation,263690.KQ,-49.92,0.186,0.525,Yes
+1827,Studio Samick,415380.KQ,-42.92,0.152,0.188,Yes
+1828,YJ LINK,209640.KQ,-70.22,0.316,,
+1829,"Inzi Display Co.,Ltd",037330.KQ,-35.15,0.116,0.003,No
+1830,"Yoosung Enterprise Co., Ltd.",002920.KS,-33.63,0.11,0.539,Yes
+1831,"KUKJEON PHARMACEUTICAL Co., Ltd",307750.KQ,-48.17,0.174,0.477,Yes
+1832,"APRO Co., Ltd",262260.KQ,-60.85,0.245,0.783,Yes
+1833,"DTC Co., Ltd.",066670.KQ,-43.94,0.152,0.503,Yes
+1834,Innodep Inc.,303530.KQ,-44.71,0.155,0.046,No
+1835,"Carelabs Co.,Ltd",263700.KQ,-48.49,0.17,0.502,Yes
+1836,"MedPacto, Inc.",235980.KQ,-70.19,0.299,1.027,No
+1837,"UBcare. Co., Ltd.",032620.KQ,-34.8,0.107,0.577,Yes
+1838,"Young Poong Paper Mfg Co.,Ltd.",006740.KS,-51.31,0.173,0.76,No
+1839,"Hizeaero Co., Ltd.",221840.KQ,-43.77,0.137,0.671,Yes
+1840,"The E&M Co., Ltd.",089230.KQ,-65.59,0.247,0.791,Yes
+1841,"Daelim Paper Co.,Ltd.",017650.KQ,-23.44,0.064,0.077,Yes
+1842,STX Corporation,011810.KS,-58.27,0.199,0.987,Yes
+1843,"DAIHAN Scientific Co., Ltd.",131220.KQ,-29.44,0.08,0.001,No
+1844,"I-Scream Edu Co.,Ltd.",289010.KQ,-48.27,0.144,0.463,No
+1845,Samkee Corp.,122350.KQ,-43.6,0.123,0.562,Yes
+1846,CammSys Corp.,050110.KQ,-54.42,0.167,0.433,Yes
+1847,"Sewon Co.,Ltd",234100.KQ,-46.07,0.129,0.529,Yes
+1848,Dongyang Express Corp.,084670.KS,-41.95,0.112,0.37,No
+1849,LG HelloVision Corp.,037560.KS,-35.29,0.089,0.336,Yes
+1850,"W-Scope Chungju Plant Co., Ltd.",393890.KQ,-81.48,0.326,0.732,Yes
+1851,"Dong Il Steel Mfg Co.,Ltd",002690.KS,-37.06,0.093,0.03,No
+1852,MFC,432980.KQ,-81.44,0.307,,
+1853,"Sangji Construction, Inc.",042940.KQ,-80.89,0.285,,
+1854,"Lotte Non - Life Insurance Co., Ltd.",000400.KS,-51.76,0.116,0.157,Yes
+1855,"Shinhan Global Active REIT Co., Ltd.",481850.KS,-59.27,0.141,,
+1856,MeatBox,475460.KQ,-78.93,0.236,,
+1857,Schem Inc,475660.KQ,-65.83,0.073,,
+1858,Day1 Company,373160.KQ,-77.79,0.005,,
+1859,PIE,452450.KQ,-82.54,,,
+1860,Aiji net,462980.KQ,-69.01,,,
+1861,DongBang Medical,240550.KQ,-17.88,,,
+1862,"Chorokbaem Media Co., Ltd.",047820.KQ,0.0,0.0,0.0,No
+1863,LG CNS,064400.KS,17.38,,,

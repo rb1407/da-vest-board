@@ -1,0 +1,949 @@
+Rank,Name,Ticker,Return (%),Risk
+1,MFC-Strategic Storage Fund Ord,M-STOR.BK,37.06,0.129
+2,Hang Seng Investment Management - Japan Topix 100 IDX ETF,JAPAN10001.BK,2.81,0.011
+3,Premier Technology Public Company Limited,PT.BK,38.88,0.175
+4,Yuanta Securities (Thailand) Company Limited,GOLD19.BK,33.63,0.173
+5,Krung Thai Bank Public Company Limited,KTB-R.BK,22.57,0.124
+6,Toray Textiles (Thailand) Public Company Limited,TTT-R.BK,5.15,0.034
+7,Luxury Real Estate Investment Ord,LUXF.BK,21.74,0.135
+8,I.C.C. International Public Company Limited,ICC-R.BK,15.78,0.101
+9,Tracker Fund Of Hong Kong,HK01.BK,29.41,0.179
+10,United Overseas Bank Limited,UOB19.BK,31.76,0.193
+11,Hang Seng China Enterprises Index ETF,HKCE01.BK,36.23,0.218
+12,Siam City Cement Public Company Limited,SCCC-R.BK,8.32,0.061
+13,Thanachart Capital Public Company Limited,TCAP-R.BK,15.84,0.114
+14,HEMARAJ INDUSTRIAL PRP & LEASEHOLD FUND,HPF.BK,10.8,0.081
+15,Thaitheparos Public Company Limited,SAUCE-R.BK,13.9,0.106
+16,Thai Stanley Electric Public Company Limited,STANLY-R.BK,16.18,0.126
+17,TMBThanachart Bank Public Company Limited,TTB.BK,22.92,0.179
+18,TISCO Financial Group Public Company Limited,TISCO.BK,10.01,0.087
+19,Trinity Freehold & Leasehold PRP Fund,TNPF.BK,12.39,0.114
+20,Siam Pan Group Public Company Limited,SPG-R.BK,4.07,0.04
+21,City Sports and Recreation Public Company Limited,CSR-R.BK,1.52,0.015
+22,Centara Hotels & Resorts Lease Ord,CTARAF.BK,9.55,0.093
+23,Bangkok Commercial Asset Management Public Company Limited,BAM-R.BK,2.88,0.03
+24,Khonburi Sugar Public Company Limited,KBS-R.BK,23.92,0.236
+25,MFC-Nichada Thani Prop Fun Ord,MNIT.BK,14.77,0.153
+26,SCB X Public Company Limited,SCB-R.BK,11.11,0.117
+27,Thaitheparos Public Company Limited,SAUCE.BK,11.58,0.123
+28,Jack Chia Industries (Thailand) Public Company Limited,JCT-R.BK,4.58,0.05
+29,ChinaAMC NASDAQ 100 ETF,NDX01.BK,17.89,0.189
+30,Quality Houses Hotel and Resid REIT Ord,QHHRREIT.BK,18.5,0.195
+31,Pinthong Industrial Park Public Company Limited,PIN.BK,32.56,0.33
+32,Bangkok Airways Public Company Limited,BA.BK,29.31,0.301
+33,Thai Stanley Electric Public Company Limited,STANLY.BK,15.65,0.174
+34,D.T.C. Industries Public Company Limited,DTCI-R.BK,0.77,0.009
+35,Thanachart Capital Public Company Limited,TCAP.BK,15.29,0.175
+36,"NBPP BLOCK 1 INF FD, ELECT GEN AU OF THA",EGATIF.BK,9.86,0.115
+37,Thai Mitsuwa Public Company Limited,TMW.BK,26.58,0.297
+38,Thai Metal Drum Manufacturing Public Company Limited,TMD.BK,6.52,0.08
+39,Jack Chia Industries (Thailand) Public Company Limited,JCT.BK,6.02,0.075
+40,Karmarts Public Company Limited,KAMART.BK,41.11,0.463
+41,Quality Hospitality Leasehold Ord,QHOP.BK,18.28,0.224
+42,MC Group Public Company Limited,MC-R.BK,13.73,0.172
+43,NSL Foods Public Company Limited,NSL.BK,27.81,0.336
+44,TISCO Financial Group Public Company Limited,TISCO-R.BK,7.0,0.092
+45,"Sumitomo Mitsui Financial Group, Inc.",SMFG19.BK,19.17,0.246
+46,Southern Concrete Pile Public Company Limited,SCP.BK,14.97,0.196
+47,Asian Phytoceuticals Public Company Limited,APCO-R.BK,12.04,0.162
+48,Quality Houses Public Company Limited,QH-R.BK,5.65,0.08
+49,Khonburi Sugar Public Company Limited,KBS.BK,27.53,0.371
+50,Amarin Corporations Public Company Limited,AMARIN-R.BK,7.9,0.121
+51,Univanich Palm Oil Public Company Limited,UVAN-R.BK,11.55,0.176
+52,SCB X Public Company Limited,SCB.BK,9.94,0.153
+53,Asia Plus Group Holdings Public Company Limited,ASP-R.BK,4.1,0.065
+54,Rockworth Public Company Limited,ROCK.BK,26.22,0.38
+55,Thai Steel Cable Public Company Limited,TSC-R.BK,5.88,0.093
+56,Diamond Building Products Public Company Limited,DRT-R.BK,5.59,0.089
+57,LH Shopping Centers Leasehold Real Estate Investment Trust,LHSC.BK,12.77,0.204
+58,Mena Transport Public Company Limited,MENA-R.BK,17.8,0.283
+59,Quality Construction Products Public Company Limited,Q-CON.BK,38.61,0.569
+60,Pruksa Holding Public Company Limited,PSH-R.BK,5.23,0.088
+61,JAPAN13_DR CAM MSCI JP-HUSD#KGI,JAPAN13.BK,9.92,0.164
+62,Bangkok Bank Public Company Limited,BBL.BK,8.78,0.147
+63,Firetrade Engineering Public Company Limited,FTE-R.BK,7.23,0.123
+64,Rhom Bho Property Public Company Limited,TITLE.BK,22.12,0.356
+65,Ichitan Group Public Company Limited,ICHI-R.BK,14.8,0.249
+66,BTS Rail Mass Transit Growth Infra,BTSGIF.BK,6.86,0.12
+67,"Fast Retailing Co., Ltd.",UNIQLO80.BK,11.61,0.205
+68,Univanich Palm Oil Public Company Limited,UVAN.BK,11.61,0.206
+69,Mandarin Hotel Public Company Limited,MANRIN.BK,8.19,0.149
+70,Crown Seal Public Company Limited,CSC-R.BK,2.08,0.04
+71,SISB Public Company Limited,SISB-R.BK,18.29,0.335
+72,Chememan Public Company Limited,CMAN.BK,14.05,0.262
+73,MC Group Public Company Limited,MC.BK,15.86,0.296
+74,Sky ICT Public Company Limited,SKY-R.BK,34.8,0.605
+75,Haad Thip Public Company Limited,HTC-R.BK,6.94,0.135
+76,Thai Metal Drum Manufacturing Public Company Limited,TMD-R.BK,4.14,0.081
+77,I.C.C. International Public Company Limited,ICC.BK,13.55,0.26
+78,Tipco Foods Public Company Limited,TIPCO.BK,9.84,0.192
+79,Laguna Resorts & Hotels Public Company Limited,LRH.BK,17.32,0.327
+80,Diamond Building Products Public Company Limited,DRT.BK,4.54,0.092
+81,SCL_S.C.L. MOTOR PART,SCL.BK,40.24,0.712
+82,SCL_S.C.L. MOTOR PART,SCL-R.BK,40.24,0.712
+83,Bangchak Corporation Public Company Limited,BCP-R.BK,16.58,0.344
+84,Lanna Resources Public Company Limited,LANNA-R.BK,8.37,0.181
+85,Birla Carbon (Thailand) Public Company Limited,BCT.BK,11.07,0.239
+86,Muang Thai Insurance Public Company Limited,MTI.BK,4.61,0.103
+87,Bangchak Corporation Public Company Limited,BCP.BK,15.46,0.332
+88,"NetEase, Inc.",NETEASE80.BK,16.14,0.357
+89,Don Muang Tollway Public Company Limited,DMT.BK,9.09,0.21
+90,Grande Royal Orchid Hospitality Real Estate Investment Trust with Buy-Back Condition,GROREIT.BK,2.15,0.052
+91,Prima Marine Public Company Limited,PRM.BK,14.27,0.327
+92,Patrangsit Healthcare Group Public Company Limited,PHG.BK,10.83,0.259
+93,SISB Public Company Limited,SISB.BK,18.04,0.42
+94,CPT Drives and Power Public Company Limited,CPT.BK,9.74,0.236
+95,Kasikornbank Public Company Limited,KBANK.BK,6.48,0.163
+96,WHA Premium Growth Freehold And Leasehold Real Estate Investment Trust,WHART.BK,8.63,0.216
+97,Aurora Design Public Company Limited,AURA.BK,13.76,0.336
+98,Thai Steel Cable Public Company Limited,TSC.BK,6.97,0.176
+99,Harn Engineering Solutions Public Company Limited,HARN-R.BK,2.58,0.067
+100,Thaifoods Group Public Company Limited,TFG.BK,16.25,0.402
+101,Alucon Public Company Limited,ALUCON-R.BK,3.15,0.083
+102,Bangkok Union Insurance Public Company Limited,BUI.BK,11.81,0.302
+103,Sanofi,SANOFI80.BK,9.15,0.241
+104,Crown Seal Public Company Limited,CSC.BK,2.46,0.068
+105,WHA Corporation Public Company Limited,WHA-R.BK,9.42,0.258
+106,Haad Thip Public Company Limited,HTC.BK,8.99,0.25
+107,"Thai Nippon Rubber Industry Public Co., Ltd.",TNR.BK,11.4,0.322
+108,Moshi Moshi Retail Corporation Public Company Limited,MOSHI.BK,13.79,0.388
+109,Ichitan Group Public Company Limited,ICHI.BK,11.49,0.331
+110,Sappe Public Company Limited,SAPPE.BK,16.23,0.468
+111,Taokaenoi Food & Marketing Public Company Limited,TKN-R.BK,15.36,0.446
+112,Selic Corp Public Company Limited,SELIC.BK,20.4,0.581
+113,Fine Metal Technologies Public Company Limited,FMT.BK,3.52,0.11
+114,Taokaenoi Food & Marketing Public Company Limited,TKN.BK,17.27,0.508
+115,Lanna Resources Public Company Limited,LANNA.BK,7.9,0.242
+116,Sappe Public Company Limited,SAPPE-R.BK,14.37,0.433
+117,WHA Corporation Public Company Limited,WHA.BK,8.87,0.279
+118,Firetrade Engineering Public Company Limited,FTE.BK,4.57,0.151
+119,Amata Corporation Public Company Limited,AMATA-R.BK,5.03,0.167
+120,Dusit Thani Freehold and Leasehold Real Estate Investment Trust,DREIT.BK,3.52,0.118
+121,Malee Group Public Company Limited,MALEE.BK,15.97,0.514
+122,Don Muang Tollway Public Company Limited,DMT-R.BK,5.73,0.193
+123,Buriram Sugar Public Company Limited,BRR-R.BK,14.47,0.475
+124,Ticon Freehold and Leasehold Real Estate Investment Trust,FTREIT.BK,5.94,0.204
+125,Saha-Union Public Company Limited,SUC.BK,4.21,0.148
+126,Tipco Asphalt Public Company Limited,TASCO-R.BK,4.45,0.157
+127,Malee Group Public Company Limited,MALEE-R.BK,9.09,0.315
+128,TPBI Public Company Limited,TPBI-R.BK,8.02,0.281
+129,Singapore Airlines Limited,SIA19.BK,4.07,0.145
+130,Thaifoods Group Public Company Limited,TFG-R.BK,8.15,0.287
+131,Thaicom Public Company Limited,THCOM.BK,9.58,0.354
+132,Exotic Food Public Company Limited,XO-R.BK,14.76,0.545
+133,Thai President Foods Public Company Limited,TFMAMA-R.BK,1.57,0.062
+134,Asefa Public Company Limited,ASEFA-R.BK,2.34,0.093
+135,Bumrungrad Hospital Public Company Limited,BH.BK,7.71,0.302
+136,Exotic Food Public Company Limited,XO.BK,12.64,0.488
+137,Harn Engineering Solutions Public Company Limited,HARN.BK,1.63,0.068
+138,Charoen Pokphand Foods Public Company Limited,CPF-R.BK,4.14,0.185
+139,Mahachai Hospital Public Company Limited,M-CHAI-R.BK,18.15,0.772
+140,Grand Prix International Public Company Limited,GPI-R.BK,2.15,0.098
+141,Grand Prix International Public Company Limited,GPI.BK,3.32,0.153
+142,Ama Marine Public Company Limited,AMA.BK,5.44,0.249
+143,TPBI Public Company Limited,TPBI.BK,5.72,0.264
+144,Ama Marine Public Company Limited,AMA-R.BK,3.82,0.184
+145,PTT Public Company Limited,PTT-R.BK,2.68,0.131
+146,Susco Public Company Limited,SUSCO.BK,5.61,0.273
+147,Tipco Asphalt Public Company Limited,TASCO.BK,4.55,0.223
+148,Metro Systems Corporation Public Company Limited,MSC-R.BK,3.45,0.171
+149,Thai Optical Group Public Company Limited,TOG-R.BK,4.6,0.228
+150,Maguro Group Public Company Limited,MAGURO-R.BK,8.48,0.439
+151,Maguro Group Public Company Limited,MAGURO.BK,8.48,0.439
+152,Amata Summit Growth Freehold and Leasehold Real Estate Investment Trust,AMATAR.BK,2.94,0.16
+153,Charoen Pokphand Foods Public Company Limited,CPF.BK,3.28,0.18
+154,Lotus's Retail Growth Freehold&Leasehold,AXTRART.BK,3.35,0.193
+155,AIM Industrial Growth Freehold and Leasehold Real Estate Investment Trust,AIMIRT.BK,1.71,0.099
+156,Planet Communications Asia Public Company Limited,PLANET.BK,11.66,0.68
+157,"Ping An Insurance (Group) Company of China, Ltd.",PINGAN80.BK,5.44,0.33
+158,Sub Sri Thai Real Estate Investment Trust,SSTRT.BK,1.48,0.093
+159,PTT Exploration and Production Public Company Limited,PTTEP-R.BK,3.08,0.192
+160,Thai Optical Group Public Company Limited,TOG.BK,4.5,0.284
+161,S & J International Enterprises Public Company Limited,S&J-R.BK,3.61,0.247
+162,S & J International Enterprises Public Company Limited,S&J.BK,3.61,0.247
+163,T.M.C. Industrial Public Company Limited,TMC.BK,9.79,0.658
+164,Thailand Prime Property Freehold and Leasehold Real Estate Investment Trust,TPRIME.BK,2.26,0.166
+165,BKI Holdings Public Company Limited,BKIH.BK,1.28,0.095
+166,BKI Holdings Public Company Limited,BKIH-R.BK,1.28,0.095
+167,PTT Public Company Limited,PTT.BK,2.15,0.161
+168,ADVICE_ADVICE IT INFINITE,ADVICE-R.BK,6.58,0.486
+169,ADVICE_ADVICE IT INFINITE,ADVICE.BK,6.58,0.486
+170,United Palm Oil Industry Public Company Limited,UPOIC-R.BK,1.42,0.108
+171,Muangthai Capital Public Company Limited,MTC-R.BK,3.46,0.275
+172,Asian Palm Oil Public Company Limited,APO-R.BK,9.65,0.747
+173,APO_ASIAN PALM OIL,APO.BK,9.65,0.747
+174,Planet Communications Asia Public Company Limited,PLANET-R.BK,7.85,0.616
+175,Principal Capital Public Company Limited,PRINC-R.BK,3.02,0.251
+176,Bluebik Group Public Company Limited,BBIK-R.BK,4.94,0.421
+177,CPN Commercial Growth Leasehol Ord,CPNCG.BK,1.94,0.171
+178,Bluebik Group Public Company Limited,BBIK.BK,5.4,0.497
+179,Nova Empire Public Company Limited,NOVA-R.BK,2.77,0.261
+180,Samart Telcoms Public Company Limited,SAMTEL.BK,4.64,0.445
+181,People's Garment Public Company Limited,PG.BK,3.05,0.3
+182,SVI Public Company Limited,SVI.BK,2.74,0.276
+183,Syntec Construction Public Company Limited,SYNTEC.BK,1.79,0.187
+184,Srithai Superware Public Company Limited,SITHAI.BK,2.77,0.287
+185,Peerapat Technology Public Company Limited,PRAPAT.BK,4.28,0.448
+186,Sawang Export Public Company Limited,SAWANG-R.BK,2.88,0.307
+187,NFC Public Company Limited,NFC.BK,9.58,1.01
+188,LTS_LIGHT UP TOTAL SOLUTION,LTS.BK,7.02,0.762
+189,Goodyear (Thailand) Public Company Limited,GYT-R.BK,0.53,0.06
+190,OHTL Public Company Limited,OHTL.BK,2.81,0.316
+191,Land&Houses Freehold and Lease Ord,LHRREIT.BK,1.61,0.191
+192,Techlead NPN Public Company Limited,EE.BK,10.79,1.233
+193,Lohakit Metal Public Company Limited,LHK.BK,2.03,0.251
+194,Techlead NPN Public Company Limited,EE-R.BK,9.96,1.226
+195,Sahamit Machinery Public Company Limited,SMIT-R.BK,0.85,0.117
+196,Thai Union Feedmill Public Company Limited,TFM-R.BK,2.13,0.329
+197,After You Public Company Limited,AU.BK,1.27,0.229
+198,Prosper Engineering Public Company Limited,PROS.BK,5.43,1.035
+199,Union Auction Public Company Limited,AUCT-R.BK,1.13,0.222
+200,VFMVN Diamond ETF,FUEVFVND01.BK,0.92,0.186
+201,Thachang Green Energy Public Company Limited,TGE.BK,2.39,0.484
+202,Thachang Green Energy Public Company Limited,TGE-R.BK,2.39,0.484
+203,Alucon Public Company Limited,ALUCON.BK,0.32,0.07
+204,Alla Public Company Limited,ALLA.BK,0.88,0.209
+205,Thai Industrial Fund 1 Ord,TIF1.BK,0.35,0.09
+206,Ally Freehold And Leasehold Real Estate Investment Trust,ALLY.BK,0.89,0.241
+207,Halcyon Technology Public Company Limited,HTECH-R.BK,1.73,0.499
+208,Prime Office Leasehold Prpty C Share,POPF.BK,0.63,0.191
+209,Fine Metal Technologies Public Company Limited,FMT-R.BK,0.6,0.186
+210,Union Auction Public Company Limited,AUCT.BK,0.77,0.261
+211,Ekachai Medical Care Public Company Limited,EKH-R.BK,0.51,0.177
+212,Dusit Thani Public Company Limited,DUSIT.BK,0.68,0.284
+213,Lee Feed Mill Public Company Limited,LEE-R.BK,0.2,0.085
+214,MCOT Public Company Limited,MCOT.BK,1.37,0.595
+215,WHA Utilities and Power Public Company Limited,WHAUP-R.BK,0.22,0.099
+216,Peerapat Technology Public Company Limited,PRAPAT-R.BK,0.76,0.353
+217,OHTL Public Company Limited,OHTL-R.BK,0.59,0.275
+218,S. Khonkaen Foods Public Company Limited,SORKON.BK,0.31,0.166
+219,Saha Pathana Inter-Holding Public Company Limited,SPI.BK,0.17,0.13
+220,Samart Telcoms Public Company Limited,SAMTEL-R.BK,0.2,0.349
+221,UOB Kay Hian Securities (Thailand) Public Company Limited,UOBKH.BK,0.02,0.168
+222,Thai Union Feedmill Public Company Limited,TFM.BK,0.04,0.31
+223,TEAM Consulting Engineering and Management Public Company Limited,TEAMG.BK,0.04,1.119
+224,ASML Holding N.V.,ASML01.BK,0.0,0.307
+225,Golden Ventures Leasehold Real Estate Investment Trust,GVREIT.BK,-0.07,0.212
+226,Sabina Public Company Limited,SABINA.BK,-0.14,0.261
+227,Symphony Communication Public Company Limited,SYMC.BK,-0.31,0.44
+228,PTT Exploration and Production Public Company Limited,PTTEP.BK,-0.26,0.208
+229,Asset Five Group Public Company Limited,A5.BK,-0.77,0.441
+230,Lee Feed Mill Public Company Limited,LEE.BK,-0.16,0.089
+231,Samart Aviation Solutions Public Company Limited,SAV.BK,-0.58,0.293
+232,Samart Aviation Solutions Public Company Limited,SAV-R.BK,-0.58,0.293
+233,AKS Corporation Public Company Limited,AKS-R.BK,-1.78,0.809
+234,TTW Public Company Limited,TTW-R.BK,-0.26,0.104
+235,MFC Industrial Investment P&L Fund,MII.BK,-0.41,0.148
+236,Tirathai Public Company Limited,TRT.BK,-1.19,0.366
+237,Asset Five Group Public Company Limited,A5-R.BK,-1.45,0.404
+238,Shangri-La Hotel Public Company Limited,SHANG.BK,-0.7,0.183
+239,Qualitech Public Company Limited,QLT.BK,-3.07,0.75
+240,WHA Business Complex Freehold and Leasehold Real Estate Investment Trust,WHABT.BK,-0.35,0.082
+241,Muangthai Capital Public Company Limited,MTC.BK,-1.47,0.337
+242,Mahachai Hospital Public Company Limited,M-CHAI.BK,-2.25,0.509
+243,Charan Insurance Public Company Limited,CHARAN-R.BK,-1.14,0.246
+244,Sahamit Machinery Public Company Limited,SMIT.BK,-0.56,0.117
+245,Kingsmen C.M.T.I. Public Company Limited,K-R.BK,-1.96,0.404
+246,Union Plastic Public Company Limited,UP.BK,-1.0,0.195
+247,Sri panwa Hospitality Real Estate Investment Trust,SRIPANWA.BK,-1.24,0.242
+248,Thai Life Insurance Public Company Limited,TLI-R.BK,-1.78,0.333
+249,Thai Coating Industrial Public Company Limited,TCOAT.BK,-1.42,0.257
+250,Supalai Public Company Limited,SPALI-R.BK,-0.94,0.161
+251,TTW Public Company Limited,TTW.BK,-0.68,0.116
+252,Kiatnakin Phatra Bank Public Company Limited,KKP.BK,-1.65,0.268
+253,Sabina Public Company Limited,SABINA-R.BK,-1.14,0.181
+254,Silicon Craft Technology Public Company Limited,SICT-R.BK,-2.48,0.392
+255,China Asset Management (HK) Limited,INDIA01.BK,-1.92,0.3
+256,Silicon Craft Technology Public Company Limited,SICT.BK,-2.99,0.445
+257,MCA_MARKET CONNECTIONS ASIA,MCA.BK,-5.44,0.791
+258,Market Connections Asia Public Company Limited,MCA-R.BK,-5.44,0.791
+259,Global Connections Public Company Limited,GC.BK,-0.89,0.12
+260,Roctec Global Public Company Limited,ROCTEC.BK,-2.94,0.399
+261,Premia China STAR50 ETF,STAR5001.BK,-2.12,0.272
+262,Proud Real Estate Public Company Limited,PROUD.BK,-2.63,0.329
+263,S&P Syndicate Public Company Limited,SNP-R.BK,-2.09,0.259
+264,Grande Hospitality Real Estate Investment Trust,GAHREIT.BK,-1.11,0.137
+265,Modernform Group Public Company Limited,MODERN-R.BK,-0.27,0.032
+266,SiS Distribution (Thailand) Public Company Limited,SIS-R.BK,-3.92,0.465
+267,Sahathai Printing & Packaging Public Company Limited,STP.BK,-3.15,0.366
+268,Sahathai Printing & Packaging Public Company Limited,STP-R.BK,-3.15,0.366
+269,PP Prime Public Company Limited,PPPM.BK,-12.38,1.456
+270,Thai Life Insurance Public Company Limited,TLI.BK,-3.01,0.329
+271,INET Freehold and Leasehold Real Estate Investment Trust,INETREIT.BK,-1.26,0.133
+272,Srinanaporn Marketing Public Company Limited,SNNP-R.BK,-3.35,0.35
+273,Halcyon Technology Public Company Limited,HTECH.BK,-3.55,0.348
+274,Supalai Public Company Limited,SPALI.BK,-2.33,0.221
+275,Sawang Export Public Company Limited,SAWANG.BK,-2.46,0.224
+276,Asian Alliance International Public Company Limited,AAI-R.BK,-4.91,0.446
+277,Asian Alliance International Public Company Limited,AAI.BK,-4.91,0.446
+278,Bangkok Dusit Medical Services Public Company Limited,BDMS.BK,-1.83,0.162
+279,Dental Corporation Public Company Limited,D.BK,-4.88,0.433
+280,THAILAND FUTURE,TFFIF.BK,-1.95,0.17
+281,Phol Dhanya Public Company Limited,PHOL.BK,-1.64,0.14
+282,Teera-Mongkol Industry Public Company Limited,TMI.BK,-5.49,0.476
+283,Asia Hotel Public Company Limited,ASIA.BK,-2.7,0.23
+284,IFS Capital (Thailand) Public Company Limited,IFS-R.BK,-1.25,0.101
+285,Srivichaivejvivat Public Company Limited,VIH.BK,-3.39,0.271
+286,Thai Rung Union Car Public Company Limited,TRU.BK,-2.87,0.226
+287,Namyong Terminal Public Company Limited,NYT-R.BK,-2.64,0.203
+288,VGI Public Company Limited,VGI.BK,-6.18,0.476
+289,Smart Concrete Public Company Limited,SMART-R.BK,-2.65,0.199
+290,Stecon Group Public Company Limited,STECON-R.BK,-19.17,1.554
+291,Netbay Public Company Limited,NETBAY.BK,-5.55,0.409
+292,Winner Group Enterprise Public Company Limited,WINNER.BK,-1.75,0.126
+293,Eason & Co Public Company Limited,EASON.BK,-3.47,0.252
+294,3BB INTERNET INFRASTRUCTURE FUND ORD,3BBIF.BK,-2.8,0.197
+295,Royal Plus Public Company Limited,PLUS.BK,-6.17,0.438
+296,Thai Coconut Public Company Limited,COCOCO.BK,-6.51,0.456
+297,Rich Sport Public Company Limited,RSP-R.BK,-4.07,0.279
+298,DCVFMVN30 ETF,E1VFVN3001.BK,-2.69,0.182
+299,AKS Corporation Public Company Limited,AKS.BK,-10.85,0.753
+300,Namyong Terminal Public Company Limited,NYT.BK,-3.9,0.26
+301,Thantawan Industry Public Company Limited,THIP.BK,-3.51,0.225
+302,Thai Vegetable Oil Public Company Limited,TVO.BK,-3.28,0.208
+303,Thai Union Group Public Company Limited,TU-R.BK,-2.02,0.124
+304,CPL Group Public Company Limited,CPL.BK,-10.22,0.637
+305,KCG Corporation Public Company Limited,KCG-R.BK,-4.74,0.288
+306,KCG Corporation Public Company Limited,KCG.BK,-4.74,0.288
+307,SAAM Development Public Company Limited,SAAM.BK,-4.18,0.252
+308,Twenty-Four Con & Supply Public Company Limited,24CS.BK,-13.9,0.878
+309,Twenty-Four Con & Supply Public Company Limited,24CS-R.BK,-13.9,0.878
+310,AAPICO Hitech Public Company Limited,AH-R.BK,-6.43,0.376
+311,Itthirit Nice Corporation Public Company Limited,ITTHI.BK,-10.15,0.598
+312,Itthirit Nice Corporation Public Company Limited,ITTHI-R.BK,-10.15,0.598
+313,Winner Group Enterprise Public Company Limited,WINNER-R.BK,-2.02,0.114
+314,Christiani & Nielsen (Thai) Public Company Limited,CNT.BK,-8.45,0.48
+315,Starflex Public Company Limited,SFLEX-R.BK,-6.07,0.332
+316,KGI Securities (Thailand) Public Company Limited,KGI-R.BK,-1.9,0.102
+317,V.L. Enterprise Public Company Limited,VL-R.BK,-7.11,0.39
+318,The Erawan Group Public Company Limited,ERW.BK,-5.64,0.305
+319,Jasmine International Public Company Limited,JAS.BK,-8.74,0.475
+320,Mena Transport Public Company Limited,MENA.BK,-8.24,0.435
+321,AAPICO Hitech Public Company Limited,AH.BK,-7.56,0.395
+322,Humanica Public Company Limited,HUMAN-R.BK,-3.73,0.191
+323,Green Resources Public Company Limited,GREEN.BK,-10.31,0.54
+324,Samchai Steel Industries Public Company Limited,SAM.BK,-20.05,1.097
+325,Bound and Beyond Public Company Limited,BEYOND-R.BK,-6.18,0.312
+326,Golden Lime Public Company Limited,SUTHA.BK,-6.31,0.319
+327,Sri Trang Agro-Industry Public Company Limited,STA.BK,-7.46,0.374
+328,V.L. Enterprise Public Company Limited,VL.BK,-7.58,0.373
+329,Muramoto Electron (Thailand) Public Company Limited,METCO-R.BK,-4.42,0.213
+330,Netbay Public Company Limited,NETBAY-R.BK,-6.31,0.306
+331,Phol Dhanya Public Company Limited,PHOL-R.BK,-2.2,0.104
+332,O.C.C. Public Company Limited,OCC-R.BK,-3.2,0.151
+333,CMO Public Company Limited,CMO.BK,-21.15,1.087
+334,Central Pattana Public Company Limited,CPN.BK,-3.95,0.184
+335,Prodigy Public Company Limited,PDG.BK,-3.47,0.16
+336,Banpu Power Public Company Limited,BPP-R.BK,-3.69,0.17
+337,Sunsweet Public Company Limited,SUN-R.BK,-7.96,0.373
+338,Advanced Information Technology Public Company Limited,AIT.BK,-5.69,0.263
+339,S&P Syndicate Public Company Limited,SNP.BK,-4.13,0.187
+340,SC Asset Corporation Public Company Limited,SC.BK,-6.13,0.275
+341,Digital Telecommunications Infrastructur,DIF.BK,-4.96,0.215
+342,Krungthai Card Public Company Limited,KTC.BK,-4.57,0.196
+343,T.Krungthai Industries Public Company Limited,TKT.BK,-9.19,0.396
+344,Peer For You Public Company Limited,PEER-R.BK,-14.42,0.637
+345,Minor International Public Company Limited,MINT.BK,-5.7,0.24
+346,AP (Thailand) Public Company Limited,AP.BK,-6.21,0.256
+347,SC Asset Corporation Public Company Limited,SC-R.BK,-6.55,0.27
+348,King Gen Public Company Limited,KGEN.BK,-16.73,0.715
+349,AI Energy Public Company Limited,AIE.BK,-16.75,0.69
+350,Muramoto Electron (Thailand) Public Company Limited,METCO.BK,-5.13,0.198
+351,Nonthavej Hospital Public Company Limited,NTV.BK,-3.84,0.146
+352,North East Rubber Public Company Limited,NER.BK,-5.4,0.207
+353,Srinanaporn Marketing Public Company Limited,SNNP.BK,-7.87,0.303
+354,Assetwise Public Company Limited,ASW-R.BK,-3.81,0.144
+355,Major Cineplex Lifestyle Lease Ord,MJLF.BK,-6.79,0.258
+356,Somboon Advance Technology Public Company Limited,SAT.BK,-5.76,0.212
+357,Sirakorn Public Company Limited,SK.BK,-10.85,0.404
+358,Sriracha Construction Public Company Limited,SRICHA.BK,-15.36,0.583
+359,Boutique Corporation Public Company Limited,BC.BK,-10.29,0.377
+360,CPN Retail Growth Leasehold REIT,CPNREIT.BK,-6.94,0.249
+361,PTG Energy Public Company Limited,PTG-R.BK,-5.68,0.2
+362,Bangkok Chain Hospital Public Company Limited,BCH.BK,-7.26,0.256
+363,News Network Corporation Public Company Limited,NEWS.BK,-21.53,0.813
+364,North East Rubber Public Company Limited,NER-R.BK,-4.23,0.146
+365,Floyd Public Company Limited,FLOYD.BK,-8.65,0.301
+366,Multi-National Residence Fund Ord,MNRF.BK,-4.75,0.16
+367,WP Energy Public Company Limited,WP.BK,-5.39,0.18
+368,TWZ Corporation Public Company Limited,TWZ.BK,-17.9,0.636
+369,Applicad Public Company Limited,APP.BK,-14.69,0.509
+370,CP ALL Public Company Limited,CPALL.BK,-6.15,0.202
+371,Allianz Ayudhya Capital Public Company Limited,AYUD.BK,-3.72,0.12
+372,AP (Thailand) Public Company Limited,AP-R.BK,-6.66,0.217
+373,STP&I Public Company Limited,STPI.BK,-12.25,0.411
+374,Kang Yong Electric Public Company Limited,KYE.BK,-3.71,0.118
+375,L'Oréal S.A.,LOREAL80.BK,-4.68,0.149
+376,The Union Mosaic Industry Public Company Limited,UMI.BK,-13.8,0.461
+377,Pranda Jewelry Public Company Limited,PDJ.BK,-8.47,0.273
+378,Sala @ Sathorn Property Fund Ord,SSPF.BK,-15.01,0.493
+379,Yuasa Battery (Thailand) Public Company Limited,YUASA.BK,-7.32,0.229
+380,BCPG Public Company Limited,BCPG.BK,-10.37,0.324
+381,Asia Fiber Public Company Limited,AFC.BK,-15.69,0.495
+382,M.C.S. Steel Public Company Limited,MCS.BK,-8.92,0.27
+383,Advanced Connection Corporation Public Company Limited,ACC.BK,-22.82,0.739
+384,Warrix Sport Public Company Limited,WARRIX.BK,-14.92,0.463
+385,IFS Capital (Thailand) Public Company Limited,IFS.BK,-4.15,0.121
+386,Bhiraj Office Leasehold Real Estate Investment Trust,BOFFICE.BK,-5.88,0.172
+387,Eastern Technical Engineering Public Company Limited,ETE.BK,-15.66,0.48
+388,Asia Fiber Public Company Limited,AFC-R.BK,-17.48,0.541
+389,BURIRAM SUGAR GROUP POWER PLANT INFR FD,BRRGIF.BK,-8.52,0.252
+390,Index Living Mall Public Company Limited,ILM.BK,-7.98,0.234
+391,Siam Steel Service Center Public Company Limited,SSSC-R.BK,-6.15,0.179
+392,Siamese Asset Public Company Limited,SA.BK,-5.81,0.169
+393,Royal Plus Public Company Limited,PLUS-R.BK,-14.29,0.43
+394,CIMB Thai Bank Public Company Limited,CIMBT.BK,-8.01,0.229
+395,Stecon Group Public Company Limited,STECON.BK,-39.67,1.358
+396,Principal Capital Public Company Limited,PRINC.BK,-13.4,0.392
+397,Warrix Sport Public Company Limited,WARRIX-R.BK,-15.68,0.46
+398,Home Pottery Public Company Limited,HPT.BK,-12.69,0.367
+399,M.K. Real Estate Development Public Company Limited,MK-R.BK,-1.72,0.046
+400,ETL_EUROASIA TOTAL LOGISTICS,ETL.BK,-25.34,0.773
+401,Euroasia Total Logistics Public Company Limited,ETL-R.BK,-25.34,0.773
+402,TRC Construction Public Company Limited,TRC.BK,-27.69,0.857
+403,Asia Aviation Public Company Limited,AAV.BK,-11.46,0.324
+404,Rojukiss International Public Company Limited,KISS.BK,-14.31,0.407
+405,Rojukiss International Public Company Limited,KISS-R.BK,-14.31,0.407
+406,Asian Sea Corporation Public Company Limited,ASIAN.BK,-13.09,0.369
+407,PROEN Corp Public Company Limited,PROEN.BK,-27.39,0.836
+408,Lighting and Equipment Public Company Limited,L&E.BK,-9.97,0.275
+409,Lighting and Equipment Public Company Limited,L&E-R.BK,-9.97,0.275
+410,Synergetic Auto Performance Public Company Limited,ASAP.BK,-15.42,0.434
+411,Buakaew Income,BKD.BK,-13.11,0.365
+412,Star Petroleum Refining Public Company Limited,SPRC-R.BK,-10.93,0.299
+413,BSRC_BANGCHAK SRIRACHA,BSRC.BK,-16.95,0.476
+414,BSRC_BANGCHAK SRIRACHA,BSRC-R.BK,-16.95,0.476
+415,Unimit Engineering Public Company Limited,UEC.BK,-18.61,0.524
+416,Krungthai Card Public Company Limited,KTC-R.BK,-4.55,0.119
+417,Thai Packaging & Printing Public Company Limited,TPP.BK,-7.78,0.204
+418,Thai Plaspac Public Company Limited,TPAC-R.BK,-11.38,0.299
+419,T.R.V. Rubber Products Public Company Limited,TRV-R.BK,-13.2,0.35
+420,Sino Logistics Corporation Public Company Limited,SINO.BK,-20.11,0.551
+421,Ornsirin Holding Public Company Limited,ORN-R.BK,-17.25,0.455
+422,ORN_ORNSIRIN HOLDING,ORN.BK,-17.25,0.455
+423,Central Retail Corporation Public Company Limited,CRC.BK,-10.3,0.26
+424,Make To Win Holding Public Company Limited,MTW.BK,-19.27,0.507
+425,S Prime Growth Leasehold Real Estate Investment Trust,SPRIME.BK,-6.45,0.159
+426,Jakpaisan Estate Public Company Limited,JAK.BK,-9.01,0.224
+427,Veranda Resort Public Company Limited,VRANDA.BK,-9.08,0.225
+428,ZEN Corporation Group Public Company Limited,ZEN.BK,-13.11,0.332
+429,Thai Polycons Public Company Limited,TPOLY.BK,-26.29,0.71
+430,Aikchol Hospital Public Company Limited,AHC.BK,-5.62,0.134
+431,Dcon Products Public Company Limited,DCON-R.BK,-11.2,0.274
+432,Carabao Group Public Company Limited,CBG.BK,-13.93,0.344
+433,XSpring Capital Public Company Limited,XPG.BK,-18.39,0.462
+434,O.C.C. Public Company Limited,OCC.BK,-7.34,0.174
+435,BTS Group Holdings Public Company Limited,BTS.BK,-12.03,0.29
+436,Star Petroleum Refining Public Company Limited,SPRC.BK,-12.88,0.309
+437,T.A.C. Consumer Public Company Limited,TACC.BK,-9.12,0.214
+438,Raja Ferry Port Public Company Limited,RP-R.BK,-13.64,0.326
+439,MDX Public Company Limited,MDX.BK,-15.29,0.366
+440,S 11 Group Public Company Limited,S11.BK,-16.88,0.407
+441,Siam Steel Service Center Public Company Limited,SSSC.BK,-6.06,0.138
+442,SCGJWD Logistics Public Company Limited,SJWD.BK,-17.28,0.399
+443,Simat Technologies Public Company Limited,SIMAT.BK,-19.77,0.462
+444,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",LVMH01.BK,-11.42,0.254
+445,T.R.V. Rubber Products Public Company Limited,TRV.BK,-15.3,0.346
+446,Baan Rock Garden Public Company Limited,BROCK.BK,-5.14,0.11
+447,ZALEKTA Public Company Limited,ZAA.BK,-24.96,0.594
+448,ZALEKTA Public Company Limited,ZAA-R.BK,-24.96,0.594
+449,Dcon Products Public Company Limited,DCON.BK,-11.81,0.258
+450,AEON Thana Sinsap (Thailand) Public Company Limited,AEONTS.BK,-12.49,0.273
+451,Kiang Huat Sea Gull Trading Frozen Food Public Company Limited,CHOTI.BK,-14.29,0.315
+452,Simat Technologies Public Company Limited,SIMAT-R.BK,-17.83,0.399
+453,Turnkey Communication Services Public Company Limited,TKC.BK,-22.96,0.523
+454,KTBST Mixed Freehold and Leasehold Real Estate Investment Trust,KTBSTMR.BK,-5.4,0.111
+455,T.A.C. Consumer Public Company Limited,TACC-R.BK,-8.45,0.176
+456,Indorama Ventures Public Company Limited,IVL.BK,-17.36,0.376
+457,Krungthai Car Rent and Lease Public Company Limited,KCAR.BK,-14.95,0.317
+458,Forth Smart Service Public Company Limited,FSMART.BK,-23.96,0.533
+459,Primo Service Solutions Public Company Limited,PRI.BK,-25.29,0.562
+460,Sahamitr Pressure Container Public Company Limited,SMPC.BK,-9.01,0.181
+461,WHA Industrial Leasehold Real Estate Investment Trust,WHAIR.BK,-8.54,0.17
+462,G-Able Public Company Limited,GABLE.BK,-16.91,0.348
+463,G-Able Public Company Limited,GABLE-R.BK,-16.91,0.348
+464,Quality Houses Public Company Limited,QH.BK,-6.74,0.131
+465,Arinsiri Land Public Company Limited,ARIN.BK,-36.0,0.827
+466,Sahathai Terminal Public Company Limited,PORT.BK,-20.73,0.431
+467,Thai Group Holdings Public Company Limited,TGH.BK,-12.93,0.257
+468,Dhouse Pattana Public Company Limited,DHOUSE.BK,-15.74,0.317
+469,Matching Maximize Solution Public Company Limited,MATCH.BK,-12.87,0.254
+470,Ratch Group Public Company Limited,RATCH.BK,-9.37,0.181
+471,Seafco Public Company Limited,SEAFCO.BK,-13.49,0.262
+472,Applied DB Public Company Limited,ADB.BK,-22.41,0.457
+473,Mega Lifesciences Public Company Limited,MEGA.BK,-10.92,0.209
+474,Panjawattana Plastic Public Company Limited,PJW.BK,-14.01,0.27
+475,Bangkok Sheet Metal Public Company Limited,BM.BK,-14.19,0.274
+476,Ratchthani Leasing Public Company Limited,THANI-R.BK,-7.03,0.131
+477,Vibhavadi Medical Center Public Company Limited,VIBHA.BK,-11.39,0.215
+478,Thai Plaspac Public Company Limited,TPAC.BK,-14.98,0.288
+479,Bangkok Life Assurance Public Company Limited,BLA.BK,-19.43,0.377
+480,DV8 Public Company Limited,DV8.BK,-24.32,0.484
+481,Polyplex (Thailand) Public Company Limited,PTL.BK,-18.81,0.36
+482,Raja Ferry Port Public Company Limited,RP.BK,-24.27,0.479
+483,Fancy Wood Industries Public Company Limited,FANCY.BK,-20.5,0.394
+484,Trinity Watthana Public Company Limited,TNITY.BK,-26.52,0.524
+485,Asian Insulators Public Company Limited,AI-R.BK,-12.64,0.232
+486,Mitsib Leasing Public Company Limited,MITSIB.BK,-13.58,0.249
+487,Chukai Public Company Limited,CRANE.BK,-21.53,0.413
+488,Thai Ha Public Company Limited,KASET.BK,-24.8,0.482
+489,Beyond Securities Public Company Limited,BYD-R.BK,-0.71,0.012
+490,Sikarin Public Company Limited,SKR.BK,-14.72,0.269
+491,Ingress Industrial (Thailand) Public Company Limited,INGRS.BK,-21.3,0.403
+492,Berli Jucker Public Company Limited,BJC.BK,-10.1,0.18
+493,Ratchthani Leasing Public Company Limited,THANI.BK,-18.18,0.338
+494,"Baidu, Inc.",BIDU80.BK,-18.11,0.335
+495,Royal Orchid Hotel (Thailand) Public Company Limited,ROH.BK,-12.24,0.218
+496,SP50001_DR SP500#BLS,SP50001.BK,-8.59,0.15
+497,Chow Steel Industries Public Company Limited,CHOW.BK,-28.1,0.542
+498,LDC Dental Public Company Limited,LDC.BK,-26.16,0.497
+499,Sea Oil Public Company Limited,SEAOIL.BK,-10.62,0.185
+500,WINDOW_WINDOW ASIA,WINDOW.BK,-18.71,0.338
+501,Window Asia Public Company Limited,WINDOW-R.BK,-18.71,0.338
+502,Tata Steel (Thailand) Public Company Limited,TSTH.BK,-19.42,0.351
+503,Dynasty Ceramic Public Company Limited,DCC.BK,-16.3,0.29
+504,"Honda Motor Co., Ltd.",HONDA19.BK,-15.13,0.266
+505,Electricity Generating Public Company Limited,EGCO.BK,-12.28,0.211
+506,Thai Agro Energy Public Company Limited,TAE.BK,-24.26,0.443
+507,Asia Biomass Public Company Limited,ABM-R.BK,-25.07,0.456
+508,Green Resources Public Company Limited,GREEN-R.BK,-15.74,0.271
+509,SUPER ENERGY POWER PLANT INFRASTRUCTURE,SUPEREIF.BK,-11.18,0.187
+510,MFEC Public Company Limited,MFEC.BK,-10.19,0.17
+511,Thoresen Thai Agencies Public Company Limited,TTA.BK,-19.74,0.344
+512,Precious Shipping Public Company Limited,PSL.BK,-22.21,0.393
+513,GMM Grammy Public Company Limited,GRAMMY.BK,-19.72,0.343
+514,Project Planning Service Public Company Limited,PPS.BK,-26.44,0.476
+515,SMD Rise Public Company Limited,SMD100-R.BK,-14.82,0.25
+516,Teka Construction Public Company Limited,TEKA-R.BK,-16.62,0.282
+517,Teka Construction Public Company Limited,TEKA.BK,-16.62,0.282
+518,AIRA Factoring Public Company Limited,AF.BK,-26.19,0.467
+519,FM_FOOD MOMENTS,FM.BK,-15.48,0.26
+520,Food Moments Public Company Limited,FM-R.BK,-15.48,0.26
+521,Charan Insurance Public Company Limited,CHARAN.BK,-10.07,0.164
+522,Inoue Rubber (Thailand) Public Company Limited,IRC-R.BK,-3.39,0.053
+523,Master Style Public Company Limited,MASTER.BK,-27.9,0.5
+524,Sirisoft Public Company Limited,SRS.BK,-32.44,0.597
+525,Sirisoft Public Company Limited,SRS-R.BK,-32.44,0.597
+526,Sonic Interfreight Public Company Limited,SONIC.BK,-18.81,0.319
+527,C.I. Group Public Company Limited,CIG.BK,-41.91,0.815
+528,Quality Houses Leasehold Prpty Ord,QHBREIT.BK,-17.45,0.291
+529,Earth Tech Environment Public Company Limited,ETC.BK,-23.58,0.405
+530,Global Green Chemicals Public Company Limited,GGC.BK,-22.44,0.383
+531,Sermsang Power Corporation Public Company Limited,SSP.BK,-14.95,0.245
+532,Bioscience Animal Health Public Company Limited,BIS.BK,-27.79,0.486
+533,Bioscience Animal Health Public Company Limited,BIS-R.BK,-27.79,0.486
+534,Beryl 8 Plus Public Company Limited,BE8.BK,-27.22,0.474
+535,D.T.C. Enterprise Public Company Limited,DTCENT.BK,-21.58,0.363
+536,Knight Club Capital Holding Public Company Limited,KCC.BK,-29.13,0.511
+537,Knight Club Capital Holding Public Company Limited,KCC-R.BK,-29.13,0.511
+538,President Automobile Industries Public Company Limited,PACO.BK,-15.76,0.256
+539,STC Concrete Product Public Company Limited,STC.BK,-12.21,0.194
+540,S Hotels and Resorts Public Company Limited,SHR.BK,-19.56,0.321
+541,Thai Credit Bank Public Company Limited,CREDIT.BK,-23.93,0.402
+542,AIM Commercial Growth Freehold And Leasehold Real Estate Investment Trust,AIMCG.BK,-14.57,0.232
+543,Asian Insulators Public Company Limited,AI.BK,-14.2,0.225
+544,Plus Tech Innovation Public Company Limited,PTECH-R.BK,-14.49,0.229
+545,Turnkey Communication Services Public Company Limited,TKC-R.BK,-30.29,0.519
+546,Bound and Beyond Public Company Limited,BEYOND.BK,-16.38,0.258
+547,Asefa Public Company Limited,ASEFA.BK,-8.16,0.123
+548,Rabbit Holdings Public Company Limited,RABBIT.BK,-34.34,0.591
+549,Dynasty Ceramic Public Company Limited,DCC-R.BK,-9.29,0.139
+550,News Network Corporation Public Company Limited,NEWS-R.BK,-29.57,0.491
+551,PTG Energy Public Company Limited,PTG.BK,-16.78,0.259
+552,Readyplanet Public Company Limited,READY.BK,-28.5,0.468
+553,Super Energy Corporation Public Company Limited,SUPER-R.BK,-14.79,0.225
+554,Home Product Center Public Company Limited,HMPRO.BK,-13.39,0.202
+555,Venture Corporation Limited,VENTURE19.BK,-8.55,0.125
+556,Sahamitr Pressure Container Public Company Limited,SMPC-R.BK,-9.88,0.145
+557,VGI Public Company Limited,VGI-R.BK,-14.42,0.216
+558,Banpu Public Company Limited,BANPU.BK,-22.08,0.343
+559,Thai Nam Plastic Public Company Limited,TNPC.BK,-30.4,0.496
+560,Thanasiri Group Public Company Limited,THANA.BK,-25.07,0.395
+561,CPanel Public Company Limited,CPANEL.BK,-23.57,0.366
+562,T.K.S. Technologies Public Company Limited,TKS.BK,-18.42,0.278
+563,Pylon Public Company Limited,PYLON-R.BK,-18.21,0.274
+564,BBGI Public Company Limited,BBGI-R.BK,-23.56,0.361
+565,BBGI Public Company Limited,BBGI.BK,-23.56,0.361
+566,Saha Pathanapibul Public Company Limited,SPC-R.BK,-3.35,0.046
+567,Asset World Corp Public Company Limited,AWC.BK,-17.52,0.259
+568,Salee Printing Public Company Limited,SLP.BK,-19.85,0.297
+569,Mega Lifesciences Public Company Limited,MEGA-R.BK,-10.25,0.146
+570,Well Graded Engineering Public Company Limited,WGE.BK,-20.58,0.308
+571,Qualitech Public Company Limited,QLT-R.BK,-24.97,0.383
+572,TQR Public Company Limited,TQR-R.BK,-21.56,0.324
+573,TOA Paint (Thailand) Public Company Limited,TOA.BK,-21.83,0.328
+574,Siamraj Public Company Limited,SR.BK,-24.32,0.37
+575,NAT_NAT ABSOLUTE TECHNOLOGIES,NAT.BK,-27.07,0.415
+576,Glory Forever Public Company Limited,GLORY.BK,-32.2,0.509
+577,CL Venture Public Company Limited,KOOL.BK,-23.06,0.342
+578,Thai-German Products Public Company Limited,TGPRO.BK,-32.13,0.503
+579,Srisawad Capital 1969 Public Company Limited,SCAP.BK,-33.08,0.514
+580,Hwa Fong Rubber (Thailand) Public Company Limited,HFT.BK,-15.09,0.211
+581,Index International Group Public Company Limited,IND-R.BK,-22.71,0.331
+582,BG Container Glass Public Company Limited,BGC.BK,-13.28,0.184
+583,SCI Electric Public Company Limited,SCI.BK,-25.04,0.368
+584,Hwa Fong Rubber (Thailand) Public Company Limited,HFT-R.BK,-12.96,0.178
+585,Information and Communication Networks Public Company Limited,ICN.BK,-18.32,0.259
+586,Forth Corporation Public Company Limited,FORTH.BK,-36.33,0.571
+587,LH Financial Group Public Company Limited,LHFG.BK,-14.33,0.198
+588,Capital Engineering Network Public Company Limited,CEN.BK,-16.09,0.223
+589,UAC Global Public Company Limited,UAC.BK,-15.39,0.212
+590,Inter Pharma Public Company Limited,IP.BK,-34.88,0.535
+591,Sahakol Equipment Public Company Limited,SQ.BK,-20.9,0.293
+592,Thai Enger Holding Public Company Limited,TIGER-R.BK,-16.46,0.225
+593,IRPC Public Company Limited,IRPC-R.BK,-10.02,0.133
+594,Arrow Syndicate Public Company Limited,ARROW.BK,-9.39,0.123
+595,Jakpaisan Estate Public Company Limited,JAK-R.BK,-4.26,0.054
+596,Communication & System Solution Public Company Limited,CSS.BK,-22.54,0.316
+597,K.W. Metal Work Public Company Limited,KWM.BK,-24.25,0.343
+598,President Automobile Industries Public Company Limited,PACO-R.BK,-16.64,0.225
+599,MEDEZE_MEDEZE GROUP,MEDEZE.BK,-29.32,0.425
+600,Modernform Group Public Company Limited,MODERN.BK,-13.29,0.175
+601,Global Power Synergy Public Company Limited,GPSC.BK,-22.07,0.305
+602,Pioneer Motor Public Company Limited,PIMO.BK,-22.85,0.309
+603,Asian Sea Corporation Public Company Limited,ASIAN-R.BK,-16.85,0.22
+604,Better World Green Public Company Limited,BWG.BK,-31.94,0.454
+605,Noble Development Public Company Limited,NOBLE.BK,-17.93,0.235
+606,PTT Global Chemical Public Company Limited,PTTGC.BK,-24.68,0.335
+607,PSG Corporation Public Company Limited,PSG.BK,-34.95,0.503
+608,Sherwood Corporation (Thailand) Public Company Limited,SWC.BK,-20.91,0.276
+609,Copperwired Public Company Limited,CPW.BK,-20.95,0.276
+610,United Paper Public Company Limited,UTP.BK,-16.21,0.208
+611,NEO_NEO CORPORATE,NEO.BK,-31.27,0.435
+612,Stars Microelectronics (Thailand) Public Company Limited,SMT.BK,-33.74,0.475
+613,Bank of Ayudhya Public Company Limited,BAY.BK,-9.94,0.122
+614,Sky Tower Public Company Limited,STOWER.BK,-45.96,0.699
+615,Bangkok Genomics Innovation Public Company Limited,BKGI.BK,-35.66,0.504
+616,The Platinum Group Public Company Limited,PLAT.BK,-20.35,0.262
+617,Trinity Watthana Public Company Limited,TNITY-R.BK,-29.37,0.398
+618,Thai Future Incorporation Public Company Limited,TFI-R.BK,-19.68,0.251
+619,Sena Development Public Company Limited,SENA-R.BK,-15.68,0.195
+620,B.Grimm Power Public Company Limited,BGRIM.BK,-27.01,0.358
+621,PTT Oil and Retail Business Public Company Limited,OR.BK,-18.53,0.233
+622,Shrinkflex (Thailand) Public Company Limited,SFT.BK,-21.13,0.268
+623,TQM Alpha Public Company Limited,TQM.BK,-26.53,0.346
+624,United Paper Public Company Limited,UTP-R.BK,-15.4,0.188
+625,Peace & Living Public Company Limited,PEACE-R.BK,-16.69,0.205
+626,Ditto (Thailand) Public Company Limited,DITTO.BK,-37.89,0.526
+627,NCL International Logistics Public Company Limited,NCL.BK,-49.46,0.744
+628,Thaire Life Assurance Public Company Limited,THREL.BK,-30.7,0.405
+629,Bangkok Commercial Asset Management Public Company Limited,BAM.BK,-27.0,0.348
+630,Pluk Phak Praw Rak Mae Public Company Limited,OKJ.BK,-54.69,0.859
+631,Beauty Community Public Company Limited,BEAUTY.BK,-37.96,0.525
+632,POSCO-Thainox Public Company Limited,INOX-R.BK,-14.89,0.179
+633,Unique Mining Services Public Company Limited,UMS.BK,-40.58,0.569
+634,Mida Leasing Public Company Limited,ML.BK,-30.33,0.396
+635,Major Cineplex Group Public Company Limited,MAJOR.BK,-17.31,0.209
+636,Salee Colour Public Company Limited,COLOR.BK,-16.18,0.192
+637,I&I Group Public Company Limited,IIG-R.BK,-40.78,0.562
+638,Megachem (Thailand) Public Company Limited,MGT.BK,-22.18,0.272
+639,Toyota Motor Corporation,TOYOTA80.BK,-20.39,0.247
+640,POSCO-Thainox Public Company Limited,INOX.BK,-24.15,0.299
+641,Lalin Property Public Company Limited,LALIN.BK,-11.3,0.13
+642,Unique Engineering and Construction Public Company Limited,UNIQ-R.BK,-19.16,0.23
+643,Peace & Living Public Company Limited,PEACE.BK,-16.97,0.199
+644,Index International Group Public Company Limited,IND.BK,-24.25,0.296
+645,WIIK Public Company Limited,WIIK.BK,-20.03,0.238
+646,Ananda Development Public Company Limited,ANAN.BK,-24.95,0.305
+647,JMT Network Services Public Company Limited,JMT.BK,-38.67,0.511
+648,Nex Point Public Company Limited,NEX.BK,-52.94,0.778
+649,Nation Group (Thailand) Public Company Limited,NATION.BK,-39.95,0.532
+650,Gunkul Engineering Public Company Limited,GUNKUL.BK,-29.47,0.366
+651,Salee Industry Public Company Limited,SALEE.BK,-26.02,0.315
+652,Preecha Group Public Company Limited,PRECHA-R.BK,-35.09,0.45
+653,Siamgas and Petrochemicals Public Company Limited,SGP.BK,-13.69,0.155
+654,SPCG Public Company Limited,SPCG.BK,-16.02,0.182
+655,International Network System Public Company Limited,ITNS-R.BK,-28.08,0.341
+656,International Network System Public Company Limited,ITNS.BK,-28.08,0.341
+657,Premier Tank Corporation Public Company Limited,PTC.BK,-31.96,0.396
+658,Do Day Dream Public Company Limited,DDD.BK,-23.86,0.281
+659,BJC Heavy Industries Public Company Limited,BJCHI.BK,-24.14,0.285
+660,ASN Broker Public Company Limited,ASN.BK,-32.38,0.401
+661,Eastern Star Real Estate Public Company Limited,ESTAR.BK,-22.59,0.261
+662,TCM Corporation Public Company Limited,TCMC.BK,-30.46,0.369
+663,Well Graded Engineering Public Company Limited,WGE-R.BK,-22.76,0.263
+664,General Engineering Public Company Limited,GEL.BK,-38.56,0.49
+665,Pilatus Marine Public Company Limited,PLT-R.BK,-22.76,0.262
+666,Mud & Hound Public Company Limited,MUD.BK,-18.87,0.212
+667,Ladprao General Hospital Public Company Limited,LPH.BK,-9.33,0.099
+668,Millennium Group Corporation (Asia) Public Company Limited,MGC.BK,-35.66,0.44
+669,N.C. Housing Public Company Limited,NCH.BK,-24.1,0.277
+670,TSR Living Solution Public Company Limited,TSR.BK,-54.02,0.76
+671,TSR Living Solution Public Company Limited,TSR-R.BK,-54.02,0.76
+672,R&B Food Supply Public Company Limited,RBF.BK,-31.95,0.382
+673,Sirakorn Public Company Limited,SK-R.BK,-17.03,0.186
+674,Osotspa Public Company Limited,OSP.BK,-22.24,0.25
+675,Charn Issara Development Public Company Limited,CI.BK,-29.35,0.342
+676,Villa Kunalai Public Company Limited,KUN.BK,-18.14,0.197
+677,S P V I Public Company Limited,SPVI.BK,-34.1,0.407
+678,MK Restaurant Group Public Company Limited,M.BK,-25.2,0.285
+679,Asset World Corp Public Company Limited,AWC-R.BK,-21.42,0.237
+680,TPCS Public Company Limited,TPCS.BK,-14.92,0.159
+681,TQR Public Company Limited,TQR.BK,-22.43,0.248
+682,Unique Engineering and Construction Public Company Limited,UNIQ.BK,-27.05,0.307
+683,Salee Printing Public Company Limited,SLP-R.BK,-22.86,0.253
+684,BlueVenture Group Public Company Limited,BVG-R.BK,-38.71,0.472
+685,BlueVenture Group Public Company Limited,BVG.BK,-38.71,0.472
+686,Heng Leasing and Capital Public Company Limited,HENG.BK,-30.84,0.357
+687,Bio Green Energy Tech Public Company Limited,BIOTEC.BK,-42.28,0.528
+688,C.I. Group Public Company Limited,CIG-R.BK,-46.45,0.593
+689,Energy Absolute Public Company Limited,EA.BK,-58.55,0.825
+690,Sky Tower Public Company Limited,STOWER-R.BK,-48.39,0.624
+691,The Siam Cement Public Company Limited,SCC.BK,-22.01,0.238
+692,Pylon Public Company Limited,PYLON.BK,-20.96,0.225
+693,Chamni's Eye Public Company Limited,CEYE.BK,-20.28,0.216
+694,Thai Poly Acrylic Public Company Limited,TPA.BK,-22.35,0.24
+695,Chuwit Farm (2019) Public Company Limited,CFARM-R.BK,-42.95,0.524
+696,Chuwit Farm (2019) Public Company Limited,CFARM.BK,-42.95,0.524
+697,Kaset Thai International Sugar Corporation Public Company Limited,KTIS.BK,-19.52,0.205
+698,TBN Corporation Public Company Limited,TBN.BK,-40.68,0.488
+699,Millennium Group Corporation (Asia) Public Company Limited,MGC-R.BK,-38.68,0.456
+700,Univentures Public Company Limited,UV.BK,-25.22,0.273
+701,Meta Corporation Public Company Limited,META.BK,-40.28,0.479
+702,Khon Kaen Sugar Industry Public Company Limited,KSL.BK,-25.36,0.274
+703,Land and Houses Public Company Limited,LH.BK,-17.94,0.185
+704,Euro Creations Public Company Limited,EURO-R.BK,-30.95,0.342
+705,EURO_EURO CREATIONS,EURO.BK,-30.95,0.342
+706,Thai Wire Products Public Company Limited,TWP.BK,-28.23,0.307
+707,Thai Capital Corporation Public Company Limited,TCC.BK,-30.9,0.341
+708,Thailand Hospitality Property Fund,TLHPF.BK,-20.82,0.215
+709,Thai Reinsurance Public Company Limited,THRE.BK,-25.95,0.276
+710,Winnergy Medical Public Company Limited,WINMED-R.BK,-14.23,0.141
+711,Amarin Corporations Public Company Limited,AMARIN.BK,-22.77,0.237
+712,CK Power Public Company Limited,CKP.BK,-20.4,0.209
+713,Jubilee Enterprise Public Company Limited,JUBILE.BK,-25.92,0.273
+714,Thai Plastic Industrial (1994) Public Company Limited,TPLAS.BK,-30.34,0.327
+715,Aqua Corporation Public Company Limited,AQUA.BK,-25.83,0.271
+716,Union Pioneer Public Company Limited,UPF.BK,-18.47,0.186
+717,Siam Steel International Public Company Limited,SIAM.BK,-23.36,0.241
+718,B-52 Capital Public Company Limited,B52.BK,-48.21,0.586
+719,Thai Beverage Public Company Limited,THAIBEV19.BK,-13.69,0.133
+720,SAFE_SAFE FERTILITY GROUP,SAFE-R.BK,-32.71,0.354
+721,Safe Fertility Group Public Company Limited,SAFE.BK,-32.71,0.354
+722,Eastern Polymer Group Public Company Limited,EPG.BK,-29.5,0.312
+723,Chewathai Public Company Limited,CHEWA.BK,-29.92,0.316
+724,Dimet (Siam) Public Company Limited,DIMET.BK,-37.65,0.417
+725,Solartron Public Company Limited,SOLAR.BK,-41.5,0.472
+726,Super Turtle Public Company Limited,TURTLE-R.BK,-29.35,0.308
+727,Super Turtle Public Company Limited,TURTLE.BK,-29.35,0.308
+728,B-52 Capital Public Company Limited,B52-R.BK,-41.47,0.47
+729,Samchai Steel Industries Public Company Limited,SAM-R.BK,-35.09,0.38
+730,Multibax Public Company Limited,MBAX.BK,-26.63,0.273
+731,Singha Estate Public Company Limited,S.BK,-29.01,0.301
+732,Ferrari N.V.,FERRARI80.BK,-20.62,0.204
+733,Asphere Innovations Public Company Limited,AS.BK,-43.89,0.5
+734,Loxley Public Company Limited,LOXLEY.BK,-18.4,0.178
+735,L.P.N. Development Public Company Limited,LPN.BK,-20.46,0.2
+736,Pacific Pipe Public Company Limited,PAP.BK,-28.19,0.288
+737,Sena Development Public Company Limited,SENA.BK,-17.87,0.172
+738,Business Online Public Company Limited,BOL.BK,-22.24,0.218
+739,The Navakij Insurance Public Company Limited,NKI.BK,-18.28,0.175
+740,TBN Corporation Public Company Limited,TBN-R.BK,-44.99,0.51
+741,Sun Vending Technology Public Company Limited,SVT.BK,-30.37,0.311
+742,BEC World Public Company Limited,BEC.BK,-33.22,0.347
+743,Jaymart Group Holdings Public Company Limited,JMART.BK,-42.03,0.465
+744,A.J. Plast Public Company Limited,AJ-R.BK,-38.94,0.419
+745,Ubis (Asia) Public Company Limited,UBIS.BK,-36.05,0.379
+746,Thai Solar Energy Public Company Limited,TSE.BK,-40.13,0.433
+747,Ratch Pathana Energy Public Company Limited,SCG.BK,-18.36,0.173
+748,Thai Future Incorporation Public Company Limited,TFI.BK,-33.81,0.349
+749,Sun Vending Technology Public Company Limited,SVT-R.BK,-29.62,0.297
+750,SiamEast Solutions Public Company Limited,SE.BK,-28.25,0.281
+751,JAS Asset Public Company Limited,J.BK,-37.84,0.4
+752,Leo Global Logistics Public Company Limited,LEO-R.BK,-37.11,0.39
+753,Big Camera Corporation Public Company Limited,BIG-R.BK,-23.74,0.229
+754,Polyplex (Thailand) Public Company Limited,PTL-R.BK,-21.53,0.205
+755,Chonburi Concrete Product Public Company Limited,CCP.BK,-24.48,0.236
+756,Lease IT Public Company Limited,LIT.BK,-40.46,0.431
+757,Chayo Group Public Company Limited,CHAYO.BK,-39.44,0.417
+758,Millcon Steel Public Company Limited,MILL-R.BK,-45.03,0.495
+759,Precious Shipping Public Company Limited,PSL-R.BK,-24.63,0.237
+760,BT Wealth Industries Public Company Limited,BTW.BK,-36.33,0.372
+761,Amata VN Public Company Limited,AMATAV.BK,-21.29,0.199
+762,Singha Estate Public Company Limited,S-R.BK,-27.61,0.268
+763,Thai Rubber Latex Group Public Company Limited,TRUBB-R.BK,-31.98,0.319
+764,Chic Republic Public Company Limited,CHIC-R.BK,-28.99,0.283
+765,Chic Republic Public Company Limited,CHIC.BK,-28.99,0.283
+766,Copperwired Public Company Limited,CPW-R.BK,-23.05,0.217
+767,MFC Industrial Real Estate Investment Trust,MIT.BK,-43.48,0.465
+768,Delta Paint Public Company Limited,DPAINT.BK,-47.39,0.519
+769,Sahathai Terminal Public Company Limited,PORT-R.BK,-22.88,0.213
+770,Britania Public Company Limited,BRI.BK,-37.62,0.383
+771,Sriracha Construction Public Company Limited,SRICHA-R.BK,-25.49,0.239
+772,Big Camera Corporation Public Company Limited,BIG.BK,-24.2,0.224
+773,All Energy & Utilities Public Company Limited,AE.BK,-51.81,0.579
+774,Asia Green Energy Public Company Limited,AGE.BK,-31.89,0.308
+775,I&I Group Public Company Limited,IIG.BK,-50.64,0.558
+776,Prime Road Power Public Company Limited,PRIME.BK,-55.4,0.631
+777,Aqua Corporation Public Company Limited,AQUA-R.BK,-26.37,0.244
+778,Grande Asset Hotels and Property Public Company Limited,GRAND.BK,-39.43,0.395
+779,M.K. Real Estate Development Public Company Limited,MK.BK,-20.77,0.186
+780,EMC Public Company Limited,EMC-R.BK,-32.39,0.309
+781,Beauty Community Public Company Limited,BEAUTY-R.BK,-39.78,0.398
+782,G Capital Public Company Limited,GCAP.BK,-44.85,0.462
+783,Power Solution Technologies Public Company Limited,PSTC-R.BK,-23.69,0.213
+784,Triple i Logistics Public Company Limited,III.BK,-27.38,0.251
+785,Triton Holding Public Company Limited,TRITN.BK,-27.07,0.248
+786,JAS Asset Public Company Limited,J-R.BK,-19.57,0.171
+787,Eastern Technical Engineering Public Company Limited,ETE-R.BK,-21.14,0.187
+788,SNC Former Public Company Limited,SNC.BK,-29.03,0.268
+789,Genesis Fertility Center Public Company Limited,GFC.BK,-32.33,0.304
+790,Genesis Fertility Center Public Company Limited,GFC-R.BK,-32.35,0.304
+791,Raimon Land Public Company Limited,RML.BK,-40.63,0.403
+792,The ONE Enterprise Public Company Limited,ONEE.BK,-34.87,0.332
+793,BPS_BPS TECHNOLOGY,BPS.BK,-42.33,0.423
+794,Pre-Built Public Company Limited,PREB.BK,-19.56,0.169
+795,Electricity Generating Public Company Limited,EGCO-R.BK,-16.82,0.143
+796,Power Solution Technologies Public Company Limited,PSTC.BK,-36.23,0.346
+797,SCG Packaging Public Company Limited,SCGP.BK,-34.31,0.321
+798,FN Factory Outlet Public Company Limited,FN.BK,-40.92,0.398
+799,Interhides Public Company Limited,IHL.BK,-23.83,0.208
+800,Asia Medical and Agricultural Laboratory and Research Center Public Company Limited,AMARC-R.BK,-28.07,0.251
+801,CMO Public Company Limited,CMO-R.BK,-49.53,0.51
+802,Gunkul Engineering Public Company Limited,GUNKUL-R.BK,-25.16,0.219
+803,Beyond Securities Public Company Limited,BYD.BK,-60.77,0.687
+804,Siam Technic Concrete Public Company Limited,STECH.BK,-23.63,0.203
+805,Healthlead Public Company Limited,HL.BK,-34.33,0.315
+806,RPCG Public Company Limited,RPC-R.BK,-27.82,0.245
+807,X Bioscience Public Company Limited,XBIO.BK,-58.31,0.641
+808,Chiangmai Rimdoi Public Company Limited,CRD.BK,-33.08,0.3
+809,Healthlead Public Company Limited,HL-R.BK,-35.33,0.324
+810,The Thai Setakij Insurance Public Company Limited,TSI.BK,-45.48,0.448
+811,Power Line Engineering Public Company Limited,PLE.BK,-33.45,0.302
+812,Absolute Clean Energy Public Company Limited,ACE-R.BK,-24.04,0.205
+813,TQM Alpha Public Company Limited,TQM-R.BK,-27.48,0.239
+814,Chaoprayamahanakorn Public Company Limited,CMC.BK,-16.68,0.136
+815,Begistics Public Company Limited,B.BK,-51.38,0.527
+816,BT Wealth Industries Public Company Limited,BTW-R.BK,-37.97,0.352
+817,Nawarat Patanakarn Public Company Limited,NWR.BK,-45.33,0.441
+818,Sakol Energy Public Company Limited,SKE-R.BK,-32.42,0.288
+819,Bangkok Land Public Company Limited,BLAND.BK,-23.07,0.193
+820,Thai Mui Corporation Public Company Limited,THMUI.BK,-32.57,0.288
+821,Chow Steel Industries Public Company Limited,CHOW-R.BK,-33.56,0.299
+822,Asia Medical and Agricultural Laboratory and Research Center Public Company Limited,AMARC.BK,-28.9,0.25
+823,Origin Property Public Company Limited,ORI.BK,-36.96,0.333
+824,Thai Parcels Public Company Limited,TPL.BK,-51.57,0.516
+825,Thai Parcels Public Company Limited,TPL-R.BK,-51.57,0.516
+826,Chiang Mai Ram Medical Business Public Company Limited,CMR.BK,-19.16,0.154
+827,NR Instant Produce Public Company Limited,NRF.BK,-51.74,0.517
+828,Vintcom Technology Public Company Limited,VCOM.BK,-23.05,0.189
+829,The ONE Enterprise Public Company Limited,ONEE-R.BK,-34.6,0.304
+830,Thai Rayon Public Company Limited,TR.BK,-11.44,0.088
+831,Bangkok Aviation Fuel Services Public Company Limited,BAFS.BK,-32.84,0.282
+832,G J Steel Public Company Limited,GJS.BK,-34.18,0.295
+833,Ratch Pathana Energy Public Company Limited,SCG-R.BK,-16.1,0.125
+834,Thai-German Products Public Company Limited,TGPRO-R.BK,-36.97,0.324
+835,I2 Enterprise Public Company Limited,I2.BK,-38.64,0.339
+836,IRPC Public Company Limited,IRPC.BK,-33.2,0.279
+837,Property Perfect Public Company Limited,PF.BK,-35.68,0.304
+838,Grand Canal Land Public Company Limited,GLAND.BK,-21.28,0.166
+839,CP Axtra Public Company Limited,CPAXT.BK,-43.6,0.392
+840,Tanachira Retail Corporation Public Company Limited,TAN-R.BK,-49.78,0.467
+841,Tanachira Retail Corporation Public Company Limited,TAN.BK,-49.78,0.467
+842,Intermedical Care and Lab Hospital Public Company Limited,IMH.BK,-37.48,0.32
+843,JMT Network Services Public Company Limited,JMT-R.BK,-23.01,0.18
+844,Amanah Leasing Public Company Limited,AMANAH.BK,-40.91,0.358
+845,Thai Mui Corporation Public Company Limited,THMUI-R.BK,-29.97,0.244
+846,Amata VN Public Company Limited,AMATAV-R.BK,-16.74,0.126
+847,SGF Capital Public Company Limited,SGF-R.BK,-20.29,0.155
+848,Advanced Connection Corporation Public Company Limited,ACC-R.BK,-34.92,0.29
+849,Ramkhamhaeng Hospital Public Company Limited,RAM.BK,-27.59,0.218
+850,Major Development Public Company Limited,MJD.BK,-28.32,0.224
+851,AMR Asia Public Company Limited,AMR.BK,-48.67,0.442
+852,Dhipaya Group Holdings Public Company Limited,TIPH.BK,-29.62,0.235
+853,Yggdrazil Group Public Company Limited,YGG.BK,-58.14,0.571
+854,Eastern Water Resources Development and Management Public Company Limited,EASTW.BK,-31.88,0.256
+855,Patkol Public Company Limited,PK.BK,-43.41,0.372
+856,Thai Enger Holding Public Company Limited,TIGER.BK,-41.33,0.348
+857,K.C. Metalsheet Public Company Limited,KCM.BK,-37.64,0.308
+858,AMR Asia Public Company Limited,AMR-R.BK,-47.79,0.419
+859,TMT Steel Public Company Limited,TMT.BK,-29.65,0.229
+860,Thonburi Healthcare Group Public Company Limited,THG.BK,-42.65,0.356
+861,Sakol Energy Public Company Limited,SKE.BK,-38.11,0.303
+862,Pioneer Motor Public Company Limited,PIMO-R.BK,-27.36,0.203
+863,Winnergy Medical Public Company Limited,WINMED.BK,-36.02,0.281
+864,Union Petrochemical Public Company Limited,UKEM.BK,-36.86,0.288
+865,Italian-Thai Development Public Company Limited,ITD.BK,-50.2,0.433
+866,Ubon Bio Ethanol Public Company Limited,UBE-R.BK,-32.68,0.248
+867,Begistics Public Company Limited,B-R.BK,-54.5,0.485
+868,Leo Global Logistics Public Company Limited,LEO.BK,-41.57,0.332
+869,Right Tunnelling Public Company Limited,RT-R.BK,-42.94,0.345
+870,J.R.W. Utility Public Company Limited,JR.BK,-37.5,0.287
+871,Chai Watana Tannery Group Public Company Limited,CWT.BK,-43.98,0.349
+872,KGI Securities (Thailand) Public Company Limited,TAIWANHD13.BK,-20.64,0.141
+873,Micro Leasing Public Company Limited,MICRO.BK,-48.31,0.395
+874,Sammakorn Public Company Limited,SAMCO.BK,-22.6,0.156
+875,BlackRock (Singapore) Ltd,INDIAESG19.BK,-20.69,0.141
+876,Vanachai Group Public Company Limited,VNG.BK,-31.11,0.224
+877,Scan Inter Public Company Limited,SCN.BK,-42.22,0.322
+878,Techno Medical Public Company Limited,TM.BK,-39.96,0.298
+879,Power Line Engineering Public Company Limited,PLE-R.BK,-12.72,0.08
+880,Ubon Bio Ethanol Public Company Limited,UBE.BK,-34.82,0.248
+881,Ubis (Asia) Public Company Limited,UBIS-R.BK,-39.22,0.287
+882,KEX Express (Thailand) Public Company Limited,KEX-R.BK,-58.6,0.5
+883,East Coast Furnitech Public Company Limited,ECF.BK,-50.57,0.402
+884,Thitikorn Public Company Limited,TK.BK,-26.73,0.18
+885,World Flex Public Company Limited,WFX-R.BK,-47.02,0.361
+886,World Flex Public Company Limited,WFX.BK,-47.02,0.361
+887,K&K Superstore Southern Public Company Limited,KK.BK,-32.87,0.225
+888,K&K Superstore Southern Public Company Limited,KK-R.BK,-55.38,0.448
+889,Asia Precision Public Company Limited,APCS.BK,-35.39,0.244
+890,Union Petrochemical Public Company Limited,UKEM-R.BK,-36.88,0.257
+891,Everland Public Company Limited,EVER.BK,-41.77,0.298
+892,Workpoint Entertainment Public Company Limited,WORK.BK,-42.79,0.303
+893,KPN Property Fund,KPNREIT.BK,-27.11,0.172
+894,Asia Sermkij Leasing Public Company Limited,ASK.BK,-41.25,0.286
+895,SCGD_SCG DECOR,SCGD-R.BK,-45.12,0.322
+896,SCGD_SCG DECOR,SCGD.BK,-45.12,0.322
+897,Super Energy Corporation Public Company Limited,SUPER.BK,-39.41,0.268
+898,Plus Tech Innovation Public Company Limited,PTECH.BK,-62.73,0.518
+899,Bless Asset Group Public Company Limited,BLESS.BK,-45.9,0.326
+900,ALT Telecom Public Company Limited,ALT.BK,-30.46,0.193
+901,Eastern Power Group Public Company Limited,EP.BK,-33.85,0.218
+902,Thai Wah Public Company Limited,TWPC.BK,-26.61,0.162
+903,Millcon Steel Public Company Limited,MILL.BK,-53.09,0.383
+904,The Steel Public Company Limited,THE.BK,-32.01,0.196
+905,RPCG Public Company Limited,RPC.BK,-40.41,0.254
+906,Right Tunnelling Public Company Limited,RT.BK,-45.17,0.294
+907,TRP_AESTHETIC CONNECT,TRP.BK,-47.33,0.312
+908,Aesthetic Connect Public Company Limited,TRP-R.BK,-47.33,0.312
+909,Talaad Thai Leasehold Property Ord,TTLPF.BK,-17.29,0.092
+910,NL Development Public Company Limited,NL.BK,-49.42,0.321
+911,SMD Rise Public Company Limited,SMD100.BK,-30.64,0.174
+912,SGF Capital Public Company Limited,SGF.BK,-45.44,0.284
+913,Bless Asset Group Public Company Limited,BLESS-R.BK,-49.61,0.313
+914,A.J. Plast Public Company Limited,AJ.BK,-47.61,0.292
+915,Absolute Clean Energy Public Company Limited,ACE.BK,-24.92,0.127
+916,ANI_ASIA NETWORK INTERNATIONAL,ANI.BK,-42.77,0.242
+917,Asia Network International Public Company Limited,ANI-R.BK,-42.77,0.242
+918,KEX Express (Thailand) Public Company Limited,KEX.BK,-63.39,0.421
+919,KGI Securities (Thailand) Public Company Limited,TAIWANAI13.BK,-52.12,0.292
+920,Siripinyo Real Estate Investment Trust,SIRIPRT.BK,-39.99,0.204
+921,Charoong Thai Wire and Cable Public Company Limited,CTW.BK,-27.32,0.127
+922,SEN X Public Company Limited,SENX.BK,-54.9,0.301
+923,SEN X Public Company Limited,SENX-R.BK,-55.28,0.299
+924,Novo Nordisk A/S,NOVOB80.BK,-66.0,0.396
+925,Health Empire Corporation Public Company Limited,HEALTH.BK,-63.92,0.351
+926,Health Empire Corporation Public Company Limited,HEALTH-R.BK,-65.47,0.363
+927,IROYAL_INTERROYAL ENGINEERING,IROYAL.BK,-36.25,0.152
+928,Interroyal Engineering Public Company Limited,IROYAL-R.BK,-36.25,0.152
+929,FPT Corporation,FPTVN19.BK,-57.86,0.274
+930,Vietnam Dairy Products Joint Stock Company,VNM19.BK,-22.58,0.072
+931,TMAN_T.MAN PHARMACEUTICAL,TMAN-R.BK,-59.18,0.24
+932,TMAN_T.MAN PHARMACEUTICAL,TMAN.BK,-59.18,0.24
+933,Future City Leasehold Real Estate Investment Trust,FUTURERT.BK,-29.55,0.095
+934,Thai Auto Tools and Die Public Company Limited,TATG.BK,-56.17,0.156
+935,Thai Group Holdings Public Company Limited,TGH-R.BK,0.0,0.0
+936,WORLD03_DR WORLD#PI,WORLD03.BK,-62.42,
+937,XSpring Capital Public Company Limited,XPG-R.BK,0.0,0.0
+938,MOTHER_MOTHER MARKETING,MOTHER-R.BK,-66.43,
+939,MOTHER_MOTHER MARKETING,MOTHER.BK,-66.43,
+940,OIL03_DR OIL#PI,OIL03.BK,-18.98,
+941,PSG Corporation Public Company Limited,PSG-R.BK,0.0,0.0
+942,Eastern Commercial Leasing Public Company Limited,EAST-R.BK,33.53,
+943,Eastern Commercial Leasing Public Company Limited,EAST.BK,33.53,
+944,Group Lease Public Company Limited,GL-R.BK,0.0,0.0
+945,Group Lease Public Company Limited,GL.BK,0.0,0.0
+946,Pi Securities Public Company Limited,JAP03.BK,0.0,
+947,Asia Aviation Public Company Limited,AAV-R.BK,0.0,0.0
+948,Alpha Divisions Public Company Limited,ALPHAX-R.BK,0.0,0.0

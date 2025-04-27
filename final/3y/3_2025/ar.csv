@@ -1,0 +1,391 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,SKYWORKS SOLUTIONS INC CEDEAR E,SWKS.BA,87.04,0.005,,
+2,Unilever PLC,ULD.BA,26.14,0.005,,
+3,iShares Trust - iShares Core MSCI Europe ETF,IEUR.BA,151.86,0.028,,
+4,iShares Trust - iShares S&P 500 Value ETF,IVE.BA,64.39,0.021,,
+5,Banco Comafi S.A.,FXI.BA,191.85,0.156,,
+6,SPDR GOLD TRUST GDR EACH REPR 5,GLD.BA,214.68,0.221,,
+7,iShares Trust - iShares Biotechnology ETF,IBB.BA,20.39,0.037,,
+8,S&P Global Inc.,SPGID.BA,69.06,0.115,,
+9,PROSHARES TRUST GDR EACH REPR 8,SH.BA,95.99,0.244,,
+10,Banco Comafi S.A.,FXID.BA,71.42,0.198,,
+11,"Banco Bilbao Vizcaya Argentaria, S.A.",BBV.BA,187.98,0.421,0.429,Yes
+12,"Cardinal Health, Inc.",CAH.BA,167.87,0.397,0.502,Yes
+13,Garmin Ltd.,GRMN.BA,148.82,0.368,0.394,Yes
+14,Embraer S.A.,ERJ.BA,236.17,0.496,0.48,Yes
+15,"Banco Santander, S.A.",SAN.BA,167.52,0.399,0.286,Yes
+16,SAP SE,SAP.BA,184.48,0.436,0.487,Yes
+17,The Bank of New York Mellon Corporation,BK.BA,153.02,0.394,0.495,Yes
+18,iShares Trust - iShares Core MSCI Europe ETF,IEURD.BA,13.99,0.054,,
+19,MERVAL,^MERV,244.12,0.532,1.0,Yes
+20,"Gilead Sciences, Inc.",GILD.BA,150.12,0.396,0.192,Yes
+21,HSBC Holdings plc,HSBC.BA,148.73,0.396,0.323,Yes
+22,Pampa Energía S.A.,PAMP.BA,225.59,0.519,0.894,Yes
+23,"The Goldman Sachs Group, Inc.",GS.BA,144.92,0.393,0.467,Yes
+24,Transportadora de Gas del Sur S.A.,TGSU2.BA,249.75,0.558,0.937,Yes
+25,Barclays PLC,BCS.BA,158.45,0.419,0.448,Yes
+26,SELECT SECTOR SPDR TRUST CEDEAR,XLF.BA,125.33,0.357,0.479,Yes
+27,Wells Fargo & Company,WFC.BA,137.52,0.383,0.454,Yes
+28,"American International Group, Inc.",AIG.BA,128.97,0.376,0.368,Yes
+29,ICICI Bank Limited,IBN.BA,138.8,0.398,0.42,Yes
+30,Berkshire Hathaway Inc.,BRKB.BA,138.46,0.398,0.453,Yes
+31,Loma Negra Compañía Industrial Argentina Sociedad Anónima,LOMA.BA,167.33,0.455,0.724,Yes
+32,Sociedad Anónima Importadora y Exportadora de la Patagonia,PATA.BA,314.37,0.675,0.794,Yes
+33,"Mizuho Financial Group, Inc.",MFG.BA,173.8,0.471,0.522,Yes
+34,Compañía de Transporte de Energía Eléctrica en Alta Tensión Transener S.A.,TRAN.BA,330.84,0.697,1.08,Yes
+35,SPDR S&P 500 ETF Trust,SPY.BA,121.19,0.368,0.464,Yes
+36,SPDR Dow Jones Industrial Average ETF Trust,DIA.BA,115.75,0.357,0.425,Yes
+37,Sociedad Comercial del Plata S.A.,COME.BA,231.24,0.569,0.629,Yes
+38,Shell plc,SHEL.BA,122.79,0.376,0.343,Yes
+39,Abbott Laboratories,ABT.BA,109.66,0.347,0.343,Yes
+40,Lloyds Banking Group plc,LYG.BA,143.38,0.421,0.316,Yes
+41,"Uber Technologies, Inc.",UBER.BA,204.54,0.535,,
+42,ING Groep N.V.,ING.BA,165.53,0.468,0.503,Yes
+43,Unilever PLC,UL.BA,122.1,0.381,0.369,Yes
+44,NVIDIA Corporation,NVDA.BA,311.68,0.695,0.71,Yes
+45,"Invesco QQQ Trust, Series 1",QQQ.BA,131.42,0.405,0.488,Yes
+46,Snap-on Incorporated,SNA.BA,131.13,0.406,0.573,Yes
+47,"iShares, Inc. - iShares MSCI Emerging Markets ETF",EEM.BA,99.61,0.335,0.319,Yes
+48,Grimoldi S.A.,GRIM.BA,199.49,0.541,0.655,Yes
+49,"Gilead Sciences, Inc.",GILDD.BA,78.35,0.28,,
+50,IRSA Inversiones y Representaciones Sociedad Anónima,IRSA.BA,236.65,0.605,0.948,Yes
+51,Grupo Financiero Galicia S.A.,GGAL.BA,340.94,0.751,1.244,Yes
+52,Citigroup Inc.,C.BA,131.59,0.418,0.517,Yes
+53,Aegon Ltd.,AEG.BA,116.58,0.384,0.481,Yes
+54,"Altria Group, Inc.",MO.BA,103.64,0.353,0.412,Yes
+55,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,SBS.BA,156.62,0.474,0.488,Yes
+56,Transportadora de Gas del Norte S.A.,TGNO4.BA,331.11,0.756,1.047,Yes
+57,Colgate-Palmolive Company,CL.BA,116.75,0.39,0.325,Yes
+58,AT&T Inc.,T.BA,133.83,0.43,0.295,Yes
+59,Distribuidora de Gas Cuyana S.A.,DGCU2.BA,288.7,0.705,1.023,Yes
+60,Banco Macro S.A.,BMA.BA,341.5,0.778,1.243,Yes
+61,S&P Global Inc.,SPGI.BA,137.26,0.441,,
+62,The Coca-Cola Company,KO.BA,107.06,0.371,0.307,Yes
+63,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima,EDN.BA,309.04,0.745,1.188,Yes
+64,Novartis AG,NVS.BA,121.34,0.41,0.383,Yes
+65,The Select Sector SPDR Trust - The Energy Select Sector SPDR Fund,XLE.BA,117.62,0.402,0.405,Yes
+66,Oracle Corporation,ORCL.BA,160.54,0.501,0.553,Yes
+67,BP p.l.c.,BP.BA,112.36,0.391,0.349,Yes
+68,iShares Trust - iShares Russell 2000 ETF,IWM.BA,104.95,0.374,0.476,Yes
+69,Kinross Gold Corporation,KGC.BA,193.04,0.571,0.479,Yes
+70,Itaú Unibanco Holding S.A.,ITUB.BA,119.35,0.413,0.415,Yes
+71,Bank of America Corp,BA-C.BA,0.17,0.001,0.0,Yes
+72,"The Travelers Companies, Inc.",TRVV.BA,115.17,0.406,,
+73,Central Puerto S.A.,CEPU.BA,225.93,0.644,1.119,Yes
+74,"Ross Stores, Inc.",ROST.BA,126.6,0.44,0.505,Yes
+75,"Urban Outfitters, Inc.",URBN.BA,170.9,0.541,0.478,Yes
+76,Honeywell International Inc.,HON.BA,107.71,0.394,0.486,Yes
+77,Kimberly-Clark Corporation,KMB.BA,102.13,0.379,0.315,Yes
+78,BANCO BBVA ARGENTINA S A,BBARD.BA,195.43,0.599,,
+79,eBay Inc.,EBAY.BA,123.68,0.441,0.499,Yes
+80,Corning Incorporated,GLW.BA,122.71,0.439,0.522,Yes
+81,Ledesma Sociedad Anónima Agrícola Industrial,LEDE.BA,242.73,0.688,0.999,Yes
+82,Harmony Gold Mining Company Limited,HMY.BA,256.6,0.712,0.504,Yes
+83,"Cisco Systems, Inc.",CSCO.BA,119.15,0.432,0.433,Yes
+84,Bolsas y Mercados Argentinos S.A.,BYMA.BA,222.36,0.657,0.994,Yes
+85,Wells Fargo & Company,WFCD.BA,97.49,0.376,,
+86,Lockheed Martin Corporation,LMT.BA,103.47,0.394,0.251,Yes
+87,"DuPont de Nemours, Inc.",DD.BA,109.06,0.412,0.35,Yes
+88,"Nomura Holdings, Inc.",NMR.BA,145.02,0.51,0.546,Yes
+89,Texas Instruments Incorporated,TXN.BA,105.65,0.408,0.419,Yes
+90,"Palo Alto Networks, Inc.",PANW.BA,151.84,0.528,,
+91,"Amazon.com, Inc.",AMZN.BA,141.97,0.505,0.589,Yes
+92,"VeriSign, Inc.",VRSN.BA,124.52,0.467,0.526,Yes
+93,Southern Copper Corporation,SCCO.BA,141.4,0.511,0.454,Yes
+94,"Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",CRES.BA,170.76,0.582,0.969,Yes
+95,"Naturgy BAN, S.A.",GBAN.BA,225.6,0.696,0.921,Yes
+96,Fiplasto S.A.,FIPL.BA,202.93,0.652,0.762,Yes
+97,Arcos Dorados Holdings Inc.,ARCO.BA,113.1,0.44,0.503,Yes
+98,Eni S.p.A.,E.BA,110.83,0.434,0.404,Yes
+99,Grupo Clarín S.A.,GCLA.BA,228.26,0.705,0.881,Yes
+100,Bristol-Myers Squibb Company,BMY.BA,85.76,0.36,0.217,Yes
+101,FedEx Corporation,FDX.BA,122.63,0.472,0.381,Yes
+102,"Automatic Data Processing, Inc.",ADP.BA,126.23,0.482,0.537,Yes
+103,Alphabet Inc.,GOOGL.BA,131.76,0.498,0.523,Yes
+104,"Mitsubishi UFJ Financial Group, Inc.",MUFG.BA,106.82,0.432,,
+105,"Vista Energy, S.A.B. de C.V.",VISTD.BA,99.58,0.411,,
+106,Grupo Supervielle S.A.,SUPVD.BA,188.05,0.641,,
+107,T-MOBILE US INC CEDEAR EACH 33 ,TMUS.BA,62.74,0.29,,
+108,"Netflix, Inc.",NFLX.BA,164.09,0.591,0.412,Yes
+109,Molinos Agro S.A.,MOLA.BA,237.71,0.749,0.841,Yes
+110,HDFC Bank Limited,HDB.BA,116.77,0.467,0.478,Yes
+111,National Grid plc,NGG.BA,92.81,0.396,0.388,Yes
+112,Mastercard Incorporated,MAD.BA,44.11,0.218,,
+113,Itaú Unibanco Holding S.A.,ITUBD.BA,69.55,0.318,,
+114,Nokia Oyj,NOKA.BA,111.56,0.456,0.462,Yes
+115,Autopistas Del Sol SA,AUSO.BA,258.28,0.795,1.218,Yes
+116,Central Costanera S.A.,CECO2.BA,215.61,0.715,0.944,Yes
+117,"iShares, Inc. - iShares MSCI Brazil ETF",EWZ.BA,84.92,0.375,0.424,Yes
+118,Banco de Valores S.A.,VALO.BA,148.87,0.564,0.848,Yes
+119,Grupo Concesionario del Oeste S.A.,OEST.BA,235.21,0.758,1.041,Yes
+120,International Paper Company,IP.BA,117.5,0.478,0.505,Yes
+121,Ambev S.A.,ABEV.BA,85.83,0.38,0.342,Yes
+122,"Coca-Cola FEMSA, S.A.B. de C.V.",KOFM.BA,115.8,0.476,,
+123,Distribuidora de Gas del Centro S.A.,DGCE.BA,171.75,0.625,,
+124,Holcim (Argentina) S.A.,HARG.BA,201.1,0.695,0.573,Yes
+125,Loma Negra Compañía Industrial Argentina Sociedad Anónima,LOMAD.BA,147.96,0.57,,
+126,Medtronic plc,MDT.BA,91.51,0.405,0.464,Yes
+127,Telefônica Brasil S.A.,VIV.BA,89.48,0.398,0.353,Yes
+128,"Honda Motor Co., Ltd.",HMC.BA,108.05,0.458,0.44,Yes
+129,QUALCOMM Incorporated,QCOM.BA,114.24,0.477,0.533,Yes
+130,"Applied Materials, Inc.",AMAT.BA,131.88,0.529,0.528,Yes
+131,"Coeur Mining, Inc.",CDE.BA,157.1,0.598,0.331,Yes
+132,"Merck & Co., Inc.",MRK.BA,105.56,0.453,0.431,Yes
+133,Ultrapar Participações S.A.,UGP.BA,119.34,0.497,0.478,Yes
+134,"Despegar.com, Corp.",DESP.BA,163.86,0.619,0.715,Yes
+135,Las Vegas Sands Corp.,LVS.BA,111.97,0.476,0.429,Yes
+136,Centrais Elétricas Brasileiras S.A. - Eletrobrás,EBR.BA,91.98,0.412,0.319,Yes
+137,"United Airlines Holdings, Inc.",UAL.BA,130.87,0.532,,
+138,Suzano S.A.,SUZ.BA,97.4,0.431,0.358,Yes
+139,Banco Santander (Brasil) S.A.,BSBR.BA,78.19,0.366,0.409,Yes
+140,The Walt Disney Company,DISN.BA,94.89,0.426,0.5,Yes
+141,ARK ETF Trust - ARK Innovation ETF,ARKK.BA,106.64,0.468,0.511,Yes
+142,Ferrum S.A. de Cerámica y Metalurgia,FERR.BA,162.82,0.63,0.869,Yes
+143,Compañía Introductora de Buenos Aires S.A.,INTR.BA,260.79,0.85,1.084,Yes
+144,Aluar Aluminio Argentino S.A.I.C.,ALUA.BA,159.96,0.626,0.763,Yes
+145,"América Móvil, S.A.B. de C.V.",AMX.BA,74.72,0.36,0.35,Yes
+146,Agnico Eagle Mines Limited,AEM.BA,110.5,0.485,0.156,Yes
+147,Schlumberger Limited,SLB.BA,112.25,0.493,0.386,Yes
+148,Telecom Argentina S.A.,TECO2.BA,177.79,0.683,1.07,Yes
+149,"Micron Technology, Inc.",MU.BA,126.9,0.544,,
+150,Ternium Argentina S.A.,TXAR.BA,129.39,0.552,0.786,Yes
+151,Korea Electric Power Corporation,KEP.BA,100.21,0.46,0.342,Yes
+152,Carlos Casado S.A.,CADO.BA,178.76,0.69,0.82,Yes
+153,Capex S.A.,CAPX.BA,253.86,0.861,0.722,Yes
+154,Taiwan Semiconductor Manufacturing Company Limited,TSMD.BA,80.02,0.39,,
+155,"Mirgor Sociedad Anónima, Comercial, Industrial, Financiera, Inmobiliaria y Agropecuaria",MIRG.BA,122.14,0.535,0.623,Yes
+156,Yelp Inc.,YELP.BA,121.07,0.534,0.621,Yes
+157,Gold Fields Limited,GFI.BA,163.59,0.659,0.267,Yes
+158,Cemex SAB de CV,CX.BA,133.28,0.574,0.704,Yes
+159,International Business Machines Corporation,IBMD.BA,50.18,0.271,,
+160,Infosys Limited,INFY.BA,101.03,0.471,0.427,Yes
+161,Thermo Fisher Scientific Inc.,TMO.BA,97.99,0.461,0.465,Yes
+162,Consultatio S.A.,CTIO.BA,123.67,0.547,0.832,Yes
+163,Roblox Corporation,RBLX.BA,124.66,0.55,,
+164,"Cisco Systems, Inc.",CSCOD.BA,36.09,0.206,,
+165,"Netflix, Inc.",NFLXD.BA,71.37,0.368,,
+166,Spotify Technology S.A.,SPOTD.BA,85.63,0.424,,
+167,Alibaba Group Holding Limited,BABA.BA,146.11,0.625,0.014,Yes
+168,"Airbnb, Inc.",ABNB.BA,99.39,0.475,,
+169,Hecla Mining Company,HL.BA,118.28,0.542,0.359,Yes
+170,Cablevisión Holding S.A.,CVH.BA,154.55,0.655,0.939,Yes
+171,Abercrombie & Fitch Co.,ANF.BA,247.7,0.89,1.052,Yes
+172,Pan American Silver Corp.,PAAS.BA,118.47,0.547,0.346,Yes
+173,BRF S.A.,BRFS.BA,135.78,0.606,0.649,Yes
+174,BHP Group Limited,BHP.BA,88.17,0.447,0.378,Yes
+175,HP Inc.,HPQ.BA,85.28,0.44,0.5,Yes
+176,Morixe Hermanos S.A.C.I.,MORI.BA,296.2,1.019,1.229,Yes
+177,"PayPal Holdings, Inc.",PYPL.BA,84.91,0.441,0.567,Yes
+178,Telefonaktiebolaget LM Ericsson (publ),ERIC.BA,104.82,0.519,0.389,Yes
+179,"United Airlines Holdings, Inc.",UALD.BA,83.97,0.444,,
+180,Bunge Global SA,BNG.BA,80.57,0.432,0.417,Yes
+181,Bolsas y Mercados Argentinos S.A.,BYMAD.BA,86.76,0.46,,
+182,Rigolleau S.A.,RIGO.BA,90.38,0.48,0.386,Yes
+183,Adecoagro S.A.,ADGOD.BA,41.76,0.258,,
+184,Instituto Rosenbusch S.A.,ROSE.BA,153.35,0.706,0.734,Yes
+185,Occidental Petroleum Corporation,OXY.BA,70.7,0.402,,
+186,NVIDIA Corporation,NVDAD.BA,106.21,0.549,0.407,Yes
+187,Inversora Juramento S.A.,INVJ.BA,221.71,0.906,1.166,Yes
+188,United States Steel Corporation,X.BA,158.23,0.735,0.655,Yes
+189,Vale S.A.,VALE.BA,68.74,0.4,0.266,Yes
+190,GSK plc,GSK.BA,80.5,0.455,0.288,Yes
+191,Exxon Mobil Corporation,XOM.BA,84.89,0.476,0.211,Yes
+192,Celulosa Argentina S.A.,CELU.BA,294.01,1.112,1.353,Yes
+193,S.A. San Miguel A.G.I.C.I. y F.,SAMI.BA,184.06,0.838,1.065,Yes
+194,Vodafone Group Public Limited Company,VOD.BA,72.01,0.427,0.337,Yes
+195,Newmont Corporation,NEM.BA,81.09,0.469,0.188,Yes
+196,Apple Inc.,AAPL.BA,88.36,0.503,0.295,Yes
+197,"MercadoLibre, Inc.",MELI.BA,122.82,0.641,0.574,Yes
+198,Banco Bradesco S.A.,BBD.BA,75.87,0.457,0.43,Yes
+199,eBay Inc.,EBAYD.BA,47.73,0.314,,
+200,Garovaglio y Zorraquín S.A.,GARO.BA,127.03,0.678,0.753,Yes
+201,American Express Company,AXPD.BA,46.45,0.311,,
+202,Diageo plc,DEO.BA,62.29,0.397,0.373,Yes
+203,Carboclor S.A.,CARC.BA,236.81,1.031,1.36,Yes
+204,JPMorgan Chase & Co.,JPMD.BA,48.3,0.324,,
+205,"Harley-Davidson, Inc.",HOG.BA,87.06,0.522,0.466,Yes
+206,"Baidu, Inc.",BIDU.BA,97.32,0.577,0.311,Yes
+207,ROKU INC CEDEAR EACH 13 REP 1 O,ROKU.BA,64.47,0.423,,
+208,AbbVie Inc.,ABBV.BA,159.34,0.827,,
+209,Walmart Inc.,WMT.BA,82.43,0.526,0.129,Yes
+210,"Tesla, Inc.",TSLA.BA,123.93,0.712,0.552,Yes
+211,Biogen Inc.,BIIB.BA,84.42,0.537,0.377,Yes
+212,TRANSPORTADORA DE GAS DEL SUR S,TGSUD.BA,113.78,0.683,,
+213,Chevron Corporation,CVX.BA,68.16,0.463,0.169,Yes
+214,Visa Inc.,V.BA,64.69,0.453,0.23,No
+215,Ford Motor Company,F.BA,77.61,0.524,,
+216,"Upstart Holdings, Inc.",UPST.BA,286.83,1.275,,
+217,Gerdau S.A.,GGB.BA,66.14,0.464,0.47,Yes
+218,"The Home Depot, Inc.",HDD.BA,56.84,0.412,,
+219,Verizon Communications Inc.,VZ.BA,61.13,0.44,0.207,Yes
+220,"Motorola Solutions, Inc.",MSI.BA,93.49,0.615,0.497,Yes
+221,Grupo Financiero Galicia S.A.,GGALD.BA,79.52,0.551,,
+222,American Express Company,AXP.BA,82.52,0.567,0.533,Yes
+223,EMPRESA DISTR Y COMERC NORTE ED,EDND.BA,131.28,0.8,,
+224,3M Company,MMM.BA,69.85,0.505,0.196,Yes
+225,Adecoagro S.A.,ADGO.BA,66.04,0.484,0.216,Yes
+226,Sony Group Corporation,SONYD.BA,46.85,0.366,,
+227,General Electric Company,GE.BA,106.25,0.701,0.398,Yes
+228,"Upstart Holdings, Inc.",UPSTD.BA,213.55,1.131,,
+229,"Tripadvisor, Inc.",TRIP.BA,73.91,0.545,0.321,Yes
+230,Roblox Corporation,RBLXD.BA,84.83,0.607,,
+231,CRESUD S.A.C.I.F.Y.A.,CRESD.BA,71.25,0.531,,
+232,"Meta Platforms, Inc.",METAD.BA,57.09,0.447,0.13,Yes
+233,Costco Wholesale Corporation,COST.BA,90.73,0.654,0.426,Yes
+234,GCDI S.A.,GCDI.BA,179.09,1.06,1.472,Yes
+235,"Salesforce, Inc.",CRM.BA,95.37,0.683,0.464,Yes
+236,Intel Corporation,INTC.BA,73.61,0.564,0.286,Yes
+237,"Fomento Económico Mexicano, S.A.B. de C.V.",FMX.BA,75.86,0.58,0.417,Yes
+238,McDonald's Corporation,MCD.BA,71.59,0.554,0.333,Yes
+239,BlackBerry Limited,BB.BA,100.87,0.723,0.522,Yes
+240,Microsoft Corporation,MSFT.BA,77.08,0.596,0.455,Yes
+241,The Mosaic Company,MOS.BA,50.86,0.431,,
+242,"Despegar.com, Corp.",DESPD.BA,64.96,0.53,,
+243,Harmony Gold Mining Company Limited,HMYD.BA,75.96,0.602,0.216,Yes
+244,CARNIVAL CORP CEDEAR EACH 3 REP,CCL.BA,60.81,0.506,,
+245,Adobe Inc.,ADBE.BA,72.92,0.592,0.353,Yes
+246,"Marsh & McLennan Companies, Inc.",MMC.BA,73.35,0.61,0.413,Yes
+247,Caterpillar Inc.,CAT.BA,83.24,0.674,0.547,Yes
+248,FERRARI N V CEDEAR EACH 83 REP ,RACE.BA,37.78,0.361,,
+249,SPDR S&P 500 ETF Trust,SPYD.BA,15.66,0.163,,
+250,B-Gaming S.A.,GAMI.BA,12.88,0.138,0.024,No
+251,Visa Inc.,VD.BA,22.02,0.231,0.216,Yes
+252,NovaGold Resources Inc.,NG.BA,65.81,0.607,0.461,Yes
+253,Boldt S.A.,BOLT.BA,352.53,1.905,2.043,Yes
+254,Deere & Company,DE.BA,64.03,0.606,0.44,Yes
+255,McDonald's Corporation,MCDD.BA,17.13,0.193,,
+256,"The Home Depot, Inc.",HD.BA,64.44,0.616,0.417,Yes
+257,AstraZeneca PLC,AZND.BA,36.45,0.393,,
+258,Longvie S.A.,LONG.BA,72.29,0.695,0.772,Yes
+259,DOMEC Compañía de Artefactos Domésticos S.A.I.C.y F.,DOME.BA,161.27,1.25,0.846,Yes
+260,Companhia Siderúrgica Nacional,SID.BA,59.31,0.596,0.528,Yes
+261,Johnson & Johnson,JNJ.BA,53.34,0.549,0.266,Yes
+262,Petróleo Brasileiro S.A. - Petrobras,PBRD.BA,29.1,0.33,,
+263,"Analog Devices, Inc.",ADI.BA,62.52,0.654,0.477,Yes
+264,Freeport-McMoRan Inc.,FCX.BA,53.35,0.59,0.501,Yes
+265,3M Company,MMMD.BA,28.33,0.348,,
+266,BOOKING HOLDINGS INC CEDEAR EAC,BKNG.BA,17.27,0.223,,
+267,Sony Group Corporation,SONY.BA,154.16,1.348,0.352,Yes
+268,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",PAC.BA,67.78,0.74,0.635,Yes
+269,"MercadoLibre, Inc.",MELID.BA,36.77,0.447,0.434,Yes
+270,"JD.com, Inc.",JD.BA,64.61,0.723,0.016,Yes
+271,Snap Inc.,SNAP.BA,67.48,0.757,0.57,Yes
+272,Bitfarms Ltd.,BITF.BA,162.15,1.449,,
+273,SELECT SECTOR SPDR TRUST CEDEAR,XLFD.BA,17.63,0.239,,
+274,Central Puerto S.A.,CEPUD.BA,39.18,0.523,,
+275,Caterpillar Inc.,CATD.BA,23.15,0.336,,
+276,TRANSPORTADORA DE GAS DEL NORTE,TGN4D.BA,46.48,0.627,,
+277,MONDELEZ INTL INC CEDEAR EACH 1,MDLZ.BA,18.4,0.282,,
+278,SPDR DOW JONES INDUSTRIAL AVG E,DIAD.BA,13.53,0.214,,
+279,Avery Dennison Corporation,AVY.BA,46.06,0.649,0.469,Yes
+280,U.S. Bancorp,USB.BA,47.48,0.674,0.577,Yes
+281,Pampa Energía S.A.,PAMPD.BA,34.09,0.507,,
+282,Tenaris S.A.,TEND.BA,20.12,0.317,,
+283,Verizon Communications Inc.,VZD.BA,16.45,0.263,,
+284,Microsoft Corporation,MSFTD.BA,13.44,0.221,0.178,Yes
+285,Hut 8 Corp.,HUT.BA,95.06,1.221,,
+286,Apple Inc.,AAPLD.BA,16.58,0.278,0.202,Yes
+287,"Amazon.com, Inc.",AMZND.BA,22.24,0.367,0.313,Yes
+288,"The Goldman Sachs Group, Inc.",GSD.BA,21.47,0.391,,
+289,Globant S.A.,GLOB.BA,50.59,0.832,,
+290,Alphabet Inc.,GOGLD.BA,15.57,0.303,0.28,Yes
+291,Telecom Argentina S.A.,TECOD.BA,51.57,0.887,,
+292,Chevron Corporation,CVXD.BA,15.6,0.308,,
+293,Xerox Holdings Corporation,XROX.BA,35.94,0.68,,
+294,CVS HEALTH CORPORATION CEDEAR E,CVS.BA,18.57,0.385,,
+295,"Altria Group, Inc.",MOD.BA,11.77,0.26,,
+296,"Merck & Co., Inc.",MRKD.BA,11.65,0.259,,
+297,"Advanced Micro Devices, Inc.",AMDD.BA,21.74,0.474,,
+298,Nucor Corporation,NUE.BA,38.11,0.797,0.673,Yes
+299,Palantir Technologies Inc.,PLTRD.BA,1.48,0.04,,
+300,QUALCOMM Incorporated,QCOMD.BA,14.38,0.366,,
+301,"JD.com, Inc.",JDD.BA,24.81,0.611,,
+302,Shopify Inc.,SHOPD.BA,29.27,0.718,,
+303,Deere & Company,DED.BA,15.69,0.418,,
+304,The Walt Disney Company,DISND.BA,10.86,0.328,,
+305,"NIKE, Inc.",NKE.BA,20.33,0.603,0.459,Yes
+306,Nu Holdings Ltd.,NU.BA,18.14,0.559,,
+307,Ambev S.A.,ABEVD.BA,8.09,0.302,,
+308,GeoPark Limited,GPRKD.BA,17.97,0.664,,
+309,Target Corporation,TGT.BA,17.71,0.681,0.51,Yes
+310,Banco do Brasil S.A.,BBAS3.BA,14.76,0.596,,
+311,DELTA AIR LINES INC CEDEAR EACH,DAL.BA,8.86,0.379,,
+312,AbbVie Inc.,ABBVD.BA,3.99,0.201,,
+313,The Procter & Gamble Company,PGD.BA,2.65,0.198,,
+314,Johnson & Johnson,JNJD.BA,2.14,0.188,,
+315,Barrick Gold Corporation,GOLDD.BA,2.43,0.304,0.009,Yes
+316,Bitfarms Ltd.,BITFD.BA,10.21,1.442,,
+317,MCEWEN MINING INC CEDEAR EACH 2,MUX.BA,3.01,0.458,,
+318,MAGAZINE LUIZA SA CEDEAR EACH 1,MGLU3.BA,4.86,0.944,,
+319,LOJAS RENNER SA CEDEAR EACH 1 R,LREN3.BA,2.83,0.668,,
+320,Prio S.A.,PRIO3.BA,0.33,0.433,,
+321,Lockheed Martin Corporation,LMTD.BA,0.13,0.218,,
+322,RIOT PLATFORMS INC RIOT PLATFOR,RIOT.BA,-0.2,0.599,,
+323,Ford Motor Company,FD.BA,-0.25,0.281,,
+324,Ternium S.A.,TXRD.BA,-0.47,0.333,,
+325,Banco Bradesco S.A.,BBDD.BA,-2.29,0.433,,
+326,Lam Research Corporation,LRCXD.BA,-2.36,0.422,,
+327,UnitedHealth Group Incorporated,UNHD.BA,-2.02,0.331,,
+328,"PayPal Holdings, Inc.",PYPLD.BA,-3.86,0.418,0.324,Yes
+329,United States Steel Corporation,XD.BA,-5.37,0.556,,
+330,StoneCo Ltd.,STNE.BA,-8.24,0.564,,
+331,Banco Comafi S.A.,IBIT.BA,-6.57,0.411,,
+332,"NIKE, Inc.",NKED.BA,-6.74,0.302,,
+333,Intel Corporation,INTCD.BA,-11.21,0.438,0.039,Yes
+334,American Airlines Group Inc.,AALD.BA,-11.39,0.437,,
+335,Globant S.A.,GLOBD.BA,-11.98,0.448,,
+336,Aluar Aluminio Argentino S.A.I.C.,ALUAD.BA,-14.11,0.494,,
+337,Occidental Petroleum Corporation,OXYD.BA,-5.06,0.156,,
+338,The Boeing Company,BAD.BA,-10.28,0.312,,
+339,Vale S.A.,VALED.BA,-9.4,0.278,,
+340,ISHARES INC CEDEAR 2 REPR 1 ETF,EWZD.BA,-12.95,0.312,,
+341,Nu Holdings Ltd.,NUD.BA,-25.86,0.616,,
+342,ISHARES TRUST CEDEAR EACH 10 RE,IWMD.BA,-10.74,0.231,,
+343,Localiza Rent a Car S.A.,RENT3.BA,-21.48,0.459,,
+344,"Walgreens Boots Alliance, Inc.",WBAD.BA,-20.44,0.393,,
+345,"PepsiCo, Inc.",PEPD.BA,-9.44,0.166,,
+346,Bioceres Crop Solutions Corp.,BIOXD.BA,-38.36,0.626,,
+347,Ternium Argentina S.A.,TXARD.BA,-29.44,0.444,,
+348,"Advance Auto Parts, Inc.",AAP.BA,-37.62,0.531,,
+349,HAPVIDA PARTICIPACOES INV SA CE,HAPV3.BA,-42.36,0.581,,
+350,Banco Comafi S.A.,IBITD.BA,-38.12,0.495,,
+351,"Micron Technology, Inc.",MUD.BA,-30.15,0.358,,
+352,Pfizer Inc.,PFED.BA,-17.06,0.179,,
+353,"DocuSign, Inc.",DOCUD.BA,-45.66,0.504,,
+354,"Airbnb, Inc.",ABNBD.BA,-35.7,0.333,,
+355,STELLANTIS N.V CEDEAR EACH 5 RE,STLA.BA,-40.1,0.328,,
+356,FedEx Corporation,FDXD.BA,-25.63,0.184,,
+357,METROGAS SA,METRD.BA,-55.39,0.476,,
+358,"Coinbase Global, Inc.",COIND.BA,-76.02,0.764,,
+359,Lithium Americas Corp.,LACD.BA,-37.49,0.256,,
+360,Amgen Inc.,AMGND.BA,-22.03,0.133,,
+361,SOCIEDAD COMERCIAL DEL PLATA,COMED.BA,-74.72,0.676,,
+362,"Palo Alto Networks, Inc.",PANWD.BA,-26.67,0.128,,
+363,"Applied Materials, Inc.",AMATD.BA,-55.2,0.305,,
+364,General Motors Company,GMD.BA,-47.69,0.243,,
+365,Dow Inc.,DOWD.BA,-34.8,0.139,,
+366,INVESCO QQQ TRUST CEDEAR EACH 2,QQQD.BA,-35.79,0.143,,
+367,Lithium Argentina AG,LARD.BA,-78.19,0.444,,
+368,MODERNA INC CEDEAR EACH 19 REP ,MRNA.BA,-83.03,0.468,,
+369,Target Corporation,TGTD.BA,-57.84,0.232,,
+370,Holdsat S.A.,HSAT.BA,-66.77,0.291,,
+371,CIA DE TRANSP DE ENERGIA ELECTR,TRAND.BA,-86.26,0.488,,
+372,ISHARES ETHEREUM TRUST DR ENTL ,ETHA.BA,-87.89,0.488,,
+373,ISHARES ETHEREUM TRUST DR ENTL ,ETHAD.BA,-87.89,0.488,,
+374,Ecogas Inversiones S.A.,ECOG.BA,-68.54,0.171,,
+375,Biogen Inc.,BIIBD.BA,-67.14,0.154,,
+376,Embraer S.A.,ERJD.BA,-52.13,0.082,,
+377,Banco de Valores S.A.,VALOD.BA,-83.61,0.189,,
+378,Oracle Corporation,ORCLD.BA,-75.47,0.105,,
+379,"Meta Platforms, Inc.",IVW.BA,-8.41,0.004,,
+380,Natura &Co Holding S.A.,NTCO3.BA,-80.24,,,
+381,Texas Instruments Incorporated,TXND.BA,-42.78,,,
+382,WEG S.A.,WEGE3.BA,15.66,,,
+383,SELECT SECTOR SPDR TRUST CEDEAR,XLID.BA,-46.85,,,
+384,SELECT SECTOR SPDR TRUST CEDEAR,XLKD.BA,-42.74,,,
+385,The Select Sector SPDR Trust - The Real Estate Select Sector SPDR Fund,XLRED.BA,-33.93,,,
+386,SELECT SECTOR SPDR TRUST CEDEAR,XLVD.BA,-4.53,,,
+387,A3 Mercados S.A.,A3.BA,0.0,,,
+388,Gerdau S.A.,GGBD.BA,-67.35,,,
+389,Itaú Unibanco Holding S.A.,ITUB3.BA,151.44,,,
+390,META PLATFORMS INC CEDEAR EACH ,IVWD.BA,-56.12,,,

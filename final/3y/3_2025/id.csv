@@ -1,0 +1,447 @@
+Rank,Name,Ticker,Return (%),Risk
+1,Asuransi Digital Bersama Tbk.,YOII.JK,70.63,0.052
+2,PT Total Bangun Persada Tbk,TOTL.JK,50.72,0.279
+3,PT Bank OCBC NISP Tbk,NISP.JK,37.61,0.226
+4,PT FAP Agri Tbk,FAPA.JK,15.24,0.107
+5,"PT Jaya Real Property, Tbk.",JRPT.JK,20.42,0.147
+6,PT Bank CIMB Niaga Tbk,BNGA.JK,30.43,0.218
+7,PT Tempo Scan Pacific Tbk,TSPC.JK,30.73,0.233
+8,PT Siloam International Hospitals Tbk,SILO.JK,43.9,0.327
+9,PT Asiaplast Industries Tbk,APLI.JK,51.8,0.402
+10,PT Sepeda Bersama Indonesia Tbk,BIKE.JK,58.73,0.446
+11,PT Sariguna Primatirta Tbk,CLEO.JK,65.54,0.494
+12,PT Paramita Bangun Sarana Tbk,PBSA.JK,26.66,0.237
+13,PT Cikarang Listrindo Tbk,POWR.JK,9.83,0.097
+14,PT Indonesia Kendaraan Terminal Tbk,IPCC.JK,25.57,0.239
+15,PT Hartadinata Abadi Tbk,HRTA.JK,55.22,0.465
+16,PT Pelayaran Nasional Ekalya Purnamasari Tbk,ELPI.JK,27.32,0.261
+17,PT Roda Vivatex Tbk,RDTX.JK,32.88,0.322
+18,PT Astra Otoparts Tbk,AUTO.JK,35.79,0.348
+19,PT Amman Mineral Internasional Tbk,AMMN.JK,73.92,0.651
+20,PT Chandra Asri Pacific Tbk,TPIA.JK,63.23,0.585
+21,PT Berkah Prima Perkasa Tbk,BLUE.JK,20.87,0.229
+22,PT Trans Power Marine Tbk,TPMA.JK,35.16,0.367
+23,PT Map Aktif Adiperkasa Tbk,MAPA.JK,47.5,0.477
+24,PT Elnusa Tbk,ELSA.JK,24.31,0.269
+25,PT Akasha Wira International Tbk,ADES.JK,46.03,0.471
+26,PT Indonesia Fibreboard Industry Tbk,IFII.JK,19.43,0.221
+27,PT Indonesian Paradise Property Tbk,INPP.JK,36.23,0.387
+28,PT Sinar Mas Multiartha Tbk,SMMA.JK,9.88,0.117
+29,PT Panca Budi Idaman Tbk,PBID.JK,15.03,0.181
+30,PT Wintermar Offshore Marine Tbk,WINS.JK,53.6,0.574
+31,PT Kedawung Setia Industrial Tbk,KDSI.JK,27.63,0.325
+32,PT Superkrane Mitra Utama Tbk,SKRN.JK,50.19,0.547
+33,PT Midi Utama Indonesia Tbk,MIDI.JK,27.13,0.349
+34,PT Medco Energi Internasional Tbk,MEDC.JK,48.06,0.574
+35,PT Surya Semesta Internusa Tbk,SSIA.JK,57.65,0.672
+36,PT J Resources Asia Pasifik Tbk,PSAB.JK,42.33,0.53
+37,PT. Gajah Tunggal Tbk,GJTL.JK,27.95,0.375
+38,PT Baramulti Suksessarana Tbk,BSSR.JK,22.37,0.308
+39,PT KMI Wire and Cable Tbk,KBLI.JK,15.46,0.219
+40,PT Wijaya Cahaya Timber Tbk,FWCT.JK,75.56,0.879
+41,PT. Penta Valent Tbk,PEVE.JK,23.36,0.33
+42,PT Charnic Capital Tbk,NICK.JK,40.84,0.545
+43,PT Pudjiadi Prestige Tbk,PUDP.JK,54.04,0.693
+44,PT Indofood CBP Sukses Makmur Tbk,ICBP.JK,15.53,0.229
+45,PT Metropolitan Land Tbk,MTLA.JK,19.52,0.286
+46,PT Kota Satu Properti Tbk,SATU.JK,50.56,0.674
+47,PT Buana Finance Tbk,BBLD.JK,23.59,0.35
+48,PT Wahana Ottomitra Multiartha Tbk,WOMF.JK,18.86,0.287
+49,PT Citra Buana Prasida Tbk,CBPE.JK,15.57,0.244
+50,PT Bank Pan Indonesia Tbk,PNBN.JK,33.34,0.49
+51,PT Bank Syariah Indonesia Tbk,BRIS.JK,23.27,0.357
+52,PT Kabelindo Murni Tbk,KBLM.JK,18.65,0.292
+53,PT Dharma Polimetal Tbk,DRMA.JK,31.34,0.469
+54,PT Bank Ina Perdana Tbk,BINA.JK,4.58,0.078
+55,Ikapharmindo Putramas Tbk.,IKPM.JK,26.3,0.413
+56,PT Indofood Sukses Makmur Tbk,INDF.JK,10.06,0.169
+57,PT Pelayaran Nelly Dwi Putri Tbk,NELY.JK,30.24,0.476
+58,PT Pelayaran Nasional Bina Buana Raya Tbk,BBRM.JK,27.42,0.438
+59,PT Kencana Energi Lestari Tbk,KEEN.JK,25.2,0.409
+60,PT. Mitra Adiperkasa Tbk,MAPI.JK,23.86,0.39
+61,PT Ancora Indonesia Resources Tbk,OKAS.JK,76.41,1.055
+62,PT Colorpak Indonesia Tbk,CLPI.JK,7.87,0.138
+63,PT Selamat Sempurna Tbk,SMSM.JK,12.3,0.215
+64,PT Bumi Resources Tbk,BUMI.JK,45.95,0.709
+65,PT Adira Dinamika Multi Finance Tbk,ADMF.JK,10.82,0.192
+66,PT Perusahaan Gas Negara Tbk,PGAS.JK,17.19,0.298
+67,PT Gowa Makassar Tourism Development Tbk,GMTD.JK,38.87,0.634
+68,PT Victoria Care Indonesia Tbk,VICI.JK,13.87,0.252
+69,PT Sumber Energi Andalan Tbk,ITMA.JK,49.75,0.794
+70,PT ABM Investama Tbk,ABMM.JK,25.27,0.447
+71,PT Yulie Sekuritas Indonesia Tbk,YULE.JK,9.83,0.186
+72,PT Nusantara Pelabuhan Handal Tbk,PORT.JK,22.12,0.398
+73,PT. Arkora Hydro Tbk,ARKO.JK,27.28,0.485
+74,PT Logindo Samudramakmur Tbk.,LEAD.JK,35.57,0.619
+75,PT. Clipan Finance Indonesia Tbk,CFIN.JK,26.88,0.491
+76,PT Eastparc Hotel Tbk,EAST.JK,13.14,0.26
+77,PT Sumi Indo Kabel Tbk,IKBI.JK,42.71,0.761
+78,PT Champion Pacific Indonesia Tbk,IGAR.JK,11.09,0.223
+79,PT Asuransi Dayin Mitra Tbk,ASDM.JK,6.37,0.133
+80,PT Siantar Top Tbk,STTP.JK,35.49,0.666
+81,PT Multitrend Indo Tbk,BABY.JK,54.51,0.96
+82,PT Dua Putra Utama Makmur Tbk,DPUM.JK,71.89,1.211
+83,PT Asuransi Harta Aman Pratama Tbk,AHAP.JK,54.07,0.966
+84,PT Bank Mandiri (Persero) Tbk,BMRI.JK,13.08,0.272
+85,Mastersystem Infotama Tbk.,MSTI.JK,9.08,0.192
+86,PT Jasa Armada Indonesia Tbk,IPCM.JK,4.45,0.098
+87,PT Galva Technologies Tbk,GLVA.JK,33.34,0.654
+88,PT Capital Financial Indonesia Tbk,CASA.JK,15.47,0.327
+89,PT Super Energy Tbk,SURE.JK,15.54,0.329
+90,Multikarya Asia Pasifik Raya Tb,MKAP.JK,48.34,0.915
+91,PT Cahayaputra Asa Keramik Tbk,CAKK.JK,43.64,0.844
+92,PT Asuransi Bintang Tbk,ASBI.JK,25.7,0.532
+93,PT Imago Mulia Persada Tbk,LFLO.JK,29.29,0.601
+94,PT Citra Borneo Utama Tbk,CBUT.JK,64.19,1.175
+95,PT Mustika Ratu Tbk,MRAT.JK,35.12,0.711
+96,PT Arthavest Tbk,ARTA.JK,18.42,0.41
+97,PT Blue Bird Tbk,BIRD.JK,14.23,0.322
+98,PT Era Graharealty Tbk,IPAC.JK,12.76,0.295
+99,PT AKR Corporindo Tbk,AKRA.JK,12.04,0.293
+100,PT RMK Energy Tbk,RMKE.JK,24.74,0.574
+101,PT Lancartama Sejati Tbk,TAMA.JK,75.09,1.479
+102,PT Wira Global Solusi Tbk,WGSH.JK,30.66,0.717
+103,PT Koka Indonesia Tbk,KOKA.JK,36.85,0.845
+104,PT Sumber Global Energy Tbk,SGER.JK,45.64,1.022
+105,PT Garuda Metalindo Tbk,BOLT.JK,15.66,0.392
+106,Daaz Bara Lestari Tbk.,DAAZ.JK,51.39,1.141
+107,PT Bank Central Asia Tbk,BBCA.JK,5.84,0.155
+108,PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,JMAS.JK,46.65,1.079
+109,PT Toba Surimi Industries Tbk,CRAB.JK,8.97,0.246
+110,PT Leyand International Tbk,LAPD.JK,51.14,1.206
+111,PT Cisarua Mountain Dairy Tbk,CMRY.JK,7.89,0.221
+112,PT Bintang Mitra Semestaraya Tbk,BMSR.JK,45.37,1.113
+113,PT Wilmar Cahaya Indonesia Tbk.,CEKA.JK,8.42,0.238
+114,PT King Tire Indonesia Tbk,TYRE.JK,7.33,0.209
+115,"PT Saraswanti Anugerah Makmur, Tbk",SAMF.JK,14.25,0.404
+116,PT. Terregra Asia Energy Tbk,TGRA.JK,58.44,1.416
+117,PT Sunter Lakeside Hotel Tbk,SNLK.JK,26.18,0.709
+118,PT Intanwijaya Internasional Tbk,INCI.JK,7.01,0.216
+119,PT Mitra Tirta Buwana Tbk,SOUL.JK,36.27,1.01
+120,PT Bank Nationalnobu Tbk,NOBU.JK,14.21,0.439
+121,PT Victoria Investama Tbk,VICO.JK,18.28,0.556
+122,Esta Indonesia Tbk.,NEST.JK,23.92,0.714
+123,PT Dyandra Media International Tbk,DYAN.JK,13.37,0.417
+124,PT Intermedia Capital Tbk,MDIA.JK,35.72,1.022
+125,PT Bayu Buana Tbk,BAYU.JK,10.82,0.346
+126,PT Cahayasakti Investindo Sukses Tbk,CSIS.JK,32.55,0.958
+127,PT Karya Bersama Anugerah Tbk,KBAG.JK,40.54,1.184
+128,PT Bumi Teknokultura Unggul Tbk,BTEK.JK,75.73,1.996
+129,PT Pelayaran Tamarin Samudra Tbk,TAMU.JK,69.09,1.898
+130,Janu Putra Sejahtera Tbk.,AYAM.JK,10.17,0.346
+131,PT United Tractors Tbk,UNTR.JK,9.81,0.336
+132,PT Pertamina Geothermal Energy Tbk,PGEO.JK,16.36,0.553
+133,PT Soho Global Health Tbk,SOHO.JK,6.68,0.237
+134,PT Jembo Cable Company Tbk,JECC.JK,24.49,0.812
+135,PT Merck Tbk,MERK.JK,5.65,0.207
+136,PT Citra Tubindo Tbk,CTBN.JK,25.07,0.861
+137,PT Lautan Luas Tbk,LTLS.JK,9.13,0.344
+138,PT Indonesia Pondasi Raya Tbk,IDPR.JK,6.52,0.255
+139,PT Megapower Makmur Tbk,MPOW.JK,14.07,0.554
+140,PT Cita Mineral Investindo Tbk,CITA.JK,9.53,0.387
+141,PT Atlas Resources Tbk,ARII.JK,17.78,0.704
+142,PT Asia Sejahtera Mina Tbk,AGAR.JK,25.33,1.013
+143,PT Resource Alam Indonesia Tbk,KKGI.JK,11.74,0.504
+144,PT Lima Dua Lima Tiga Tbk,LUCY.JK,14.56,0.627
+145,PT Astrindo Nusantara Infrastruktur Tbk,BIPI.JK,16.37,0.7
+146,PT Destinasi Tirta Nusantara Tbk,PDES.JK,13.85,0.604
+147,PT Hotel Fitra International Tbk,FITT.JK,17.83,0.809
+148,PT Dewi Shri Farmindo Tbk.,DEWI.JK,14.75,0.684
+149,PT Star Pacific Tbk,LPLI.JK,5.67,0.273
+150,PT Trisula International Tbk,TRIS.JK,7.52,0.371
+151,PT Magna Investama Mandiri Tbk,MGNA.JK,19.16,0.902
+152,PT Kawasan Industri Jababeka Tbk,KIJA.JK,4.96,0.254
+153,PT Mark Dynamics Indonesia Tbk,MARK.JK,7.95,0.404
+154,PT Intan Baru Prana Tbk,IBFN.JK,52.69,2.275
+155,PT Pakuan Tbk,UANG.JK,20.85,1.04
+156,PT Bank Maspion Indonesia Tbk,BMAS.JK,10.48,0.547
+157,PT SLJ Global Tbk,SULI.JK,13.18,0.717
+158,PT Grand House Mulia Tbk,HOMI.JK,18.53,1.024
+159,PT Ateliers Mecaniques D'Indonesie Tbk,AMIN.JK,8.17,0.474
+160,PT Budi Starch & Sweetener Tbk,BUDI.JK,3.63,0.215
+161,PT Natura City Developments Tbk,CITY.JK,17.15,0.984
+162,PT Cisadane Sawit Raya Tbk,CSRA.JK,5.85,0.359
+163,PT Hotel Sahid Jaya International Tbk,SHID.JK,26.28,1.556
+164,PT Bima Sakti Pertiwi Tbk,PAMG.JK,9.24,0.6
+165,PT Mega Manunggal Property Tbk,MMLP.JK,5.22,0.353
+166,PT Jasa Marga (Persero) Tbk,JSMR.JK,3.57,0.245
+167,PT Bank Negara Indonesia (Persero) Tbk,BBNI.JK,3.86,0.269
+168,PT Citatah Tbk,CTTH.JK,9.93,0.681
+169,PT Era Digital Media Tbk,AWAN.JK,3.62,0.26
+170,PT Mineral Sumberdaya Mandiri Tbk,AKSI.JK,12.77,0.919
+171,PT Asuransi Ramayana Tbk,ASRM.JK,2.69,0.206
+172,PT Ultrajaya Milk Industry & Trading Company Tbk,ULTJ.JK,3.41,0.262
+173,PT Repower Asia Indonesia Tbk,REAL.JK,12.15,0.916
+174,PT Impack Pratama Industri Tbk,IMPC.JK,3.33,0.275
+175,PT Malacca Trust Wuwungan Insurance Tbk,MTWI.JK,5.9,0.493
+176,PT Pembangunan Jaya Ancol Tbk,PJAA.JK,2.93,0.263
+177,PT Sinergi Inti Andalan Prima Tbk,INET.JK,13.62,1.177
+178,PT Buana Lintas Lautan Tbk,BULL.JK,5.84,0.571
+179,PT Bank Rakyat Indonesia (Persero) Tbk,BBRI.JK,2.88,0.288
+180,PT Temas Tbk.,TMAS.JK,5.91,0.586
+181,PT Arkha Jayanti Persada Tbk,ARKA.JK,9.56,0.995
+182,PT Ricky Putra Globalindo Tbk,RICY.JK,5.77,0.611
+183,PT Sat Nusapersada Tbk,PTSN.JK,1.9,0.219
+184,PT Berdikari Pondasi Perkasa Tbk,BDKR.JK,5.46,0.715
+185,PT Surya Citra Media Tbk,SCMA.JK,2.71,0.371
+186,PT MNC Digital Entertainment Tbk,MSIN.JK,7.91,1.095
+187,PT Barito Pacific Tbk,BRPT.JK,2.94,0.436
+188,PT Kokoh Exa Nusantara Tbk,KOCI.JK,1.2,0.181
+189,PT Indosat Ooredoo Hutchison Tbk,ISAT.JK,2.48,0.377
+190,PT Puri Global Sukses Tbk,PURI.JK,4.98,0.759
+191,PT Sekar Bumi Tbk,SKBM.JK,2.21,0.399
+192,PT Pradiksi Gunatama Tbk,PGUN.JK,2.73,0.586
+193,PT Pratama Widya Tbk,PTPW.JK,0.72,0.181
+194,PT Djasa Ubersakti Tbk,PTDU.JK,4.67,1.146
+195,PT Multi Prima Sejahtera Tbk,LPIN.JK,0.79,0.202
+196,PT Victoria Insurance Tbk,VINS.JK,2.37,0.603
+197,PT Puradelta Lestari Tbk,DMAS.JK,0.49,0.136
+198,PT Pyridam Farma Tbk,PYFA.JK,3.52,1.007
+199,PT Madusari Murni Indah Tbk,MOLI.JK,2.13,0.623
+200,PT Ingria Pratama Capitalindo Tbk,GRIA.JK,1.83,0.547
+201,PT Pioneerindo Gourmet International Tbk,PTSP.JK,5.1,1.654
+202,PT IMC Pelita Logistik Tbk,PSSI.JK,0.99,0.354
+203,PT Palma Serasih Tbk,PSGO.JK,0.55,0.226
+204,PT Lippo General Insurance Tbk,LPGI.JK,0.48,0.298
+205,PT Mitrabahtera Segara Sejati Tbk,MBSS.JK,0.64,0.396
+206,Multi Spunindo Jaya Tbk.,MSJA.JK,0.29,0.245
+207,PT Keramika Indonesia Assosiasi Tbk,KIAS.JK,0.06,0.838
+208,PT Duta Pertiwi Tbk,DUTI.JK,-0.01,0.228
+209,PT Martina Berto Tbk,MBTO.JK,-0.16,0.497
+210,PT Intraco Penta Tbk,INTA.JK,-0.51,1.262
+211,PT Bakrie Sumatera Plantations Tbk,UNSP.JK,-0.2,0.381
+212,PT Erajaya Swasembada Tbk,ERAA.JK,-0.45,0.296
+213,PT Indal Aluminium Industry Tbk,INAI.JK,-1.24,0.736
+214,PT Morenzo Abadi Perkasa Tbk,ENZO.JK,-0.93,0.535
+215,PT NFC Indonesia Tbk,NFCX.JK,-1.65,0.909
+216,PT Hillcon Tbk,HILL.JK,-0.95,0.412
+217,PT Bumi Citra Permai Tbk,BCIP.JK,-0.71,0.26
+218,PT Arkadia Digital Media Tbk,DIGI.JK,-2.44,0.873
+219,PT Hexindo Adiperkasa Tbk,HEXA.JK,-0.79,0.262
+220,PT MPX Logistics International Tbk,MPXL.JK,-1.7,0.527
+221,PT Himalaya Energi Perkasa Tbk,HADE.JK,-4.08,1.099
+222,PT Eka Sari Lorena Transport Tbk,LRNA.JK,-1.62,0.414
+223,PT Sinar Mas Agro Resources and Technology Tbk,SMAR.JK,-0.81,0.203
+224,PT HATTEN BALI Tbk,WINE.JK,-2.4,0.598
+225,PT Jasuindo Tiga Perkasa Tbk,JTPE.JK,-1.39,0.306
+226,PT Visi Media Asia Tbk,VIVA.JK,-4.26,0.946
+227,PT Krom Bank Indonesia Tbk,BBSI.JK,-1.44,0.297
+228,PT Mitra Keluarga Karyasehat Tbk,MIKA.JK,-0.96,0.197
+229,PT Charoen Pokphand Indonesia Tbk,CPIN.JK,-1.32,0.232
+230,Samcro Hyosung Adilestari Tbk.,ACRO.JK,-3.7,0.621
+231,PT Duta Anggada Realty Tbk.,DART.JK,-3.97,0.664
+232,PT Lenox Pasifik Investama Tbk,LPPS.JK,-3.91,0.617
+233,PT Berlina Tbk,BRNA.JK,-2.95,0.461
+234,PT Bekasi Fajar Industrial Estate Tbk,BEST.JK,-2.17,0.329
+235,PT Argha Karya Prima Industry Tbk,AKPI.JK,-3.63,0.547
+236,Bersama Mencapai Puncak Tbk.,BAIK.JK,-3.1,0.457
+237,PT Formosa Ingredient Factory Tbk,BOBA.JK,-1.99,0.266
+238,PT Quantum Clovera Investama Tbk,KREN.JK,-6.22,0.849
+239,PT Cemindo Gemilang Tbk,CMNT.JK,-2.26,0.288
+240,PT Alfa Energi Investama Tbk,FIRE.JK,-8.39,1.059
+241,PT Putra Mandiri Jembar Tbk,PMJS.JK,-2.59,0.311
+242,PT Toba Pulp Lestari Tbk,INRU.JK,-4.3,0.49
+243,PT Metro Healthcare Indonesia Tbk,CARE.JK,-5.78,0.617
+244,Manggung Polahraya Tbk.,MANG.JK,-10.6,1.131
+245,PT Selaras Citra Nusantara Perkasa Tbk,SCNP.JK,-3.47,0.35
+246,PT Minahasa Membangun Hebat Tbk,HBAT.JK,-5.24,0.527
+247,PT Agung Podomoro Land Tbk,APLN.JK,-3.78,0.355
+248,PT Transkon Jaya Tbk,TRJA.JK,-4.15,0.387
+249,PT Red Planet Indonesia Tbk,PSKT.JK,-7.11,0.638
+250,PT Anugerah Kagum Karya Utama Tbk,AKKU.JK,-7.78,0.7
+251,PT Mitra Pack Tbk,PTMP.JK,-10.73,0.968
+252,PT Bhuwanatala Indah Permai Tbk,BIPP.JK,-5.72,0.502
+253,PT Steel Pipe Industry of Indonesia Tbk,ISSP.JK,-2.04,0.166
+254,PT Andalan Perkasa Abadi Tbk,NASA.JK,-8.42,0.694
+255,"PT. Andira Agro, Tbk",ANDI.JK,-9.48,0.783
+256,PT Island Concepts Indonesia Tbk,ICON.JK,-7.57,0.615
+257,"PT. Bank Pembangunan Daerah Banten, Tbk",BEKS.JK,-8.64,0.7
+258,PT Indo Komoditi Korpora Tbk,INCF.JK,-8.33,0.665
+259,PT Greenwood Sejahtera Tbk,GWSA.JK,-2.23,0.17
+260,PT Meta Epsi Tbk.,MTPS.JK,-13.15,0.994
+261,PT ESSA Industries Indonesia Tbk.,ESSA.JK,-8.14,0.532
+262,PT Indopoly Swakarsa Industry Tbk,IPOL.JK,-3.34,0.211
+263,PT Mahkota Group Tbk,MGRO.JK,-4.91,0.291
+264,PT Langgeng Makmur Industri Tbk,LMPI.JK,-6.25,0.371
+265,PT. Map Boga Adiperkasa Tbk,MAPB.JK,-6.06,0.356
+266,PT Menteng Heritage Realty Tbk,HRME.JK,-8.37,0.49
+267,PT Metrodata Electronics Tbk,MTDL.JK,-3.99,0.225
+268,PT Digital Mediatama Maxima Tbk,DMMX.JK,-16.0,0.944
+269,PT Radana Bhaskara Finance Tbk,HDFA.JK,-7.33,0.412
+270,PT Lippo Karawaci Tbk,LPKR.JK,-6.94,0.385
+271,PT BFI Finance Indonesia Tbk,BFIN.JK,-5.43,0.294
+272,PT WEHA Transportasi Indonesia Tbk,WEHA.JK,-7.45,0.402
+273,PT Catur Sentosa Adiprana Tbk,CSAP.JK,-5.56,0.288
+274,PT Astra International Tbk,ASII.JK,-4.16,0.203
+275,PT Buyung Poetra Sembada Tbk,HOKI.JK,-10.82,0.53
+276,"PT Campina Ice Cream Industry, Tbk.",CAMP.JK,-6.96,0.327
+277,PT Putra Rajawali Kencana Tbk,PURA.JK,-18.03,0.879
+278,PT Mitra International Resources Tbk,MIRA.JK,-17.31,0.835
+279,PT Sarana Meditama Metropolitan Tbk,SAME.JK,-7.26,0.315
+280,PT Agung Semesta Sejahtera Tbk,TARA.JK,-17.32,0.785
+281,PT Multi Bintang Indonesia Tbk,MLBI.JK,-5.42,0.23
+282,PT Nippon Indosari Corpindo Tbk,ROTI.JK,-4.26,0.179
+283,PT Provident Investasi Bersama Tbk,PALM.JK,-12.28,0.533
+284,PT Bank Mayapada Internasional Tbk,MAYA.JK,-10.59,0.448
+285,PT Ciputra Development Tbk,CTRA.JK,-6.58,0.262
+286,PT Kimia Farma Tbk,KAEF.JK,-18.65,0.756
+287,PT Arwana Citramulia Tbk,ARNA.JK,-7.13,0.271
+288,PT Diamond Citra Propertindo Tbk,DADA.JK,-19.4,0.754
+289,PT Telefast Indonesia Tbk,TFAS.JK,-33.33,1.388
+290,PT Aspirasi Hidup Indonesia Tbk,ACES.JK,-11.85,0.436
+291,PT Cashlez Worldwide Indonesia Tbk,CASH.JK,-17.15,0.646
+292,PT Kapuas Prima Coal Tbk,ZINC.JK,-21.61,0.818
+293,PT Megalestari Epack Sentosaraya Tbk,EPAC.JK,-19.47,0.727
+294,PT Asia Pacific Fibers Tbk,POLY.JK,-21.3,0.796
+295,PT Visi Telekomunikasi Infrastruktur Tbk,GOLD.JK,-6.81,0.23
+296,PT Tripar Multivision Plus Tbk,RAAM.JK,-18.61,0.65
+297,PT Sinar Eka Selaras Tbk,ERAL.JK,-11.56,0.388
+298,PT Bank Panin Dubai Syariah Tbk,PNBS.JK,-6.52,0.213
+299,PT. Indika Energy Tbk,INDY.JK,-12.24,0.401
+300,PT Kobexindo Tractors Tbk,KOBX.JK,-16.04,0.52
+301,PT Chitose Internasional Tbk,CINT.JK,-8.39,0.259
+302,PT Platinum Wahab Nusantara Tbk,TGUK.JK,-14.69,0.464
+303,PT Emdeki Utama Tbk,MDKI.JK,-3.56,0.106
+304,PT Indomobil Multi Jasa Tbk,IMJS.JK,-16.07,0.505
+305,PT Trias Sentosa Tbk,TRST.JK,-8.25,0.249
+306,PT Chemstar Indonesia Tbk,CHEM.JK,-16.63,0.51
+307,PT TBS Energi Utama Tbk,TOBA.JK,-21.08,0.655
+308,Global Sukses Digital Tbk.,DOSS.JK,-35.19,1.189
+309,PT Tanah Laut Tbk,INDX.JK,-19.83,0.611
+310,PT Teladan Prima Agro Tbk,TLDN.JK,-5.79,0.163
+311,PT Intikeramik Alamasri Industri Tbk,IKAI.JK,-23.79,0.736
+312,PT Pembangunan Graha Lestari Indah Tbk,PGLI.JK,-16.53,0.489
+313,PT Ketrosden Triasmitra,KETR.JK,-10.42,0.298
+314,PT Mizuho Leasing Indonesia Tbk,VRNA.JK,-7.43,0.209
+315,PT MNC Sky Vision Tbk,MSKY.JK,-28.15,0.852
+316,PT Bank China Construction Bank Indonesia Tbk,MCOR.JK,-8.53,0.229
+317,PT Diagnos Laboratorium Utama Tbk,DGNS.JK,-18.85,0.513
+318,PT Bakrieland Development Tbk,ELTY.JK,-22.51,0.623
+319,PT Adhi Karya (Persero) Tbk,ADHI.JK,-19.63,0.523
+320,PT Bank Amar Indonesia Tbk,AMAR.JK,-16.14,0.418
+321,PT Net Visi Media Tbk,NETV.JK,-25.74,0.698
+322,PT PP (Persero) Tbk,PTPP.JK,-20.99,0.55
+323,PT Sreeya Sewu Indonesia Tbk,SIPD.JK,-17.67,0.452
+324,PT Archi Indonesia Tbk,ARCI.JK,-10.77,0.26
+325,PT Yanaprima Hastapersada Tbk,YPAS.JK,-16.11,0.4
+326,PT Bukit Darmo Property Tbk,BKDP.JK,-17.64,0.433
+327,PT Garuda Maintenance Facility Aero Asia Tbk,GMFI.JK,-13.4,0.318
+328,PT Bhakti Multi Artha Tbk,BHAT.JK,-15.19,0.361
+329,PT Modernland Realty Tbk,MDLN.JK,-11.93,0.278
+330,PT Grahaprima Suksesmandiri Tbk,GTRA.JK,-23.61,0.585
+331,PT Modern Internasional Tbk,MDRN.JK,-27.43,0.688
+332,PT Mulia Industrindo Tbk,MLIA.JK,-9.92,0.225
+333,PT Woori Finance Indonesia Tbk,BPFI.JK,-19.44,0.452
+334,PT Satyamitra Kemas Lestari Tbk,SMKL.JK,-19.45,0.451
+335,PT Kalbe Farma Tbk.,KLBF.JK,-8.49,0.185
+336,PT Berlian Laju Tanker Tbk,BLTA.JK,-19.12,0.435
+337,PT FKS Food Sejahtera Tbk,AISA.JK,-12.34,0.267
+338,PT Electronic City Indonesia Tbk,ECII.JK,-26.95,0.625
+339,PT Global Sukses Solusi Tbk,RUNS.JK,-27.57,0.64
+340,PT Optima Prima Metal Sinergi Tbk,OPMS.JK,-17.86,0.39
+341,PT Acset Indonusa Tbk,ACST.JK,-18.23,0.398
+342,PT Saratoga Investama Sedaya Tbk,SRTG.JK,-17.18,0.369
+343,PT DMS Propertindo Tbk,KOTA.JK,-27.9,0.634
+344,PT Tera Data Indonusa Tbk,AXIO.JK,-19.12,0.412
+345,PT Mitrabara Adiperdana Tbk,MBAP.JK,-20.88,0.448
+346,PT Pelat Timah Nusantara Tbk,NIKL.JK,-29.11,0.654
+347,PT Teknologi Karya Digital Nusa Tbk,TRON.JK,-24.86,0.544
+348,PT Eagle High Plantations Tbk,BWPT.JK,-9.66,0.192
+349,PT Communication Cable Systems Indonesia Tbk,CCSI.JK,-16.17,0.332
+350,PT Supreme Cable Manufacturing & Commerce Tbk,SCCO.JK,-23.71,0.495
+351,PT Pakuwon Jati Tbk,PWON.JK,-12.05,0.235
+352,PT Wijaya Karya Beton Tbk,WTON.JK,-21.81,0.443
+353,PT Graha Andrasentra Propertindo Tbk,JGLE.JK,-29.68,0.631
+354,PT Global Digital Niaga Tbk,BELI.JK,-3.11,0.057
+355,PT Bank Maybank Indonesia Tbk,BNII.JK,-9.16,0.171
+356,PT Indocement Tunggal Prakarsa Tbk,INTP.JK,-15.4,0.295
+357,PT Royal Prima Tbk,PRIM.JK,-31.68,0.665
+358,PT Yelooo Integra Datanet Tbk,YELO.JK,-27.17,0.554
+359,PT Matahari Department Store Tbk,LPPF.JK,-20.23,0.393
+360,PT. Jasnita Telekomindo Tbk,JAST.JK,-20.11,0.39
+361,PT Mitra Angkasa Sejahtera Tbk,BAUT.JK,-23.69,0.468
+362,PT Itama Ranoraya Tbk,IRRA.JK,-26.83,0.538
+363,PT Equity Development Investment Tbk,GSMF.JK,-14.03,0.26
+364,PT Asuransi Jasa Tania Tbk,ASJT.JK,-7.08,0.126
+365,PT Ramayana Lestari Sentosa Tbk,RALS.JK,-11.18,0.203
+366,PT Asahimas Flat Glass Tbk,AMFG.JK,-15.38,0.281
+367,PT Gihon Telekomunikasi Indonesia Tbk,GHON.JK,-7.12,0.122
+368,PT Lippo Cikarang Tbk,LPCK.JK,-21.13,0.379
+369,PT Multi Garam Utama Tbk,FOLK.JK,-21.57,0.383
+370,PT Bank QNB Indonesia Tbk,BKSW.JK,-23.21,0.41
+371,PT Darya-Varia Laboratoria Tbk,DVLA.JK,-10.5,0.173
+372,PT Semen Indonesia (Persero) Tbk,SMGR.JK,-19.72,0.341
+373,PT Avia Avian Tbk,AVIA.JK,-15.71,0.261
+374,PT Bakrie & Brothers Tbk,BNBR.JK,-39.03,0.743
+375,PT Sarana Menara Nusantara Tbk.,TOWR.JK,-16.0,0.265
+376,PT Inocycle Technology Group Tbk,INOV.JK,-21.09,0.356
+377,PT Suparma Tbk,SPMA.JK,-18.49,0.305
+378,Intra Golflink Resorts Tbk.,GOLF.JK,-12.31,0.197
+379,PT Bank Oke Indonesia Tbk,DNAR.JK,-22.53,0.377
+380,PT PP Presisi Tbk,PPRE.JK,-23.26,0.391
+381,PT Unilever Indonesia Tbk,UNVR.JK,-23.17,0.379
+382,PT Sidomulyo Selaras Tbk,SDMU.JK,-30.45,0.514
+383,PT Waskita Beton Precast Tbk,WSBP.JK,-36.09,0.621
+384,PT Samator Indo Gas Tbk,AGII.JK,-16.71,0.256
+385,PT Kusuma Kemindo Sentosa Tbk,KKES.JK,-39.17,0.683
+386,PT MNC Energy Investments Tbk,IATA.JK,-30.75,0.5
+387,PT Arita Prima Indonesia Tbk,APII.JK,-6.86,0.097
+388,PT Triniti Dinamik Tbk,TRUE.JK,-35.34,0.586
+389,PT Bank MNC Internasional Tbk,BABP.JK,-26.25,0.407
+390,PT Garudafood Putra Putri Jaya Tbk,GOOD.JK,-11.22,0.159
+391,PT Pool Advista Finance Tbk,POLA.JK,-35.26,0.573
+392,PT Saranacentral Bajatama Tbk,BAJA.JK,-26.44,0.398
+393,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,TLKM.JK,-14.5,0.198
+394,PT Bintang Oto Global Tbk,BOGA.JK,-18.61,0.259
+395,PT Wahana Interfood Nusantara Tbk,COCO.JK,-27.1,0.393
+396,PT Asuransi Maximus Graha Persada Tbk,ASMI.JK,-43.32,0.698
+397,PT Ristia Bintang Mahkotasejati Tbk,RBMS.JK,-20.92,0.292
+398,PT. Garuda Indonesia (Persero) Tbk,GIAA.JK,-33.33,0.493
+399,Ecocare Indo Pasifik Tbk.,HYGN.JK,-17.02,0.228
+400,PT Wijaya Karya Bangunan Gedung Tbk,WEGE.JK,-26.77,0.379
+401,PT Indo Oil Perkasa Tbk,OILS.JK,-22.04,0.303
+402,PT Nusa Konstruksi Enjiniring Tbk,DGIK.JK,-21.49,0.293
+403,PT Maskapai Reasuransi Indonesia Tbk,MREI.JK,-33.49,0.486
+404,PT M Cash Integrasi Tbk,MCAS.JK,-39.59,0.592
+405,PT Uni-Charm Indonesia Tbk,UCID.JK,-18.14,0.237
+406,PT Surya Permata Andalan Tbk,NATO.JK,-29.72,0.414
+407,PT Bank Aladin Syariah Tbk,BANK.JK,-21.01,0.277
+408,PT Makmur Berkah Amanda Tbk,AMAN.JK,-34.4,0.49
+409,PT. Polychem Indonesia Tbk,ADMG.JK,-15.91,0.201
+410,PT Krakatau Steel (Persero) Tbk,KRAS.JK,-27.87,0.375
+411,PT Dharma Samudera Fishing Industries Tbk,DSFI.JK,-16.79,0.21
+412,PT Ashmore Asset Management Indonesia Tbk,AMOR.JK,-26.05,0.342
+413,PT Capitol Nusantara Indonesia Tbk,CANI.JK,-28.55,0.38
+414,PT Merdeka Copper Gold Tbk,MDKA.JK,-30.39,0.403
+415,PT Sunson Textile Manufacturer Tbk,SSTM.JK,-33.62,0.449
+416,PT Vale Indonesia Tbk,INCO.JK,-27.88,0.357
+417,PT Trimitra Prawara Goldland Tbk,ATAP.JK,-32.4,0.42
+418,PT Prodia Widyahusada Tbk,PRDA.JK,-23.24,0.284
+419,UBC Medical Indonesia Tbk.,LABS.JK,-21.51,0.257
+420,PT Gudang Garam Tbk,GGRM.JK,-25.32,0.304
+421,PT Panca Mitra Multiperdana Tbk,PMMP.JK,-43.08,0.572
+422,PT Lupromax Pelumas Indonesia Tbk,LMAX.JK,-61.48,0.907
+423,PT Ekadharma International Tbk,EKAD.JK,-9.05,0.093
+424,PT Bukalapak.com Tbk.,BUKA.JK,-25.47,0.285
+425,PT Centratama Telekomunikasi Indonesia Tbk,CENT.JK,-35.77,0.405
+426,PT Distribusi Voucher Nusantara Tbk,DIVA.JK,-48.53,0.577
+427,Cipta Perdana Lancar Tbk.,PART.JK,-47.59,0.558
+428,Adaro Andalan Indonesia Tbk.,AADI.JK,-56.87,0.708
+429,PT Buana Artha Anugerah Tbk,STAR.JK,-40.27,0.437
+430,PT Semen Baturaja (Persero) Tbk,SMBR.JK,-28.22,0.278
+431,PT Bali Bintang Sejahtera Tbk,BOLA.JK,-36.25,0.365
+432,PT Phapros Tbk,PEHA.JK,-30.52,0.292
+433,PT Mahaka Media Tbk,ABBA.JK,-50.62,0.557
+434,PT Zyrexindo Mandiri Buana Tbk,ZYRX.JK,-35.92,0.314
+435,PT Sarimelati Kencana Tbk,PZZA.JK,-40.36,0.362
+436,PT Adhi Commuter Properti Tbk,ADCP.JK,-14.29,0.107
+437,PT Bank BTPN Syariah Tbk,BTPS.JK,-31.94,0.258
+438,PT Sepatu Bata Tbk.,BATA.JK,-57.64,0.512
+439,PT. Media Nusantara Citra Tbk,MNCN.JK,-35.46,0.253
+440,PT Fast Food Indonesia Tbk,FAST.JK,-39.97,0.27
+441,PT DFI Retail Nusantara Tbk,HERO.JK,-36.61,0.198
+442,Benteng Api Technic Tbk.,BATR.JK,-39.58,0.212
+443,PT Jobubu Jarum Minahasa Tbk,BEER.JK,-47.24,0.224
+444,Raja Roti Cemerlang Tbk.,BRRC.JK,-71.08,0.296
+445,Hero Global Investment Tbk.,HGII.JK,-66.3,0.145
+446,Daya Intiguna Yasa Tbk.,MDIY.JK,-69.59,0.116
