@@ -19,7 +19,7 @@ This repository also archives all data collected and produced by it in several f
 1. ___tickers___ : Folder to store ticker symbols and names as .json files, by ISO country code.
 2. ___prices___ : Folders to store prices for the last 1 and 3 years respectively, by ISO country code.
 3. ___prices_cleaned___ : Folder to store cleaned prices for the last 1 and 3 years, by ISO country code.
-4. ___returns___ : Folders to store returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses.
+4. ___returns___ : Folders to store returns by ISO country code (and for world markets at-large), as according to 1-year or 3-year analyses.
 5. ___final___ : Folders to store cleaned returns by ISO country code (and for world markets at-large, as according to 1-year or 3-year analyses. 
 6. ____viz____ : Folder to store visualization-ready datasets for equities on Tableau, as according to 1-year or 3-year returns.
 
