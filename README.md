@@ -14,6 +14,7 @@ It comprises the following Python scripts :
 7. ___```create_viz.py``` :___ To create Tableau-ready datasets for visualization.
 
 ___The package must be run in the above order to ensure an error-free and smooth experience.___ Scripts must not be run more than once a month. Running the package more than once a month will not produce updated results, as returns are calculated on a monthly basis, as of the last trading day in the previous month.
+___In order to produce updated results at the beginning of each month, scripts should be run only after the first worldwide trading day in that month has passed.___
 
 This repository also archives all data collected and produced by it in several folders, by date :
 1. ___tickers___ : Folder to store ticker symbols and names as .json files, by ISO country code.
