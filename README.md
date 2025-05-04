@@ -2,7 +2,7 @@
 
 ___*ACKNOWLEDGEMENT*___ : This project uses [```yfinance```](https://pypi.org/project/yfinance/). The latest version of the module must be installed in any environment, in order to be able to use this repository.
 
-A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world (for 50 countries) based on risk-adjusted return. One can use this information to build their investment portfolio based on their own preferences for risk, return and volatility.
+A finance project meant at making it easier for people to make investing decisions around the world, this GitHub repository uses data from YahooFinance to rank and list equities from around the world (for 50 countries) based on historical (1-year and 3-year) risk-adjusted return. One can use this information to build their investment portfolio according to their own preferences for risk, return and volatility.
 It comprises the following Python scripts :
 
 1. ___```market_index.py``` :___ To rank stock markets around the world, based on the respective performances of their market indices over the last 1 and 3 years, in terms of risk-adjusted return.
