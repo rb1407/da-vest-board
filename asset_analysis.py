@@ -36,13 +36,13 @@ def calc_stats(prices):
     return_stats['Return'] = return_stats['Return'].round(2)
     return_stats['Risk'] = return_stats['std']*math.sqrt(12) # Annualized risk
     return_stats['Risk'] = return_stats['Risk'].round(3)
-    return_stats['sharpe'] = return_stats['mean']/return_stats['std']
+    return_stats['sharpe'] = return_stats['mean']/return_stats['std'] # Assuming a risk-free rate of 0% in the market at-large
     return return_stats
 
 """
 Calculate asset volatility, relative to market index
 """
-def calc_treynor(returns, index, return_stats):
+def calc_beta(returns, index, return_stats):
     for i in returns.columns:
        if i != index:
          y = returns[i]
@@ -92,7 +92,7 @@ for i in looper:
         
         # If market index figures available
         if(indices.loc[mindex, "Market Index Ticker"] in r.columns):
-           final = sort_assets(calc_treynor(r, indices.loc[mindex, 'Market Index Ticker'], calc_stats(r)))
+           final = sort_assets(calc_beta(r, indices.loc[mindex, 'Market Index Ticker'], calc_stats(r)))
         else:
            final = sort_assets(calc_stats(r))
         final = join_tickers(final, read_tickers(i))
