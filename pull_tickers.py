@@ -94,4 +94,4 @@ os.makedirs(f"tickers/{month-1}_{year}", exist_ok = True)
 for i in indices.index:
     write_tickers(f"tickers/{month-1}_{year}/{i}.json", parse_ticker_queries('region', i, yf.EquityQuery))
 
-write_tickers("tickers/{month-1}_{year}/usf.json", parse_ticker_queries('exchange', 'NAS', yf.FundQuery))
+write_tickers(f"tickers/{month-1}_{year}/usf.json", parse_ticker_queries('exchange', 'NAS', yf.FundQuery))
