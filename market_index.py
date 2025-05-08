@@ -58,7 +58,7 @@ data['Month'] = data['Date'].dt.month
 data['Lead_Month'] = data['Month'].shift(-1)
 data = data[data['Month'] != data['Lead_Month']]
 data = data.drop(['Month', 'Lead_Month'], axis = 1).set_index('Date')
-data = data[:-1] # Drop figures for current date
+data = data[:-1] # Drop figures for present date
 
 calc_market_returns(data, "3y")
 calc_market_returns(data[-12:], "1y")
