@@ -1,0 +1,327 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"Cencora, Inc.",COR.MX,45.57,0.126,,
+2,Nestlé S.A.,NESNN.MX,25.73,0.127,,
+3,Boston Scientific Corporation,BSX.MX,39.92,0.196,0.269,No
+4,"Corporación Actinver, S. A. B. de C. V.",ACTINVRB.MX,20.63,0.11,,
+5,SAP SE,SAPN.MX,44.96,0.24,0.386,Yes
+6,Howmet Aerospace Inc.,HWM.MX,61.91,0.317,0.101,No
+7,"INVEX Controladora, S.A.B. de C.V.",INVEXA.MX,5.89,0.04,0.015,Yes
+8,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",MCN.MX,41.52,0.251,,
+9,"Brown & Brown, Inc.",BRO.MX,41.27,0.257,,
+10,The Progressive Corporation,PGR.MX,38.68,0.243,0.339,No
+11,"Copart, Inc.",CPRT.MX,34.6,0.222,0.042,Yes
+12,"The TJX Companies, Inc.",TJX.MX,27.73,0.187,0.046,Yes
+13,General Electric Company,GE.MX,58.66,0.358,0.848,Yes
+14,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA.MX,41.52,0.269,0.818,Yes
+15,Eli Lilly and Company,LLY.MX,50.53,0.321,0.24,No
+16,"Uber Technologies, Inc.",UBER.MX,63.91,0.4,0.497,Yes
+17,"Gentera, S.A.B. de C.V.",GENTERA.MX,43.15,0.29,0.752,Yes
+18,Ferrari N.V.,RACEN.MX,39.89,0.271,0.186,Yes
+19,GENIUS,GENIUS21.MX,34.24,0.24,0.27,Yes
+20,"Laureate Education, Inc.",LAUR.MX,31.31,0.224,,
+21,Costco Wholesale Corporation,COST.MX,33.12,0.241,0.227,Yes
+22,GE Vernova Inc.,GEV.MX,60.49,0.403,,
+23,"Grupo Sports World, S.A.B. de C.V.",SPORTS.MX,44.43,0.317,0.389,Yes
+24,Welltower Inc.,WELL.MX,37.03,0.277,,
+25,"Grupo Comercial Chedraui, S.A.B. de C.V.",CHDRAUIB.MX,40.73,0.305,0.879,Yes
+26,"Arca Continental, S.A.B. de C.V.",AC.MX,22.26,0.183,0.56,Yes
+27,"Quálitas Controladora, S.A.B. de C.V.",Q.MX,41.05,0.315,0.484,Yes
+28,"Corporación Moctezuma, S.A.B. de C.V.",CMOCTEZ.MX,14.25,0.121,0.118,Yes
+29,Arista Networks Inc,ANET.MX,57.83,0.423,0.616,No
+30,Nu Holdings Ltd.,NUN.MX,65.21,0.47,0.25,No
+31,Booking Holdings Inc.,BKNG.MX,34.84,0.281,0.439,Yes
+32,Trip.com Group Limited,TCOMN.MX,50.63,0.391,0.49,No
+33,"Meta Platforms, Inc.",META.MX,55.65,0.426,0.178,No
+34,"Coca-Cola FEMSA, S.A.B. de C.V.",KOFUBL.MX,21.6,0.188,0.585,Yes
+35,"Grupo Herdez, S.A.B. de C.V.",HERDEZ.MX,27.47,0.234,0.374,Yes
+36,Sea Limited,SEN.MX,68.58,0.512,,
+37,"Fomento Económico Mexicano, S.A.B. de C.V.",FEMSAUB.MX,13.01,0.12,0.295,Yes
+38,Nacional Financiera Snc - Institucion De Banca De Desarrollo Fibratc14 ETF,FIBRATC14.MX,18.25,0.166,,
+39,QUANTA SERVICES,PWR.MX,32.57,0.282,,
+40,Cintas Corporation,CTAS.MX,30.85,0.269,0.11,Yes
+41,JPMorgan Chase & Co.,JPM.MX,26.84,0.249,0.521,Yes
+42,Berkshire Hathaway Inc.,BRKB.MX,21.84,0.207,0.26,Yes
+43,"Cadence Design Systems, Inc.",CDNS.MX,30.19,0.279,0.128,No
+44,"Intuitive Surgical, Inc.",ISRG.MX,38.89,0.349,0.682,Yes
+45,"MercadoLibre, Inc.",MELIN.MX,44.97,0.401,,
+46,"Fomento Económico Mexicano, S.A.B. de C.V.",FEMSAUBD.MX,17.55,0.176,0.605,Yes
+47,"Banco Actinver S.A., Institución de Banca Múltiple, Grupo Financiero Actinver",FEXI21.MX,4.8,0.051,,
+48,"Palo Alto Networks, Inc.",PANW.MX,39.11,0.366,0.169,Yes
+49,iShares S&P 500 Peso Hedged TRAC,IVVPESOISHRS.MX,15.83,0.162,0.54,Yes
+50,"Chipotle Mexican Grill, Inc.",CMG.MX,29.14,0.286,0.098,No
+51,"CrowdStrike Holdings, Inc.",CRWD.MX,60.9,0.538,0.289,No
+52,FIBRA Macquarie México,FIBRAMQ12.MX,16.76,0.174,0.69,Yes
+53,International Business Machines Corporation,IBM.MX,23.9,0.244,0.123,Yes
+54,"Alterna Asesoría Internacional, S.A.B. de C.V.",ALTERNAB.MX,15.9,0.17,0.027,No
+55,"Gruma, S.A.B. de C.V.",GRUMAB.MX,23.08,0.241,0.619,Yes
+56,"ServiceNow, Inc.",NOWW.MX,32.4,0.328,0.403,Yes
+57,KLA Corporation,KLAC.MX,29.23,0.306,0.241,No
+58,"Cydsa, S.A.B. de C.V.",CYDSASAA.MX,20.34,0.224,0.107,Yes
+59,Oracle Corporation,ORCL.MX,31.44,0.333,0.218,Yes
+60,Dell Technologies Inc.,DELLC.MX,29.63,0.317,0.231,No
+61,"Promotora Ambiental, S.A.B. de C.V.",PASAB.MX,59.12,0.605,0.384,Yes
+62,Ecolab Inc.,ECL.MX,16.58,0.199,0.218,No
+63,Mastercard Incorporated,MA.MX,17.87,0.218,0.451,Yes
+64,"Martin Marietta Materials, Inc.",MLM.MX,17.25,0.214,0.206,No
+65,Siemens Aktiengesellschaft,SIEN.MX,30.37,0.36,0.273,Yes
+66,"Ross Stores, Inc.",ROST.MX,22.49,0.274,0.29,Yes
+67,"The Goldman Sachs Group, Inc.",GS.MX,24.5,0.298,0.64,Yes
+68,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",OMAB.MX,29.29,0.355,1.377,Yes
+69,"Nasdaq, Inc.",NDAQ.MX,18.06,0.231,0.094,No
+70,"Ollamani, S.A.B.",AGUILASCPO.MX,23.51,0.294,,
+71,"Builders FirstSource, Inc.",BLDR.MX,31.48,0.383,0.457,Yes
+72,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",ASURB.MX,20.09,0.256,0.932,Yes
+73,American Express Company,AXP.MX,20.69,0.267,0.657,Yes
+74,Fibra Nova,FNOVA17.MX,7.24,0.099,0.045,No
+75,"Corporativo Fragua, S.A.B. de C.V.",FRAGUAB.MX,25.77,0.331,0.383,No
+76,"The Gap, Inc.",GAP1.MX,57.02,0.659,1.775,Yes
+77,Carrier Global Corporation,CARR.MX,18.62,0.247,0.265,No
+78,FIBRA Terrafina,TERRA13.MX,17.12,0.23,0.811,Yes
+79,"Grupo Carso, S.A.B. de C.V.",GCARSOA1.MX,27.77,0.363,1.523,Yes
+80,"Crocs, Inc.",CROX.MX,27.43,0.36,0.206,Yes
+81,Taiwan Semiconductor Manufacturing Company Limited,TSMN.MX,29.26,0.383,0.27,Yes
+82,QVGMEX es un ETF,QVGMEX18.MX,12.82,0.181,,
+83,Golar LNG Limited,GLNGN.MX,26.9,0.363,0.695,No
+84,Shake Shack Inc.,SHAK.MX,35.71,0.467,0.027,Yes
+85,Microsoft Corporation,MSFT.MX,15.96,0.225,0.018,Yes
+86,UBS Group AG,UBSN.MX,20.9,0.294,0.099,No
+87,FIBRA Prologis,FIBRAPL14.MX,17.37,0.249,0.645,Yes
+88,"Salesforce, Inc.",CRM.MX,26.72,0.372,0.689,Yes
+89,Southern Copper Corporation,SCCO.MX,24.76,0.353,0.633,Yes
+90,Intuit Inc.,INTU.MX,17.56,0.258,0.186,Yes
+91,"American International Group, Inc.",AIG.MX,14.49,0.217,0.35,Yes
+92,United States Steel Corporation,X.MX,35.29,0.493,0.775,Yes
+93,"Cinemark Holdings, Inc.",CNK.MX,34.91,0.506,0.44,Yes
+94,"First Solar, Inc.",FSLR.MX,39.91,0.583,0.365,Yes
+95,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",GAPB.MX,23.32,0.364,1.328,Yes
+96,"Amazon.com, Inc.",AMZN.MX,21.76,0.347,0.155,Yes
+97,Apple Inc.,AAPL.MX,16.5,0.271,0.238,Yes
+98,RTX Corporation,RTX.MX,13.98,0.234,0.027,No
+99,TAL Education Group,TALN.MX,49.49,0.734,,
+100,eBay Inc.,EBAY.MX,16.77,0.281,0.62,Yes
+101,Caterpillar Inc.,CAT.MX,20.15,0.337,0.822,Yes
+102,"BlackRock, Inc.",BLK.MX,15.73,0.271,0.555,Yes
+103,Alphabet Inc.,GOOG.MX,16.29,0.282,0.213,Yes
+104,Alphabet Inc.,GOOGL.MX,15.74,0.277,0.179,Yes
+105,McDonald's Corporation,MCD.MX,10.62,0.191,0.327,Yes
+106,"Grupo KUO, S.A.B. de C.V.",KUOA.MX,7.96,0.145,0.034,Yes
+107,"Corporación Inmobiliaria Vesta, S.A.B. de C.V.",VESTA.MX,14.05,0.25,0.983,Yes
+108,"HCA Healthcare, Inc.",HCA.MX,16.79,0.298,0.395,Yes
+109,FibraHotel,FIHO12.MX,13.41,0.243,0.002,Yes
+110,Unilever PLC,ULN.MX,10.65,0.197,0.0,No
+111,"Simon Property Group, Inc.",SPG.MX,16.44,0.297,0.683,Yes
+112,AbbVie Inc.,ABBV.MX,13.37,0.247,0.253,No
+113,"Domino's Pizza, Inc.",DPZ.MX,17.05,0.316,0.324,Yes
+114,"Kimberly-Clark de México, S. A. B. de C. V.",KIMBERA.MX,13.37,0.254,1.137,Yes
+115,Deere & Company,DE.MX,14.19,0.269,0.278,Yes
+116,"Vinte Viviendas Integrales, S.A.B. de C.V.",VINTE.MX,8.65,0.169,0.208,No
+117,PDD Holdings Inc.,PDDN.MX,33.27,0.594,,
+118,StoneCo Ltd.,STNEN.MX,22.22,0.414,0.441,Yes
+119,Regional S.A.B. de C.V.,RA.MX,15.83,0.305,1.032,Yes
+120,The Boeing Company,BA.MX,19.07,0.366,0.8,Yes
+121,AT&T Inc.,T.MX,12.71,0.254,0.307,Yes
+122,"Waste Management, Inc.",WMI.MX,11.11,0.224,0.417,No
+123,"Zscaler, Inc.",ZS.MX,28.94,0.558,0.849,No
+124,Citigroup Inc.,C.MX,13.91,0.289,0.753,Yes
+125,"Médica Sur, S.A.B. de C.V.",MEDICAB.MX,10.78,0.229,0.036,Yes
+126,Veeva Systems Inc.,VEEV.MX,17.15,0.355,0.482,No
+127,PACKAGING CORP OF AMERICA,PKG.MX,16.49,0.347,,
+128,"CEMEX, S.A.B. de C.V.",CEMEXCPO.MX,16.21,0.344,1.619,Yes
+129,"Chewy, Inc.",CHWY.MX,31.77,0.637,0.188,Yes
+130,"Marriott International, Inc.",MAR.MX,11.84,0.26,0.092,Yes
+131,Lam Research Corporation,LRCX.MX,21.32,0.457,0.451,Yes
+132,"Applied Materials, Inc.",AMAT.MX,14.85,0.34,0.567,Yes
+133,"Pinterest, Inc.",PINS.MX,16.42,0.378,0.006,No
+134,The Sherwin-Williams Company,SHW.MX,12.58,0.296,0.48,Yes
+135,"Grupo Financiero Inbursa, S.A.B. de C.V.",GFINBURO.MX,14.02,0.332,1.506,Yes
+136,"Axtel, S.A.B. de C.V.",AXTELCPO.MX,28.2,0.634,0.004,No
+137,"GCC, S.A.B. de C.V.",GCC.MX,10.68,0.263,0.781,Yes
+138,"Okta, Inc.",OKTA.MX,22.62,0.536,0.807,No
+139,MSCI Inc.,MSCI.MX,11.56,0.293,0.233,Yes
+140,Toyota Motor Corporation,TMN.MX,8.96,0.236,0.348,No
+141,"Wynn Resorts, Limited",WYNN.MX,12.29,0.32,0.47,Yes
+142,Snowflake Inc.,SNOW.MX,18.42,0.469,0.2,No
+143,"Analog Devices, Inc.",ADI.MX,9.48,0.252,0.038,No
+144,"CleanSpark, Inc.",CLSK.MX,46.93,1.088,0.928,Yes
+145,The Coca-Cola Company,KO.MX,6.37,0.181,0.015,Yes
+146,"The Home Depot, Inc.",HD.MX,8.08,0.229,0.324,Yes
+147,"IDEXX Laboratories, Inc.",IDXX.MX,7.75,0.221,0.259,Yes
+148,"Organización Cultiba, S.A.B. de C.V.",CULTIBAB.MX,8.93,0.253,0.564,No
+149,"Grupo México, S.A.B. de C.V.",GMEXICOB.MX,10.38,0.296,1.239,Yes
+150,"Church & Dwight Co., Inc.",CHD.MX,6.06,0.186,0.241,No
+151,General Motors Company,GM.MX,12.01,0.361,0.773,Yes
+152,"CMR, S.A.B. de C.V.",CMRB.MX,20.16,0.611,0.391,Yes
+153,The Charles Schwab Corporation,SCHW.MX,11.28,0.359,0.098,No
+154,Vanguard FTSE Biva Mexico Equity ETF,VMEX19.MX,4.74,0.155,,
+155,"Hoteles City Express, S.A.B. de C.V.",HCITY.MX,13.47,0.439,0.924,Yes
+156,Abbott Laboratories,ABT.MX,6.47,0.228,0.042,Yes
+157,"Atossa Therapeutics, Inc.",ATOS.MX,23.1,0.772,1.517,Yes
+158,Tractor Supply Company,TSCO1.MX,5.89,0.212,0.164,No
+159,VICI Properties Inc.,VICI.MX,6.54,0.235,0.021,Yes
+160,ETF Diario Inverso de Bolsa (DIABLOI),DIABLOI10.MX,4.7,0.174,0.972,No
+161,"Fideicomiso Irrevocable No. F/3277 en Banco Invex, S. A. Institución de Banca Múltiple, INVEX Grupo",EDUCA18.MX,3.78,0.144,0.381,No
+162,Amgen Inc.,AMGN.MX,7.39,0.276,0.171,Yes
+163,"Grupo Nacional Provincial, S.A.B.",GNP.MX,4.85,0.185,0.198,Yes
+164,The Procter & Gamble Company,PG.MX,4.84,0.187,0.239,No
+165,Exxon Mobil Corporation,XOM.MX,7.15,0.275,0.309,Yes
+166,BBB FOODS INC,TBBBN.MX,8.45,0.324,,
+167,IPC Mexico,^MXX,4.34,0.171,1.0,Yes
+168,GameStop Corp.,GME.MX,21.87,0.811,0.498,Yes
+169,"GMéxico Transportes, S.A.B. de C.V.",GMXT.MX,4.63,0.188,0.447,Yes
+170,"MetLife, Inc.",MET.MX,6.56,0.265,0.05,Yes
+171,BlackBerry Limited,BBN.MX,15.01,0.586,,
+172,"Minera Frisco, S.A.B. de C.V.",MFRISCOA-1.MX,8.12,0.329,0.625,Yes
+173,ETF - Diario Doble de Bolsa (ANGELD),ANGELD10.MX,8.83,0.359,,
+174,GE HealthCare Technologies Inc.,GEHC.MX,7.49,0.313,,
+175,Accenture plc,ACNN.MX,8.7,0.364,,
+176,"JD.com, Inc.",JDN.MX,15.58,0.635,,
+177,"Bit Digital, Inc.",BTBTN.MX,20.23,0.814,,
+178,Honeywell International Inc.,HON.MX,5.25,0.239,0.285,Yes
+179,Bank of America Corporation,BAC.MX,6.34,0.287,0.676,Yes
+180,Duke Energy Corporation,DUK.MX,4.02,0.19,0.186,No
+181,"Micron Technology, Inc.",MU.MX,7.71,0.359,0.77,Yes
+182,"Altria Group, Inc.",MO.MX,5.37,0.253,0.067,Yes
+183,"Alsea, S.A.B. de C.V.",ALSEA.MX,6.25,0.296,0.996,Yes
+184,Lockheed Martin Corporation,LMT.MX,4.7,0.229,0.081,Yes
+185,"Confluent, Inc.",CFLT.MX,10.13,0.501,0.122,No
+186,"Advanced Micro Devices, Inc.",AMD.MX,9.78,0.486,0.665,Yes
+187,QUALCOMM Incorporated,QCOM.MX,5.74,0.299,0.736,Yes
+188,Northrop Grumman Corporation,NOC.MX,4.85,0.27,0.625,No
+189,Las Vegas Sands Corp.,LVS.MX,6.49,0.358,0.263,Yes
+190,"Airbnb, Inc.",ABNB.MX,6.79,0.385,0.784,Yes
+191,"Old Dominion Freight Line, Inc.",ODFL.MX,5.82,0.345,0.046,No
+192,"Roku, Inc.",ROKU.MX,12.58,0.735,1.944,Yes
+193,Otis Worldwide Corporation,OTIS.MX,3.81,0.251,0.042,No
+194,"DuPont de Nemours, Inc.",DD.MX,3.19,0.255,0.392,No
+195,FedEx Corporation,FDX.MX,4.01,0.345,0.188,Yes
+196,"Lyft, Inc.",LYFT.MX,7.16,0.626,1.718,Yes
+197,"Grupo Gigante, S. A. B. de C. V.",GIGANTE.MX,2.6,0.245,0.1,No
+198,Barrick Gold Corporation,GOLDN.MX,3.06,0.3,,
+199,"Grupo Industrial Saltillo, S.A.B. de C.V.",GISSAA.MX,2.74,0.281,0.31,No
+200,"La Comer, S.A.B. de C.V.",LACOMERUBC.MX,2.26,0.244,0.635,Yes
+201,Freeport-McMoRan Inc.,FCX.MX,3.27,0.377,1.168,Yes
+202,3M Company,MMM.MX,2.71,0.341,0.521,Yes
+203,Adobe Inc.,ADBE.MX,3.23,0.406,0.451,Yes
+204,"Diamondback Energy, Inc.",FANG.MX,2.84,0.379,0.489,Yes
+205,MGM Resorts International,MGM.MX,2.2,0.347,1.18,Yes
+206,"Lumen Technologies, Inc.",LUMN.MX,7.87,1.212,0.03,No
+207,Union Pacific Corporation,UNP.MX,1.31,0.21,0.032,No
+208,"Peloton Interactive, Inc.",PTON.MX,4.96,0.821,1.848,Yes
+209,"Grupo Bimbo, S.A.B. de C.V.",BIMBOA.MX,1.48,0.262,0.98,Yes
+210,"Paycom Software, Inc.",PAYC.MX,2.33,0.458,0.542,No
+211,Valero Energy Corporation,VLO.MX,1.78,0.372,0.631,Yes
+212,"Consorcio ARA, S. A. B. de C. V.",ARA.MX,1.18,0.27,0.856,Yes
+213,"The PNC Financial Services Group, Inc.",PNC.MX,1.1,0.275,0.235,No
+214,Eni S.p.A.,EN.MX,0.84,0.224,0.176,Yes
+215,Nokia Oyj,NOKN.MX,0.98,0.28,0.182,Yes
+216,Texas Instruments Incorporated,TXN.MX,0.72,0.241,0.145,Yes
+217,Fideicomiso Irrevocable F/2061 FHipo,FHIPO14.MX,0.22,0.122,0.084,No
+218,Vulcan Materials Company,VMC.MX,0.36,0.322,,
+219,"Ulta Beauty, Inc.",ULTA.MX,0.33,0.309,0.222,No
+220,"BioCryst Pharmaceuticals, Inc.",BCRX.MX,0.35,0.544,0.264,No
+221,Zoetis Inc.,ZTS.MX,-0.03,0.239,0.072,Yes
+222,Petróleo Brasileiro S.A. - Petrobras,PBRN.MX,-0.17,0.342,0.054,Yes
+223,"Super Micro Computer, Inc.",SMCI.MX,-0.59,0.866,,
+224,"Merck & Co., Inc.",MRK.MX,-0.16,0.225,0.135,No
+225,PVH Corp.,PVH.MX,-0.36,0.252,0.078,Yes
+226,"Best Buy Co., Inc.",BBY.MX,-0.9,0.401,0.059,No
+227,"Prologis, Inc.",PLD.MX,-1.04,0.326,0.628,Yes
+228,"Fastly, Inc.",FSLY.MX,-3.05,0.705,1.043,Yes
+229,Snap Inc.,SNAP.MX,-2.65,0.6,0.708,Yes
+230,The Walt Disney Company,DIS.MX,-1.62,0.338,0.599,Yes
+231,"Wal-Mart de México, S.A.B. de C.V.",WALMEX.MX,-1.16,0.174,0.794,Yes
+232,Trane Technologies plc,TTN.MX,-1.24,0.184,,
+233,BP p.l.c.,BPN.MX,-1.88,0.277,0.037,No
+234,"EOG Resources, Inc.",EOG.MX,-2.18,0.319,0.292,Yes
+235,Fideicomiso Irrevocable No. F/1523,FIBRAHD15.MX,-1.69,0.228,0.104,No
+236,"PayPal Holdings, Inc.",PYPL.MX,-2.76,0.368,0.651,Yes
+237,"NextEra Energy, Inc.",NEE.MX,-1.9,0.245,0.278,No
+238,"FibroGen, Inc.",FGEN.MX,-8.75,1.086,1.016,Yes
+239,"América Móvil, S.A.B. de C.V.",AMXB.MX,-1.88,0.208,0.678,Yes
+240,Transocean Ltd.,RIGN.MX,-7.0,0.755,,
+241,Danaher Corporation,DHR.MX,-2.42,0.246,0.191,Yes
+242,UnitedHealth Group Incorporated,UNH.MX,-2.84,0.289,0.367,No
+243,"L3Harris Technologies, Inc.",LHX.MX,-3.21,0.303,0.149,Yes
+244,"Nemak, S. A. B. de C. V.",NEMAKA.MX,-4.97,0.467,1.371,Yes
+245,Arcos Dorados Holdings Inc.,ARCON.MX,-4.3,0.379,,
+246,AGNC Investment Corp.,AGNC.MX,-4.03,0.353,0.454,Yes
+247,Schlumberger Limited,SLBN.MX,-4.62,0.39,0.474,Yes
+248,"Baidu, Inc.",BIDUN.MX,-5.41,0.45,0.102,No
+249,UiPath Inc.,PATH.MX,-5.87,0.466,0.172,Yes
+250,Verizon Communications Inc.,VZ.MX,-3.19,0.238,0.058,No
+251,Fibra Plus,FPLUS16.MX,-5.75,0.424,0.027,No
+252,Realty Income Corporation,O.MX,-3.22,0.233,0.455,Yes
+253,Chevron Corporation,CVX.MX,-4.26,0.283,0.318,Yes
+254,Johnson & Johnson,JNJ.MX,-2.76,0.182,0.108,No
+255,"Under Armour, Inc.",UAA.MX,-7.85,0.483,0.846,Yes
+256,Sunrun Inc.,RUN.MX,-14.91,0.813,1.699,Yes
+257,"General Mills, Inc.",GIS.MX,-3.98,0.205,0.286,No
+258,"Hertz Global Holdings, Inc.",HTZ1.MX,-13.41,0.703,0.545,Yes
+259,Comcast Corporation,CMCSA.MX,-5.41,0.258,0.365,Yes
+260,"Etsy, Inc.",ETSY.MX,-9.56,0.461,0.91,Yes
+261,"Grupo Simec, S.A.B. de C.V.",SIMECB.MX,-2.86,0.133,0.171,No
+262,CVS Health Corporation,CVS.MX,-7.13,0.334,0.221,Yes
+263,"Elevance Health, Inc.",ELV.MX,-4.99,0.215,0.076,No
+264,"Corsair Gaming, Inc.",CRSR.MX,-12.76,0.538,0.058,No
+265,JetBlue Airways Corporation,JBLU.MX,-13.7,0.57,0.899,Yes
+266,Wayfair Inc.,W.MX,-15.28,0.639,0.123,Yes
+267,Thermo Fisher Scientific Inc.,TMO.MX,-6.68,0.256,0.276,Yes
+268,The Hershey Company,HSY.MX,-6.55,0.249,0.235,No
+269,Pool Corporation,POOL.MX,-7.78,0.285,0.376,Yes
+270,Southwest Airlines Co.,LUV.MX,-10.14,0.372,0.464,Yes
+271,Alcoa Corporation,AA1.MX,-14.2,0.531,0.93,Yes
+272,"Industrias CH, S. A. B. de C. V.",ICHB.MX,-3.81,0.131,0.284,No
+273,"EPAM Systems, Inc.",EPAM.MX,-12.34,0.439,0.217,No
+274,The Kraft Heinz Company,KHC.MX,-6.49,0.209,0.166,Yes
+275,"Grupo Traxión, S.A.B. de C.V.",TRAXIONA.MX,-13.26,0.432,1.615,Yes
+276,"Tripadvisor, Inc.",TRIP.MX,-14.44,0.451,0.869,Yes
+277,Emeren Group Ltd,SOLN.MX,-19.0,0.606,0.295,Yes
+278,Humana Inc.,HUM.MX,-11.56,0.337,0.369,No
+279,HP Inc.,HPQ.MX,-10.32,0.297,0.37,Yes
+280,"PepsiCo, Inc.",PEP.MX,-5.87,0.158,0.064,No
+281,Global Payments Inc.,GPN.MX,-12.01,0.326,0.36,No
+282,"Becle, S.A.B. de C.V.",CUERVO.MX,-13.76,0.376,0.711,Yes
+283,"Constellation Brands, Inc.",STZ.MX,-7.31,0.19,0.018,Yes
+284,Bristol-Myers Squibb Company,BMY.MX,-10.88,0.271,0.064,No
+285,Volkswagen AG,VOW3N.MX,-8.86,0.215,0.157,Yes
+286,Intel Corporation,INTC.MX,-16.95,0.425,0.835,Yes
+287,Weibo Corporation,WBN.MX,-18.52,0.46,0.466,No
+288,Novo Nordisk A/S,NVON.MX,-14.59,0.351,,
+289,"Petco Health and Wellness Company, Inc.",WOOF.MX,-29.27,0.764,0.489,No
+290,Target Corporation,TGT.MX,-12.61,0.296,0.833,Yes
+291,"Grupo Pochteca, S.A.B. de C.V.",POCHTECB.MX,-6.1,0.138,0.106,No
+292,"Proteak Uno, S.A.B. de C.V.",TEAKCPO.MX,-40.49,1.104,1.22,Yes
+293,"Hasbro, Inc.",HAS.MX,-12.17,0.275,0.058,No
+294,"Enphase Energy, Inc.",ENPH.MX,-26.64,0.624,0.497,Yes
+295,SKECHERS USA INC,SKX.MX,-16.16,0.343,,
+296,"Convertidora Industrial, S.A.B. de C.V.",CONVERA.MX,-15.99,0.336,0.287,No
+297,3D Systems Corporation,DDD.MX,-29.13,0.659,1.512,Yes
+298,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",VOLARA.MX,-26.67,0.591,1.711,Yes
+299,SYMBOTIC INC,SYM.MX,-31.56,0.681,,
+300,The Mosaic Company,MOS.MX,-17.04,0.333,0.698,Yes
+301,"NIKE, Inc.",NKE.MX,-18.05,0.337,0.51,Yes
+302,"Illumina, Inc.",ILMN.MX,-24.07,0.453,0.86,Yes
+303,"Dollar Tree, Inc.",DLTR.MX,-18.06,0.295,0.631,Yes
+304,"Sitios Latinoamérica, S.A.B. de C.V.",LASITE.MX,-27.23,0.465,,
+305,"AMC Entertainment Holdings, Inc.",AMC.MX,-45.56,0.86,0.117,No
+306,Ambev S.A.,ABEVN.MX,-13.41,0.204,,
+307,Beam Therapeutics Inc.,BEAM.MX,-20.76,0.329,,
+308,"ALPEK, S.A.B. de C.V.",ALPEKA.MX,-22.9,0.359,0.623,Yes
+309,ON HLDNG AG,ONONN.MX,-27.49,0.434,,
+310,"Vitro, S.A.B. de C.V.",VITROA.MX,-27.9,0.413,0.133,Yes
+311,"Teladoc Health, Inc.",TDOC.MX,-34.2,0.517,1.34,Yes
+312,APA Corporation,APA.MX,-25.8,0.365,0.456,Yes
+313,"United Parcel Service, Inc.",UPS.MX,-17.88,0.222,0.046,Yes
+314,"Moderna, Inc.",MRNA.MX,-35.37,0.481,0.943,Yes
+315,"Compañía Minera Autlán, S.A.B. de C.V.",AUTLANB.MX,-23.35,0.277,0.116,Yes
+316,Albemarle Corporation,ALB.MX,-34.41,0.437,0.307,Yes
+317,"Advance Auto Parts, Inc.",AAP.MX,-38.33,0.487,0.084,Yes
+318,The Estée Lauder Companies Inc.,EL.MX,-36.36,0.394,0.179,Yes
+319,"Grupe, S.A.B. de C.V.",CIDMEGA.MX,-6.24,0.057,0.026,Yes
+320,"Orbia Advance Corporation, S.A.B. de C.V.",ORBIA.MX,-33.42,0.349,1.075,Yes
+321,"Walgreens Boots Alliance, Inc.",WBA.MX,-33.97,0.336,0.915,Yes
+322,Pfizer Inc.,PFE.MX,-22.3,0.201,0.231,No
+323,ASML Holding N.V.,ASML1N.MX,-41.91,0.311,,
+324,Teva Pharmaceutical Industries Limited,TEVAN.MX,-29.97,0.181,,
+325,Ryanair Holdings plc,RYAAYN.MX,0.0,,,
+326,ARM HOLDINGS PLC,ARMN.MX,-11.93,,,

@@ -1,0 +1,109 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,AEAM Global High Yield (EUR),AGHY.AS,13.44,0.023,,
+2,Amundi Physical Gold ETC C,GOLD.AS,47.44,0.133,0.291,No
+3,Van Lanschot Kempen NV,VLK.AS,40.79,0.141,0.467,Yes
+4,Volta Finance Limited,VTA.AS,34.39,0.145,0.558,Yes
+5,SBM Offshore N.V.,SBMO.AS,44.57,0.198,0.779,Yes
+6,Koninklijke Ahold Delhaize N.V.,AD.AS,36.31,0.167,0.592,Yes
+7,Hydratec Industries NV,HYDRA.AS,28.73,0.152,0.144,Yes
+8,Ferrovial SE,FER.AS,24.91,0.134,0.856,Yes
+9,Coca-Cola Europacific Partners PLC,CCEP.AS,23.94,0.142,0.672,Yes
+10,RELX PLC,REN.AS,22.95,0.15,1.095,Yes
+11,Eurocommercial Properties N.V.,ECMPA.AS,22.8,0.159,1.158,Yes
+12,Wereldhave N.V.,WHA.AS,21.65,0.153,0.346,Yes
+13,Value8 N.V.,VALUE.AS,12.02,0.09,0.116,No
+14,Tetragon Financial Group Limited,TFG.AS,53.62,0.351,0.453,No
+15,NEPI Rockcastle N.V.,NRP.AS,17.13,0.137,0.308,Yes
+16,Flow Traders Ltd.,FLOW.AS,43.57,0.317,0.066,No
+17,NSI N.V.,NSI.AS,22.93,0.192,1.374,Yes
+18,Prosus N.V.,PRX.AS,28.33,0.242,0.331,No
+19,Renewi plc,RWI.AS,41.95,0.373,1.147,Yes
+20,HAWICK DATA NV,HWK.AS,23.77,0.295,0.525,No
+21,Eurocastle Investment Limited,ECT.AS,23.25,0.317,0.0,Yes
+22,Hashdex Crypto Momentum Factor ,HAMO.AS,49.49,0.704,0.183,No
+23,New Amsterdam Invest N.V.,NAI.AS,10.16,0.17,0.029,Yes
+24,JDE Peet's N.V.,JDEP.AS,15.68,0.319,1.336,No
+25,ArcelorMittal S.A.,MT.AS,12.75,0.268,0.701,Yes
+26,Ctac N.V.,CTAC.AS,10.09,0.215,0.491,No
+27,CTP N.V.,CTPNV.AS,5.57,0.14,0.963,Yes
+28,LS 1x Amazon Tracker ETP,AMZN.AS,8.25,0.268,1.783,Yes
+29,GS Enh Index Sust NA Equity Fund (NL) P,GSENH.AS,4.21,0.155,0.753,Yes
+30,Nedap N.V.,NEDAP.AS,4.25,0.167,0.405,Yes
+31,21Shares Future of Crypto Index ETP USD Accumulation,FUTR.AS,23.08,0.851,,
+32,Aperam S.A.,APAM.AS,7.88,0.325,1.477,Yes
+33,BNP Paribas III ESG Global Prop Secs Cl,BGPSF.AS,2.91,0.141,0.738,Yes
+34,VanEck Sui ETN A,VSUI.AS,21.67,1.056,,
+35,Agility Capital Holding Inc.,AGIL.AS,8.68,0.499,1.937,Yes
+36,Koninklijke Vopak N.V.,VPK.AS,2.11,0.155,0.702,Yes
+37,Aegon Ltd.,AGN.AS,2.35,0.207,1.119,Yes
+38,HAL Trust,HAL.AS,0.19,0.092,0.57,Yes
+39,Value8 N.V.,PREVA.AS,0.02,0.056,0.01,No
+40,Pharming Group N.V.,PHARM.AS,-0.11,0.376,0.899,No
+41,Fastned B.V.,FAST.AS,-1.95,0.558,2.268,No
+42,BANIJAY GROUP N.V.,BNJ.AS,-0.76,0.19,0.778,No
+43,Goldman Sachs Global Sustainable Opportunities Equity Fund (NL),GSGOF.AS,-0.69,0.131,0.949,Yes
+44,Azerion Group N.V.,AZRN.AS,-4.97,0.51,4.116,Yes
+45,PB Holding N.V.,PBH.AS,-1.48,0.127,0.668,Yes
+46,Heineken Holding N.V.,HEIO.AS,-3.31,0.276,0.401,Yes
+47,New Sources Energy N.V.,NSE.AS,-6.18,0.478,1.544,Yes
+48,Galapagos NV,GLPG.AS,-4.1,0.291,1.256,No
+49,Kempen Global Property Fund N.V. N,KGPFN.AS,-2.32,0.133,0.759,Yes
+50,Corbion N.V.,CRBN.AS,-5.0,0.288,0.862,Yes
+51,Vivoryon Therapeutics N.V.,VVY.AS,-12.42,0.677,0.037,Yes
+52,Universal Music Group N.V.,UMG.AS,-5.63,0.285,0.889,Yes
+53,CVC Capital Partners plc,CVC.AS,-7.51,0.379,2.285,Yes
+54,21Shares Render ETP,RNDR.AS,-27.77,1.409,,
+55,Koninklijke Philips N.V.,PHIA.AS,-7.03,0.312,2.2,Yes
+56,Bnp Paribas -  BNP Paribas ESG Netherlands Index Fund,BNPNL.AS,-2.67,0.105,0.864,Yes
+57,Basic-Fit N.V.,BFIT.AS,-8.34,0.307,0.798,Yes
+58,Envipco Holding N.V.,ENVI.AS,-8.25,0.274,1.91,Yes
+59,DSM-Firmenich AG,DSFIR.AS,-8.01,0.248,1.052,Yes
+60,AEX-Index,^AEX,-2.8,0.083,1.0,Yes
+61,Heineken N.V.,HEIA.AS,-10.27,0.287,0.112,Yes
+62,"B.V. Delftsch Aardewerkfabriek ""De Porceleyne Fles Anno 1653""",PORF.AS,-10.44,0.256,0.96,Yes
+63,NX Filtration N.V.,NXFIL.AS,-16.82,0.42,2.239,No
+64,Shell plc,SHELL.AS,-9.13,0.219,0.828,Yes
+65,Sligro Food Group N.V.,SLIGR.AS,-10.59,0.227,0.613,No
+66,21Shares Immutable ETP,AIMX.AS,-29.86,0.662,,
+67,BE Semiconductor Industries N.V.,BESI.AS,-23.01,0.471,1.693,Yes
+68,Allfunds Group plc,ALLFG.AS,-8.97,0.166,0.482,No
+69,IMCD N.V.,IMCD.AS,-13.33,0.249,1.105,Yes
+70,Holland Colours N.V.,HOLCO.AS,-3.99,0.061,0.118,No
+71,Brunel International N.V.,BRNL.AS,-14.94,0.227,0.406,Yes
+72,GS Europe Sust Small Cap Fund NL P,GSED.AS,-7.93,0.112,0.779,Yes
+73,TKH Group N.V.,TWEKA.AS,-18.03,0.252,0.364,Yes
+74,Morefield Group N.V.,MORE.AS,-12.13,0.146,0.137,No
+75,Havas N.V.,HAVAS.AS,-24.76,0.309,,
+76,MKB Nedsense N.V.,NEDSE.AS,-17.32,0.187,0.579,No
+77,ASM International NV,ASM.AS,-32.61,0.324,2.114,Yes
+78,ASML Holding N.V.,ASML.AS,-31.94,0.3,2.846,Yes
+79,Exor N.V.,EXO.AS,-19.94,0.168,0.497,Yes
+80,Arcadis NV,ARCAD.AS,-29.5,0.23,0.388,No
+81,Ease2pay N.V.,EAS2P.AS,-29.02,0.223,0.533,No
+82,Kendrion N.V.,KENDR.AS,-24.46,0.174,0.115,No
+83,PostNL N.V.,PNL.AS,-28.59,0.186,0.218,Yes
+84,Signify N.V.,LIGHT.AS,-21.88,0.127,0.896,No
+85,Accsys Technologies PLC,AXS.AS,-24.14,0.113,0.568,No
+86,MotorK plc,MTRK.AS,-18.77,0.062,0.137,Yes
+87,WisdomTree Gold 1x Daily Short ETP Securities,SBUL.AS,0.0,0.0,0.0,No
+88,WisdomTree Silver 1x Daily Short,SSIL.AS,0.0,0.0,0.0,No
+89,LS 1x Tesla Tracker ETP Securities,TSLA.AS,0.0,0.0,,
+90,WisdomTree Physical XRP ETC,XRPW.AS,0.0,0.0,,
+91,WisdomTree Gold 2x Daily Leveraged,LBUL.AS,0.0,0.0,0.0,No
+92,WisdomTree Silver 2x Daily Leveraged,LSIL.AS,0.0,0.0,0.0,No
+93,WisdomTree Physical Silver,PHAG.AS,0.0,0.0,0.0,No
+94,WisdomTree Physical Palladium,PHPD.AS,0.0,0.0,0.0,No
+95,WisdomTree Physical Precious Metals,PHPM.AS,0.0,0.0,0.0,No
+96,WisdomTree Physical Platinum,PHPT.AS,0.0,0.0,0.0,No
+97,WisdomTree Long JPY Short EUR 3x Daily,EJP3.AS,0.0,0.0,0.0,No
+98,WisdomTree Physical Ethereum ETC,ETHW.AS,0.0,0.0,0.0,No
+99,WisdomTree Long JPY Short EUR,EUJP.AS,0.0,0.0,0.0,No
+100,WisdomTree Long USD Short EUR 3x Daily,EUS3.AS,0.0,0.0,0.0,No
+101,Leverage Shares -1x Short Goldman Sachs ETP Securities,GSSS.AS,0.0,0.0,0.0,No
+102,WisdomTree Short JPY Long EUR 3x Daily,JPE3.AS,0.0,0.0,0.0,No
+103,WisdomTree Short JPY Long EUR,JPEU.AS,0.0,0.0,0.0,No
+104,Leverage Shares -1x Short JPMorgan ETP Securities,JPMS.AS,0.0,0.0,0.0,No
+105,Leverage Shares Plc - LS ARK Innovation Tracker ETP,1ARKK.AS,23.61,,,
+106,Leverage Shares -2x Short Tesla ETP Securities,2STS.AS,0.0,0.0,0.0,No
+107,Leverage Shares 3x BP ETP Securities,3BP.AS,0.0,0.0,0.0,No
+108,Leverage Shares 3x Netflix ETC,3NFL.AS,0.0,0.0,0.0,No

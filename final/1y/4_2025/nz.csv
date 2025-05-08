@@ -1,0 +1,112 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Smart NZ Cash ETF,NZC.NZ,4.87,0.009,0.036,Yes
+2,Smart NZ Bond ETF,NZB.NZ,6.53,0.018,0.04,Yes
+3,Smart Gold ETF Units,GLD.NZ,41.82,0.138,,
+4,Templeton Emerging Markets Investment Trust plc,TEM.NZ,34.85,0.128,,
+5,NZX Limited,NZX.NZ,53.98,0.204,1.131,Yes
+6,Henderson Far East Income Limited,HFL.NZ,20.35,0.09,,
+7,Vector Limited,VCT.NZ,10.69,0.057,0.068,Yes
+8,Hallenstein Glasson Holdings Limited,HLG.NZ,54.22,0.252,1.329,Yes
+9,Channel Infrastructure NZ Limited,CHI.NZ,29.36,0.171,0.077,Yes
+10,Genesis Energy Limited,GNE.NZ,13.27,0.082,0.214,Yes
+11,Smart Australian Financials ETF,ASF.NZ,26.92,0.161,1.101,Yes
+12,Scales Corporation Limited,SCL.NZ,30.56,0.181,0.161,Yes
+13,,KWBHB.NZ,6.58,0.044,,
+14,Smart Japan ESG ETF,JPN.NZ,13.27,0.093,0.469,Yes
+15,Smart Europe ESG ETF,EUG.NZ,13.03,0.093,0.068,Yes
+16,Millennium & Copthorne Hotels New Zealand Limited,MCK.NZ,56.3,0.346,0.827,No
+17,Chorus Limited,CNU.NZ,16.09,0.123,0.494,Yes
+18,Smart Europe ETF,EUF.NZ,12.17,0.095,0.114,Yes
+19,Port of Tauranga Limited,POT.NZ,32.08,0.239,1.628,Yes
+20,CDL Investments New Zealand Limited,CDI.NZ,22.02,0.172,0.659,Yes
+21,Smart Asia Pacific ETF,APA.NZ,9.2,0.079,0.545,Yes
+22,Freightways Group Limited,FRW.NZ,34.95,0.271,1.948,Yes
+23,Smart Australian Dividend ETF,ASD.NZ,9.68,0.087,0.267,Yes
+24,Fisher & Paykel Healthcare Corporation Limited,FPH.NZ,20.23,0.186,1.314,Yes
+25,Skellerup Holdings Limited,SKL.NZ,34.15,0.311,2.516,Yes
+26,EBOS Group Limited,EBO.NZ,17.25,0.174,1.285,Yes
+27,Ventia Services Group Limited,VNT.NZ,35.56,0.339,0.01,No
+28,Smart Emerging Markets ETF,EMF.NZ,10.79,0.117,0.302,Yes
+29,Asset Plus Limited,APL.NZ,20.34,0.213,0.814,Yes
+30,Smart Total World ETF,TWF.NZ,12.07,0.132,0.889,Yes
+31,Kingfish Limited,KFL.NZ,13.87,0.152,1.394,Yes
+32,Smart Emerging Markets ESG ETF,EMG.NZ,10.56,0.118,0.187,Yes
+33,My Food Bag Group Limited,MFB.NZ,41.1,0.437,1.094,Yes
+34,Summerset Group Holdings Limited,SUM.NZ,20.25,0.236,2.255,Yes
+35,Smart Australian Top 200 ETF,AUS.NZ,9.12,0.113,0.681,Yes
+36,F&C Investment Trust PLC,FCT.NZ,15.1,0.183,1.358,Yes
+37,Sanford Limited,SAN.NZ,22.24,0.272,0.783,Yes
+38,Air New Zealand Limited,AIR.NZ,16.06,0.203,1.19,Yes
+39,Smart Total World (NZD Hedged) ETF,TWH.NZ,6.66,0.09,0.317,Yes
+40,Manawa Energy Limited,MNW.NZ,28.05,0.36,0.805,Yes
+41,Smart US ESG ETF,USA.NZ,12.28,0.172,1.042,Yes
+42,PGG Wrightson Limited,PGW.NZ,30.55,0.406,0.107,Yes
+43,Smart US Large Value ETF,USV.NZ,11.64,0.169,1.305,Yes
+44,ANZ Group Holdings Limited,ANZ.NZ,9.65,0.142,0.518,Yes
+45,Smart US 500 ETF,USF.NZ,11.07,0.162,1.042,Yes
+46,Smart Global ESG ETF,ESG.NZ,8.86,0.132,0.814,Yes
+47,Bankers Ord,BIT.NZ,10.84,0.162,1.002,Yes
+48,Gentrack Group Limited,GTK.NZ,35.17,0.483,1.912,Yes
+49,Smart Australian Mid Cap ETF,MZY.NZ,7.92,0.126,0.845,Yes
+50,Smart US 500 (NZD Hedged) ETF,USH.NZ,7.41,0.12,0.461,Yes
+51,New Zealand Rural Land Company Limited,NZL.NZ,5.29,0.087,0.007,No
+52,South Port New Zealand Limited,SPN.NZ,9.77,0.158,0.513,Yes
+53,Smart US Large Growth ETF,USG.NZ,13.16,0.211,0.828,Yes
+54,Smart US Mid Cap ETF,USM.NZ,11.29,0.193,1.53,Yes
+55,Serko Limited,SKO.NZ,18.74,0.315,1.722,Yes
+56,Oceania Healthcare Limited,OCA.NZ,37.33,0.595,4.515,Yes
+57,Kiwi Property Group Limited,KPG.NZ,8.73,0.156,0.932,Yes
+58,The a2 Milk Company Limited,ATM.NZ,30.64,0.525,0.796,No
+59,SKY Network Television Limited,SKT.NZ,12.6,0.235,0.656,Yes
+60,Investore Property Limited,IPL.NZ,8.67,0.187,1.296,Yes
+61,Cooks Coffee Company Limited,CCC.NZ,14.72,0.348,0.873,Yes
+62,Napier Port Holdings Limited,NPH.NZ,6.24,0.164,0.294,Yes
+63,Smart Automation and Robotics ETF,BOT.NZ,5.98,0.172,1.142,Yes
+64,Briscoe Group Limited,BGP.NZ,8.62,0.262,1.83,Yes
+65,Vulcan Steel Limited,VSL.NZ,7.65,0.24,0.011,No
+66,Black Pearl Group Limited,BPG.NZ,22.9,0.848,3.038,Yes
+67,Smart Healthcare Innovation ETF,LIV.NZ,4.1,0.175,1.338,Yes
+68,Smart US Small Cap ETF,USS.NZ,4.73,0.241,2.126,Yes
+69,Private Land And Property Fund,PLP.NZ,1.94,0.101,0.208,Yes
+70,Infratil Limited,IFT.NZ,3.46,0.208,0.103,Yes
+71,Smart S&P/NZX 50 ETF,NZG.NZ,1.39,0.094,0.943,Yes
+72,Promisia Healthcare Limited,PHL.NZ,14.56,1.129,1.058,Yes
+73,Smart NZ Top 50 ETF,FNZ.NZ,1.2,0.103,1.028,Yes
+74,Contact Energy Limited,CEN.NZ,1.27,0.129,0.103,Yes
+75,Millennium & Copthorne Hotels New Zealand Limited,MCKPA.NZ,1.38,0.169,1.044,No
+76,S&P/NZX 50,^NZ50,0.74,0.096,1.0,Yes
+77,Savor Limited,SVR.NZ,1.23,0.464,0.492,No
+78,Michael Hill International Limited,MHJ.NZ,0.33,0.484,3.553,Yes
+79,T&G Global Limited,TGG.NZ,-0.02,0.166,0.749,No
+80,Metro Performance Glass Limited,MPG.NZ,-0.43,0.558,0.321,Yes
+81,Auckland International Airport Limited,AIA.NZ,-0.6,0.188,0.659,Yes
+82,General Capital Limited,GEN.NZ,-2.63,0.782,2.335,Yes
+83,Barramundi Limited,BRM.NZ,-0.8,0.118,0.89,Yes
+84,EROAD Limited,ERD.NZ,-4.13,0.494,2.592,Yes
+85,Smart NZ Dividend ETF,DIV.NZ,-0.85,0.095,0.786,Yes
+86,Precinct Properties NZ Ltd & Precinct Properties Investments Ltd,PCT.NZ,-2.11,0.195,1.026,Yes
+87,Marlin Global Limited,MLN.NZ,-1.4,0.126,0.424,Yes
+88,Smart NZ Property ETF,NPF.NZ,-2.87,0.139,0.826,Yes
+89,Scott Technology Limited,SCT.NZ,-9.71,0.447,3.298,Yes
+90,2 Cheap Cars Group Limited,2CC.NZ,-5.98,0.25,1.571,Yes
+91,The Colonial Motor Company Limited,CMO.NZ,-4.41,0.182,0.185,No
+92,Smart NZ Top 10 ETF,TNZ.NZ,-3.22,0.11,1.021,Yes
+93,Stride Property Group,SPG.NZ,-7.39,0.221,1.1,Yes
+94,Smartpay Holdings Limited,SPY.NZ,-24.11,0.698,3.79,No
+95,Green Cross Health Limited,GXH.NZ,-16.63,0.456,3.167,Yes
+96,Rakon Limited,RAK.NZ,-24.8,0.482,2.001,Yes
+97,Mercury NZ Limited,MCY.NZ,-12.43,0.214,0.673,Yes
+98,Ryman Healthcare Limited,RYM.NZ,-32.84,0.55,4.65,Yes
+99,Allied Farmers Limited,ALF.NZ,-7.75,0.109,0.742,Yes
+100,Smart Australian Resources ETF,ASR.NZ,-11.8,0.161,0.205,No
+101,New Zealand King Salmon Investments Limited,NZK.NZ,-14.27,0.176,0.007,No
+102,Smart US Technology (NZD Hedged) ETF,UST.NZ,-13.3,0.16,,
+103,Livestock Improvement Corporation Limited,LIC.NZ,-15.47,0.175,0.366,No
+104,Steel & Tube Holdings Limited,STU.NZ,-22.39,0.251,1.813,Yes
+105,AFT Pharmaceuticals Limited,AFT.NZ,-16.59,0.171,0.082,Yes
+106,Goodman Property Trust,GMT.NZ,-14.0,0.135,0.779,Yes
+107,Foley Wines Limited,FWL.NZ,-31.93,0.335,0.479,Yes
+108,PaySauce Limited,PYS.NZ,-33.79,0.278,1.881,Yes
+109,Meridian Energy Limited,MEL.NZ,-16.77,0.119,0.786,Yes
+110,Smart S&P/NZX 20 ETF,NZT.NZ,-14.21,0.075,,
+111,Australian Foundation Investment Company Limited,AFI.NZ,0.0,0.0,0.0,No

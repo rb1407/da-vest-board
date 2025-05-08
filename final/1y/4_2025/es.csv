@@ -1,0 +1,137 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,"ACS, Actividades de Construcción y Servicios, S.A.",ACS.MC,46.14,0.127,0.086,Yes
+2,"Inmobiliaria del Sur, S.A.",ISUR.MC,43.11,0.135,0.665,Yes
+3,"Nicolás Correa, S.A.",NEA.MC,71.92,0.212,0.352,Yes
+4,"Mapfre, S.A.",MAP.MC,52.56,0.172,0.325,Yes
+5,"Arteche Lantegi Elkartea, S.A.",ART.MC,68.42,0.216,0.221,No
+6,"Renta 4 Banco, S.A.",R4.MC,39.15,0.146,0.423,No
+7,"Libertas 7, S.A.",LIB.MC,95.91,0.327,0.792,No
+8,"Aena S.M.E., S.A.",AENA.MC,33.5,0.155,0.376,Yes
+9,"Logista Integral, S.A.",LOG.MC,25.55,0.122,0.316,No
+10,Banco Bradesco S.A.,XBBDC.MC,103.72,0.399,0.221,No
+11,"Neinor Homes, S.A.",HOME.MC,59.29,0.262,0.668,No
+12,Ferrovial SE,FER.MC,22.63,0.118,0.356,Yes
+13,"Aedas Homes, S.A.",AEDAS.MC,57.9,0.277,0.328,Yes
+14,"Proeduca Altus, S.A.",PRO.MC,70.26,0.331,0.275,No
+15,"Gop Properties Socimi, S.A.",YGOP.MC,9.31,0.054,0.036,Yes
+16,"Elecnor, S.A.",ENO.MC,35.48,0.188,0.167,No
+17,"Vitruvio Real Estate SOCIMI, S.A.",YVIT.MC,46.89,0.24,0.568,No
+18,"Atom Hoteles SOCIMI, S.A.",YATO.MC,105.88,0.461,0.512,No
+19,"Redeia Corporación, S.A.",RED.MC,20.86,0.119,0.212,Yes
+20,"CaixaBank, S.A.",CABK.MC,44.28,0.237,1.148,Yes
+21,"Ecoener, S.A.",ENER.MC,25.97,0.153,0.378,Yes
+22,"Grupo Empresarial San José, S.A.",GSJ.MC,30.78,0.183,0.395,Yes
+23,IBEX 35,^IBEX,19.88,0.124,1.0,Yes
+24,"Banco de Sabadell, S.A.",SAB.MC,54.8,0.306,2.031,Yes
+25,"Advero Properties SOCIMI, S.A.",YADV.MC,20.86,0.134,0.063,No
+26,Coca-Cola Europacific Partners PLC,CCEP.MC,24.37,0.155,0.446,Yes
+27,Petróleo Brasileiro S.A. - Petrobras,XPBRA.MC,67.24,0.375,0.205,No
+28,"Unicaja Banco, S.A.",UNI.MC,44.78,0.277,1.167,Yes
+29,International Consolidated Airlines Group S.A.,IAG.MC,78.28,0.476,1.38,Yes
+30,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA.MC,36.97,0.262,1.781,Yes
+31,"Banco Santander, S.A.",SAN.MC,41.96,0.311,2.181,Yes
+32,Seresco S.A.,SCO.MC,31.72,0.246,,
+33,"Minor Hotels Europe & Americas, S.A.",NHH.MC,66.77,0.462,0.328,No
+34,"Nueva Expresión Textil, S.A.",NXT.MC,54.42,0.409,0.416,No
+35,"Amper, S.A.",AMP.MC,33.94,0.275,1.339,Yes
+36,"Naturhouse Health, S.A.",NTH.MC,23.25,0.198,0.302,Yes
+37,"Borges Agricultural & Industrial Nuts, S.A.",BAIN.MC,32.5,0.273,1.292,Yes
+38,"Clínica Baviera, S.A.",CBAV.MC,38.53,0.318,1.02,Yes
+39,"Inbest Prime III Inmuebles SOCIMI, S.A.",YINB3.MC,4.89,0.046,0.168,Yes
+40,"Ktesios Real Estate Socimi, S.A.",YKTS.MC,30.85,0.284,0.832,No
+41,"Telefónica, S.A.",TEF.MC,15.97,0.162,0.819,Yes
+42,"Miquel y Costas & Miquel, S.A.",MCM.MC,6.61,0.075,0.027,No
+43,"Labiana Health, S.A.",LAB.MC,62.79,0.58,1.646,No
+44,"Inversa Prime SOCIMI, S.A.",YIPS.MC,17.13,0.187,1.189,No
+45,"Nyesa Valores Corporación, S.A.",NYE.MC,91.83,0.797,1.604,Yes
+46,"Atresmedia Corporación de Medios de Comunicación, S.A.",A3M.MC,20.21,0.239,1.159,Yes
+47,"Amadeus IT Group, S.A.",AMS.MC,9.51,0.119,0.625,Yes
+48,"Pangaea Oncology, S.A.",PANG.MC,18.24,0.235,0.636,No
+49,Petróleo Brasileiro S.A. - Petrobras,XPBR.MC,35.86,0.435,0.148,No
+50,"Acciona, S.A.",ANA.MC,18.33,0.246,1.027,Yes
+51,"Tubacex, S.A.",TUB.MC,18.86,0.256,1.32,Yes
+52,"Técnicas Reunidas, S.A.",TRE.MC,23.42,0.313,1.695,Yes
+53,"Desarrollos Especiales de Sistemas de Anclaje, S.A.",DESA.MC,6.59,0.095,0.373,No
+54,"Facephi Biometria, S.A.",FACE.MC,28.78,0.384,1.096,Yes
+55,"Enagás, S.A.",ENG.MC,10.58,0.154,0.384,Yes
+56,"Industria de Diseño Textil, S.A.",ITX.MC,14.58,0.225,0.611,Yes
+57,"Vivenio Residencial SOCIMI, S.A.",YVIV.MC,1.42,0.025,0.076,No
+58,"NZI Technical Protection, S.A.",NZI.MC,10.0,0.176,,
+59,"Aplicaciones y Tratamiento de Sistemas, S.A.",ATSI.MC,8.08,0.152,,
+60,ArcelorMittal S.A.,MTS.MC,12.35,0.271,1.885,Yes
+61,"Cellnex Telecom, S.A.",CLNX.MC,10.36,0.255,1.513,Yes
+62,Compañía Española de Viviendas en Alquiler S.A.,CEV.MC,11.19,0.3,1.102,Yes
+63,"Prim, S.A.",PRM.MC,4.44,0.137,0.323,Yes
+64,"Promotora de Informaciones, S.A.",PRS.MC,8.29,0.265,1.08,Yes
+65,"Vytrus Biotech, S.A.",VYT.MC,13.53,0.455,0.413,Yes
+66,Aperam S.A.,APAM.MC,7.34,0.322,1.588,Yes
+67,"Catenon, S.A.",COM.MC,12.85,0.632,0.889,Yes
+68,"Enerside Energy, S.A.",ENRS.MC,9.83,0.562,0.336,Yes
+69,"Montebalito, S.A.",MTB.MC,1.35,0.112,0.112,No
+70,Grifols SA,GRF-P.MC,5.82,0.517,1.831,Yes
+71,"izertis, S.A.",IZER.MC,1.92,0.183,0.321,No
+72,"Holaluz-Clidom, S.A.",HLZ.MC,5.93,0.731,0.179,No
+73,"Almirall, S.A.",ALM.MC,1.68,0.212,1.101,Yes
+74,"Laboratorio Reig Jofre, S.A.",RJF.MC,1.19,0.205,0.573,Yes
+75,"Optare Solutions, S.A.",OPTS.MC,0.27,0.081,,
+76,"Making Science Group, S.A.",MAKS.MC,0.09,0.236,0.904,Yes
+77,"Grifols, S.A.",GRF.MC,-0.11,0.529,2.377,Yes
+78,Airbus SE,AIR.MC,-1.57,0.287,0.59,Yes
+79,"Sacyr, S.A.",SCYR.MC,-1.11,0.13,0.833,Yes
+80,"Alantra Partners, S.A.",ALNT.MC,-2.91,0.207,1.004,Yes
+81,"Obrascón Huarte Lain, S.A.",OHLA.MC,-10.4,0.716,1.493,Yes
+82,"Airtificial Intelligence Structures, S.A.",AI.MC,-5.94,0.37,2.094,Yes
+83,"Llorente & Cuenca, S.A.",LLYC.MC,-8.31,0.513,3.491,Yes
+84,"Fluidra, S.A.",FDR.MC,-4.29,0.26,0.362,Yes
+85,"MERLIN Properties SOCIMI, S.A.",MRL.MC,-6.89,0.205,0.775,Yes
+86,"Axon Partners Group, S.A.",APG.MC,-14.12,0.405,0.693,No
+87,"Ercros, S.A.",ECR.MC,-10.48,0.27,1.746,No
+88,"Lingotes Especiales, S.A.",LGT.MC,-10.03,0.245,0.714,No
+89,"Adolfo Domínguez, S.A.",ADZ.MC,-6.57,0.156,0.274,Yes
+90,"ENCE Energía y Celulosa, S.A.",ENC.MC,-10.47,0.247,0.343,Yes
+91,"Substrate Artificial Inteligence, S.A.",SAI.MC,-24.09,0.54,0.355,Yes
+92,"Tubos Reunidos, S.A.",TRG.MC,-19.26,0.411,2.741,Yes
+93,"Realia Business, S.A.",RLIA.MC,-7.14,0.143,0.261,Yes
+94,"Asturiana de Laminados, S.A.",ELZ.MC,-18.41,0.376,2.08,Yes
+95,"Numulae Gestión de Servicios SOCIMI, S.A.",YNUM.MC,-5.02,0.09,0.185,No
+96,"Adriano Care SOCIMI, S.A.",YADR.MC,-3.93,0.07,0.188,Yes
+97,"Duro Felguera, S.A.",MDF.MC,-39.64,0.826,1.223,Yes
+98,"Cox Energy América, S.A.B. de C.V.",COXE.MC,-7.84,0.126,,
+99,"Renta Corporación Real Estate, S.A.",REN.MC,-17.9,0.285,1.798,Yes
+100,"Global Dominion Access, S.A.",DOM.MC,-14.59,0.228,0.287,Yes
+101,"Grupo Ezentis, S.A.",EZE.MC,-37.3,0.664,2.332,Yes
+102,"Fomento de Construcciones y Contratas, S.A.",FCC.MC,-22.56,0.356,1.754,Yes
+103,"Pescanova, S.A.",PVA.MC,-24.22,0.379,0.99,Yes
+104,"CIE Automotive, S.A.",CIE.MC,-13.86,0.189,0.216,No
+105,"Gigas Hosting, S.A.",GIGA.MC,-17.48,0.233,0.423,No
+106,Greening Group Global S.A.,GGR.MC,-15.02,0.196,0.059,Yes
+107,"Árima Real Estate SOCIMI, S.A.",ARM.MC,-9.51,0.112,0.362,No
+108,"Meliá Hotels International, S.A.",MEL.MC,-18.39,0.214,0.141,Yes
+109,"Corporación Acciona Energías Renovables, S.A.",ANE.MC,-21.07,0.228,0.997,Yes
+110,"Testa Residencial SOCIMI, S.A.",YTST.MC,-39.49,0.478,0.957,No
+111,"Aeternal Mentis, S.A.",AMEN.MC,-5.86,0.058,0.114,No
+112,Hannun S.A.,HAN.MC,-44.64,0.542,0.961,No
+113,"Bodegas Riojanas, S.A.",RIO.MC,-20.2,0.209,1.392,Yes
+114,"Fidere Patrimonio Socimi, S.A.",YFID.MC,-27.45,0.286,0.526,Yes
+115,"CLERHP Estructuras, S.A.",CLR.MC,-28.59,0.289,0.361,No
+116,Braskem S.A.,XBRK.MC,-44.81,0.484,1.174,Yes
+117,"Talgo, S.A.",TLGO.MC,-28.19,0.27,0.497,Yes
+118,"Repsol, S.A.",REP.MC,-22.87,0.195,0.498,Yes
+119,"Millenium Hospitality Real Estate, SOCIMI, S.A.",YMHRE.MC,-34.29,0.298,0.997,No
+120,"Deoleo, S.A.",OLE.MC,-24.63,0.196,0.57,Yes
+121,"Atrys Health, S.A.",ATRY.MC,-28.95,0.227,1.002,Yes
+122,Puig Brands SA,PUIG.MC,-36.96,0.28,0.038,No
+123,"Laboratorios Farmaceuticos Rovi, S.A.",ROVI.MC,-40.37,0.31,0.983,No
+124,"Inmocemento, S.A.",IMC.MC,-19.82,0.131,,
+125,"Singular People, S.A.",SNG.MC,-39.74,0.268,0.985,Yes
+126,"NBI Bearings Europe, S.A.",NBI.MC,-26.48,0.153,0.059,Yes
+127,"Audax Renovables, S.A.",ADX.MC,-21.78,0.122,0.643,Yes
+128,"Indexa Capital Group, S.A.",INDXA.MC,-39.15,0.238,0.584,No
+129,"Agile Content, S.A.",AGIL.MC,-40.0,0.243,0.548,No
+130,"EV MOTORS, S.A.",EBROM.MC,-36.93,0.219,,
+131,"COX ABG GROUP, S.A.",COXG.MC,-33.23,0.188,,
+132,"Solaria Energía y Medio Ambiente, S.A.",SLR.MC,-45.07,0.234,1.244,Yes
+133,Revenga Ingenieros SA,RSS.MC,-68.3,0.436,,
+134,"Urbas Grupo Financiero, S.A.",UBS.MC,-46.21,0.231,0.947,Yes
+135,AmRest Holdings SE,EAT.MC,-32.31,0.127,0.049,Yes
+136,HBX Group International plc,HBX.MC,-86.14,0.363,,

@@ -1,0 +1,189 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Plazza AG,PLAN.SW,25.61,0.03,0.078,Yes
+2,SWISS LIFE HOLDING N 2. LINIE,SLHNE.SW,61.8,0.087,,
+3,HIAG Immobilien Holding AG,HIAG.SW,40.11,0.081,0.024,No
+4,Züblin Immobilien Holding AG,ZUBN.SW,53.37,0.109,0.2,No
+5,Helvetia Holding AG,HELN.SW,63.06,0.136,0.307,Yes
+6,Cembra Money Bank AG,CMBN.SW,47.54,0.115,0.589,Yes
+7,Swiss Prime Site AG,SPSN.SW,50.1,0.12,0.066,Yes
+8,VZ Holding AG,VZN.SW,61.96,0.145,0.074,Yes
+9,Swiss Life Holding AG,SLHN.SW,34.69,0.093,0.446,Yes
+10,Mobimo Holding AG,MOBN.SW,31.41,0.088,0.113,Yes
+11,PSP Swiss Property AG,PSPN.SW,37.72,0.11,0.064,No
+12,Philip Morris International Inc.,PMI.SW,73.46,0.197,0.349,Yes
+13,Schindler Holding AG,SCHN.SW,34.78,0.106,0.115,No
+14,Compagnie Financière Tradition SA,CFTE.SW,56.75,0.171,0.127,No
+15,Compagnie Financière Tradition SA,CFT.SW,59.33,0.179,0.176,No
+16,Schindler Holding AG,SCHP.SW,35.68,0.122,0.1,Yes
+17,Allreal Holding AG,ALLN.SW,26.38,0.097,0.077,Yes
+18,Zurich Insurance Group AG,ZURN.SW,33.37,0.123,0.234,Yes
+19,Thurgauer Kantonalbank,TKBP.SW,18.16,0.072,0.137,Yes
+20,Zug Estates Holding AG,ZUGN.SW,25.04,0.107,0.008,Yes
+21,Valiant Holding AG,VATN.SW,20.31,0.093,0.076,Yes
+22,St. Galler Kantonalbank AG,SGKN.SW,16.28,0.082,0.108,Yes
+23,Swissquote Group Holding Ltd,SQN.SW,64.78,0.275,0.337,Yes
+24,dormakaba Holding AG,DOKA.SW,51.33,0.251,0.183,No
+25,Swiss Re AG,SREN.SW,42.37,0.214,0.309,Yes
+26,Basler Kantonalbank,BSKP.SW,20.06,0.11,0.564,Yes
+27,Intershop Holding AG,ISN.SW,19.79,0.111,0.419,Yes
+28,EPIC Suisse AG,EPIC.SW,15.39,0.097,0.527,No
+29,Novavest Real Estate AG,NREN.SW,13.15,0.088,0.192,No
+30,Holcim AG,HOLN.SW,18.77,0.131,0.673,Yes
+31,Basellandschaftliche Kantonalbank,BLKB.SW,10.19,0.077,0.319,Yes
+32,Liechtensteinische Landesbank Aktiengesellschaft,LLBN.SW,14.5,0.11,0.544,Yes
+33,Swisscom AG,SCMN.SW,17.53,0.132,0.006,No
+34,Flughafen Zürich AG,FHZN.SW,12.7,0.098,0.095,Yes
+35,BKW AG,BKW.SW,19.31,0.148,0.44,Yes
+36,Chocoladefabriken Lindt & Sprüngli AG,LISP.SW,18.7,0.146,0.62,Yes
+37,Vontobel Holding AG,VONN.SW,18.81,0.154,0.47,Yes
+38,Galenica AG,GALE.SW,18.37,0.151,0.399,Yes
+39,Cham Swiss Properties AG,CHAM.SW,24.03,0.199,0.385,No
+40,IVF Hartmann Holding AG,VBSN.SW,21.01,0.176,0.383,No
+41,Galderma Group N,GALD.SW,41.18,0.336,0.739,Yes
+42,Sulzer Ltd,SUN.SW,20.43,0.187,1.303,Yes
+43,Warteck Invest AG,WARN.SW,10.79,0.106,0.053,No
+44,Glarner Kantonalbank,GLKBN.SW,8.07,0.081,0.415,Yes
+45,GEBERIT N 2. LINIE,GEBNE.SW,10.77,0.107,,
+46,Roche Holding AG,ROG.SW,25.74,0.247,1.486,Yes
+47,Lonza Group AG,LONN.SW,26.68,0.262,0.757,Yes
+48,Berner Kantonalbank AG,BEKN.SW,7.48,0.086,0.197,Yes
+49,Chocoladefabriken Lindt & Sprüngli AG,LISN.SW,12.38,0.141,0.496,Yes
+50,TX Group AG,TXGN.SW,27.15,0.296,0.294,Yes
+51,Roche Holding AG,RO.SW,22.24,0.248,1.39,Yes
+52,Orascom Development Holding AG,ODHN.SW,44.11,0.459,0.578,No
+53,Fundamenta Real Estate AG,FREN.SW,7.3,0.092,0.074,No
+54,LINDT PS 2.LINIE,LISPE.SW,12.55,0.16,,
+55,ARYZTA AG,ARYN.SW,18.98,0.24,0.989,Yes
+56,Evolva Holding SA,EVE.SW,33.57,0.404,2.072,Yes
+57,LINDT N 2.LINIE,LISNE.SW,9.71,0.146,,
+58,Luzerner Kantonalbank AG,LUKN.SW,6.65,0.103,0.368,Yes
+59,Aluflexpack AG,AFP.SW,5.47,0.089,0.43,Yes
+60,Sandoz Group AG,SDZ.SW,20.63,0.335,1.302,Yes
+61,Banque Cantonale Vaudoise,BCVN.SW,8.42,0.153,0.677,Yes
+62,Siegfried Holding AG,SFZN.SW,13.35,0.242,0.364,Yes
+63,Meier Tobler Group AG,MTG.SW,15.3,0.277,1.203,No
+64,Medacta Group SA,MOVE.SW,11.64,0.221,1.214,Yes
+65,SF Urban Properties AG,SFPN.SW,4.81,0.098,0.073,Yes
+66,Perrot Duval Holding S.A.,PEDU.SW,20.53,0.414,0.945,No
+67,EFG International AG,EFGN.SW,9.54,0.21,0.468,Yes
+68,Highlight Event and Entertainment AG,HLEE.SW,35.04,0.7,2.206,Yes
+69,VP Bank AG,VPBN.SW,6.29,0.154,0.067,Yes
+70,Novartis AG,NOVN.SW,5.7,0.148,0.867,Yes
+71,Zuger Kantonalbank,ZUGER.SW,2.94,0.082,0.508,Yes
+72,Molecular Partners AG,MOLN.SW,44.08,1.115,1.155,Yes
+73,Julius Bär Gruppe AG,BAER.SW,6.52,0.217,0.471,Yes
+74,Youngtimers AG,YTME.SW,14.35,0.486,1.802,No
+75,SUNRISE N,SUNN.SW,9.76,0.367,,
+76,DKSH Holding AG,DKSH.SW,5.36,0.227,1.172,Yes
+77,Avolta AG,AVOL.SW,5.7,0.253,0.822,Yes
+78,Jungfraubahn Holding AG,JFN.SW,3.44,0.183,0.559,Yes
+79,Medartis Holding AG,MED.SW,6.53,0.366,1.832,Yes
+80,Basilea Pharmaceutica AG,BSLN.SW,5.02,0.291,0.776,Yes
+81,Bergbahnen Engelberg-Trübsee-Titlis AG,TIBN.SW,2.58,0.152,0.915,Yes
+82,SMI,^SSMI,1.77,0.126,1.0,Yes
+83,Eli Lilly and Company,LLY.SW,2.97,0.26,0.875,Yes
+84,Novartis AG,NOVNEE.SW,1.48,0.154,1.031,Yes
+85,SGS SA,SGSN.SW,2.41,0.257,0.641,Yes
+86,ALSO Holding AG,ALSN.SW,2.11,0.308,1.394,Yes
+87,Zwahlen & Mayr SA,ZWM.SW,3.0,0.565,1.273,Yes
+88,Bucher Industries AG,BUCN.SW,0.83,0.229,1.215,Yes
+89,Valartis Group AG,VLRT.SW,0.29,0.217,0.139,Yes
+90,Alcon Inc.,ALC.SW,-0.08,0.138,0.877,Yes
+91,Groupe Minoteries SA,GMI.SW,-0.64,0.215,0.054,Yes
+92,Graubündner Kantonalbank,GRKP.SW,-0.28,0.067,0.181,Yes
+93,Banque Cantonale du Jura SA,BCJ.SW,-0.74,0.15,0.383,Yes
+94,Idorsia Ltd,IDIA.SW,-12.43,1.305,3.009,Yes
+95,Addex Therapeutics Ltd,ADXN.SW,-5.58,0.548,0.641,Yes
+96,Hypothekarbank Lenzburg AG,HBLN.SW,-0.84,0.057,0.121,Yes
+97,Castle Private Equity AG,CPEN.SW,-2.92,0.197,1.009,Yes
+98,Zehnder Group AG,ZEHN.SW,-4.55,0.306,1.124,Yes
+99,Givaudan SA,GIVN.SW,-3.25,0.178,0.236,Yes
+100,Nestlé S.A.,NESN.SW,-3.76,0.192,0.616,Yes
+101,Mikron Holding AG,MIKN.SW,-6.53,0.319,0.721,Yes
+102,Burckhardt Compression Holding AG,BCHN.SW,-3.94,0.187,0.514,Yes
+103,BVZ Holding AG,BVZN.SW,-2.84,0.122,0.187,Yes
+104,Sensirion Holding AG,SENS.SW,-9.78,0.415,1.178,Yes
+105,Vetropack Holding AG,VETN.SW,-4.87,0.199,0.354,Yes
+106,Private Equity Holding AG,PEHN.SW,-4.09,0.165,0.361,Yes
+107,Georg Fischer AG,GF.SW,-5.48,0.207,0.865,Yes
+108,PIERER Mobility AG,PKTM.SW,-36.97,1.505,0.821,Yes
+109,Autoneum Holding AG,AUTN.SW,-9.98,0.334,0.544,Yes
+110,mobilezone holding ag,MOZN.SW,-10.11,0.337,1.094,Yes
+111,Xlife Sciences AG,XLS.SW,-20.11,0.634,1.371,No
+112,Partners Group Holding AG,PGHN.SW,-8.92,0.262,1.457,Yes
+113,SIG Group AG,SIGN.SW,-9.99,0.284,0.845,Yes
+114,Ypsomed Holding AG,YPSN.SW,-7.12,0.197,0.861,Yes
+115,Montana Aerospace AG,AERO.SW,-12.15,0.339,1.817,Yes
+116,Sonova Holding AG,SOON.SW,-8.37,0.225,0.482,Yes
+117,Kardex Holding AG,KARN.SW,-12.66,0.285,1.105,Yes
+118,Schweiter Technologies AG,SWTQ.SW,-10.11,0.224,1.042,Yes
+119,Peach Property Group AG,PEAN.SW,-21.93,0.49,0.338,No
+120,Emmi AG,EMMN.SW,-7.87,0.155,0.842,Yes
+121,HBM Healthcare Investments AG,HBMN.SW,-9.98,0.191,0.881,Yes
+122,SFS Group AG,SFSN.SW,-8.73,0.159,0.11,No
+123,ams-OSRAM AG,AMS.SW,-38.71,0.733,2.9,Yes
+124,HBM Healthcare Investments AG,HBMNE.SW,-13.25,0.196,0.823,Yes
+125,Edisun Power Europe AG,ESUN.SW,-43.01,0.76,3.967,Yes
+126,Newron Pharmaceuticals S.p.A.,NWRN.SW,-25.16,0.389,1.217,Yes
+127,Aevis Victoria SA,AEVS.SW,-14.68,0.207,0.496,No
+128,Bossard Holding AG,BOSN.SW,-15.73,0.219,0.933,Yes
+129,Leonteq AG,LEON.SW,-27.16,0.398,0.587,Yes
+130,Stadler Rail AG,SRAIL.SW,-19.97,0.275,0.388,Yes
+131,Alpine Select AG,ALPN.SW,-5.89,0.073,0.121,Yes
+132,Logitech International S.A.,LOGN.SW,-27.42,0.364,2.11,Yes
+133,Logitech International S.A.,LOGNE.SW,-28.27,0.375,2.22,Yes
+134,NIBE Industrier AB (publ),NIBEB.SW,-25.26,0.327,0.583,Yes
+135,BB Biotech AG,BION.SW,-21.25,0.263,1.351,Yes
+136,Phoenix Mecano AG,PMN.SW,-13.95,0.158,0.008,No
+137,"PepsiCo, Inc.",PEP.SW,-16.24,0.185,0.414,Yes
+138,Airesis SA,AIRE.SW,-69.4,1.18,1.516,Yes
+139,Forbo Holding AG,FORN.SW,-25.05,0.283,1.36,Yes
+140,Landis+Gyr Group AG,LAND.SW,-27.54,0.311,0.527,Yes
+141,Phoenix Mecano AG,PMNE.SW,-13.93,0.135,0.053,No
+142,GAM Holding AG,GAM.SW,-56.23,0.681,2.268,Yes
+143,BioVersys N,BIOV.SW,-7.78,0.063,,
+144,OC Oerlikon Corporation AG,OERL.SW,-26.83,0.234,1.394,Yes
+145,Sika AG,SIKA.SW,-24.86,0.214,1.204,Yes
+146,nebag ag,NBEN.SW,-12.33,0.097,0.376,Yes
+147,Barry Callebaut AG,BARN.SW,-48.37,0.475,0.113,Yes
+148,lastminute.com N.V.,LMN.SW,-35.9,0.322,0.129,Yes
+149,Banque Cantonale de Genève SA,BCGE.SW,-16.04,0.128,0.563,Yes
+150,Adecco Group AG,ADEN.SW,-34.03,0.293,0.604,Yes
+151,Bellevue Group AG,BBN.SW,-47.65,0.446,2.571,Yes
+152,INFICON Holding AG,IFCN.SW,-37.18,0.306,1.652,Yes
+153,Comet Holding AG,COTN.SW,-35.91,0.288,1.525,Yes
+154,The Swatch Group AG,UHRN.SW,-24.45,0.18,0.747,Yes
+155,LEM Holding SA,LEHN.SW,-51.44,0.447,1.71,Yes
+156,DocMorris AG,DOCM.SW,-62.63,0.6,0.288,No
+157,Adval Tech Holding AG,ADVN.SW,-35.85,0.273,0.619,No
+158,Carlo Gavazzi Holding AG,GAV.SW,-37.4,0.285,1.345,Yes
+159,SKAN Group AG,SKAN.SW,-17.35,0.117,0.351,Yes
+160,EMS-CHEMIE HOLDING AG,EMSN.SW,-17.7,0.119,0.575,Yes
+161,The Swatch Group AG,UHR.SW,-27.16,0.189,0.749,Yes
+162,Interroll Holding AG,INRN.SW,-35.53,0.253,1.422,Yes
+163,Tecan Group AG,TECN.SW,-49.46,0.386,1.855,Yes
+164,Gurit Holding AG,GURN.SW,-74.74,0.741,2.036,Yes
+165,Dätwyler Holding AG,DAE.SW,-35.0,0.241,0.774,Yes
+166,Romande Energie Holding SA,REHN.SW,-25.76,0.163,0.601,Yes
+167,Dottikon ES Holding AG,DESN.SW,-25.89,0.163,0.047,Yes
+168,SoftwareOne Holding AG,SWON.SW,-63.65,0.528,1.556,Yes
+169,Metall Zug AG,METN.SW,-24.45,0.15,0.244,No
+170,Kuehne + Nagel International AG,KNIN.SW,-27.14,0.164,0.735,Yes
+171,Feintool International Holding AG,FTON.SW,-40.7,0.266,0.222,Yes
+172,naturenergie holding AG,NEAG.SW,-17.12,0.084,0.02,Yes
+173,VAT Group AG,VACN.SW,-40.75,0.222,0.629,Yes
+174,Bachem Holding AG,BANB.SW,-39.02,0.208,0.804,Yes
+175,StarragTornos Group AG,STGN.SW,-31.27,0.151,0.807,Yes
+176,Klingelnberg AG,KLIN.SW,-31.53,0.147,0.358,Yes
+177,Ascom Holding AG,ASCN.SW,-60.46,0.291,0.555,No
+178,CALIDA Holding AG,CALN.SW,-49.86,0.198,0.381,Yes
+179,Clariant AG,CLN.SW,-38.17,0.136,0.461,Yes
+180,ORIOR AG,ORON.SW,-70.96,0.335,0.67,Yes
+181,,TEMNE.SW,-28.16,0.051,,
+182,Xtrackers MSCI Nordic UCITS ETF 1C,XMN1.SW,-52.21,0.076,,
+183,iShares AI Adopters & Applications UCITS ETF USD (Acc),AIAA.SW,10.14,,,
+184,iShares AI Infrastructure UCITS ETF USD (Acc),AINF.SW,45.41,,,
+185,UBS (Irl) ETF plc - Nasdaq-100 UCITS ETF (USD) A-dis,QQQE.SW,19.99,,,
+186,iShares S&P 500 Top 20 UCITS ETF USD Acc,SP20.SW,17.67,,,
+187,L&G Cyber Security UCITS ETF CHF Hedged Accumulating,USPC.SW,34.61,,,
+188,Vanguard Funds PLC - Vanguard EUR Eurozone Government Bond 1-3 Year UCITS ETF EUR Accumulating,VSGF.SW,-15.26,,,

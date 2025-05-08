@@ -63,5 +63,3 @@ data = data[:-1] # Drop figures for current date
 calc_market_returns(data, "3y")
 calc_market_returns(data[-12:], "1y")
 
-
-

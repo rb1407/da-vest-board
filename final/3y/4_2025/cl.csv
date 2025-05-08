@@ -1,0 +1,165 @@
+Rank,Name,Ticker,Return (%),Risk
+1,iShares Trust - iShares 10-20 Year Treasury Bond ETF,TLH.SN,4.01,0.0
+2,MBI ADMINISTRADORA GENERAL DE F,CFIMBD3A-E.SN,11.38,0.002
+3,AMERIS CAPITAL ADM GEN DE FDOS ,CFIADI6FID.SN,14.15,0.006
+4,Frontal Trust Adm. Gen De Fondos SA - Cordada Rendimiento Con Liquidez FI Fund,CFIFTCLPP.SN,10.42,0.005
+5,Fondo De Inversion Larrainvial Facturas,CFILVFA-L.SN,10.43,0.007
+6,Frontal Trust Adm. Gen De Fondos SA - Cordada Rendimiento Con Liquidez FI Fund,CFIFTUFP.SN,9.09,0.006
+7,TOESCA SA ADM GENERAL DE FONDOS,CFITODPX-E.SN,9.41,0.008
+8,Fondo De Inversion ETF Singular Chile Corta Duracion,CFIETFCD.SN,8.16,0.007
+9,MBI Administradora General De Fondo - MBI Deuda Alternativa Fondo De Inversion,CFIMBIDA-A.SN,10.43,0.01
+10,Toesca SA Administrative General De Fondos- Toesca Deuda Privada Fondo De Inversion,CFITODPA-E.SN,12.3,0.013
+11,FRONTAL TRUST ADM GEN DE FONDOS,CFIFTRLPP.SN,10.99,0.012
+12,MBI Administradora General De Fondos - MBI DEUDA PRIVADA II FI Fund,CFIMBD2A-E.SN,12.8,0.014
+13,Moneda Renta CLP Fondo de Inversion,CFIMRCLP.SN,11.15,0.015
+14,MBI ADMINISTRADORA GENERAL DE F,CFI-MBPDUS.SN,9.07,0.013
+15,SINGULAR ASSET MANAGM ADM GEN F,CFILBKI3-E.SN,8.61,0.014
+16,Pionero Fondo De Inversion,CFIPIONERO.SN,43.42,0.066
+17,Bice Inversiones Administradora General - BVC Fundo De Inversion UNICA Fund,CFIBVCAP.SN,6.74,0.012
+18,SINGULAR ASSET MANAGM ADM GEN F,CFILBKA3-E.SN,7.05,0.013
+19,Fondo De Inversion Nevasa HMC Renta Fija Local,CFINHRFLA.SN,6.73,0.013
+20,ISHARES US ETF TRUST BLACKROCK ,NEAR.SN,6.65,0.013
+21,Nevasa Hmc Sa Administradora General De Fondos - Nevasa Deuda Privada Fund,CFINVSDPR.SN,10.34,0.022
+22,Ameris Capital Administradora General de Fondos S.A.- Fundo de Inversion Ameris Deuda Directa Fund,CFIAMDDA-E.SN,10.86,0.024
+23,Btg Pactual Chile Sa Administradora General De Fon - Cuota Fondos De Inversion,CFIBTGRE.SN,29.01,0.064
+24,Fondo de Inversión ETF Singular Chile Corporativo,CFIETFCC.SN,9.02,0.027
+25,Moneda Renta CLP Fondo de Inversion,CFIMRCLPR.SN,14.19,0.044
+26,iShares Trust - iShares Latin America 40 ETF,ILFCL.SN,29.61,0.09
+27,Oxiquim S.A.,OXIQUIM.SN,36.61,0.109
+28,Moneda Cumplo Pronto Pago Pymes Fondo de Inversion,CFIMCUMR.SN,8.03,0.027
+29,iShares Trust - iShares MSCI China ETF,MCHICL.SN,60.27,0.183
+30,"Meta Platforms, Inc.",META.SN,81.31,0.233
+31,Enaex S.A.,ENAEX.SN,42.11,0.142
+32,Moneda Deuda Chile Fondo de Inversión,CFIMDCHI.SN,32.77,0.119
+33,Euroamerica Administradora General De Fondos SA - FI Renta Fija Chile Index Fund,CFIEARFCHA.SN,24.4,0.098
+34,Enel Generación Chile S.A.,ENELGXCH.SN,80.1,0.283
+35,MBI Administradora General De Fondo - MBI Deuda Total Fondo De Inversion,CFIMBIDT-B.SN,6.89,0.034
+36,Embotelladora Andina S.A.,ANDINA-A.SN,43.62,0.187
+37,Empresa Eléctrica Pehuenche S.A.,PEHUENCHE.SN,63.27,0.256
+38,Ameris Capital Administradora General de Fondos S.A.- Fundo de Inversion Ameris Deuda Directa Fund,CFIAMDDC-E.SN,11.11,0.055
+39,NVIDIA Corporation,NVDA.SN,50.02,0.216
+40,Forus S.A.,FORUS.SN,59.59,0.26
+41,Empresas Lipigas S.A.,LIPIGAS.SN,56.14,0.248
+42,Zona Franca de Iquique S.A.,ZOFRI.SN,50.4,0.228
+43,Larrainvial Asset Management Administradora General - Fondo De Inversion Larrainvial Deuda Privada F,CFILVDPU-E.SN,7.29,0.04
+44,Enel Chile S.A.,ENELCHILE.SN,59.46,0.281
+45,Larrain Vial Deuda Corporativa Chile Fondo de Inversion,CFILVCOR-A.SN,8.7,0.051
+46,Embotelladora Andina S.A.,ANDINA-B.SN,51.41,0.259
+47,Paz Corp S.A.,PAZ.SN,84.23,0.389
+48,Inversiones La Construcción S.A.,ILC.SN,70.96,0.347
+49,MBI Arbitrage Fondo de Inversion,CFIMBIAR-A.SN,26.13,0.15
+50,iShares Trust - iShares S&P 500 Growth ETF,IVWCL.SN,29.71,0.168
+51,Banco de Chile,CHILE.SN,27.18,0.156
+52,SMU S.A.,SMU.SN,36.58,0.204
+53,Ripley Corp S.A.,RIPLEY.SN,57.01,0.304
+54,Inmobiliaria Manquehue S.A.,MANQUEHUE.SN,68.28,0.365
+55,Walmart Inc.,WALMARTCL.SN,76.8,0.401
+56,Parque Arauco S.A.,PARAUCO.SN,48.04,0.279
+57,iShares Trust - iShares 20+ Year Treasury Bond ETF,TLT.SN,47.93,0.279
+58,Aguas Andinas S.A.,AGUAS-A.SN,39.1,0.237
+59,Colbún S.A.,COLBUN.SN,38.66,0.235
+60,Grupo Security S.A.,SECURITY.SN,43.61,0.263
+61,Inversiones Aguas Metropolitanas S.A.,IAM.SN,44.25,0.269
+62,Engie Energia Chile S.A.,ECL.SN,49.09,0.304
+63,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBMPEU-E.SN,17.52,0.126
+64,Administradora de Fondos de Pensiones Habitat S.A.,HABITAT.SN,59.39,0.376
+65,"Meta Platforms, Inc.",METACL.SN,67.87,0.429
+66,ISHARES TRUST CORE MSCI TOTAL I,IXUS.SN,7.83,0.062
+67,Empresas Tricot S.A.,TRICOT.SN,57.2,0.381
+68,Banco de Crédito e Inversiones,BCI.SN,26.99,0.208
+69,SalfaCorp S.A.,SALFACORP.SN,47.98,0.344
+70,Administradora de Fondos de Pensiones Cuprum S.A.,CUPRUM.SN,48.93,0.357
+71,"Amazon.com, Inc.",AMZN.SN,44.15,0.328
+72,Fondo de Inversión ETF Singular NASDAQ 100,CFINASDAQ.SN,23.56,0.191
+73,iShares Trust - iShares Core S&P 500 ETF,IVVCL.SN,18.63,0.158
+74,iShares Trust - iShares U.S. Technology ETF,IYWCL.SN,27.15,0.228
+75,Schwager S.A.,SCHWAGER.SN,65.01,0.483
+76,Fondo De Inversion Fynsa Renta Fija Privada II,CFIFYNRF2A.SN,7.01,0.065
+77,Fondo de Inversión ETF Singular Global Equities Unica,CFIETFGE.SN,15.17,0.138
+78,Quiñenco SA,QUINENCO.SN,30.91,0.265
+79,Microsoft Corporation,MSFTCL.SN,26.98,0.237
+80,Sociedad Punta del Cobre S.A.,PUCOBRE.SN,16.79,0.155
+81,Besalco S.A.,BESALCO.SN,40.64,0.344
+82,The Coca-Cola Company,KOCL.SN,8.59,0.087
+83,Alphabet Inc.,GOOGCL.SN,31.44,0.297
+84,Falabella S.A.,FALABELLA.SN,27.23,0.262
+85,Empresa Constructora Moller y Pérez Cotapos S.A.,MOLLER.SN,29.02,0.287
+86,TESLA INC,TSLACL.SN,77.23,0.677
+87,Larrain Vial Deuda Corporativa Chile Fondo de Inversion,CFILVCOR-I.SN,3.72,0.043
+88,Banco Santander-Chile,BSANTANDER.SN,21.46,0.229
+89,"Amazon.com, Inc.",AMZNCL.SN,29.27,0.308
+90,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBCHMPUS.SN,14.11,0.16
+91,Camanchaca S.A.,CAMANCHACA.SN,23.31,0.258
+92,ISHARES BITCOIN TRUST ETF NPV C,IBITCL.SN,82.5,0.77
+93,Fondo de Inversión ETF Singular Global Corporates,CFIGC.SN,10.14,0.122
+94,Banco Itaú Chile,ITAUCL.SN,19.55,0.238
+95,Bice Alternativos Fondo De Inversion,CFIBALT1.SN,12.64,0.16
+96,Bank of America Corporation,BACCL.SN,65.78,0.703
+97,Apple Inc.,AAPLCL.SN,17.33,0.228
+98,abc S.A.,ABC.SN,32.27,0.406
+99,"iShares, Inc. - iShares MSCI Japan ETF",EWJCL.SN,14.46,0.199
+100,Empresas Gasco S.A.,GASCO.SN,15.78,0.225
+101,iShares Trust - iShares iBoxx $ High Yield Corporate Bond ETF,HYGCL.SN,7.74,0.114
+102,iShares Core S&P 500 ETF,IVV.SN,10.12,0.151
+103,Fondo de Inversion ETF Singular S&P 500 Fund,CFISP500.SN,11.5,0.176
+104,Coca-Cola Embonor S.A.,EMBONOR-B.SN,19.56,0.293
+105,Minera Valparaiso S.A.,MINERA.SN,9.6,0.164
+106,Administradora Americana de Inversiones S.A.,AAISA.SN,19.33,0.321
+107,Holding Bursátil Regional S.A.,NUAM.SN,14.38,0.259
+108,iShares Trust - iShares iBoxx $ Investment Grade Corporate Bond ETF,LQDCL.SN,7.19,0.14
+109,ISHARES TRUST US HEALTHCARE ETF,IYH-CL.SN,6.93,0.143
+110,Larrain Vial Activos S A Administradora General De Fondos - Cuota De Fondo De Inversion,CFIDHS2-A.SN,2.6,0.056
+111,"iShares, Inc. - iShares MSCI Emerging Markets ETF",EEMCL.SN,6.38,0.137
+112,Microsoft Corporation,MSFT.SN,11.45,0.242
+113,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBMPEM-E.SN,6.93,0.153
+114,Watt's S.A.,WATTS.SN,7.88,0.18
+115,Cristalerías de Chile S.A.,CRISTALES.SN,2.51,0.083
+116,AntarChile S.A.,ANTARCHILE.SN,4.41,0.154
+117,Empresa Nacional de Telecomunicaciones S.A.,ENTEL.SN,5.21,0.22
+118,Molibdenos y Metales S.A.,MOLYMET.SN,3.33,0.192
+119,Enel Américas S.A.,ENELAM.SN,4.19,0.242
+120,Intel Corporation,INTCCL.SN,7.11,0.434
+121,Socovesa S.A.,SOCOVESA.SN,5.95,0.469
+122,Blumar S.A.,BLUMAR.SN,1.46,0.151
+123,Viña Concha y Toro S.A.,CONCHATORO.SN,1.82,0.235
+124,Fondo Mutuo ETF It Now S&P IPSA ESG UNICA,CFMESGIPSA.SN,0.9,0.141
+125,BTG Pactual Renta Comercial F. I,CFIBTGRCA.SN,0.69,0.231
+126,The Walt Disney Company,DISCL.SN,-2.11,0.369
+127,Alphabet Inc.,GOOGLCL.SN,-3.66,0.331
+128,Empresas Hites S.A.,HITES.SN,-4.88,0.396
+129,iShares MSCI Eurozone ETF,EZU.SN,-6.33,0.279
+130,Almendral S.A.,ALMENDRAL.SN,-5.38,0.2
+131,ELI LILLY AND COMPANY,LLYCL.SN,-7.31,0.259
+132,Norte Grande S.A.,NORTEGRAN.SN,-8.61,0.306
+133,NVIDIA CORP,NVDACL.SN,-11.53,0.37
+134,Sociedad de Inversiones Oro Blanco S.A.,ORO-BLANCO.SN,-15.96,0.376
+135,Nitratos de Chile S.A.,NITRATOS.SN,-16.36,0.333
+136,Marítima de Inversiones S.A.,MARINSA.SN,-8.28,0.153
+137,Sociedad Química y Minera de Chile S.A.,SQM-B.SN,-22.48,0.369
+138,Sociedad Química y Minera de Chile S.A.,SQM-A.SN,-21.54,0.344
+139,Invercap S.A.,INVERCAP.SN,-14.92,0.17
+140,MBI Oportunidades Fondo de Inversión,CFIMBIGL-A.SN,-21.47,0.216
+141,iShares MSCI China ETF,MCHI.SN,-35.73,0.345
+142,BTG Pactual Chile S.A. Administradora General De Fondos - BTG Pactual Deuda Activa Plus Fund,CFIBTGDAPA.SN,-6.21,0.039
+143,MASTERCARD INCORPORATED,MACL.SN,-21.26,0.137
+144,UnitedHealth Group Incorporated,UNHCL.SN,-50.06,0.354
+145,Moneda Deuda Latam Investment Grade Fondo de Inversión,CFIMDLIG-I.SN,-22.54,0.12
+146,Aurus Capital Renta Inmobiliaria Fondo de Inversión,CFILVPARI1.SN,-16.86,0.061
+147,Banchile Administradora General - Fondo de Inversion MarketPlus Fund,CFIBCHMPGB.SN,13.33,
+148,BTG Pactual Chile S.A. Administradora General De Fondos - BTG Pactual Estados Unidos Fundo De Invesi,CFIBTGEU.SN,-18.64,
+149,Falcon ADM General De Fondos SA - Fondo De Inversion Falcom Fixed Income Fund,CFIFALCFIG.SN,10.9,
+150,Falcon ADM General De Fondos SA - Fondo De Inversion Falcom Global Strategy Fund,CFIFALCGLA.SN,-6.9,
+151,Fondo de Inversion FYNSA Deuda Inmobiliaria,CFIFYDIA-E.SN,-20.7,
+152,MBI Best Ideas Latam Fondo De Inversion,CFIMBILA-A.SN,-16.23,
+153,MONEDA SA ADMIN GENERAL DE FOND,CFIPIONR.SN,22.82,
+154,BTG PACTUAL CHILE SA AD GEN DE ,CFMEUFVIO.SN,13.94,
+155,CGE Transmisión S.A.,CGET.SN,0.0,
+156,Telefónica Chile S.A.,CTC.SN,0.0,
+157,Coca-Cola Embonor S.A.,EMBONOR-A.SN,80.37,
+158,Energía Latina S.A.,ENLASA.SN,0.0,
+159,iShares Europe ETF,IEV.SN,-51.18,
+160,iShares Trust - iShares Europe ETF,IEVCL.SN,-37.08,
+161,iShares Trust - iShares U.S. Home Construction ETF,ITBCL.SN,0.0,
+162,ISHARES TRUST ISHARES 0-3 MONTH,SGOV.SN,3.8,
+163,iShares Trust - iShares U.S. Tech Breakthrough Multisector ETF,TECBCL.SN,63.56,
+164,Viña San Pedro Tarapacá S.A.,VSPT.SN,8.07,

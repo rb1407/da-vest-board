@@ -1,0 +1,102 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Amundi Physical Gold ETC C,GOLD.AS,23.23,0.142,0.131,Yes
+2,Van Lanschot Kempen NV,VLK.AS,44.44,0.261,1.045,Yes
+3,Ferrovial SE,FER.AS,30.33,0.191,,
+4,RELX PLC,REN.AS,25.35,0.165,0.741,Yes
+5,Coca-Cola Europacific Partners PLC,CCEP.AS,22.19,0.161,0.544,Yes
+6,ABN AMRO Bank N.V.,ABN.AS,34.27,0.259,0.757,Yes
+7,Koninklijke BAM Groep nv,BAMNB.AS,45.62,0.365,0.66,Yes
+8,Wolters Kluwer N.V.,WKL.AS,23.85,0.211,0.638,Yes
+9,ING Groep N.V.,INGA.AS,30.98,0.267,0.967,Yes
+10,InPost S.A.,INPST.AS,41.34,0.346,0.969,Yes
+11,Unilever PLC,UNA.AS,12.41,0.128,0.45,Yes
+12,Hydratec Industries NV,HYDRA.AS,35.58,0.351,0.683,Yes
+13,Koninklijke KPN N.V.,KPN.AS,12.71,0.14,0.302,Yes
+14,Morefield Group N.V.,MORE.AS,27.71,0.289,0.66,Yes
+15,Titan N.V.,TITAN.AS,40.13,0.425,,
+16,HAWICK DATA NV,HWK.AS,22.23,0.253,,
+17,ASR Nederland N.V.,ASRNL.AS,18.24,0.214,0.511,Yes
+18,Exor N.V.,EXO.AS,15.34,0.193,,
+19,Envipco Holding N.V.,ENVI.AS,36.77,0.427,1.464,Yes
+20,SBM Offshore N.V.,SBMO.AS,16.55,0.214,0.702,Yes
+21,Eurocommercial Properties N.V.,ECMPA.AS,13.38,0.179,0.729,Yes
+22,GS Enh Index Sust NA Equity Fund (NL) P,GSENH.AS,10.9,0.149,,
+23,AEAM Global High Yield (EUR),AGHY.AS,8.02,0.112,,
+24,BE Semiconductor Industries N.V.,BESI.AS,35.25,0.471,1.738,Yes
+25,NN Group N.V.,NN.AS,14.76,0.216,0.642,Yes
+26,Koninklijke Vopak N.V.,VPK.AS,20.97,0.31,0.902,Yes
+27,Alumexx N.V.,ALX.AS,35.05,0.494,0.344,Yes
+28,WisdomTree Physical Gold,PHAU.AS,9.03,0.141,0.043,Yes
+29,LS 1x Amazon Tracker ETP,AMZN.AS,21.77,0.336,1.337,Yes
+30,CTP N.V.,CTPNV.AS,16.37,0.264,0.852,Yes
+31,LS 1x Alphabet Tracker ETP,GOOG.AS,16.74,0.276,0.86,Yes
+32,Bnp Paribas -  BNP Paribas ESG Netherlands Index Fund,BNPNL.AS,9.83,0.168,,
+33,AEX-Index,^AEX,8.55,0.149,1.0,Yes
+34,Aegon Ltd.,AGN.AS,13.55,0.246,0.743,Yes
+35,ASM International NV,ASM.AS,24.94,0.434,1.977,Yes
+36,Nedap N.V.,NEDAP.AS,6.75,0.136,0.346,Yes
+37,Universal Music Group N.V.,UMG.AS,13.75,0.272,1.04,Yes
+38,Reinet Investments S.C.A.,REINA.AS,8.3,0.189,0.727,Yes
+39,Renewi plc,RWI.AS,17.63,0.441,0.596,Yes
+40,Arcadis NV,ARCAD.AS,9.46,0.25,0.93,Yes
+41,Shell plc,SHELL.AS,7.23,0.198,0.434,Yes
+42,MotorK plc,MTRK.AS,33.45,0.841,0.591,Yes
+43,ASML Holding N.V.,ASML.AS,10.86,0.37,2.033,Yes
+44,B&S Group S.A.,BSGR.AS,12.61,0.43,0.442,Yes
+45,Acomo N.V.,ACOMO.AS,4.28,0.168,0.284,Yes
+46,21Shares Future of Crypto Index ETP USD Accumulation,FUTR.AS,23.08,0.851,,
+47,Just Eat Takeaway.com N.V.,TKWY.AS,16.03,0.644,1.9,Yes
+48,Koninklijke Philips N.V.,PHIA.AS,9.16,0.384,0.719,Yes
+49,Pharming Group N.V.,PHARM.AS,10.56,0.483,0.211,No
+50,Triodos Fair Share Inc,TFSF.AS,0.46,0.024,,
+51,VanEck Sui ETN A,VSUI.AS,21.67,1.056,,
+52,Value8 N.V.,VALUE.AS,2.11,0.112,0.182,Yes
+53,Goldman Sachs Global Sustainable Opportunities Equity Fund (NL),GSGOF.AS,3.09,0.177,,
+54,Flow Traders Ltd.,FLOW.AS,4.87,0.334,0.029,Yes
+55,New Sources Energy N.V.,NSE.AS,17.97,1.338,2.226,No
+56,Almunda Professionals N.V.,AMUND.AS,2.09,0.174,0.389,Yes
+57,New Amsterdam Invest N.V.,NAI.AS,1.47,0.185,0.107,Yes
+58,ArcelorMittal S.A.,MT.AS,1.97,0.329,1.549,Yes
+59,Brunel International N.V.,BRNL.AS,1.14,0.263,0.596,Yes
+60,IMCD N.V.,IMCD.AS,0.44,0.32,1.425,Yes
+61,Fugro N.V.,FUR.AS,0.4,0.397,1.253,Yes
+62,DGB Group N.V.,DGB.AS,0.28,0.607,0.093,Yes
+63,Ctac N.V.,CTAC.AS,0.07,0.212,0.431,Yes
+64,Kempen Global Property Fund N.V. N,KGPFN.AS,-0.34,0.178,,
+65,Value8 N.V.,PREVA.AS,-0.48,0.133,0.407,Yes
+66,CVC Capital Partners plc,CVC.AS,-2.28,0.366,,
+67,BNP Paribas III ESG Global Prop Secs Cl,BGPSF.AS,-1.22,0.175,,
+68,TKH Group N.V.,TWEKA.AS,-2.28,0.283,1.215,Yes
+69,HAL Trust,HAL.AS,-1.64,0.173,0.726,Yes
+70,"B.V. Delftsch Aardewerkfabriek ""De Porceleyne Fles Anno 1653""",PORF.AS,-2.16,0.219,0.434,Yes
+71,JDE Peet's N.V.,JDEP.AS,-2.89,0.221,0.115,No
+72,Randstad N.V.,RAND.AS,-3.31,0.228,0.715,Yes
+73,Fastned B.V.,FAST.AS,-7.32,0.392,0.279,Yes
+74,Aalberts N.V.,AALB.AS,-7.15,0.327,1.603,Yes
+75,21Shares Render ETP,RNDR.AS,-27.77,1.409,,
+76,Akzo Nobel N.V.,AKZA.AS,-6.1,0.262,1.062,Yes
+77,AMG Critical Materials N.V.,AMG.AS,-12.41,0.49,1.267,Yes
+78,TomTom N.V.,TOM2.AS,-11.24,0.332,1.311,Yes
+79,Corbion N.V.,CRBN.AS,-11.83,0.336,1.171,Yes
+80,Kendrion N.V.,KENDR.AS,-10.47,0.293,0.837,Yes
+81,Sligro Food Group N.V.,SLIGR.AS,-10.92,0.266,0.87,Yes
+82,Signify N.V.,LIGHT.AS,-12.98,0.277,0.987,Yes
+83,NX Filtration N.V.,NXFIL.AS,-21.87,0.486,0.338,Yes
+84,Basic-Fit N.V.,BFIT.AS,-15.86,0.341,0.883,Yes
+85,21Shares Immutable ETP,AIMX.AS,-29.86,0.662,,
+86,Alfen N.V.,ALFEN.AS,-34.47,0.651,1.646,Yes
+87,Galapagos NV,GLPG.AS,-20.31,0.271,0.312,No
+88,Havas N.V.,HAVAS.AS,-24.76,0.309,,
+89,Cabka N.V.,CABKA.AS,-34.85,0.337,0.481,Yes
+90,MKB Nedsense N.V.,NEDSE.AS,-25.98,0.192,,
+91,WisdomTree Gold 1x Daily Short ETP Securities,SBUL.AS,0.0,0.0,0.0,No
+92,WisdomTree Silver 1x Daily Short,SSIL.AS,0.0,0.0,0.0,No
+93,LS 1x Tesla Tracker ETP Securities,TSLA.AS,0.0,0.0,,
+94,WisdomTree Physical XRP ETC,XRPW.AS,0.0,0.0,,
+95,WisdomTree Gold 2x Daily Leveraged,LBUL.AS,0.0,0.0,0.0,No
+96,WisdomTree Silver 2x Daily Leveraged,LSIL.AS,0.0,0.0,0.0,No
+97,LS 1x Microsoft Tracker ETP Securities,MSFT.AS,0.0,0.0,,
+98,WisdomTree Physical Ethereum ETC,ETHW.AS,0.0,0.0,0.0,No
+99,LS 1x Coinbase Tracker ETC,COIB.AS,0.0,0.0,,
+100,Leverage Shares Plc - LS ARK Innovation Tracker ETP,1ARKK.AS,23.61,,,
+101,Leverage Shares 3x AMD ETC Securities,3AMD.AS,0.0,0.0,,

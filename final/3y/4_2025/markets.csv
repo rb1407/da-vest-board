@@ -1,0 +1,51 @@
+Rank,ISO Code,Country,Market Index Name,Market Index Ticker,Return (%),Risk
+1.0,ar,Argentina,MERVAL,^MERV,168.9,0.576
+2.0,tr,Turkey,BIST 100,XU100.IS,51.1,0.352
+3.0,es,Spain,IBEX 35,^IBEX,22.4,0.173
+4.0,il,Israel,TA-125,^TA125.TA,18.12,0.151
+5.0,it,Italy,FTSE MIB Index,FTSEMIB.MI,20.48,0.199
+6.0,de,Germany,DAX P,^GDAXI,17.6,0.177
+7.0,gr,Greece,ASE Composite Index,GD.AT,19.17,0.196
+8.0,cn,China,SSE Composite Index,000001.SS,17.48,0.188
+9.0,pt,Portugal,PSI 20,PSI20.LS,8.31,0.13
+10.0,fr,France,CAC 40,^FCHI,9.56,0.164
+11.0,us,United States,S&P 500,^GSPC,8.86,0.178
+12.0,mx,Mexico,IPC Mexico,^MXX,7.43,0.184
+13.0,ie,Ireland,ISEQ All Share Index,^ISEQ,8.14,0.209
+14.0,ca,Canada,S&P/TSX Composite Index,^GSPTSE,5.54,0.144
+15.0,tw,Taiwan,TWSE Capitalization Weighted Stock Index,^TWII,9.42,0.243
+16.0,be,Belgium,BEL 20,^BFX,4.45,0.119
+17.0,my,Malaysia,FTSE Bursa Malaysia KLCI,^KLSE,3.87,0.118
+18.0,nl,Netherlands,AEX-Index,^AEX,4.28,0.148
+19.0,at,Austria,Austrian Traded Index,^ATX,4.98,0.206
+20.0,sg,Singapore,STI Index,^STI,2.27,0.105
+21.0,gb,United Kingdom,FTSE 100,^FTSE,1.53,0.112
+22.0,jp,Japan,Nikkei 225,^N225,1.64,0.16
+23.0,br,Brazil,BOVESPA,^BVSP,1.26,0.198
+24.0,se,Sweden,OMX Stockholm 30 Index,^OMX,0.58,0.161
+25.0,no,Norway,Oslo Bors All-Share Index,^OSEAX,-0.79,0.145
+26.0,au,Australia,S&P/ASX 200,^AXJO,-1.63,0.146
+27.0,kr,South Korea,KOSPI Composite Index,^KS11,-3.44,0.213
+28.0,sa,Saudi Arabia,Tadawul All Shares Index,^TASI.SR,-3.28,0.182
+29.0,in,India,S&P BSE SENSEX,^BSESN,-2.61,0.113
+30.0,ch,Switzerland,SMI,^SSMI,-4.31,0.13
+31.0,fi,Finland,OMX Helsinki 25,^OMXH25,-5.8,0.143
+32.0,nz,New Zealand,S&P/NZX 50,^NZ50,-5.11,0.096
+33.0,id,Indonesia,IDX Composite Index,^JKSE,-12.95,0.132
+,cz,Czechia,PX Index,FPXAA.PR,,
+,ve,Venezuela,Indice IBC,IBC.CR,,
+,za,South Africa,FTSE/JSE SA All Share Index,J203.L,,
+,cl,Chile,S&P/CLX IGPA,SPCLXIGPA.SN,,
+,pl,Poland,WIG Total Return Index,WIG.WA,,
+,ro,Romania,BET 10,^BET.RO,,
+,kw,Kuwait,Kuwait All-Share Index,^BKA.KW,,
+,hu,Hungary,Budapest Stock Index,^BUX.BD,,
+,eg,Egypt,EGX 30,^CASE30,,
+,qa,Qatar,QE Index,^GNRI.QA,,
+,hk,Hong Kong,Hang Seng Index,^HIS,,
+,dk,Denmark,OMX Copenhagen 20,^OMXC20,,
+,lv,Latvia,OMX Riga,^OMXR,,
+,ee,Estonia,OMX Tallinn,^OMXT,,
+,lt,Lithuania,OMX Vilnius,^OMXV,,
+,th,Thailand,SET50 Index,^SET50.BK,,
+,is,Iceland,OMX Iceland All-Share Price Index,^XIPI,,

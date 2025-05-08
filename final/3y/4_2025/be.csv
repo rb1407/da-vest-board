@@ -1,0 +1,75 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,KBC Ancora SA,KBCA.BR,26.93,0.184,0.83,Yes
+2,EVS Broadcast Equipment SA,EVS.BR,29.61,0.201,0.243,Yes
+3,Solvay SA,SOLB.BR,50.66,0.328,1.188,Yes
+4,Cenergy Holdings SA,CENER.BR,48.53,0.335,0.987,Yes
+5,UCB SA,UCB.BR,31.24,0.249,0.692,Yes
+6,Financière de Tubize SA,TUB.BR,21.68,0.205,0.741,Yes
+7,Lotus Bakeries NV,LOTB.BR,28.44,0.273,0.445,Yes
+8,ageas SA/NV,AGS.BR,16.85,0.169,0.787,Yes
+9,argenx SE,ARGX.BR,31.65,0.318,0.054,Yes
+10,Immo Mechelen City Center Naamloze vennootschap,MCC.BR,10.51,0.121,0.094,Yes
+11,KBC Group NV,KBC.BR,21.55,0.238,1.161,Yes
+12,Moury Construct SA,MOUR.BR,24.66,0.275,0.239,Yes
+13,Ackermans & Van Haaren NV,ACKB.BR,14.51,0.171,1.008,Yes
+14,Warehouses Estates Belgium S.C.A.,WEB.BR,9.08,0.117,0.392,Yes
+15,Whitestone Group SA,ROCK.BR,13.61,0.179,0.1,No
+16,Colruyt Group N.V.,COLR.BR,22.65,0.305,0.151,Yes
+17,Jensen-Group NV,JEN.BR,14.57,0.228,0.494,Yes
+18,Viohalco S.A.,VIO.BR,21.26,0.346,0.687,Yes
+19,Fagron NV,FAGR.BR,11.24,0.202,0.358,Yes
+20,What's Cooking Group NV,WHATS.BR,15.5,0.274,,
+21,DEME Group NV,DEME.BR,12.27,0.239,,
+22,Vastned,VASTB.BR,7.59,0.165,0.707,Yes
+23,Brederode SA,BREB.BR,9.69,0.209,0.908,Yes
+24,BEL 20,^BFX,5.35,0.128,1.0,Yes
+25,Ascencio SA,ASCE.BR,6.38,0.165,0.748,Yes
+26,Retail Estates N.V.,RET.BR,6.86,0.18,0.735,Yes
+27,Spadel SA,SPA.BR,6.77,0.185,0.154,Yes
+28,Newtree S.A.,NEWT.BR,26.98,0.691,0.072,No
+29,Qrf Comm. VA,QRF.BR,4.84,0.149,0.58,Yes
+30,Sofina Société Anonyme,SOF.BR,9.26,0.288,1.782,Yes
+31,Anheuser-Busch InBev SA/NV,ABI.BR,6.76,0.216,0.788,Yes
+32,Cumulex N.V.,CLEX.BR,41.14,1.195,0.567,No
+33,Compagnie d'Entreprises CFE SA,CFEB.BR,4.88,0.252,0.264,Yes
+34,Sequana Medical NV,SEQUA.BR,37.73,2.154,1.031,Yes
+35,NV Bekaert SA,BEKB.BR,2.86,0.271,1.492,Yes
+36,Nyrstar NV,NYR.BR,12.3,1.625,1.342,No
+37,Home Invest Belgium S.A.,HOMI.BR,2.07,0.289,0.758,Yes
+38,Ontex Group NV,ONTEX.BR,2.1,0.296,1.182,Yes
+39,Texaf S.A.,TEXF.BR,0.86,0.132,0.049,Yes
+40,Payton Planar Magnetics Ltd.,PAY.BR,1.0,0.304,0.475,No
+41,Inclusio SA,INCLU.BR,-0.05,0.193,0.458,Yes
+42,Ion Beam Applications SA,IBAB.BR,-1.82,0.454,2.137,Yes
+43,Roularta Media Group NV,ROU.BR,-2.35,0.285,0.211,Yes
+44,Melexis NV,MELE.BR,-4.37,0.368,1.677,Yes
+45,Tessenderlo Group NV,TESB.BR,-2.64,0.211,0.423,Yes
+46,Shurgard Self Storage Ltd,SHUR.BR,-4.18,0.254,1.241,Yes
+47,Fluxys Belgium SA,FLUX.BR,-5.35,0.261,0.475,Yes
+48,TINC NV,TINC.BR,-2.65,0.107,0.411,Yes
+49,Floridienne S.A.,FLOB.BR,-6.04,0.245,0.183,Yes
+50,Elia Group SA/NV,ELI.BR,-9.31,0.34,1.195,Yes
+51,Crescent NV,OPTI.BR,-17.0,0.611,1.044,Yes
+52,Azelis Group NV,AZE.BR,-10.76,0.356,1.066,Yes
+53,Biotalys NV,BTLS.BR,-14.85,0.501,1.97,Yes
+54,Recticel SA/NV,RECT.BR,-10.47,0.325,1.391,Yes
+55,Barco NV,BAR.BR,-11.8,0.352,1.209,Yes
+56,Immo Moury SCA,IMMOU.BR,-5.31,0.151,0.393,Yes
+57,Compagnie du Bois Sauvage S.A.,COMB.BR,-7.1,0.2,0.517,Yes
+58,Hybrid Software Group PLC,HYSG.BR,-10.09,0.264,0.626,Yes
+59,Keyware Technologies NV,KEYW.BR,-8.16,0.165,0.099,Yes
+60,Softimat S.A.,SOFT.BR,-16.68,0.344,0.101,No
+61,Hyloris Pharmaceuticals SA,HYL.BR,-20.81,0.416,0.429,Yes
+62,Kinepolis Group NV,KIN.BR,-12.31,0.228,0.59,Yes
+63,Econocom Group SE,ECONB.BR,-13.86,0.226,0.952,Yes
+64,Orange Belgium S.A.,OBEL.BR,-6.99,0.099,0.28,Yes
+65,Banimmo SA,BANI.BR,-11.98,0.16,0.365,Yes
+66,Miko NV,MIKO.BR,-16.95,0.217,0.363,Yes
+67,Immobel SA,IMMO.BR,-27.66,0.347,1.576,Yes
+68,Quest for Growth NV,QFG.BR,-15.07,0.153,0.666,Yes
+69,Syensqo SA/NV,SYENS.BR,-23.23,0.244,,
+70,bpost NV/SA,BPOST.BR,-29.98,0.311,0.103,No
+71,Agfa-Gevaert NV,AGFB.BR,-35.1,0.36,1.272,Yes
+72,Atenor SA,ATEB.BR,-47.07,0.509,1.912,Yes
+73,Brouwerij Handelsmaatschappij NV,COBH.BR,-22.2,0.193,0.023,Yes
+74,Umicore SA,UMI.BR,-38.17,0.283,1.021,Yes

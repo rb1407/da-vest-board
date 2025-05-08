@@ -1,0 +1,551 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Poste Italiane S.p.A.,PST.MI,58.69,0.111,0.356,Yes
+2,Deutsche Börse AG,1DB1.MI,62.46,0.129,0.107,Yes
+3,Unipol Assicurazioni S.p.A.,UNI.MI,76.66,0.172,0.727,Yes
+4,Lottomatica Group S.p.A.,LTMC.MI,95.07,0.209,0.69,Yes
+5,Heidelberg Materials AG,1HEI.MI,95.47,0.238,0.104,Yes
+6,Caltagirone SpA,CALT.MI,42.79,0.127,0.015,Yes
+7,HOCHTIEF Aktiengesellschaft,1HOT.MI,81.18,0.22,1.234,Yes
+8,eVISO S.p.A.,EVISO.MI,96.34,0.253,0.783,Yes
+9,Banca Generali S.p.A.,BGN.MI,41.85,0.131,0.479,Yes
+10,Deutsche Bank Aktiengesellschaft,1DBK.MI,61.46,0.182,0.942,Yes
+11,REVO Insurance S.p.A.,REVO.MI,60.39,0.18,0.521,No
+12,Toscana Aeroporti S.p.A.,TYA.MI,42.28,0.134,0.495,Yes
+13,GEA Group Aktiengesellschaft,1G.MI,58.67,0.179,0.361,No
+14,Philip Morris International Inc.,1PM.MI,82.68,0.243,0.952,Yes
+15,Assicurazioni Generali S.p.A.,G.MI,41.18,0.138,0.677,Yes
+16,SYS-DAT S.p.A.,SYS.MI,96.16,0.277,,
+17,AT&T Inc.,1T.MI,63.21,0.202,0.455,Yes
+18,Webuild S.p.A.,WBD.MI,60.07,0.196,0.89,Yes
+19,Avio S.p.A.,AVIO.MI,72.51,0.236,1.038,Yes
+20,"ACS, Actividades de Construcción y Servicios, S.A.",1ACS.MI,45.49,0.164,0.315,Yes
+21,Deutsche Telekom AG,1DTE.MI,52.48,0.187,0.58,Yes
+22,Gel S.p.A.,GEL.MI,52.21,0.188,0.064,Yes
+23,SAP SE,1SAP.MI,62.91,0.22,0.054,Yes
+24,Allianz SE,1ALV.MI,41.73,0.161,0.559,Yes
+25,"Gilead Sciences, Inc.",1GILD.MI,74.11,0.267,0.583,Yes
+26,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,1MUV2.MI,35.23,0.145,0.174,Yes
+27,"Mapfre, S.A.",1MAP.MI,44.39,0.182,0.254,No
+28,DOORDASH,4DASH.TI,87.34,0.318,0.194,Yes
+29,ageas SA/NV,1AGS.MI,29.26,0.129,0.786,Yes
+30,Fresenius SE & Co. KGaA,1FRE.MI,49.58,0.212,0.801,Yes
+31,"Netflix, Inc.",1NFLX.MI,86.59,0.332,0.742,No
+32,Intesa Sanpaolo S.p.A.,ISP.MI,41.66,0.187,1.467,Yes
+33,Cairo Communication S.p.A.,CAI.MI,44.8,0.2,0.493,Yes
+34,"CaixaBank, S.A.",1CABK.MI,49.72,0.22,1.559,Yes
+35,Koninklijke Ahold Delhaize N.V.,1AD.MI,36.37,0.172,0.259,Yes
+36,UniCredit S.p.A.,UCG.MI,57.29,0.254,1.913,Yes
+37,BPER Banca SpA,BPE.MI,53.39,0.24,1.194,Yes
+38,"Altria Group, Inc.",1MO.MI,41.24,0.194,0.055,No
+39,Monrif S.p.A.,MON.MI,65.71,0.286,0.57,No
+40,McDonald's Corporation,4MCD.TI,23.91,0.12,0.139,Yes
+41,Banca Popolare di Sondrio S.p.A,BPSO.MI,64.06,0.281,1.894,Yes
+42,Technogym S.p.A.,TGYM.MI,31.98,0.158,0.164,Yes
+43,Exelon Corporation,1EXC.MI,30.92,0.154,0.775,Yes
+44,Banca Mediolanum S.p.A.,BMED.MI,40.89,0.196,1.053,Yes
+45,Italian Exhibition Group S.p.A.,IEG.MI,58.43,0.268,0.241,No
+46,Banco BPM S.p.A.,BAMI.MI,70.46,0.312,0.874,Yes
+47,Caltagirone Editore SpA,CED.MI,54.68,0.258,0.632,Yes
+48,Credito Emiliano S.p.A.,CE.MI,32.62,0.166,1.064,Yes
+49,Walmart Inc.,1WMT.MI,53.91,0.26,0.116,No
+50,Reway Group S.p.A.,RWY.MI,38.68,0.202,0.328,Yes
+51,Immobiliare Grande Distribuzione SIIQ S.p.A.,IGD.MI,77.56,0.372,1.435,Yes
+52,AXA SA,1CS.MI,29.91,0.168,0.875,Yes
+53,Edison S.p.A.,EDNR.MI,29.76,0.169,0.066,Yes
+54,Cementir Holding N.V.,CEM.MI,53.24,0.286,0.768,Yes
+55,McDonald's Corporation,1MCD.MI,19.81,0.122,0.318,Yes
+56,International Business Machines Corporation,1IBM.MI,51.7,0.286,0.271,Yes
+57,Mediobanca Banca di Credito Finanziario S.p.A.,MB.MI,34.04,0.201,1.493,Yes
+58,ACEA S.p.A.,ACE.MI,30.35,0.182,0.287,No
+59,"Banco de Sabadell, S.A.",1SAB.MI,53.69,0.298,2.147,Yes
+60,Equita Group S.p.A.,EQUI.MI,17.42,0.11,0.385,Yes
+61,Société Générale Société anonyme,1GLE.MI,89.24,0.45,2.762,Yes
+62,Banco di Desio e della Brianza S.p.A.,BDB.MI,68.1,0.366,1.511,Yes
+63,A2A S.p.A.,A2A.MI,18.38,0.118,0.289,Yes
+64,Berkshire Hathaway Inc.,1BRK.MI,28.13,0.174,0.391,Yes
+65,Berkshire Hathaway Inc.,4BRK.TI,27.94,0.173,0.373,Yes
+66,"Amadeus IT Group, S.A.",1AMS.MI,29.92,0.185,0.493,No
+67,Raiffeisen Bank International AG,4RBI.TI,52.7,0.301,1.704,Yes
+68,Boston Scientific Corporation,1BSX.MI,35.23,0.216,0.322,Yes
+69,Banca Monte dei Paschi di Siena S.p.A.,BMPS.MI,64.38,0.36,0.068,Yes
+70,The Bank of New York Mellon Corporation,1BK.MI,41.21,0.249,0.531,No
+71,RCS MediaGroup S.p.A.,RCS.MI,30.14,0.19,0.945,Yes
+72,Fiera Milano S.p.A.,FM.MI,46.4,0.282,1.254,Yes
+73,Crowdstrike Hold,1CRWD.MI,83.02,0.455,,
+74,Reply S.p.A.,REY.MI,28.43,0.186,0.484,No
+75,"Banco de Sabadell, S.A.",4SAB.TI,51.01,0.313,2.367,Yes
+76,LU-VE S.p.A.,LUVE.MI,17.85,0.126,0.486,Yes
+77,Eurocommercial Properties N.V.,ECMPM.MI,22.27,0.156,0.281,Yes
+78,UCB,4UCB.TI,33.46,0.226,0.325,No
+79,International Consolidated Airlines Group S.A.,1IAG.MI,71.26,0.428,0.576,Yes
+80,eBay Inc.,1EBAY.MI,33.93,0.231,0.603,No
+81,Rai Way S.p.A.,RWAY.MI,17.91,0.13,0.335,Yes
+82,Commerzbank AG,1CBK.MI,66.55,0.413,1.693,Yes
+83,TXT e-solutions S.p.A.,TXT.MI,41.66,0.282,0.541,Yes
+84,Juventus Football Club S.p.A.,JUVE.MI,89.05,0.543,1.31,No
+85,Valsoia S.p.A.,VLS.MI,13.28,0.104,0.085,No
+86,MTU AERO ENGINES,1MTX.MI,33.41,0.243,0.718,Yes
+87,"WEC Energy Group, Inc.",1WEC.MI,34.69,0.254,0.157,No
+88,EssilorLuxottica Société anonyme,1EL.MI,29.05,0.219,1.242,Yes
+89,Mastercard Incorporated,1MA.MI,21.66,0.168,0.253,Yes
+90,Maire S.p.A.,MAIRE.MI,39.41,0.29,0.678,Yes
+91,Nokia Oyj,1NOKIA.MI,30.3,0.234,1.009,Yes
+92,Visa Inc.,1V.MI,26.61,0.209,0.549,Yes
+93,"T-Mobile US, Inc.",1TMUS.MI,51.84,0.376,0.336,Yes
+94,"Banco Santander, S.A.",1SANX.MI,41.18,0.31,2.253,Yes
+95,Officina Stellare S.p.A.,OS.MI,36.0,0.28,0.933,No
+96,Siemens Aktiengesellschaft,1SIE.MI,20.99,0.174,0.963,Yes
+97,Gas Plus S.p.A.,GSP.MI,50.29,0.381,0.595,No
+98,"Banco Bilbao Vizcaya Argentaria, S.A.",1BBVA.MI,34.15,0.274,2.157,Yes
+99,"Cisco Systems, Inc.",1CSCO.MI,27.37,0.225,0.39,Yes
+100,Banca IFIS S.p.A.,IF.MI,18.3,0.16,0.512,Yes
+101,Prosus N.V.,4PRX.TI,29.01,0.247,0.26,Yes
+102,"Expedia Group, Inc.",1EXPE.MI,54.03,0.424,0.834,No
+103,"ServiceNow, Inc.",1NOW.MI,54.59,0.428,1.909,No
+104,The Coca-Cola Company,4KO.TI,18.8,0.17,0.542,Yes
+105,Anima Holding SpA,ANIM.MI,27.62,0.242,0.343,Yes
+106,The Coca-Cola Company,1KO.MI,18.04,0.166,0.573,Yes
+107,BOOKING HOLDINGS,4BKNG.TI,34.23,0.301,0.898,No
+108,"Tesla, Inc.",1TSLA.MI,95.49,0.7,3.031,No
+109,Maps S.p.A.,MAPS.MI,23.86,0.22,0.084,Yes
+110,Deere & Company,1DE.MI,30.79,0.283,0.068,Yes
+111,HelloFresh SE,4HFG.TI,89.47,0.686,1.36,Yes
+112,HelloFresh SE,1HFG.MI,93.59,0.713,1.339,Yes
+113,Zalando SE,1ZAL.MI,41.69,0.373,0.726,Yes
+114,"Intuitive Surgical, Inc.",1ISRG.MI,29.1,0.277,0.108,Yes
+115,Costco Wholesale Corporation,1COST.MI,22.92,0.224,0.073,Yes
+116,FinecoBank Banca Fineco S.p.A.,FBK.MI,22.81,0.226,0.853,Yes
+117,Buzzi S.p.A.,BZU.MI,24.06,0.245,0.518,Yes
+118,American Tower Corporation,1AMT.MI,18.92,0.197,0.099,No
+119,General Electric Company,1GE.MI,33.17,0.332,,
+120,NORDEA BANK,1NDA.MI,17.25,0.183,0.896,Yes
+121,FTSE MIB Index,FTSEMIB.MI,10.53,0.115,1.0,Yes
+122,"Autodesk, Inc.",1ADSK.MI,26.7,0.274,0.503,No
+123,Booking Holdings Inc.,1BKNG.MI,33.78,0.342,1.197,No
+124,Iveco Group N.V.,IVG.MI,44.37,0.435,2.973,Yes
+125,Lumentum Holdings Inc.,1LITE.MI,52.35,0.505,1.741,No
+126,Newmont Corporation,1NEM.MI,29.01,0.307,0.617,Yes
+127,S.S. Lazio S.p.A.,SSL.MI,38.74,0.4,1.71,No
+128,Bristol-Myers Squibb Company,1BMY.MI,32.54,0.346,0.105,No
+129,"Motorola Solutions, Inc.",1MSI.MI,19.55,0.219,0.82,No
+130,Adler Group S.A.,4ADJ.TI,74.89,0.698,0.781,No
+131,Fos S.p.A.,FOS.MI,56.74,0.567,2.787,Yes
+132,OVS S.p.A.,OVS.MI,25.94,0.29,1.209,Yes
+133,Gen Digital Inc.,1NLOK.MI,30.43,0.341,1.296,No
+134,PLC S.p.A.,PLC.MI,24.45,0.282,1.6,No
+135,"Naturgy Energy Group, S.A.",1NTGY.MI,22.16,0.262,1.549,Yes
+136,Zoom Communications Inc.,1ZM.MI,27.12,0.316,0.509,No
+137,LUMENTUM HOLDINGS,4LITE.TI,54.0,0.573,2.253,No
+138,"Uber Technologies, Inc.",1UBER.MI,28.21,0.328,0.139,Yes
+139,JPMorgan Chase & Co.,1JPM.MI,25.23,0.299,0.468,Yes
+140,"BlackRock, Inc.",1BLK.MI,19.71,0.239,0.436,No
+141,"Telefónica, S.A.",1TEF.MI,13.8,0.171,0.424,Yes
+142,CECONOMY,1CEC.MI,39.7,0.451,0.685,No
+143,Verizon Communications Inc.,1VZ.MI,17.51,0.218,0.169,No
+144,Corning Incorporated,4GLW.TI,20.72,0.255,0.08,Yes
+145,Acinque S.p.A.,AC5.MI,5.92,0.079,0.289,Yes
+146,"Enagás, S.A.",1ENG.MI,11.22,0.147,0.066,Yes
+147,Rosetti Marino SpA,YRM.MI,7.67,0.103,0.05,Yes
+148,Websolute S.p.A.,WBS.MI,31.54,0.386,0.24,No
+149,Vivendi SE,1VIV.MI,27.94,0.348,1.686,Yes
+150,DEUTZ Aktiengesellschaft,1DEZ.MI,35.86,0.441,0.198,Yes
+151,Ecosuntek S.p.A.,ECK.MI,22.01,0.295,0.192,Yes
+152,OMER S.p.A.,OMER.MI,16.81,0.233,0.17,No
+153,Azienda Bresciana Petroli Nocivelli S.p.A.,ABP.MI,12.72,0.181,0.261,No
+154,Industrie Chimiche Forestali S.p.A.,ICF.MI,9.95,0.145,0.15,Yes
+155,Continental Aktiengesellschaft,1CON.MI,18.8,0.264,0.853,Yes
+156,Gefran S.p.A.,GE.MI,10.96,0.159,0.021,Yes
+157,Investor AB (publ),1INVEB.MI,15.52,0.222,0.65,Yes
+158,MFE-Mediaforeurope N.V.,MFEA.MI,11.49,0.168,0.624,Yes
+159,I.M.D. International Medical Devices S.p.A.,IMD.MI,13.42,0.197,0.481,Yes
+160,"United Airlines Holdings, Inc.",1UAL.MI,60.23,0.75,0.705,No
+161,"The Goldman Sachs Group, Inc.",1GS.MI,25.15,0.355,0.175,Yes
+162,Webuild S.p.A.,WBDR.MI,27.31,0.385,2.632,Yes
+163,KOENIG & BAUER,1SKB.MI,47.31,0.63,0.829,Yes
+164,Fresenius Medical Care AG,1FME.MI,17.85,0.268,0.228,Yes
+165,"Industria de Diseño Textil, S.A.",1ITX.MI,14.96,0.228,0.056,Yes
+166,Accor SA,4AC.TI,14.8,0.227,0.329,Yes
+167,"Salesforce, Inc.",1CRM.MI,26.5,0.389,1.562,No
+168,MORGAN STANLEY,1MS.MI,24.28,0.365,0.29,Yes
+169,Oracle Corporation,1ORCL.MI,28.8,0.438,1.523,No
+170,"Fiserv, Inc.",4FISV.TI,23.54,0.368,0.71,Yes
+171,Wells Fargo & Company,1WFC.MI,23.62,0.376,0.02,No
+172,Digital Bros S.p.A.,DIB.MI,37.97,0.575,2.576,Yes
+173,Brioschi Sviluppo Immobiliare S.p.A.,BRI.MI,25.27,0.402,0.638,Yes
+174,Aeroporto Guglielmo Marconi di Bologna S.p.A.,ADB.MI,5.32,0.092,0.141,Yes
+175,"Roku, Inc.",1ROKU.MI,32.2,0.502,0.434,Yes
+176,GameStop Corp.,1GME.MI,35.8,0.562,3.119,No
+177,Convergenze S.p.A. Società Benefit,CVG.MI,12.14,0.215,0.425,No
+178,Crédit Agricole S.A.,1ACA.MI,15.55,0.281,1.981,Yes
+179,Nordea Bank Abp,4NDA.TI,9.36,0.175,1.036,Yes
+180,Sanofi,1SAN.MI,10.17,0.191,1.015,Yes
+181,Recupero Etico Sostenibile S.p.A.,RES.MI,45.96,0.76,2.225,No
+182,Simone S.p.A.,SMN.MI,17.28,0.318,1.483,No
+183,iVision Tech S.p.A.,IVN.MI,23.13,0.418,1.178,Yes
+184,NORDEX,1NDX.MI,21.38,0.389,0.112,Yes
+185,K+S Aktiengesellschaft,1SDF.MI,23.43,0.424,1.104,Yes
+186,"American Water Works Company, Inc.",1AWK.MI,8.99,0.173,0.121,Yes
+187,"Enagás, S.A.",4ENG.TI,7.83,0.152,0.22,Yes
+188,BNP Paribas SA,1BNP.MI,13.91,0.265,1.964,Yes
+189,Pharmanutra S.p.A.,PHN.MI,13.4,0.258,0.18,Yes
+190,Expert.ai S.p.A.,EXAI.MI,17.81,0.338,1.106,No
+191,Garofalo Health Care S.p.A.,GHC.MI,7.21,0.143,0.637,No
+192,Valtecne S.p.A.,VLT.MI,13.57,0.266,0.301,No
+193,Poligrafici Printing S.p.A.,POPR.MI,8.23,0.169,0.432,No
+194,Racing Force S.P.A.,RFG.MI,10.02,0.207,0.272,Yes
+195,Xenia Hôtellerie Solution S.p.A. Società Benefit,XHS.MI,14.19,0.292,0.088,No
+196,MFE-Mediaforeurope N.V.,MFEB.MI,11.69,0.244,0.854,Yes
+197,Incyte Corporation,1INCY.MI,17.91,0.364,0.016,Yes
+198,Reddit Inc,1RDDT.MI,55.3,0.993,,
+199,"Waste Management, Inc.",1WM.MI,10.58,0.227,0.302,Yes
+200,ArcelorMittal S.A.,4MT.TI,12.96,0.277,1.286,Yes
+201,American Express Company,1AXP.MI,12.79,0.285,0.034,No
+202,Porto Aviation Group S.p.A.,PAG.MI,10.27,0.233,0.18,No
+203,"Fiserv, Inc.",1FISV.MI,21.7,0.472,0.453,Yes
+204,Snowflake Inc.,1SNOW.MI,35.55,0.738,0.915,No
+205,Promotica S.p.A.,PMT.MI,11.83,0.274,0.411,No
+206,Fope S.p.A.,FPE.MI,12.47,0.29,0.233,Yes
+207,Monnalisa S.p.A.,MNL.MI,87.85,1.6,0.212,No
+208,Ferrari N.V.,RACE.MI,11.67,0.278,1.028,Yes
+209,Infrastrutture Wireless Italiane S.p.A.,INW.MI,6.59,0.162,0.189,Yes
+210,FORTUM,1FORT.MI,6.36,0.162,0.155,Yes
+211,Parker-Hannifin Corporation,1PH.MI,15.42,0.382,0.138,Yes
+212,Brunello Cucinelli S.p.A.,BC.MI,13.52,0.338,1.292,Yes
+213,The Clorox Company,1CLX.MI,10.69,0.271,0.2,Yes
+214,CIR S.p.A. - Compagnie Industriali Riunite,CIR.MI,6.16,0.161,0.178,No
+215,Apple Inc.,1AAPL.MI,9.84,0.254,0.601,No
+216,Technical Publications Service S.p.A.,TPS.MI,7.15,0.189,0.525,Yes
+217,NORTHERN DATA,1NB.MI,22.56,0.579,0.913,Yes
+218,TUI AG,1TUI1U.MI,13.2,0.36,0.815,No
+219,Stryker Corporation,1SYK.MI,7.65,0.217,0.036,No
+220,"The Home Depot, Inc.",1HD.MI,8.72,0.253,0.446,No
+221,TEAMVIEWER,1TMV.MI,16.11,0.464,2.343,Yes
+222,Eli Lilly and Company,1LLY.MI,11.18,0.339,0.629,Yes
+223,Società Editoriale Il Fatto S.p.A.,SEIF.MI,6.16,0.191,0.993,Yes
+224,Eli Lilly and Company,4LLY.TI,11.06,0.338,0.615,Yes
+225,JOHNSON & JOHNSON,1JNJ.MI,6.35,0.201,0.881,Yes
+226,Health Italia S.p.A.,HI.MI,16.93,0.527,0.716,No
+227,LANXESS Aktiengesellschaft,1LXS.MI,15.89,0.499,1.888,Yes
+228,CNH INDUSTRIAL,1CNHI.MI,10.08,0.325,0.499,Yes
+229,Laboratorio Farmaceutico Erfo S.p.A.,ERFO.MI,14.5,0.46,1.406,Yes
+230,Citigroup Inc.,1C.MI,9.04,0.299,0.624,Yes
+231,The Sherwin-Williams Company,1SHW.MI,7.17,0.241,0.077,No
+232,Immsi S.p.A.,IMS.MI,12.57,0.437,2.046,Yes
+233,ENAV S.p.A.,ENAV.MI,6.23,0.225,1.257,No
+234,PG&E Corporation,1PCG.MI,9.03,0.34,1.641,No
+235,Spindox S.p.A.,SPN.MI,2.93,0.117,0.557,No
+236,Philogen S.p.A.,PHIL.MI,5.3,0.216,0.249,No
+237,Northrop Grumman Corporation,1NOC.MI,6.61,0.293,0.412,No
+238,Medtronic plc,1MDT.MI,4.58,0.206,0.873,Yes
+239,Powersoft S.p.A.,PWS.MI,7.13,0.317,0.402,Yes
+240,Carel Industries S.p.A.,CRL.MI,5.91,0.265,0.82,Yes
+241,V.F. Corporation,1VFC.MI,15.64,0.686,2.312,Yes
+242,SG Company S.p.A.,SGC.MI,4.93,0.23,0.564,Yes
+243,Hilton Worldwide Holdings Inc.,1HLT.MI,5.55,0.269,0.147,Yes
+244,"Warner Bros. Discovery, Inc.",1WBD.MI,12.49,0.598,0.395,Yes
+245,Next Geosolutions Europe SpA,NXT.MI,4.76,0.238,0.716,Yes
+246,Banca Sistema S.p.A.,BST.MI,7.05,0.37,2.318,Yes
+247,Lockheed Martin Corporation,1LMT.MI,3.92,0.209,0.534,No
+248,Ceconomy AG,4CEC.TI,7.53,0.402,0.164,Yes
+249,"PayPal Holdings, Inc.",1PYPL.MI,6.7,0.364,0.515,No
+250,General Motors Company,1GM.MI,5.84,0.333,0.834,No
+251,Medtronic plc,4MDT.TI,3.3,0.208,0.989,Yes
+252,LPKF LASER & ELECTRONICS,1LPK.MI,3.29,0.208,0.646,Yes
+253,"Amazon.com, Inc.",1AMZN.MI,5.68,0.355,0.776,No
+254,Orsero S.p.A.,ORS.MI,2.4,0.187,0.396,No
+255,Starbucks Corporation,1SBUX.MI,6.04,0.465,1.893,Yes
+256,Tenaris S.A.,TEN.MI,4.55,0.357,0.327,No
+257,Bank of America Corporation,1BAC.MI,3.59,0.293,0.198,No
+258,Anheuser-Busch InBev SA/NV,1ABI.MI,3.42,0.284,1.279,Yes
+259,Intred S.p.A.,ITD.MI,3.23,0.274,0.658,Yes
+260,Leone Film Group S.p.A.,LFG.MI,1.7,0.15,0.088,Yes
+261,The Boeing Company,1BA.MI,2.98,0.277,0.137,No
+262,Eprcomunicazione S.p.A.,EPRB.MI,4.29,0.416,0.733,Yes
+263,US BANCORP,1USB.MI,3.35,0.354,0.454,No
+264,Colgate-Palmolive Company,1CL.MI,1.6,0.176,0.325,No
+265,"Hasbro, Inc.",1HAS.MI,2.11,0.258,0.373,Yes
+266,Pozzi Milano S.p.A.,POZ.MI,2.6,0.336,0.36,No
+267,Azimut Holding S.p.A.,AZM.MI,1.04,0.165,0.837,Yes
+268,Bank of America Corporation,4BAC.TI,1.86,0.292,0.112,No
+269,Intuit Inc.,1INTU.MI,0.7,0.191,0.499,No
+270,Sbe - Varvit - Societa' Per Azioni,VARV.MI,0.58,0.174,0.0,Yes
+271,CureVac N.V.,1CVAC.MI,1.15,0.492,0.971,Yes
+272,Dominion Hosting Holding S.p.A.,DHH.MI,0.7,0.347,1.105,No
+273,Deutsche Lufthansa AG,1LHA.MI,0.22,0.219,1.027,Yes
+274,PBB,1PBB.MI,0.31,0.367,0.6,Yes
+275,"Coeur Mining, Inc.",1CDE.MI,0.27,0.396,0.663,No
+276,RWE Aktiengesellschaft,1RWE.MI,0.05,0.239,0.074,Yes
+277,COEUR MINING,4CDE.TI,0.07,0.441,0.589,No
+278,The Procter & Gamble Company,1PG.MI,-0.25,0.193,0.162,No
+279,EVOTEC,1EVT.MI,-0.74,0.557,1.017,No
+280,First Capital S.p.A.,FIC.MI,-0.21,0.159,0.18,No
+281,"Grifols, S.A.",4GRF.TI,-0.69,0.476,2.606,Yes
+282,Airbus SE,1AIR.MI,-0.41,0.265,1.297,Yes
+283,International Care Company S.p.A.,ICC.MI,-0.48,0.304,0.253,No
+284,Aedes Spa,AEDES.MI,-0.58,0.345,0.71,Yes
+285,Comer Industries S.p.A.,COM.MI,-0.65,0.22,0.947,No
+286,Gabetti Property Solutions S.p.A.,GAB.MI,-1.78,0.441,2.643,Yes
+287,Risanamento SpA,RN.MI,-2.14,0.405,0.345,No
+288,NVIDIA Corporation,1NVDA.MI,-1.85,0.342,1.25,No
+289,"Marvell Technology, Inc.",19MW.MI,-3.53,0.626,0.209,Yes
+290,CoStar Group,1CSGP.MI,-1.83,0.316,,
+291,AATECH S.p.A. Società Benefit,AAT.MI,-3.36,0.529,0.676,Yes
+292,Svas Biosana S.p.A.,SVS.MI,-1.45,0.214,0.534,Yes
+293,"Marvell Technology, Inc.",49MW.TI,-4.5,0.615,0.349,No
+294,"Palo Alto Networks, Inc.",1PANW.MI,-2.26,0.281,,
+295,Deutsche Post AG,1DHL.MI,-1.63,0.201,0.81,Yes
+296,Honeywell International Inc.,1HON.MI,-2.25,0.258,1.029,No
+297,Caleffi S.p.A.,CLF.MI,-1.77,0.189,0.636,Yes
+298,American Airlines Group Inc.,1AAL.MI,-6.35,0.546,0.218,No
+299,"Block, Inc.",1SQ.MI,-6.32,0.491,1.619,No
+300,Digital Value S.p.A.,DGV.MI,-16.05,1.257,2.337,No
+301,Soluzione Tasse S.p.A.,CORE.MI,-2.89,0.201,0.619,No
+302,Italian Wine Brands S.p.A.,IWB.MI,-1.38,0.093,0.106,No
+303,"Rockwell Automation, Inc.",1ROK.MI,-4.47,0.289,0.655,No
+304,Lindbergh S.p.A.,LDB.MI,-4.02,0.256,1.279,Yes
+305,Talea Group S.p.A.,TALEA.MI,-7.48,0.478,0.201,No
+306,"EDP, S.A.",4EDP.TI,-4.43,0.267,0.088,Yes
+307,EL.En. S.p.A.,ELN.MI,-6.91,0.389,0.097,Yes
+308,Solutions Capital Management SIM S.p.A.,SCM.MI,-3.6,0.197,0.636,Yes
+309,Franchetti S.p.A.,FCH.MI,-6.14,0.324,1.022,Yes
+310,Star7 S.p.A.,STAR7.MI,-4.27,0.209,0.259,Yes
+311,Wiit S.p.A.,WIIT.MI,-8.84,0.422,1.772,No
+312,Amgen Inc.,1AMGN.MI,-5.21,0.241,1.179,Yes
+313,Koninklijke Philips N.V.,1PHIA.MI,-6.81,0.311,0.473,Yes
+314,Hewlett Packard Enterprise Company,1HPE.MI,-8.3,0.375,0.97,No
+315,Pasquarelli Auto S.p.A.,PSQ.MI,-8.77,0.395,1.647,No
+316,Mare Engineering Group S.p.A.,MARE.MI,-7.69,0.334,0.304,Yes
+317,BFF Bank S.p.A.,BFF.MI,-6.61,0.284,0.409,No
+318,Lucisano Media Group S.p.A.,LMG.MI,-4.64,0.194,0.23,Yes
+319,KLA Corporation,1KLAC.MI,-7.68,0.322,0.524,Yes
+320,Amphenol Corporation,1APH.MI,-5.11,0.206,,
+321,"Lowe's Companies, Inc.",1LOW.MI,-6.83,0.268,0.203,Yes
+322,Arnoldo Mondadori Editore S.p.A.,MN.MI,-5.06,0.194,0.435,Yes
+323,BASF SE,1BAS.MI,-6.09,0.226,1.493,Yes
+324,Valneva SE,4VLA.TI,-16.69,0.64,5.264,Yes
+325,Misitano & Stracuzzi S.p.A.,MS.MI,-13.26,0.494,,
+326,BIFIRE S.p.A.,FIRE.MI,-9.25,0.326,,
+327,Gentili Mosconi S.p.A.,GM.MI,-12.12,0.427,2.319,Yes
+328,Microsoft Corporation,1MSFT.MI,-6.49,0.222,1.063,No
+329,Danieli & C. Officine Meccaniche S.p.A.,DANR.MI,-9.2,0.313,1.045,Yes
+330,HUGO BOSS,1BOSS.MI,-16.03,0.561,2.368,Yes
+331,The Walt Disney Company,1DIS.MI,-11.58,0.383,0.273,No
+332,The Walt Disney Company,4DIS.TI,-11.85,0.388,0.303,No
+333,Ambromobiliare S.p.A.,AMB.MI,-8.29,0.264,0.87,No
+334,Pirelli & C. S.p.A.,PIRC.MI,-6.61,0.195,1.0,Yes
+335,Chevron Corporation,1CVX.MI,-11.38,0.336,0.298,Yes
+336,Adobe Inc.,1ADBE.MI,-14.28,0.421,1.148,No
+337,Saipem SpA,SPM.MI,-9.17,0.247,1.135,No
+338,Yolo Group S.p.A.,YOLO.MI,-18.42,0.521,0.927,Yes
+339,Doxee S.p.A.,DOX.MI,-19.33,0.545,1.003,Yes
+340,Bayer Aktiengesellschaft,1BAYN.MI,-13.47,0.363,1.871,Yes
+341,Ariston Holding N.V.,ARIS.MI,-11.98,0.314,0.959,Yes
+342,Fervi S.p.A.,FVI.MI,-3.23,0.08,0.429,Yes
+343,B&C Speakers S.p.A.,BEC.MI,-8.89,0.223,0.125,Yes
+344,Datrix S.p.A.,DATA.MI,-17.97,0.473,2.725,Yes
+345,Valeo SE,4FR.TI,-17.38,0.456,1.845,Yes
+346,Renault SA,1RNO.MI,-11.03,0.27,1.248,Yes
+347,SIEMENS HEALTHINEERS,1SHL.MI,-9.14,0.216,0.575,Yes
+348,KION GROUP,1KGX.MI,-11.92,0.285,1.637,Yes
+349,Eni S.p.A.,ENI.MI,-7.1,0.164,0.566,Yes
+350,Next Re SIIQ S.p.A.,NR.MI,-7.06,0.16,0.247,No
+351,3D Systems Corporation,4DDD.TI,-33.28,0.853,1.609,Yes
+352,La Sia S.p.A.,LASIA.MI,-15.33,0.343,1.959,Yes
+353,Giglio.com S.p.A.,GCOM.MI,-33.62,0.833,2.346,Yes
+354,Comcast Corporation,1CMCSA.MI,-11.54,0.252,0.506,No
+355,Danieli & C. Officine Meccaniche S.p.A.,DAN.MI,-14.55,0.316,1.346,Yes
+356,Radici Pietro Industries & Brands S.p.A.,RAD.MI,-6.93,0.145,0.471,Yes
+357,Fine Foods & Pharmaceuticals N.T.M. S.p.A.,FF.MI,-12.21,0.255,1.351,No
+358,IRCE S.p.A.,IRC.MI,-7.96,0.163,0.088,Yes
+359,Almawave S.p.A.,AIW.MI,-27.43,0.611,2.867,Yes
+360,adidas AG,1ADS.MI,-11.26,0.225,0.614,Yes
+361,CSP International Fashion Group S.p.A.,CSP.MI,-11.93,0.239,0.277,No
+362,Pattern S.p.A.,PTR.MI,-13.0,0.258,1.36,Yes
+363,Class Editori Spa,CLE.MI,-18.73,0.379,1.534,Yes
+364,3D Systems Corporation,1DDD.MI,-34.37,0.736,1.635,Yes
+365,Saccheria F.lli Franceschetti S.p.A.,SAC.MI,-4.47,0.078,0.185,Yes
+366,LEMON SISTEMI,LS.MI,-20.43,0.38,0.1,Yes
+367,Esautomotion S.p.A.,ESAU.MI,-19.81,0.362,0.176,Yes
+368,Sabaf S.p.A.,SAB.MI,-14.9,0.265,0.757,Yes
+369,De'Longhi S.p.A.,DLG.MI,-14.42,0.251,1.6,Yes
+370,Volkswagen AG,1VOW3.MI,-15.39,0.268,1.741,Yes
+371,Viatris Inc.,4VTRS.TI,-19.68,0.344,1.472,No
+372,Palingeo S.p.A.,PAL.MI,-12.34,0.205,0.177,Yes
+373,"Airbnb, Inc.",1ABNB.MI,-19.79,0.339,0.074,No
+374,"Illumina, Inc.",1ILMN.MI,-25.92,0.45,0.511,No
+375,Integrated System Credit Consulting Fintech S.p.A.,ISC.MI,-24.71,0.414,2.032,No
+376,Neodecortech S.p.A.,NDT.MI,-10.3,0.158,0.321,Yes
+377,Green Oleo S.p.A.,GRN.MI,-12.14,0.181,0.508,No
+378,Prysmian S.p.A.,PRY.MI,-17.53,0.262,0.387,Yes
+379,Intel Corporation,1INTC.MI,-31.3,0.495,0.227,Yes
+380,Viatris Inc.,1VTRS.MI,-23.14,0.343,1.119,No
+381,RedFish LongTerm Capital S.p.A.,RFLTC.MI,-9.1,0.124,0.646,Yes
+382,MARR S.p.A.,MARR.MI,-15.06,0.21,0.53,Yes
+383,Destination Italia S.p.A.,DIT.MI,-36.35,0.573,0.442,No
+384,ErreDue S.p.A.,RDUE.MI,-19.44,0.274,0.289,Yes
+385,Unidata S.p.A.,UD.MI,-21.5,0.3,0.633,Yes
+386,"Tripadvisor, Inc.",1TRIP.MI,-31.08,0.446,0.922,Yes
+387,Mevim S.p.A.,MEV.MI,-39.22,0.589,2.229,Yes
+388,Linde PLC,1LINUS.MI,-15.65,0.2,,
+389,Nexi S.p.A.,NEXI.MI,-15.37,0.196,0.16,Yes
+390,SIT S.p.A.,SIT.MI,-32.52,0.448,1.908,Yes
+391,Bayerische Motoren Werke Aktiengesellschaft,1BMW3.MI,-21.79,0.276,1.707,Yes
+392,Infineon Technologies AG,1IFX.MI,-20.44,0.255,1.193,Yes
+393,"Skyworks Solutions, Inc.",1SWKS.MI,-31.55,0.419,0.922,No
+394,Bayerische Motoren Werke Aktiengesellschaft,1BMW.MI,-19.56,0.242,1.073,Yes
+395,Siav S.p.A.,SIAV.MI,-26.47,0.333,0.551,Yes
+396,SeSa S.p.A.,SES.MI,-27.58,0.344,0.185,Yes
+397,Planetel S.p.A.,PLN.MI,-17.87,0.207,0.668,No
+398,Somec S.p.A.,SOM.MI,-25.76,0.312,0.311,Yes
+399,Bayerische Motoren Werke Aktiengesellschaft,4BMW3.TI,-20.89,0.246,1.308,Yes
+400,Litix S.p.A.,LTX.MI,-25.85,0.312,,
+401,SYMRISE,1SYM.MI,-15.99,0.183,,
+402,Intercos S.p.A.,ICOS.MI,-16.83,0.193,0.878,Yes
+403,Datalogic S.p.A.,DAL.MI,-25.43,0.302,0.596,Yes
+404,Lam Research Corporation,1LRCX.MI,-29.33,0.349,0.037,Yes
+405,Safilo Group S.p.A.,SFL.MI,-35.6,0.438,2.325,Yes
+406,"Applied Materials, Inc.",1AMAT.MI,-30.5,0.356,0.64,No
+407,Rocket Sharing Company S.p.A.,RKT.MI,-40.1,0.498,1.16,No
+408,Salvatore Ferragamo S.p.A.,SFER.MI,-38.0,0.465,3.034,Yes
+409,Distribuzione Elettrica Adriatica S.p.a.,DEA.MI,-10.46,0.107,,
+410,Brembo N.V.,BRE.MI,-22.38,0.243,1.241,Yes
+411,Italmobiliare S.p.A.,ITM.MI,-17.69,0.186,0.779,Yes
+412,Energy S.p.A.,ENY.MI,-45.41,0.566,1.019,Yes
+413,Borgosesia S.p.A.,BO.MI,-14.11,0.144,0.425,Yes
+414,ILPRA S.p.A.,ILP.MI,-23.34,0.251,0.075,No
+415,Sciuker Frames S.p.A.,SCK.MI,-55.36,0.743,1.21,Yes
+416,illimity Bank S.p.A.,ILTY.MI,-31.48,0.353,1.985,Yes
+417,Reti S.p.A.,RETI.MI,-11.96,0.119,0.145,Yes
+418,Deodato.Gallery S.p.A.,ART.MI,-24.47,0.258,1.007,No
+419,Alcoa Corporation,1AA.MI,-42.46,0.5,0.853,No
+420,General Dynamics Corporation,1GD.MI,-11.2,0.109,0.395,No
+421,ATON Green Storage S.p.A.,ATON.MI,-54.62,0.687,0.717,Yes
+422,Vantea SMART S.p.A.,VNT.MI,-41.73,0.469,0.907,Yes
+423,KME Group S.p.A.,KMER.MI,-13.11,0.124,0.076,Yes
+424,Predict S.p.A.,PRE.MI,-41.89,0.464,,
+425,Renovalo S.p.A.,RNV.MI,-28.2,0.285,1.096,No
+426,Innovatec S.p.A.,INC.MI,-64.34,0.858,3.797,No
+427,Eurotech S.p.A.,ETH.MI,-40.45,0.436,2.26,Yes
+428,DigiTouch S.p.A.,DGT.MI,-18.47,0.173,0.303,No
+429,STEICO SE,1ST.MI,-34.43,0.354,1.969,Yes
+430,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",1MC.MI,-30.98,0.309,1.442,Yes
+431,Cofle S.p.A.,CFL.MI,-44.62,0.472,0.761,Yes
+432,doValue S.p.A.,DOV.MI,-70.3,0.945,4.273,Yes
+433,"Etsy, Inc.",1ETSY.MI,-31.68,0.304,0.119,Yes
+434,Banca Profilo S.p.A.,PRO.MI,-14.53,0.126,0.139,Yes
+435,Cy4gate S.p.A.,CY4.MI,-40.29,0.404,0.622,No
+436,Kering SA,1KER.MI,-41.04,0.413,1.249,Yes
+437,Aeffe S.p.A.,AEF.MI,-26.86,0.245,0.182,No
+438,Neste Oyj,4NESTE.TI,-46.82,0.487,0.379,No
+439,Finanza.tech S.p.A.,FTC.MI,-44.61,0.454,1.259,No
+440,Porsche Automobil Holding SE,1PAH.MI,-24.45,0.213,1.094,Yes
+441,Devon Energy Corporation,1DY6.MI,-34.4,0.319,1.029,Yes
+442,Mercedes-Benz Group AG,1MBG.MI,-21.08,0.18,1.188,Yes
+443,Neste Oyj,1NESTE.MI,-48.14,0.475,0.236,No
+444,Vimi Fasteners S.p.A.,VIM.MI,-28.79,0.249,0.134,No
+445,Merck KGaA,1MRK.MI,-25.63,0.217,0.941,Yes
+446,The Kraft Heinz Company,4KHC.TI,-19.13,0.156,0.612,Yes
+447,GPI S.p.A.,GPI.MI,-23.43,0.194,1.043,No
+448,Ecomembrane S.p.A.,ECMB.MI,-27.96,0.237,0.66,Yes
+449,"Repsol, S.A.",1REP.MI,-24.08,0.199,0.628,Yes
+450,Seco S.p.A.,IOT.MI,-39.93,0.364,0.373,Yes
+451,TraWell Co S.p.A.,TWL.MI,-19.14,0.153,0.369,No
+452,Gismondi 1754 S.p.A.,GIS.MI,-35.77,0.314,0.243,Yes
+453,Cleveland-Cliffs Inc.,1CVA.MI,-53.89,0.538,1.445,Yes
+454,Centene Corporation,1CNC.MI,-22.03,0.176,0.323,Yes
+455,Tenax International S.p.A.,TNX.MI,-26.08,0.211,0.041,Yes
+456,EuroGroup Laminations S.p.A.,EGLA.MI,-41.27,0.36,1.13,Yes
+457,Verbio SE,1VBK.MI,-51.26,0.479,0.759,Yes
+458,ASML Holding N.V.,1ASML.MI,-34.43,0.284,0.072,No
+459,WACKER CHEMIE,1WCH.MI,-31.81,0.257,0.053,Yes
+460,Seri Industrial S.p.A.,SERI.MI,-47.95,0.426,0.741,No
+461,Zignago Vetro S.p.A.,ZV.MI,-27.11,0.209,0.785,Yes
+462,Tamburi Investment Partners S.p.A.,TIP.MI,-19.31,0.14,0.265,Yes
+463,"Constellation Brands, Inc.",1STZ.MI,-30.72,0.237,,
+464,ARKEMA,4AKE.TI,-30.1,0.229,1.633,Yes
+465,Ulisse Biomed S.p.A.,UBM.MI,-32.57,0.25,1.249,Yes
+466,Davide Campari-Milano N.V.,CPR.MI,-35.27,0.273,0.303,Yes
+467,The Estée Lauder Companies Inc.,1ELX.MI,-53.3,0.471,0.512,Yes
+468,PUMA SE,1PUM.MI,-50.74,0.439,1.193,No
+469,FAE Technology S.p.A.,FAE.MI,-38.85,0.307,0.216,No
+470,Itway S.p.A.,ITW.MI,-25.58,0.185,0.383,Yes
+471,Industrie De Nora S.p.A.,DNR.MI,-50.72,0.436,2.274,Yes
+472,GVS S.p.A.,GVS.MI,-35.66,0.274,0.807,Yes
+473,Gambero Rosso S.p.A.,GAMB.MI,-39.34,0.304,0.116,No
+474,Tinexta S.p.A.,TNXT.MI,-47.27,0.385,0.777,Yes
+475,Olidata S.p.A.,OLI.MI,-62.88,0.572,1.573,No
+476,Organon & Co.,4OGN.TI,-44.67,0.345,1.265,Yes
+477,Freeport-McMoRan Inc.,1FCX.MI,-33.65,0.24,0.237,No
+478,Organon & Co.,1OGN.MI,-45.28,0.349,1.795,Yes
+479,Growens S.p.A.,GROW.MI,-39.26,0.289,0.893,No
+480,VNE S.p.A.,VNE.MI,-38.64,0.28,0.075,Yes
+481,Cloudia Research S.p.A.,AGAIN.MI,-53.34,0.431,1.78,Yes
+482,Caterpillar Inc.,1CAT.MI,-33.88,0.235,,
+483,Piaggio & C. SpA,PIA.MI,-35.48,0.248,0.702,Yes
+484,Mondo TV France Société Anonyme,MTVFR.MI,-64.34,0.568,3.175,No
+485,ERG S.p.A.,ERG.MI,-30.72,0.208,0.081,Yes
+486,Grifal S.p.A.,GRAL.MI,-28.83,0.192,1.031,Yes
+487,Softlab S.p.A.,SFT.MI,-52.36,0.41,2.337,Yes
+488,"Regeneron Pharmaceuticals, Inc.",1REGN.MI,-43.74,0.317,0.151,Yes
+489,AIXTRON SE,1AIXA.MI,-47.22,0.343,0.012,Yes
+490,ELSA Solutions S.p.A.,ELSA.MI,-58.56,0.464,1.609,Yes
+491,EdiliziAcrobatica S.p.A.,EDAC.MI,-45.99,0.327,1.365,Yes
+492,Neurosoft Software Production S.A.,NRST.MI,-26.91,0.168,0.333,Yes
+493,Elica S.p.A.,ELC.MI,-27.81,0.175,0.176,Yes
+494,Sanlorenzo S.p.A.,SL.MI,-34.2,0.223,1.145,Yes
+495,Emma Villas S.p.A.,EAV.MI,-32.47,0.208,0.301,No
+496,The Italian Sea Group S.p.A.,TISG.MI,-41.33,0.277,1.431,Yes
+497,Triboo S.p.A.,TB.MI,-54.18,0.4,0.142,No
+498,Tesmec S.p.A.,TES.MI,-37.23,0.24,0.965,Yes
+499,Marzocchi Pompe S.p.A.,MARP.MI,-40.68,0.267,0.818,Yes
+500,OSAI Automation System S.p.A.,OSA.MI,-76.16,0.701,3.549,No
+501,4AIM SICAF S.p.A.,AIM.MI,-59.56,0.451,1.356,No
+502,Aquafil S.p.A.,ECNL.MI,-58.76,0.441,1.695,Yes
+503,Beewize S.p.A.,BWZ.MI,-40.05,0.253,0.28,No
+504,Emak S.p.A.,EM.MI,-32.66,0.196,1.369,Yes
+505,SILTRONIC,1WAF.MI,-52.59,0.36,0.949,Yes
+506,Longino & Cardenal S.p.A.,LON.MI,-43.95,0.272,0.638,Yes
+507,Geox S.p.A.,GEO.MI,-42.36,0.254,0.152,No
+508,"First Solar, Inc.",1FSLR.MI,-54.02,0.352,0.714,No
+509,Archer-Daniels-Midland Company,1ADM.MI,-24.64,0.13,0.344,No
+510,"Merck & Co., Inc.",1MRKX.MI,-34.64,0.19,0.359,No
+511,PORSCHE PREF,1PORS.MI,-45.11,0.264,1.389,Yes
+512,Askoll EVA SpA,EVA.MI,-58.83,0.385,0.937,Yes
+513,ALFONSINO,ALFO.MI,-46.16,0.267,0.41,Yes
+514,Technoprobe S.p.A.,TPRO.MI,-39.16,0.214,0.244,Yes
+515,Compagnia dei Caraibi S.p.A.,TIME.MI,-73.65,0.546,2.175,No
+516,"Advanced Micro Devices, Inc.",1AMD.MI,-45.05,0.251,1.016,No
+517,Neosperience S.p.A.,NSP.MI,-68.86,0.471,2.483,Yes
+518,"Beyond Meat, Inc.",1BYND.MI,-68.19,0.462,0.06,Yes
+519,DENTSPLY SIRONA Inc.,1XRAY.MI,-54.28,0.313,,
+520,"GoPro, Inc.",4GPRO.TI,-63.68,0.389,0.585,No
+521,Portobello S.p.A.,POR.MI,-85.96,0.703,2.417,Yes
+522,STMicroelectronics N.V.,STMMI.MI,-48.23,0.247,0.36,Yes
+523,Dexelance S.p.A.,DEX.MI,-24.52,0.106,0.127,Yes
+524,Solid World Group S.p.A.,S3D.MI,-67.74,0.406,1.286,Yes
+525,Cyberoo S.p.A.,CYB.MI,-59.31,0.314,0.456,No
+526,Clabo S.p.A.,CLABO.MI,-41.76,0.181,0.047,Yes
+527,Microchip Technology Incorporated,4MCHP.TI,-55.13,0.245,0.611,Yes
+528,Dow Inc.,1DOW.MI,-50.8,0.214,0.324,Yes
+529,ENA,ENA.MI,-59.6,0.271,,
+530,Vincenzo Zucchi S.p.A.,ZUC.MI,-42.38,0.166,0.073,Yes
+531,HAIKI+,HIK.MI,-53.52,0.221,,
+532,Microchip Technology Incorporated,1MCHP.MI,-55.86,0.235,0.625,Yes
+533,"Beyond Meat, Inc.",4BYND.TI,-68.54,0.327,0.029,No
+534,Landi Renzo S.p.A.,LNDR.MI,-66.65,0.308,1.04,Yes
+535,Glencore plc,4GLEN.TI,-50.92,0.201,0.214,Yes
+536,d'Amico International Shipping S.A.,DIS.MI,-51.95,0.203,0.01,No
+537,E-Globe S.p.A.,EGB.MI,-52.43,0.203,0.143,Yes
+538,Mondo TV S.p.A.,MTV.MI,-89.71,0.552,3.385,No
+539,C3.ai Inc,1C3.MI,-79.47,0.394,,
+540,Tessellis S.p.A.,TSL.MI,-78.09,0.371,1.71,Yes
+541,GT Talent Group S.p.A.,GT.MI,-98.82,0.962,,
+542,"Moderna, Inc.",1MRNA.MI,-82.84,0.404,0.518,Yes
+543,Biogen Inc.,1BIIB.MI,-51.59,0.145,0.113,Yes
+544,Dell Technologies Inc.,1DELL.MI,-56.48,0.161,,
+545,ON Semiconductor,1ON.MI,-74.76,0.225,,
+546,Com.Tel S.p.A.,CMTL.MI,-75.34,0.073,,
+547,Smart Capital S.p.A.,SMCAP.MI,0.0,0.0,,
+548,Puig Brands,1PUIG.MI,13.06,,,
+549,ABB Ltd,1ABB.MI,-56.15,,,
+550,Aurubis,1AUR.MI,-85.61,,,

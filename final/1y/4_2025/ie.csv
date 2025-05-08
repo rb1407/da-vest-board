@@ -1,0 +1,17 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Dalata Hotel Group plc,DHG.IR,27.13,0.156,0.028,Yes
+2,Malin Corporation plc,MLC.IR,75.54,0.582,0.325,No
+3,Ryanair Holdings plc,RYA.IR,28.61,0.279,0.79,Yes
+4,AIB Group plc,A5G.IR,25.88,0.259,1.406,Yes
+5,Glenveagh Properties PLC,GVR.IR,24.8,0.257,0.258,Yes
+6,Cairn Homes plc,C5H.IR,28.15,0.31,0.717,Yes
+7,Uniphar plc,UPR.IR,19.88,0.285,1.266,Yes
+8,Kenmare Resources plc,KMR.IR,25.46,0.402,1.119,No
+9,ISEQ All Share Index,^ISEQ,5.9,0.154,1.0,Yes
+10,Bank of Ireland Group plc,BIRG.IR,9.24,0.297,1.576,Yes
+11,Irish Continental Group plc,IR5B.IR,-5.95,0.171,0.436,No
+12,Kingspan Group plc,KRX.IR,-12.62,0.313,1.373,Yes
+13,Molten Ventures Ord,GRW.IR,-22.0,0.389,0.947,No
+14,Greencoat Renewables,GRP.IR,-8.16,0.131,0.224,Yes
+15,Datalex plc,DLE.IR,-24.01,0.224,0.003,No
+16,Glanbia plc,GL9.IR,-37.01,0.311,0.215,No

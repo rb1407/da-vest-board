@@ -1,0 +1,316 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,UOB-Kay Hian Holdings Limited,U10.SI,40.62,0.077,0.426,Yes
+2,BRC Asia Limited,BEC.SI,69.31,0.182,0.719,Yes
+3,Sing Investments & Finance Limited,S35.SI,14.96,0.047,0.239,Yes
+4,QAF Limited,Q01.SI,10.34,0.035,0.061,No
+5,Pacific Century Regional Developments Limited,P15.SI,57.72,0.176,0.121,No
+6,Singapore Exchange Limited,S68.SI,62.13,0.191,0.284,Yes
+7,Haw Par Corporation Limited,H02.SI,40.17,0.136,1.078,Yes
+8,Sheng Siong Group Ltd,OV8.SI,23.09,0.087,0.292,No
+9,HSBC Holdings plc,HSHD.SI,53.81,0.183,,
+10,Pan-United Corporation Ltd,P52.SI,58.73,0.201,0.035,Yes
+11,Tiong Seng Holdings Limited,BFI.SI,58.52,0.21,0.807,Yes
+12,iShares MSCI Asia ex Japan Climate Action ETF,ICU.SI,29.5,0.117,,
+13,Lion-OCBC Securities APAC Financials Dividend Plus ETF,YLU.SI,21.19,0.09,,
+14,ValueMax Group Limited,T6I.SI,45.7,0.178,0.936,No
+15,Lion-Nomura Japan Active ETF,JUS.SI,19.08,0.083,,
+16,Stoneweg European Real Estate Investment Trust,CWCU.SI,39.78,0.164,,
+17,Lion-OCBC Securities Singapore Low Carbon ETF,ESG.SI,23.4,0.105,0.953,Yes
+18,Multi-Chem Limited,AWZ.SI,32.99,0.146,0.202,Yes
+19,Tai Sin Electric Limited,500.SI,11.25,0.055,0.286,Yes
+20,Global Investments Limited,B73.SI,18.47,0.088,0.248,Yes
+21,Bank of China Limited,HBND.SI,53.0,0.225,,
+22,Taka Jewellery Holdings Limited,42L.SI,50.57,0.226,1.184,Yes
+23,MoneyMax Financial Services Ltd.,5WJ.SI,74.42,0.309,0.512,Yes
+24,STI Index,^STI,16.7,0.086,1.0,Yes
+25,Intraco Limited,I06.SI,50.05,0.232,1.043,Yes
+26,Sin Heng Heavy Machinery Limited,BKA.SI,22.73,0.117,0.122,No
+27,Hongkong Land Holdings Limited,H78.SI,63.92,0.288,1.804,No
+28,NetLink NBN Trust,CJLU.SI,14.52,0.08,0.001,Yes
+29,Credit Bureau Asia Limited,TCU.SI,45.7,0.225,0.721,Yes
+30,DBS Group Holdings Ltd,D05.SI,26.65,0.151,1.529,Yes
+31,Datapulse Technology Limited,BKW.SI,52.34,0.272,0.959,Yes
+32,Phillip MSCI Singapore Daily (2X) Leveraged Product,LSS.SI,45.75,0.245,2.355,Yes
+33,PEC Ltd.,IX2.SI,66.57,0.34,2.118,Yes
+34,DFI Retail Group Holdings Limited,D01.SI,54.85,0.291,0.012,No
+35,Paragon REIT,SK6U.SI,23.7,0.143,0.059,Yes
+36,Oversea-Chinese Banking Corporation Limited,O39.SI,18.26,0.117,1.196,Yes
+37,Elite UK REIT,MXNU.SI,47.74,0.277,0.607,Yes
+38,Nam Lee Pressed Metal Industries Limited,G0I.SI,39.45,0.237,0.481,Yes
+39,iShares MSCI Asia ex Japan Climate Action ETF,ICM.SI,16.64,0.11,,
+40,LHN Limited,41O.SI,62.69,0.358,1.904,Yes
+41,Lion-OCBC Securities APAC Financials Dividend Plus ETF,YLD.SI,12.92,0.09,,
+42,Jardine Matheson Holdings Limited,J36.SI,33.1,0.217,0.941,Yes
+43,China Sunsine Chemical Holdings Ltd.,QES.SI,44.92,0.286,1.417,Yes
+44,Combine Will International Holdings Limited,N0Z.SI,11.69,0.085,0.257,No
+45,Hutchison Port Holdings Trust,NS8U.SI,34.73,0.233,1.421,Yes
+46,Hai Leck Holdings Limited,BLH.SI,66.71,0.413,0.428,No
+47,Audience Analytics Limited,1AZ.SI,32.93,0.232,0.436,No
+48,Frasers Hospitality Trust,ACV.SI,77.33,0.473,0.109,Yes
+49,Parkway Life Real Estate Investment Trust,C2PU.SI,27.52,0.2,0.919,Yes
+50,CapitaLand Integrated Commercial Trust,C38U.SI,14.59,0.114,0.026,Yes
+51,First Real Estate Investment Trust,AW9U.SI,18.7,0.145,0.65,Yes
+52,LMS Compliance Ltd.,LMS.SI,28.15,0.212,0.856,Yes
+53,Singapore Land Group Limited,U06.SI,13.44,0.109,0.228,Yes
+54,Tiong Woon Corporation Holding Ltd,BQM.SI,21.27,0.167,1.084,Yes
+55,Sing Holdings Limited,5IC.SI,10.69,0.092,0.105,No
+56,Malaysia Smelting Corporation Berhad,NPW.SI,64.5,0.459,3.713,Yes
+57,Zheneng Jinjiang Environment Holding Company Limited,BWM.SI,30.27,0.245,0.727,Yes
+58,TalkMed Group Limited,5G3.SI,16.25,0.139,0.574,Yes
+59,IHH Healthcare Berhad,Q0F.SI,26.56,0.219,0.851,Yes
+60,PropNex Limited,OYY.SI,30.92,0.253,1.724,Yes
+61,Bumitama Agri Ltd.,P8Z.SI,21.19,0.181,1.418,Yes
+62,United Overseas Bank Limited,U11.SI,19.93,0.173,1.695,Yes
+63,Tencent Holdings Limited,HTCD.SI,35.34,0.292,,
+64,Zixin Group Holdings Limited,42W.SI,82.33,0.589,1.61,Yes
+65,ComfortDelGro Corporation Limited,C52.SI,15.08,0.137,0.134,Yes
+66,Asian Pay Television Trust,S7OU.SI,14.14,0.13,0.279,Yes
+67,Avarga Limited,U09.SI,32.08,0.29,1.039,Yes
+68,BYD Company Limited,HYDD.SI,76.2,0.601,,
+69,BBR Holdings (S) Ltd,KJ5.SI,19.68,0.19,0.66,Yes
+70,Azeus Systems Holdings Ltd.,BBW.SI,24.53,0.235,0.818,No
+71,Hosen Group Ltd.,5EV.SI,25.79,0.248,0.886,No
+72,CSOP FTSE Asia Pacific Low Carbon Index ETF,LCU.SI,7.33,0.078,0.092,Yes
+73,Vibrant Group Limited,BIP.SI,53.65,0.487,0.202,No
+74,Lion-Nomura Japan Active ETF,JJJ.SI,7.01,0.079,,
+75,Alibaba Group Holding Limited,HBBD.SI,66.07,0.609,,
+76,Stoneweg European Real Estate Investment Trust,CWBU.SI,15.84,0.175,0.175,Yes
+77,Jumbo Group Limited,42R.SI,6.77,0.079,0.405,Yes
+78,Grand Venture Technology Limited,JLB.SI,41.36,0.426,1.011,Yes
+79,Huationg Global Limited,41B.SI,69.96,0.661,0.584,No
+80,Indofood Agri Resources Ltd.,5JS.SI,7.83,0.093,0.018,Yes
+81,Frasers Property Limited,TQ5.SI,8.95,0.107,0.789,Yes
+82,Mandarin Oriental International Limited,M04.SI,9.84,0.117,0.287,No
+83,Santak Holdings Limited,580.SI,66.5,0.654,1.993,Yes
+84,Koh Brothers Group Limited,K75.SI,16.72,0.198,1.336,Yes
+85,Sabana Industrial Real Estate Investment Trust,M1GU.SI,11.93,0.148,0.783,Yes
+86,Singapore Post Limited,S08.SI,25.61,0.308,1.459,Yes
+87,Eneco Energy Limited,R14.SI,38.74,0.449,2.568,Yes
+88,Hutchison Port Holdings Trust,P7VU.SI,20.23,0.254,1.49,Yes
+89,HGH Holdings Ltd.,5GZ.SI,18.57,0.238,0.189,No
+90,Global Testing Corporation Limited,AYN.SI,10.72,0.145,0.577,No
+91,ICP Ltd.,5I4.SI,19.01,0.255,0.721,Yes
+92,Procurri Corporation Limited,BVQ.SI,65.19,0.753,6.336,No
+93,Medinex Limited,OTX.SI,18.13,0.247,0.095,No
+94,Anchun International Holdings Ltd.,BTX.SI,24.94,0.34,1.61,No
+95,HG Metal Manufacturing Limited,BTG.SI,25.45,0.349,0.296,Yes
+96,CapitaLand Ascendas REIT,A17U.SI,9.81,0.148,0.12,Yes
+97,King Wan Corporation Limited,554.SI,12.22,0.183,0.831,Yes
+98,Phillip-China Unvsl MSCI CHN A50CnnctETF,MCN.SI,13.45,0.203,,
+99,AF Global Limited,L38.SI,32.74,0.459,1.832,Yes
+100,Hyphens Pharma International Limited,1J5.SI,4.18,0.066,0.004,Yes
+101,VICOM Ltd,WJP.SI,5.14,0.084,0.215,Yes
+102,Grand Banks Yachts Limited,G50.SI,24.72,0.38,1.664,Yes
+103,TIH Limited,T55.SI,26.53,0.408,1.207,Yes
+104,Hong Lai Huat Group Limited,CTO.SI,47.52,0.679,3.001,Yes
+105,Don Agro International Limited,GRQ.SI,43.98,0.65,0.557,No
+106,AnAn International Limited,Y35.SI,57.41,0.812,0.842,Yes
+107,Prime US REIT,OXMU.SI,48.64,0.73,2.6,Yes
+108,$ BeverlyJCG,9QX.SI,15.9,0.271,0.409,No
+109,Lippo Malls Indonesia Retail Trust,D5IU.SI,33.6,0.539,0.691,Yes
+110,Singapore Airlines Limited,C6L.SI,8.11,0.144,0.679,Yes
+111,Wong Fong Industries Limited,1A1.SI,21.15,0.365,1.121,No
+112,SHS Holdings Ltd.,566.SI,4.96,0.093,0.626,No
+113,Fuji Offset Plates Manufacturing Ltd,508.SI,16.25,0.297,0.548,No
+114,Singapore Shipping Corporation Limited,S19.SI,8.15,0.156,0.971,Yes
+115,Stamford Tyres Corporation Limited,S29.SI,8.6,0.165,0.85,No
+116,HL Global Enterprises Limited,AVX.SI,11.86,0.227,1.83,Yes
+117,Micro-Mechanics (Holdings) Ltd.,5DD.SI,5.94,0.118,0.097,Yes
+118,China Shenshan Orchard Holdings Co. Ltd.,BKV.SI,47.53,0.813,4.694,Yes
+119,The Hour Glass Limited,AGS.SI,4.03,0.082,0.267,Yes
+120,APAC Realty Limited,CLN.SI,11.36,0.225,0.384,Yes
+121,Ley Choon Group Holdings Limited,Q0X.SI,13.76,0.273,0.497,Yes
+122,CSOP iEdge Southeast Asia+ TECH Index ETF,SQU.SI,8.51,0.175,,
+123,Miyoshi Limited,M03.SI,61.79,1.076,2.354,No
+124,Livingstone Health Holdings Limited,PRH.SI,42.6,0.824,3.832,Yes
+125,CSOP CSI STAR and CHINEXT 50 Index ETF,SCY.SI,22.45,0.471,,
+126,Sinostar PEC Holdings Limited,C9Q.SI,12.02,0.266,1.047,No
+127,CSE Global Limited,544.SI,13.2,0.3,1.183,Yes
+128,Beng Kuang Marine Limited,BEZ.SI,29.35,0.627,1.986,Yes
+129,Wilmar International Limited,F34.SI,5.52,0.131,0.792,Yes
+130,New Wave Holdings Ltd.,5FX.SI,50.84,1.028,6.033,Yes
+131,Seatrium Ltd,5E2.SI,20.15,0.458,3.334,Yes
+132,The Straits Trading Company Limited,S20.SI,4.52,0.111,0.656,Yes
+133,Alpina Holdings Limited,ZXY.SI,14.27,0.343,1.159,Yes
+134,CGS Fullgoal CSI 1000 ETF,GRU.SI,14.74,0.369,,
+135,TOTM Technologies Limited,42F.SI,45.98,1.036,1.7,Yes
+136,Far East Group Limited,5TJ.SI,16.5,0.433,0.674,No
+137,Low Keng Huat (Singapore) Limited,F1E.SI,8.66,0.239,0.712,No
+138,Shanaya Limited,SES.SI,73.6,1.653,6.882,Yes
+139,Mooreast Holdings Ltd.,1V3.SI,21.75,0.584,1.217,No
+140,OTS Holdings Limited,OTS.SI,17.54,0.482,1.871,No
+141,Trans-China Automotive Holdings Limited,VI2.SI,76.91,1.739,5.695,Yes
+142,MYP Ltd.,F86.SI,9.13,0.264,1.404,Yes
+143,Keppel Ltd.,BN4.SI,4.19,0.132,1.262,Yes
+144,Lum Chang Holdings Limited,L19.SI,4.29,0.136,0.266,No
+145,Tuan Sing Holdings Limited,T24.SI,6.69,0.212,1.251,Yes
+146,Quantum Healthcare Limited,V8Y.SI,70.48,1.809,6.462,Yes
+147,Sapphire Corporation Limited,BRD.SI,20.61,0.679,3.234,Yes
+148,YKGI Limited,YK9.SI,5.13,0.182,0.159,No
+149,Cordlife Group Limited,P8A.SI,10.37,0.361,1.564,Yes
+150,CSOP FTSE Asia Pacific Low Carbon Index ETF,LCS.SI,2.32,0.087,0.052,No
+151,Yanlord Land Group Limited,Z25.SI,15.86,0.57,1.726,Yes
+152,Metech International Limited,V3M.SI,25.41,0.955,8.022,No
+153,Jardine Cycle & Carriage Limited,C07.SI,2.42,0.104,0.099,No
+154,Sasseur Real Estate Investment Trust,CRPU.SI,3.14,0.137,0.995,Yes
+155,Japan Foods Holding Ltd.,5OI.SI,6.6,0.283,1.291,Yes
+156,Far East Orchard Limited,O10.SI,1.21,0.054,0.082,Yes
+157,UOBAM Ping An ChiNext ETF,CXS.SI,9.66,0.418,2.415,Yes
+158,Raffles Education Limited,NR7.SI,6.26,0.28,0.925,No
+159,AIMS APAC REIT,O5RU.SI,2.24,0.104,0.853,Yes
+160,Bacui Technologies International Ltd.,YYB.SI,43.08,1.762,3.069,Yes
+161,SATS Ltd.,S58.SI,6.1,0.294,0.327,Yes
+162,The Place Holdings Limited,E27.SI,19.78,0.92,3.792,Yes
+163,GSH Corporation Limited,BDX.SI,5.42,0.274,0.165,Yes
+164,$ Attika Group,53W.SI,12.59,0.626,,
+165,Sanli Environmental Limited,1E3.SI,4.05,0.216,0.798,No
+166,Adventus Holdings Limited,5EF.SI,19.78,1.18,1.243,No
+167,Bukit Sembawang Estates Limited,B61.SI,2.11,0.14,0.718,Yes
+168,Riverstone Holdings Limited,AP4.SI,3.29,0.243,0.914,Yes
+169,A-Sonic Aerospace Limited,BTJ.SI,3.89,0.295,1.169,Yes
+170,Manulife US Real Estate Investment Trust,BTOU.SI,7.4,0.595,2.702,Yes
+171,Spindex Industries Limited,564.SI,1.52,0.191,0.064,No
+172,UOBAM Ping An ChiNext ETF,CXU.SI,2.12,0.276,1.431,Yes
+173,Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited,T14.SI,1.52,0.215,0.892,Yes
+174,Overseas Education Limited,RQ1.SI,0.57,0.09,0.054,Yes
+175,Qian Hu Corporation Limited,BCV.SI,1.93,0.345,1.072,Yes
+176,Koda Ltd,BJZ.SI,1.39,0.301,1.161,Yes
+177,Yamada Green Resources Limited,BJV.SI,0.57,0.238,0.503,Yes
+178,Dasin Retail Trust,CEDU.SI,1.86,0.934,2.845,No
+179,LHT Holdings Limited,BEI.SI,0.64,0.343,0.544,No
+180,Raffles Medical Group Ltd,BSL.SI,0.29,0.176,0.003,No
+181,Bund Center Investment Ltd,BTE.SI,0.21,0.138,0.311,Yes
+182,New Toyo International Holdings Ltd,N08.SI,0.01,0.108,0.132,Yes
+183,Hoe Leong Corporation Ltd.,H20.SI,0.0,1.342,3.309,Yes
+184,Alset International Limited,40V.SI,-0.06,0.49,0.147,No
+185,Lendlease Global Commercial REIT,JYEU.SI,-0.15,0.123,0.311,Yes
+186,Uni-Asia Group Limited,CHJ.SI,-0.22,0.16,0.248,Yes
+187,CapitaLand India Trust,CY6U.SI,-0.43,0.195,0.699,Yes
+188,Enviro-Hub Holdings Ltd.,L23.SI,-0.78,0.303,1.829,Yes
+189,SIA Engineering Company Limited,S59.SI,-0.51,0.112,0.146,No
+190,Secura Group Limited,43B.SI,-0.97,0.156,0.339,Yes
+191,IPS Securex Holdings Limited,42N.SI,-9.2,1.003,3.343,Yes
+192,Yoma Strategic Holdings Ltd.,Z59.SI,-6.27,0.63,0.796,No
+193,Asian Micro Holdings Limited,585.SI,-8.72,0.87,4.219,Yes
+194,MeGroup Ltd.,SJY.SI,-6.15,0.594,0.639,Yes
+195,EuroSports Global Limited,5G1.SI,-4.43,0.368,0.894,Yes
+196,Yeo Hiap Seng Limited,Y03.SI,-1.36,0.11,0.84,Yes
+197,Jiutian Chemical Group Limited,C8R.SI,-5.42,0.437,2.469,Yes
+198,KSH Holdings Limited,ER0.SI,-3.71,0.245,0.557,No
+199,Mapletree Industrial Trust,ME8U.SI,-2.86,0.184,0.534,Yes
+200,Sim Leisure Group Ltd.,URR.SI,-7.61,0.436,1.041,No
+201,CSOP iEdge Southeast Asia+ TECH Index ETF,SQQ.SI,-3.06,0.169,,
+202,ASL Marine Holdings Ltd.,A04.SI,-3.87,0.184,1.507,Yes
+203,Memiontec Holdings Ltd.,TWL.SI,-31.11,1.695,1.502,Yes
+204,Ho Bee Land Limited,H13.SI,-1.99,0.093,0.185,Yes
+205,Duty Free International Limited,5SO.SI,-8.57,0.371,0.655,Yes
+206,CP ALL Public Company Limited,TCPD.SI,-5.52,0.232,0.604,Yes
+207,Hafary Holdings Limited,5VS.SI,-6.48,0.272,1.183,Yes
+208,Amcorp Global Limited,S9B.SI,-3.6,0.147,0.265,Yes
+209,Leader Environmental Technologies Limited,LS9.SI,-10.11,0.422,0.745,Yes
+210,CSOP Huatai - PineBridge SSE Dividend Index ETF,SHD.SI,-5.64,0.206,1.175,Yes
+211,China Aviation Oil (Singapore) Corporation Ltd,G92.SI,-2.72,0.095,0.339,Yes
+212,ISEC Healthcare Ltd.,40T.SI,-4.59,0.16,0.886,Yes
+213,Khong Guan Limited,K03.SI,-6.69,0.229,0.542,Yes
+214,EnGro Corporation Limited,S44.SI,-6.55,0.206,1.264,Yes
+215,JB Foods Limited,BEW.SI,-6.71,0.207,0.118,No
+216,Amplefield Limited,AOF.SI,-19.58,0.635,3.108,Yes
+217,Bonvests Holdings Limited,B28.SI,-2.61,0.077,0.248,No
+218,Zhongmin Baihui Retail Group Ltd.,5SR.SI,-16.43,0.517,0.684,No
+219,StarHub Ltd,CC3.SI,-3.68,0.102,0.466,Yes
+220,Aspial Corporation Limited,A30.SI,-5.73,0.158,0.361,Yes
+221,Manufacturing Integration Technology Ltd,M11.SI,-20.32,0.595,1.578,Yes
+222,AsiaMedic Limited,505.SI,-7.96,0.214,0.572,Yes
+223,Addvalue Technologies Ltd,A31.SI,-13.99,0.385,1.328,No
+224,RH PetroGas Limited,T13.SI,-12.59,0.338,0.115,No
+225,Hotung Investment Holdings Limited,BLS.SI,-5.17,0.133,0.513,Yes
+226,Sunright Limited,S71.SI,-8.8,0.224,0.24,No
+227,Tye Soon Limited,BFU.SI,-5.47,0.137,0.442,No
+228,Ocean Sky International Limited,1B6.SI,-32.99,0.951,6.602,Yes
+229,Digital Core REIT,DCRU.SI,-6.77,0.164,0.168,Yes
+230,Samurai 2K Aerosol Limited,Y8E.SI,-16.28,0.388,0.897,No
+231,Prudential plc,K6S.SI,-6.56,0.149,0.618,No
+232,SIIC Environment Holdings Ltd.,BHK.SI,-7.45,0.169,0.077,Yes
+233,UMS Integration Limited,558.SI,-7.62,0.168,0.893,Yes
+234,International Cement Group Ltd.,KUO.SI,-13.46,0.299,1.712,Yes
+235,$ Sheffield Green,SGR.SI,-9.49,0.202,0.033,Yes
+236,Accrelist Ltd.,QZG.SI,-19.04,0.403,1.777,Yes
+237,Olam Group Limited,VC2.SI,-11.87,0.241,1.266,Yes
+238,Hotel Royal Limited,H12.SI,-5.05,0.098,0.262,Yes
+239,Megachem Limited,5DS.SI,-12.37,0.248,0.139,Yes
+240,Hong Fok Corporation Limited,H30.SI,-8.83,0.173,0.36,Yes
+241,A-Smart Holdings Ltd.,BQC.SI,-14.39,0.284,0.756,Yes
+242,CGS Fullgoal Vietnam 30 Sector Cap ETF,VNM.SI,-5.79,0.102,,
+243,Soup Holdings Limited,5KI.SI,-14.2,0.254,1.424,No
+244,Green Build Technology Limited,Y06.SI,-36.36,0.723,5.502,No
+245,Powermatic Data Systems Limited,BCY.SI,-14.81,0.254,0.241,No
+246,Tung Lok Restaurants (2000) Ltd,540.SI,-22.75,0.391,3.129,No
+247,Civmec Limited,P9D.SI,-26.02,0.456,,
+248,Noel Gifts International Ltd,543.SI,-24.67,0.424,2.83,No
+249,Shangri-La Asia Limited,S07.SI,-17.72,0.29,1.275,Yes
+250,United Overseas Australia Ltd,EH5.SI,-19.49,0.32,1.467,Yes
+251,V2Y Corporation Ltd.,V2Y.SI,-44.49,0.853,4.362,Yes
+252,mDR Limited,Y3D.SI,-28.58,0.491,2.823,Yes
+253,MTQ Corporation Limited,M05.SI,-21.33,0.348,0.171,No
+254,Plato Capital Limited,YYN.SI,-20.57,0.333,2.114,Yes
+255,Acrophyte Hospitality Trust,XZL.SI,-21.47,0.348,1.238,Yes
+256,CDL Hospitality Trusts,J85.SI,-13.22,0.202,0.99,Yes
+257,Meta Health Limited,5DX.SI,-28.78,0.468,1.925,Yes
+258,Aspial Lifestyle Limited,5UF.SI,-3.28,0.046,0.12,Yes
+259,Chemical Industries (Far East) Limited,C05.SI,-12.93,0.188,0.737,Yes
+260,Tritech Group Limited,5G9.SI,-24.32,0.375,0.557,No
+261,Aspen (Group) Holdings Limited,1F3.SI,-16.38,0.24,1.54,Yes
+262,Y Ventures Group Ltd.,1F1.SI,-32.73,0.521,0.007,Yes
+263,Pollux Properties Ltd.,5AE.SI,-21.43,0.306,0.542,Yes
+264,Atlantic Navigation Holdings (Singapore) Limited,5UL.SI,-47.55,0.801,4.404,No
+265,Mewah International Inc.,MV4.SI,-8.8,0.117,0.082,Yes
+266,TrickleStar Limited,CYW.SI,-56.72,1.031,4.365,No
+267,AnnAik Limited,A52.SI,-11.14,0.149,0.635,No
+268,Progen Holdings Ltd,583.SI,-28.77,0.406,2.063,Yes
+269,Delfi Limited,P34.SI,-12.96,0.163,0.37,Yes
+270,CDW Holding Limited,BXE.SI,-16.04,0.203,0.137,No
+271,Aztech Global Ltd.,8AZ.SI,-34.36,0.466,3.589,Yes
+272,Mermaid Maritime Public Company Limited,DU4.SI,-38.52,0.528,1.908,Yes
+273,Cortina Holdings Limited,C41.SI,-11.85,0.135,0.77,Yes
+274,Asia Enterprises Holding Limited,A55.SI,-10.52,0.117,0.101,No
+275,ABR Holdings Limited,533.SI,-13.11,0.142,0.04,No
+276,H2G Green Limited,5AI.SI,-40.69,0.513,0.296,No
+277,MSM International Limited,5QR.SI,-37.7,0.448,2.175,No
+278,Captii Limited,AWV.SI,-25.83,0.276,1.194,No
+279,TSH Resources Berhad,TSH.SI,-18.46,0.182,,
+280,AEM Holdings Ltd.,AWX.SI,-34.02,0.351,2.157,Yes
+281,Genting Singapore Limited,G13.SI,-17.1,0.154,0.303,Yes
+282,BHG Retail REIT,BMGU.SI,-13.89,0.123,0.755,Yes
+283,Union Gas Holdings Limited,1F2.SI,-18.23,0.165,0.555,Yes
+284,Straco Corporation Limited,S85.SI,-11.88,0.103,0.293,Yes
+285,Oxley Holdings Limited,5UX.SI,-22.25,0.192,1.102,Yes
+286,Metro Holdings Limited,M01.SI,-21.75,0.185,1.268,Yes
+287,Venture Corporation Limited,V03.SI,-16.39,0.133,0.774,Yes
+288,Lion-China Merchants Emerging Asia Select Index ETF,EAA.SI,-24.55,0.207,,
+289,$ SAM Holdings,9G2.SI,-60.61,0.649,5.672,Yes
+290,Tan Chong International Limited,T15.SI,-27.41,0.227,0.891,No
+291,Darco Water Technologies Limited,BLR.SI,-30.11,0.253,0.706,No
+292,Del Monte Pacific Limited,D03.SI,-32.29,0.268,1.014,No
+293,Thomson Medical Group Limited,A50.SI,-18.35,0.14,0.948,Yes
+294,Union Steel Holdings Limited,ZB9.SI,-26.56,0.202,,
+295,Luminor Financial Holdings Limited,5UA.SI,-19.5,0.141,0.626,Yes
+296,Jubilee Industries Holdings Ltd.,NHD.SI,-54.5,0.495,0.814,No
+297,MindChamps PreSchool Limited,CNE.SI,-26.78,0.198,0.822,Yes
+298,ESR-REIT,J91U.SI,-24.34,0.171,1.011,Yes
+299,$ Goodwill,GEH.SI,-40.66,0.316,,
+300,,9A4U.SI,-24.98,0.172,1.008,Yes
+301,Wing Tai Holdings Limited,W05.SI,-18.92,0.123,0.338,Yes
+302,Avi-Tech Holdings Limited,1R6.SI,-39.4,0.271,1.398,Yes
+303,Fortress Minerals Limited,OAJ.SI,-29.52,0.181,1.051,Yes
+304,Clearbridge Health Limited,1H3.SI,-66.62,0.549,2.659,No
+305,Digilife Technologies Limited,BAI.SI,-40.46,0.244,0.8,No
+306,GSS Energy Limited,41F.SI,-67.27,0.464,2.151,Yes
+307,The Trendlines Group Ltd.,42T.SI,-43.82,0.224,0.369,Yes
+308,InnoTek Limited,M14.SI,-29.67,0.137,0.85,No
+309,Phillip MSCI Singapore Daily (-1X) Inverse Product,SSS.SI,-28.39,0.11,0.77,No
+310,mm2 Asia Ltd.,1B0.SI,-59.02,0.249,0.943,Yes
+311,Polaris Ltd.,5BI.SI,0.0,0.0,0.0,No
+312,Lion-China Merchants Emerging Asia Select Index ETF,EAU.SI,74.32,,,
+313,h Ping An Ins HK SDR2to1,HPAD.SI,-30.3,,,
+314,h Xiaomi HK SDR 2to1,HXXD.SI,-39.28,,,
+315,Lion-China Merchants CSI Dividend Index ETF,INC.SI,-34.84,,,

@@ -1,0 +1,220 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,Nofoth Food Products Company,9556.SR,77.22,0.262,,
+2,Elm Company,7203.SR,71.87,0.367,1.21,Yes
+3,The Company for Cooperative Insurance,8010.SR,48.98,0.312,0.89,Yes
+4,Astra Industrial Group Company,1212.SR,56.64,0.352,1.249,Yes
+5,Horizon Educational Co.,9603.SR,65.24,0.413,,
+6,Al-Babtain Power and Telecommunications Company,2320.SR,53.42,0.354,1.562,Yes
+7,Saudi Azm for Communication and Information Technology Company,9534.SR,58.6,0.383,0.928,Yes
+8,Academy of Learning Company,9541.SR,67.1,0.433,,
+9,Retal Urban Development Company,4322.SR,44.64,0.313,,
+10,United Mining Industries Company,9583.SR,45.8,0.321,,
+11,National Company for Learning and Education,4291.SR,51.67,0.359,0.211,Yes
+12,Arabian Pipes Company,2200.SR,64.06,0.453,1.611,Yes
+13,Balady Poultry Company,9559.SR,64.65,0.466,,
+14,East Pipes Integrated Company for Industry,1321.SR,53.35,0.401,1.428,Yes
+15,Saudi Chemical Holding Company,2230.SR,48.37,0.371,0.615,Yes
+16,Sure Global Tech Co.,9550.SR,75.03,0.532,,
+17,Al Maather Reit Fund,4334.SR,9.58,0.088,0.191,Yes
+18,Etihad Etisalat Company,7020.SR,23.78,0.206,0.655,Yes
+19,Aldrees Petroleum and Transport Services Company,4200.SR,45.75,0.372,1.389,Yes
+20,Saudi Paper Manufacturing Company,2300.SR,44.85,0.374,0.83,Yes
+21,Saudia Dairy & Foodstuff Company,2270.SR,31.12,0.275,0.691,Yes
+22,Professional Medical Expertise Company,9574.SR,34.96,0.306,,
+23,Jamjoom Pharmaceuticals Factory Company,4015.SR,34.92,0.308,,
+24,Miral Dental Clinics Co.,9604.SR,67.29,0.547,,
+25,Middle East Specialized Cables Company,2370.SR,43.33,0.392,1.553,Yes
+26,National Medical Care Company,4005.SR,38.41,0.358,1.042,Yes
+27,National Gas and Industrialization Company,2080.SR,33.39,0.321,1.165,Yes
+28,Naba Al Saha Medical Services Company,9546.SR,39.18,0.381,,
+29,Alkhorayef Water and Power Technologies Company,2081.SR,29.63,0.299,0.906,Yes
+30,The National Shipping Company of Saudi Arabia,4030.SR,32.06,0.322,1.27,Yes
+31,Rasan Information Technology Company,8313.SR,40.91,0.404,,
+32,Gas Arabian Services Company,9528.SR,40.99,0.408,0.405,Yes
+33,United International Transportation Company,4260.SR,22.51,0.242,0.84,Yes
+34,ASG Plastic Factory Co.,9607.SR,30.73,0.321,,
+35,Saudi Steel Pipes Company,1320.SR,49.39,0.484,1.532,Yes
+36,ACWA Power Company,2082.SR,39.5,0.408,1.001,Yes
+37,Lana Medical Co.,9587.SR,35.49,0.377,,
+38,Ladun Investment Company,9535.SR,65.6,0.693,,
+39,Al Hassan Ghazi Ibrahim Shaker Company,1214.SR,27.87,0.336,1.344,Yes
+40,Perfect Presentation for Commercial Services Company,7204.SR,23.94,0.297,,
+41,International Human Resources Company,9545.SR,35.93,0.426,,
+42,Makkah Construction and Development Company,4100.SR,22.51,0.286,1.237,Yes
+43,Saudi Automotive Services Company,4050.SR,36.53,0.447,1.471,Yes
+44,Bawan Company,1302.SR,27.38,0.347,1.516,Yes
+45,Itmam Consultancy Co.,9625.SR,6.11,0.087,,
+46,Tam Development LLC,9570.SR,22.75,0.306,,
+47,Saudi Ground Services Company,4031.SR,24.94,0.337,1.079,Yes
+48,MOBI Industry Co.,9517.SR,32.25,0.435,0.822,Yes
+49,Al Khaleej Training and Education Company,4290.SR,28.0,0.389,1.301,Yes
+50,Quara Finance Company,9596.SR,17.34,0.258,,
+51,Middle East Healthcare Company,4009.SR,40.25,0.551,1.354,Yes
+52,CATRION Catering Holding Company,6004.SR,21.39,0.317,1.256,Yes
+53,National Environmental Recycling Company,9540.SR,31.04,0.444,0.783,Yes
+54,"AlMuneef Company for Trade, Industry, Agriculture and Contracting",9569.SR,39.82,0.554,,
+55,Bupa Arabia for Cooperative Insurance Company,8210.SR,17.25,0.263,0.465,Yes
+56,"Al Rashid Industrial Co.,",9580.SR,26.34,0.396,,
+57,Saudi Networkers Services Company,9543.SR,14.16,0.226,,
+58,Alwaha REIT Fund,9300.SR,14.96,0.241,,
+59,Chubb Arabia Cooperative Insurance Company,8240.SR,34.81,0.521,0.821,Yes
+60,Taiba Investment Company,4090.SR,17.73,0.288,1.046,Yes
+61,Leejam Sports Company,1830.SR,22.16,0.357,1.185,Yes
+62,The Mediterranean and Gulf Cooperative Insurance and Reinsurance Company,8030.SR,30.81,0.481,1.254,Yes
+63,The National Agricultural Development Company,6010.SR,22.85,0.374,1.327,Yes
+64,Dr. Sulaiman Al Habib Medical Services Group Company,4013.SR,16.13,0.272,1.01,Yes
+65,Alandalus Property Company,4320.SR,15.13,0.264,0.776,Yes
+66,Tanmiah Food Company,2281.SR,23.77,0.409,1.035,Yes
+67,Saudi Real Estate Company,4020.SR,17.98,0.317,1.463,Yes
+68,Saudi Aramco Base Oil Company - Luberef,2223.SR,13.63,0.247,,
+69,Arabian Internet and Communication Services Company,7202.SR,17.82,0.321,1.349,Yes
+70,Arabian Contracting Services Company,4071.SR,18.16,0.333,0.928,Yes
+71,Al Moammar Information Systems Company,7200.SR,18.25,0.335,1.385,Yes
+72,YAMAMA Cement Company,3020.SR,15.02,0.285,1.304,Yes
+73,United Electronics Company,4003.SR,10.4,0.202,0.525,Yes
+74,Almunajem Foods Company,4162.SR,16.37,0.313,1.301,Yes
+75,Alqemam for Computer Systems Co.,9558.SR,34.46,0.616,,
+76,Savola Group Company,2050.SR,21.82,0.411,1.299,Yes
+77,Wataniya Insurance Company,8300.SR,15.59,0.328,1.149,Yes
+78,Gulf Union Alahlia Cooperative Insurance Company,8120.SR,18.62,0.398,0.871,Yes
+79,Riyadh Cement Company,3092.SR,11.19,0.248,0.336,Yes
+80,Ataa Educational Company,4292.SR,13.02,0.289,0.636,Yes
+81,Sustained Infrastructure Holding Company,2190.SR,14.72,0.327,0.943,Yes
+82,Paper Home Company,9576.SR,17.39,0.392,,
+83,Arabian Centres Company,4321.SR,10.24,0.239,0.844,Yes
+84,Bonyan REIT Fund,4347.SR,4.43,0.11,0.501,Yes
+85,Al-Dawaa Medical Services Company,4163.SR,10.53,0.268,0.872,Yes
+86,Clean Life Co.,9581.SR,8.82,0.227,,
+87,The National Company for Glass Industries,2150.SR,10.4,0.269,1.278,Yes
+88,First Avenue for Real Estate De,9610.SR,11.92,0.316,,
+89,Al Mohafaza Company for Educati,9598.SR,11.74,0.317,,
+90,Walaa Cooperative Insurance Company,8060.SR,14.09,0.377,1.114,Yes
+91,Theeb Rent A Car Company,4261.SR,8.63,0.242,0.461,Yes
+92,Saudi Arabian Mining Company (Ma'aden),1211.SR,14.84,0.42,1.722,Yes
+93,Marble Design Factory Company,9575.SR,13.08,0.376,,
+94,Group Five Pipe Saudi Company,9523.SR,14.93,0.455,1.282,Yes
+95,Osool and Bakheet Investment Co,9586.SR,14.32,0.452,,
+96,Fitaihi Holding Group,4180.SR,9.81,0.316,1.321,Yes
+97,Maharah for Human Resources Company,1831.SR,8.47,0.29,1.044,Yes
+98,Thob Al Aseel Company,4012.SR,8.82,0.314,1.138,Yes
+99,Mobile Telecommunications Company Saudi Arabia,7030.SR,8.12,0.294,1.077,Yes
+100,Al Hammadi Holding Company,4007.SR,7.92,0.29,1.13,Yes
+101,Balsm Alofoq Medical Co.,9620.SR,6.55,0.248,,
+102,Canadian General Medical Center Complex Company,9518.SR,7.3,0.302,0.677,Yes
+103,Al-Etihad Cooperative Insurance Company,8170.SR,7.64,0.333,0.382,Yes
+104,Arab National Bank,1080.SR,5.57,0.255,0.871,Yes
+105,Twareat Medical Care Company,9627.SR,19.95,0.872,,
+106,Al Rajhi Banking and Investment Corporation,1120.SR,5.01,0.239,1.336,Yes
+107,Alinma Bank,1150.SR,3.32,0.216,1.075,Yes
+108,Al Yamamah Steel Industries Company,1304.SR,5.29,0.371,1.513,Yes
+109,Batic Investments and Logistics Company,4110.SR,5.18,0.384,1.086,Yes
+110,Almoosa Health Company,4018.SR,4.62,0.376,,
+111,Gulf Insurance Group,8250.SR,3.4,0.292,0.963,Yes
+112,Power and Water Utility Company for Jubail and Yanbu,2083.SR,3.01,0.304,,
+113,Jabal Omar Development Company,4250.SR,3.33,0.349,1.653,Yes
+114,Arabian Shield Cooperative Insurance Company,8070.SR,1.44,0.216,0.662,Yes
+115,Abdullah Al-Othaim Markets Company,4001.SR,1.39,0.213,0.664,Yes
+116,City Cement Company,3003.SR,1.7,0.275,1.093,Yes
+117,Kingdom Holding Company,4280.SR,1.95,0.332,0.937,Yes
+118,Alistithmar AREIC Diversified REIT,4350.SR,4.76,0.882,,
+119,The Saudi Investment Bank,1030.SR,0.97,0.196,0.918,Yes
+120,Bank Albilad,1140.SR,1.15,0.304,1.629,Yes
+121,Al Masane Al Kobra Mining Company,1322.SR,0.95,0.26,0.95,Yes
+122,Mutakamela Insurance Company,8040.SR,0.9,0.25,0.628,Yes
+123,SHL Finance Company,1183.SR,0.55,0.154,0.066,Yes
+124,Aljazira Takaful Taawuni Company,8012.SR,0.83,0.246,0.937,Yes
+125,Riyad Bank,1010.SR,0.85,0.273,1.259,Yes
+126,Knowledge Net Computer Company,9561.SR,0.83,0.403,,
+127,Saudi Pharmaceutical Industries and Medical Appliances Corporation,2070.SR,0.39,0.442,1.468,Yes
+128,Advance International Company for Communication and Information Technology,9524.SR,-0.12,0.507,0.899,Yes
+129,Saudi Awwal Bank,1060.SR,-0.28,0.201,0.845,Yes
+130,Saudi Tadawul Group Holding Company,1111.SR,-0.57,0.372,1.604,Yes
+131,Saudi Advanced Industries Company,2120.SR,-0.77,0.335,1.319,Yes
+132,Jadwa Investment - Jadwa Reit Saudi Fund,4342.SR,-0.44,0.172,0.51,Yes
+133,Buruj Cooperative Insurance Company,8270.SR,-1.22,0.289,0.839,Yes
+134,Saudi Public Transport Company,4040.SR,-1.24,0.259,1.142,Yes
+135,Filling and Packing Materials Manufacturing Company,2180.SR,-1.7,0.322,1.055,Yes
+136,Sumou Real Estate Company,4323.SR,-2.24,0.391,1.238,Yes
+137,Salama Cooperative Insurance Company,8050.SR,-3.49,0.486,0.678,Yes
+138,Saudi Cement Company,3030.SR,-1.2,0.154,0.481,Yes
+139,Fad International Company,9589.SR,-3.52,0.408,,
+140,Almujtama Alraida Medical Co.,9592.SR,-1.85,0.175,,
+141,Saudi Research and Media Group,4210.SR,-4.49,0.394,1.644,Yes
+142,Fawaz Abdulaziz Al Hokair & Company,4240.SR,-5.9,0.519,0.903,Yes
+143,Tadawul All Shares Index,^TASI.SR,-2.27,0.155,1.0,Yes
+144,Jarir Marketing Company,4190.SR,-2.18,0.148,0.305,Yes
+145,Al Gassim Investment Holding Company,6020.SR,-5.39,0.337,1.16,Yes
+146,Mouwasat Medical Services Company,4002.SR,-6.03,0.377,1.412,Yes
+147,L'azurde Company for Jewelry,4011.SR,-3.89,0.226,1.127,Yes
+148,Saudi Ceramic Company,2040.SR,-6.03,0.348,1.129,Yes
+149,Saudi Printing and Packaging Co.,4270.SR,-6.03,0.304,0.88,Yes
+150,Scientific and Medical Equipment House Company,4014.SR,-5.02,0.25,1.299,Yes
+151,Saudi Top for Trading Company,9552.SR,-5.06,0.247,,
+152,Amwaj International Company,9537.SR,-11.99,0.567,,
+153,Wafrah for Industry and Development Company,2100.SR,-8.22,0.372,1.316,Yes
+154,Al Sagr Cooperative Insurance Company,8180.SR,-11.69,0.525,0.513,Yes
+155,Arabian Drilling Company,2381.SR,-6.45,0.269,,
+156,Arabian Cement Company,3010.SR,-5.74,0.215,0.834,Yes
+157,National Metal Manufacturing and Casting Co.,2220.SR,-8.58,0.323,1.549,Yes
+158,Leen Alkhair Trading Company,9555.SR,-6.75,0.251,,
+159,Naqi Water Company,2282.SR,-8.54,0.306,,
+160,Halwani Bros. Co. Ltd.,6001.SR,-9.83,0.345,1.476,Yes
+161,Eastern Province Cement Company,3080.SR,-4.89,0.165,0.444,Yes
+162,Middle East Company for Manufacturing and Producing Paper,1202.SR,-9.8,0.339,1.272,Yes
+163,Americana Restaurants International PLC,6015.SR,-8.78,0.289,,
+164,Riyal Investment and Developmen,9584.SR,-4.76,0.152,,
+165,Jadwa REIT Al Haramain Fund,4332.SR,-4.88,0.154,0.609,Yes
+166,Natural Gas Distribution Company,9516.SR,-9.62,0.303,0.182,Yes
+167,Aljazira Mawten REIT Fund,4331.SR,-7.85,0.231,0.63,Yes
+168,Tabuk Cement Company,3090.SR,-5.99,0.174,0.592,Yes
+169,Saudi Fisheries Company,6050.SR,-14.16,0.41,0.991,Yes
+170,Jazan Development and Investment Company,6090.SR,-9.49,0.268,1.357,Yes
+171,Zahrat Al Waha For Trading Company,3007.SR,-9.54,0.269,1.257,Yes
+172,Nahdi Medical Company,4164.SR,-6.51,0.179,0.445,Yes
+173,Al Jouf Cement Company,3091.SR,-8.52,0.22,0.53,Yes
+174,Emaar The Economic City,4220.SR,-11.38,0.277,1.095,Yes
+175,MBC Group Co.,4072.SR,-17.08,0.42,,
+176,Abdulaziz and Mansour Ibrahim Albabtin Co.,9549.SR,-10.05,0.237,,
+177,Horizon Food Company Limited,9564.SR,-11.94,0.268,,
+178,Yanbu Cement Company,3060.SR,-10.9,0.241,0.718,Yes
+179,SEDCO Capital REIT Fund,4344.SR,-6.96,0.144,0.495,Yes
+180,Basma Adeem Medical Co.,9626.SR,-24.94,0.552,,
+181,Saudi Arabian Refineries Company,2030.SR,-13.16,0.272,1.374,Yes
+182,The First Milling Company,2283.SR,-12.11,0.241,,
+183,Jahez International Company for Information Systems Technology,6017.SR,-22.69,0.476,,
+184,Alahli Capital - Al-Ahli Reit Fund,4338.SR,-8.26,0.16,0.608,Yes
+185,Mohammed Hasan AlNaqool Sons Co.,9514.SR,-19.66,0.396,,
+186,Alamar Foods Company,6014.SR,-14.61,0.275,,
+187,Al-Omran Industrial Trading Company,4141.SR,-11.69,0.216,1.032,Yes
+188,Watani Iron Steel Company,9513.SR,-16.28,0.3,0.62,Yes
+189,Al-Razi Medical Company,9572.SR,-20.23,0.369,,
+190,Qassim Cement Company,3040.SR,-8.32,0.141,0.276,Yes
+191,Alhasoob Co.,9522.SR,-23.62,0.429,0.584,Yes
+192,Ghida Al-Sultan Company,9567.SR,-20.08,0.35,,
+193,Saudi Industrial Investment Group,2250.SR,-15.39,0.244,0.668,Yes
+194,WSM for Information Technology ,9595.SR,-22.33,0.366,,
+195,Saudi Arabian Oil Company,2222.SR,-9.43,0.141,0.525,Yes
+196,Shatirah House Restaurant Co.,6016.SR,-20.19,0.317,,
+197,Northern Region Cement Company,3004.SR,-9.47,0.14,0.619,Yes
+198,Riyad REIT Fund,4330.SR,-12.92,0.175,0.737,Yes
+199,Herfy Food Services Company,6002.SR,-18.46,0.25,1.096,Yes
+200,Saudi Electricity Company,5110.SR,-12.21,0.158,0.684,Yes
+201,Al Obeikan Glass Company,9531.SR,-18.62,0.249,0.035,Yes
+202,Saudi Manpower Solutions Company,1834.SR,-25.09,0.346,,
+203,Takween Advanced Industries,1201.SR,-28.9,0.331,0.805,Yes
+204,Najran Cement Company,3002.SR,-17.89,0.19,0.712,Yes
+205,Munawla Cargo Co. Ltd.,9571.SR,-22.83,0.245,,
+206,Mulkia Gulf Real Estate REIT,4336.SR,-13.56,0.122,0.432,Yes
+207,Muscat Capital - Al Masha'ar REIT Fund,4337.SR,-17.2,0.151,,
+208,Al Majed Oud Co.,4165.SR,-31.33,0.294,,
+209,Southern Province Cement Company,3050.SR,-16.75,0.136,0.437,Yes
+210,Saudi Kayan Petrochemical Company,2350.SR,-29.18,0.251,0.661,Yes
+211,Musharaka REIT Fund,4335.SR,-19.63,0.142,0.308,Yes
+212,Modern Mills for Food Products ,2284.SR,-30.57,0.22,,
+213,United International Holding Company,4083.SR,-16.59,0.106,,
+214,Derayah Financial - Derayah Reit Fund,4339.SR,-17.7,0.114,0.399,Yes
+215,Banan Real Estate Co.,4324.SR,-57.85,0.227,,
+216,Lamasat Co.,9628.SR,-31.87,0.053,,
+217,Shalfa Facilities Management Company,9613.SR,-44.68,0.048,,
+218,Umm Al Qura for Development and,4325.SR,69.88,,,
+219,Hedab Alkhaleej Trading Co.,9631.SR,14.18,,,

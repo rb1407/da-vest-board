@@ -1,0 +1,622 @@
+Rank,Name,Ticker,Return (%),Risk,Volatility,Follows Market Direction ?
+1,DMG MORI AKTIENGESELLSCHAFT,GIL.VI,6.01,0.011,0.004,Yes
+2,HOCHTIEF Aktiengesellschaft,HOT.VI,78.55,0.114,0.613,Yes
+3,GEA Group Aktiengesellschaft,G1A.VI,53.9,0.087,0.534,Yes
+4,Deutsche Börse AG,DBO.VI,61.27,0.106,0.025,Yes
+5,Poste Italiane S.p.A.,PST.VI,62.31,0.131,0.452,Yes
+6,BAWAG Group AG,BG.VI,82.02,0.188,1.205,Yes
+7,Tryg A/S,TRYG.VI,76.48,0.179,0.294,No
+8,Unipol Assicurazioni S.p.A.,UNI.VI,72.16,0.174,0.479,Yes
+9,Banca Generali S.p.A.,BGN.VI,42.67,0.124,0.542,Yes
+10,Deutsche Bank Aktiengesellschaft,DBK.VI,58.0,0.164,0.786,Yes
+11,"ACS, Actividades de Construcción y Servicios, S.A.",ACS.VI,43.5,0.13,0.501,Yes
+12,CME Group Inc.,CMEG.VI,40.08,0.122,0.113,Yes
+13,Scout24 SE,G24.VI,61.83,0.182,0.196,No
+14,AT&T Inc.,ATT.VI,63.94,0.191,0.276,Yes
+15,Allianz SE,ALV.VI,40.35,0.131,0.417,Yes
+16,Danone S.A.,BN.VI,32.3,0.11,0.281,Yes
+17,Philip Morris International Inc.,PMOR.VI,82.9,0.245,0.694,Yes
+18,Assicurazioni Generali S.p.A.,AGEN.VI,39.75,0.139,0.638,Yes
+19,"Mapfre, S.A.",MAP.VI,51.04,0.173,0.074,No
+20,SAP SE,SAP.VI,63.03,0.214,0.06,Yes
+21,Deutsche Telekom AG,DTE.VI,52.87,0.188,0.397,Yes
+22,"Gilead Sciences, Inc.",GILD.VI,77.62,0.263,0.471,Yes
+23,SCOR SE,SCR.VI,71.47,0.257,,
+24,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,MUV.VI,35.6,0.146,0.336,Yes
+25,MTU Aero Engines AG,MTX.VI,37.76,0.162,0.155,No
+26,ageas SA/NV,AGS.VI,29.42,0.133,0.598,Yes
+27,SBM Offshore N.V.,SBMO.VI,43.1,0.187,0.902,Yes
+28,Koninklijke Ahold Delhaize N.V.,AD.VI,36.56,0.164,0.377,Yes
+29,"Netflix, Inc.",NFLX.VI,87.16,0.334,0.417,No
+30,argenx SE,ARGX.VI,75.44,0.3,0.798,No
+31,"Aena S.M.E., S.A.",AENA.VI,33.39,0.155,0.39,No
+32,"O'Reilly Automotive, Inc.",ORLY.VI,46.53,0.21,0.082,Yes
+33,The Kroger Co.,KR.VI,39.94,0.185,0.216,Yes
+34,McDonald's Corporation,MCD.VI,25.61,0.126,0.287,Yes
+35,Fresenius SE & Co. KGaA,FRE.VI,50.06,0.229,0.935,Yes
+36,"Altria Group, Inc.",ALTR.VI,41.42,0.197,0.265,No
+37,Intesa Sanpaolo S.p.A.,ISP.VI,38.79,0.187,1.211,Yes
+38,BPER Banca SpA,BPE.VI,48.14,0.226,0.897,Yes
+39,Banca Mediolanum S.p.A.,BMED.VI,41.05,0.199,0.676,Yes
+40,UniCredit S.p.A.,UCG.VI,54.65,0.259,1.279,Yes
+41,Banco BPM S.p.A.,BAMI.VI,66.79,0.306,1.404,Yes
+42,"AutoZone, Inc.",AZO.VI,34.62,0.177,0.134,Yes
+43,Walmart Inc.,WMT.VI,53.87,0.261,0.008,Yes
+44,"The Williams Companies, Inc.",WMB.VI,51.82,0.26,0.849,No
+45,"CaixaBank, S.A.",CABK.VI,41.94,0.224,1.193,Yes
+46,MLP SE,MLP.VI,35.4,0.194,0.462,Yes
+47,Bank für Tirol und Vorarlberg AG,BTS.VI,19.71,0.115,0.08,No
+48,Howmet Aerospace Inc.,HWM.VI,75.37,0.366,1.045,Yes
+49,Raiffeisen Bank International AG,RBI.VI,55.25,0.286,2.122,Yes
+50,"Redeia Corporación, S.A.",REE.VI,21.32,0.127,0.133,Yes
+51,Erste Group Bank AG,EBS.VI,37.81,0.214,0.814,Yes
+52,Mediobanca Banca di Credito Finanziario S.p.A.,MB.VI,33.35,0.195,1.255,Yes
+53,International Business Machines Corporation,IBM.VI,52.4,0.288,0.37,Yes
+54,Check Point Software Technologies Ltd.,CHKP.VI,50.26,0.28,0.836,Yes
+55,Société Générale Société anonyme,GLE.VI,87.68,0.438,1.916,Yes
+56,AXA SA,CS.VI,28.65,0.173,0.672,Yes
+57,"Take-Two Interactive Software, Inc.",TTWO.VI,47.41,0.272,0.37,Yes
+58,Berkshire Hathaway Inc.,BRKB.VI,27.96,0.173,0.478,Yes
+59,"Banco de Sabadell, S.A.",SAB.VI,53.78,0.306,2.286,Yes
+60,Boston Scientific Corporation,BSXC.VI,36.8,0.222,0.241,Yes
+61,EuroTeleSites AG,ETS.VI,43.31,0.256,0.012,Yes
+62,A2A S.p.A.,A2A.VI,18.4,0.121,0.025,Yes
+63,Exelon Corporation,EXEC.VI,28.91,0.184,0.843,Yes
+64,DSV A/S,DSV.VI,45.73,0.277,0.568,No
+65,Xcel Energy Inc.,XCEL.VI,31.93,0.204,0.013,Yes
+66,Berkshire Hathaway Inc.,BRKA.VI,26.98,0.177,0.492,Yes
+67,ABN AMRO Bank N.V.,ABN.VI,29.2,0.19,1.112,Yes
+68,"T-Mobile US, Inc.",TMUS.VI,48.26,0.297,0.112,Yes
+69,bioMérieux S.A.,BIM.VI,31.4,0.205,0.922,Yes
+70,"Kinder Morgan, Inc.",KMI.VI,47.53,0.296,0.895,No
+71,Abbott Laboratories,ABT.VI,29.16,0.198,0.627,Yes
+72,Nemetschek SE,NEM.VI,49.52,0.314,0.085,Yes
+73,JOYY Inc.,JOYY.VI,43.86,0.287,1.064,Yes
+74,Commerzbank AG,CBK.VI,65.91,0.404,1.194,Yes
+75,Knorr-Bremse AG,KBX.VI,25.56,0.18,0.855,Yes
+76,KBC Group NV,KBC.VI,28.0,0.197,1.185,Yes
+77,The Bank of New York Mellon Corporation,BONY.VI,42.02,0.283,0.186,Yes
+78,Compagnie de Saint-Gobain S.A.,SGO.VI,22.93,0.168,0.844,Yes
+79,International Consolidated Airlines Group S.A.,IAG.VI,77.76,0.479,1.324,Yes
+80,Nokia Oyj,NOKI.VI,31.09,0.226,0.168,Yes
+81,"Cisco Systems, Inc.",CSCO.VI,27.89,0.206,0.038,No
+82,Mastercard Incorporated,MAST.VI,21.6,0.164,0.199,Yes
+83,Veeva Systems Inc.,VEEV.VI,33.25,0.242,0.27,No
+84,JUVENTUS FOOTBALL CLUB SPA,JUV2.VI,87.04,0.54,0.147,Yes
+85,Duke Energy Corporation,DUKE.VI,20.07,0.156,0.262,Yes
+86,"Cencora, Inc.",ABC.VI,31.59,0.238,0.114,No
+87,Discover Financial Services,DFS.VI,61.06,0.418,0.055,Yes
+88,"Banco Santander, S.A.",SAN.VI,42.42,0.309,2.108,Yes
+89,EssilorLuxottica Société anonyme,EI.VI,25.87,0.203,1.263,Yes
+90,Visa Inc.,VISA.VI,26.63,0.21,0.392,Yes
+91,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA.VI,35.9,0.275,2.065,Yes
+92,"Paychex, Inc.",PAYX.VI,22.79,0.186,0.059,Yes
+93,Tencent Holdings Limited,NNN1.VI,33.42,0.264,0.593,Yes
+94,"Automatic Data Processing, Inc.",ADP.VI,24.8,0.203,0.108,Yes
+95,"Viscofan, S.A.",VIS.VI,10.15,0.089,0.147,No
+96,Siemens Aktiengesellschaft,SIE.VI,20.65,0.173,0.912,Yes
+97,Tencent Holdings Limited,NNND.VI,32.51,0.262,0.644,Yes
+98,"The Travelers Companies, Inc.",TRV.VI,24.55,0.205,0.204,No
+99,"ServiceNow, Inc.",SNOW.VI,56.76,0.424,1.453,No
+100,The Southern Company,SOUT.VI,16.09,0.14,0.118,Yes
+101,Kellanova,KELL.VI,48.94,0.381,0.057,Yes
+102,"The TJX Companies, Inc.",TJXC.VI,23.05,0.197,0.081,No
+103,RHÖN-KLINIKUM Aktiengesellschaft,RHK.VI,30.82,0.259,0.467,Yes
+104,Prosus N.V.,PRX.VI,27.67,0.237,0.141,Yes
+105,"Nasdaq, Inc.",NDAQ.VI,30.87,0.263,0.051,Yes
+106,Austrian Traded Index,^ATX,12.91,0.118,1.0,Yes
+107,Alibaba Group Holding Limited,AHLA.VI,73.07,0.55,2.4,Yes
+108,Flughafen Wien Aktiengesellschaft,FLU.VI,13.95,0.129,0.287,No
+109,Booking Holdings Inc.,BOOK.VI,34.79,0.298,1.003,No
+110,CTS Eventim AG & Co. KGaA,EVD.VI,39.89,0.336,1.224,Yes
+111,Wiener Privatbank SE,WPB.VI,35.98,0.311,0.56,Yes
+112,The Coca-Cola Company,KO.VI,17.97,0.167,0.852,Yes
+113,PetroChina Company Limited,PECN.VI,82.49,0.618,1.999,No
+114,United States Steel Corporation,XUSS.VI,58.77,0.478,,
+115,Rosenbauer International AG,ROS.VI,38.94,0.342,0.944,Yes
+116,eBay Inc.,EBAY.VI,27.91,0.257,0.071,No
+117,"Telefónica, S.A.",TEF.VI,15.96,0.154,0.393,Yes
+118,"Expedia Group, Inc.",EXPE.VI,49.13,0.424,0.049,No
+119,"MercadoLibre, Inc.",MELI.VI,39.77,0.358,0.801,Yes
+120,"Consolidated Edison, Inc.",ED.VI,20.76,0.202,0.424,Yes
+121,Sixt SE,SIXT.VI,20.9,0.209,,
+122,Fastenal Company,FAST.VI,28.58,0.278,0.505,No
+123,Zalando SE,ZAL.VI,41.83,0.388,0.558,Yes
+124,Global Fashion Group S.A.,GFGT.VI,46.92,0.429,0.24,Yes
+125,FinecoBank Banca Fineco S.p.A.,FBK.VI,22.11,0.222,0.879,Yes
+126,"Intuitive Surgical, Inc.",ISRG.VI,29.44,0.288,0.118,No
+127,Newmont Corporation,NEWM.VI,32.76,0.318,0.574,Yes
+128,Costco Wholesale Corporation,COST.VI,22.82,0.231,0.255,Yes
+129,DEUTZ Aktiengesellschaft,DEZ.VI,45.17,0.429,0.797,Yes
+130,Aflac Incorporated,AFL.VI,23.12,0.242,0.086,Yes
+131,"Zscaler, Inc.",ZSCA.VI,39.07,0.387,0.704,No
+132,Zoom Communications Inc.,ZOOM.VI,28.77,0.297,1.047,No
+133,"Palo Alto Networks, Inc.",PANW.VI,31.99,0.328,0.462,No
+134,Deere & Company,DEER.VI,27.35,0.288,0.028,Yes
+135,Deutsche Wohnen SE,DWNI.VI,34.49,0.355,0.271,Yes
+136,"Charter Communications, Inc.",CHTR.VI,41.96,0.424,0.206,Yes
+137,"Motorola Solutions, Inc.",MOSI.VI,22.2,0.241,0.901,No
+138,Capital One Financial Corporation,COFI.VI,36.98,0.381,0.051,Yes
+139,Bristol-Myers Squibb Company,BMYS.VI,31.95,0.337,0.276,No
+140,Iveco Group N.V.,IVG.VI,42.3,0.439,2.464,Yes
+141,Corning Incorporated,GLW.VI,22.52,0.252,0.39,No
+142,Cintas Corporation,CTAS.VI,27.78,0.306,0.116,No
+143,The Allstate Corporation,ALLS.VI,19.2,0.222,0.036,No
+144,Novonesis A/S,NZYM.VI,22.06,0.255,0.649,Yes
+145,DWS Group GmbH & Co. KGaA,DWS.VI,27.22,0.31,0.438,Yes
+146,"Verisk Analytics, Inc.",VRSK.VI,16.95,0.202,0.354,No
+147,American Tower Corporation,AMTG.VI,17.99,0.215,0.518,Yes
+148,JPMorgan Chase & Co.,JPM.VI,25.29,0.3,0.257,Yes
+149,Sixt SE,SIX2.VI,19.67,0.239,0.589,Yes
+150,Andritz AG,ANDR.VI,28.32,0.334,0.747,Yes
+151,L'Air Liquide S.A.,AI.VI,11.58,0.147,0.788,Yes
+152,General Electric Company,GE.VI,24.65,0.3,0.899,Yes
+153,S&P Global Inc.,SPGI.VI,16.68,0.211,0.354,Yes
+154,"Enagás, S.A.",ENG.VI,11.46,0.148,0.32,Yes
+155,Buzzi S.p.A.,BZU.VI,19.15,0.242,0.644,Yes
+156,"Uber Technologies, Inc.",UBER.VI,29.67,0.362,0.301,Yes
+157,Aroundtown SA,TOWN.VI,30.01,0.366,0.574,No
+158,"ADTRAN Holdings, Inc.",ADTN.VI,63.51,0.694,1.344,Yes
+159,"Fiserv, Inc.",FISV.VI,28.02,0.353,0.171,Yes
+160,Getlink SE,GET.VI,6.6,0.091,0.368,Yes
+161,Drägerwerk AG & Co. KGaA,DRW3.VI,25.99,0.337,0.444,Yes
+162,State Street Corporation,STT.VI,21.45,0.288,0.143,Yes
+163,Adler Group S.A.,ADJ.VI,56.53,0.672,2.152,No
+164,Telekom Austria AG,TKA.VI,14.97,0.207,0.582,Yes
+165,Vodafone Group Public Limited Company,VOD.VI,8.15,0.118,0.268,Yes
+166,Amphenol Corporation,APH.VI,17.33,0.244,0.911,No
+167,"NetEase, Inc.",NTES.VI,27.88,0.38,0.122,Yes
+168,Continental Aktiengesellschaft,CON.VI,18.49,0.262,1.064,Yes
+169,"United Airlines Holdings, Inc.",UAL.VI,69.0,0.83,,
+170,"The Goldman Sachs Group, Inc.",GS.VI,25.78,0.362,0.347,Yes
+171,Fresenius Medical Care AG,FME.VI,18.4,0.266,0.488,Yes
+172,Morgan Stanley,MWD.VI,24.54,0.349,0.204,No
+173,"American Water Works Company, Inc.",AWK.VI,13.05,0.195,0.377,Yes
+174,Athos Immobilien AG,ATH.VI,14.44,0.216,0.176,Yes
+175,Verizon Communications Inc.,VZ.VI,12.98,0.199,0.003,No
+176,"Técnicas Reunidas, S.A.",TRE.VI,22.82,0.336,1.483,Yes
+177,Cofinimmo SA,COFB.VI,15.46,0.236,0.775,Yes
+178,"Salesforce, Inc.",CRM.VI,26.69,0.391,1.404,No
+179,HELLA GmbH & Co. KGaA,HLE.VI,4.51,0.072,0.215,Yes
+180,Semperit Aktiengesellschaft Holding,SEM.VI,22.66,0.341,1.128,Yes
+181,Oracle Corporation,ORCL.VI,28.95,0.438,1.314,No
+182,Sanofi,SANO.VI,12.19,0.197,0.774,Yes
+183,Wells Fargo & Company,WFC.VI,24.83,0.383,0.213,No
+184,Monster Beverage Corporation,MNST.VI,15.72,0.252,0.132,No
+185,Wolftank Group AG,WOLF.VI,73.56,0.978,0.376,No
+186,Redcare Pharmacy NV,SHOP.VI,19.48,0.321,1.031,No
+187,ResMed Inc.,RMD.VI,13.36,0.226,0.183,Yes
+188,GameStop Corp.,GME.VI,35.69,0.556,1.605,No
+189,MFE-Mediaforeurope N.V.,MFE2.VI,14.22,0.245,0.607,Yes
+190,"Acciona, S.A.",ANA.VI,13.41,0.235,0.784,Yes
+191,Klöckner & Co SE,KCO.VI,26.06,0.437,2.324,Yes
+192,Sofina Société Anonyme,SOF.VI,14.26,0.252,0.471,Yes
+193,Nordex SE,NDX1.VI,26.62,0.452,1.729,Yes
+194,Fraport AG,FRA.VI,12.76,0.229,0.156,No
+195,Koenig & Bauer AG,SKB.VI,37.86,0.618,0.347,Yes
+196,Crédit Agricole S.A.,ACA.VI,14.61,0.261,1.385,Yes
+197,Accor SA,AC.VI,12.32,0.224,0.066,Yes
+198,Alstom SA,ALSO.VI,18.24,0.325,0.492,Yes
+199,"Kyndryl Holdings, Inc.",KD.VI,40.2,0.66,0.492,Yes
+200,Cognizant Technology Solutions Corporation,CTSH.VI,13.28,0.242,0.388,Yes
+201,"Equinix, Inc.",EQIX.VI,12.43,0.231,0.377,No
+202,Hermès International Société en commandite par actions,RMS.VI,16.34,0.301,1.359,Yes
+203,K+S Aktiengesellschaft,SDF.VI,24.07,0.438,0.975,Yes
+204,Safran SA,SAF.VI,10.58,0.205,0.852,Yes
+205,"Amadeus IT Group, S.A.",AMAD.VI,6.43,0.127,0.317,Yes
+206,"AvalonBay Communities, Inc.",AVBC.VI,10.7,0.21,0.178,No
+207,"Industria de Diseño Textil, S.A.",ITX.VI,11.31,0.223,0.046,No
+208,Parker-Hannifin Corporation,PH.VI,15.87,0.309,0.023,No
+209,Moody's Corporation,MOCO.VI,12.55,0.249,0.292,Yes
+210,"Waste Management, Inc.",WM.VI,11.42,0.229,0.03,No
+211,Hilton Worldwide Holdings Inc.,HLTW.VI,14.07,0.28,0.097,No
+212,BNP Paribas SA,BNP.VI,11.96,0.249,1.372,Yes
+213,"Corteva, Inc.",CTVA.VI,11.76,0.247,0.071,Yes
+214,ArcelorMittal S.A.,MT.VI,11.75,0.252,1.079,Yes
+215,EchoStar Corporation,ECHO.VI,28.98,0.582,0.985,Yes
+216,"W.W. Grainger, Inc.",GWW.VI,12.08,0.261,0.76,No
+217,Equifax Inc.,EFX.VI,12.49,0.272,0.054,Yes
+218,Trip.com Group Limited,TCOM.VI,22.03,0.467,2.031,No
+219,Wipro Limited,WIOA.VI,15.17,0.333,0.906,No
+220,Snowflake Inc.,SNWF.VI,36.45,0.741,0.23,Yes
+221,Bouygues SA,EN.VI,12.14,0.272,1.315,Yes
+222,MSCI Inc.,MSCI.VI,8.96,0.203,0.063,Yes
+223,The Charles Schwab Corporation,SCHW.VI,15.57,0.355,0.774,No
+224,American Express Company,AXP.VI,12.38,0.288,0.063,Yes
+225,Ferrari N.V.,RACE.VI,11.77,0.275,0.698,Yes
+226,Intuit Inc.,INTU.VI,10.64,0.252,0.752,No
+227,Citigroup Inc.,CITI.VI,13.49,0.318,0.522,Yes
+228,Wüstenrot & Württembergische AG,WUW.VI,5.74,0.14,0.409,Yes
+229,"Groupon, Inc.",GRP2.VI,40.64,0.901,0.814,No
+230,OMV Aktiengesellschaft,OMV.VI,7.69,0.194,0.499,Yes
+231,Apple Inc.,AAPL.VI,10.16,0.254,0.201,No
+232,"JD.com, Inc.",JD.VI,27.84,0.66,0.153,No
+233,Taiwan Semiconductor Manufacturing Company Limited,TSFA.VI,14.84,0.371,1.273,No
+234,Marinomed Biotech AG,MARI.VI,56.6,1.245,1.679,No
+235,Public Service Enterprise Group Incorporated,PEG.VI,8.49,0.224,0.674,No
+236,Westinghouse Air Brake Technologies Corporation,WAB.VI,9.91,0.261,0.627,No
+237,"Proto Labs, Inc.",PRLB.VI,25.87,0.642,0.389,Yes
+238,Electronic Arts Inc.,EA.VI,11.62,0.305,1.05,No
+239,Crown Castle Inc.,CCIN.VI,8.91,0.239,0.008,Yes
+240,Air China Limited,AD2.VI,16.21,0.425,0.374,No
+241,Veolia Environnement SA,VIE.VI,6.47,0.177,0.393,Yes
+242,LANXESS Aktiengesellschaft,LXS.VI,9.93,0.277,1.263,Yes
+243,Adtran Networks SE,ADV.VI,1.44,0.042,0.018,No
+244,Pfeiffer Vacuum Technology AG,PFV.VI,2.65,0.077,0.126,Yes
+245,"The Home Depot, Inc.",HD.VI,9.21,0.266,0.333,No
+246,Josef Manner & Comp. AG,MAN.VI,5.2,0.153,0.454,No
+247,"Simon Property Group, Inc.",SPGR.VI,8.45,0.247,0.255,Yes
+248,"Ameriprise Financial, Inc.",AMPF.VI,10.03,0.292,0.601,No
+249,Deutsche EuroShop AG,DEQ.VI,6.61,0.199,0.002,Yes
+250,"McCormick & Company, Incorporated",MKC.VI,6.13,0.185,0.613,Yes
+251,Johnson & Johnson,JNJ.VI,6.47,0.196,0.677,Yes
+252,"Marsh & McLennan Companies, Inc.",MMCO.VI,7.67,0.231,0.349,Yes
+253,TechnipFMC plc,FTI.VI,12.59,0.374,0.481,No
+254,Eli Lilly and Company,LLYC.VI,11.39,0.341,0.706,Yes
+255,Baker Hughes Company,BKR.VI,14.26,0.424,0.219,No
+256,Österreichische Post AG,POST.VI,4.26,0.134,0.834,Yes
+257,CNH Industrial N.V.,CNHI.VI,10.8,0.331,0.207,Yes
+258,Stryker Corporation,SYK.VI,7.3,0.229,0.002,Yes
+259,Evonik Industries AG,EVK.VI,6.91,0.219,0.529,Yes
+260,Heidelberger Druckmaschinen Aktiengesellschaft,HDD.VI,14.0,0.445,0.482,Yes
+261,H. Lundbeck A/S,LUNA.VI,9.14,0.312,0.182,No
+262,Groupe Bruxelles Lambert SA,GBLB.VI,2.69,0.095,0.534,Yes
+263,"Cellnex Telecom, S.A.",CLNX.VI,7.26,0.253,0.954,Yes
+264,"Tyson Foods, Inc.",TSN.VI,6.64,0.249,0.379,Yes
+265,JDE Peet's N.V.,JDEP.VI,8.35,0.322,0.424,Yes
+266,Krones AG,KRN.VI,4.76,0.186,0.904,Yes
+267,"ONEOK, Inc.",OKE.VI,9.83,0.379,0.537,No
+268,"Warner Bros. Discovery, Inc.",WBDI.VI,13.06,0.503,0.871,Yes
+269,"Fidelity National Information Services, Inc.",FNIS.VI,5.3,0.212,1.389,No
+270,Medtronic plc,MDT.VI,5.33,0.217,0.426,Yes
+271,KeyCorp,KEY.VI,8.07,0.326,0.067,No
+272,Southwest Airlines Co.,LUV.VI,7.99,0.323,0.926,No
+273,Eurofins Scientific SE,ESF.VI,9.78,0.409,1.063,Yes
+274,Elia Group SA/NV,ELIA.VI,10.78,0.451,0.825,No
+275,Cummins Inc.,CMI.VI,7.99,0.346,0.343,Yes
+276,"The PNC Financial Services Group, Inc.",PNCF.VI,8.16,0.361,0.032,No
+277,BioNTech SE,BNTX.VI,12.4,0.539,0.041,No
+278,Proximus PLC,PROX.VI,6.52,0.296,0.455,Yes
+279,Honeywell International Inc.,HON.VI,5.08,0.236,0.698,No
+280,H. Lundbeck A/S,LUNB.VI,5.99,0.281,0.336,No
+281,"MetLife, Inc.",METL.VI,6.04,0.287,0.243,Yes
+282,"Air Products and Chemicals, Inc.",APCD.VI,6.64,0.317,0.32,No
+283,Kostad AG,KES.VI,38.17,1.64,1.753,No
+284,Hamburger Hafen und Logistik Aktiengesellschaft,HHFA.VI,3.05,0.151,0.098,Yes
+285,Koninklijke Vopak N.V.,VPK.VI,3.09,0.156,0.391,No
+286,Truist Financial Corporation,TFC.VI,7.37,0.366,0.459,Yes
+287,"Coinbase Global, Inc.",COIN.VI,19.59,0.942,1.373,No
+288,Infosys Limited,IOY.VI,6.59,0.335,0.128,No
+289,Orpea SA,ORP2.VI,21.43,1.042,,
+290,Linde plc,LIN.VI,2.92,0.155,0.332,Yes
+291,"Cadence Design Systems, Inc.",CDNS.VI,6.89,0.365,1.77,No
+292,Lockheed Martin Corporation,LMT.VI,3.59,0.196,0.337,No
+293,"PayPal Holdings, Inc.",PYPL.VI,6.56,0.366,0.814,No
+294,Ceconomy AG,CEC.VI,7.03,0.404,0.008,No
+295,"Dominion Energy, Inc.",DOEN.VI,3.23,0.191,0.125,Yes
+296,U.S. Bancorp,USBC.VI,5.01,0.302,0.264,No
+297,Aperam S.A.,APAM.VI,5.64,0.339,1.088,Yes
+298,Delivery Hero SE,DHER.VI,12.2,0.741,0.451,No
+299,"Amazon.com, Inc.",AMZN.VI,5.68,0.357,0.565,No
+300,Norwegian Cruise Line Holdings Ltd.,NCLH.VI,9.72,0.604,2.137,No
+301,"Hasbro, Inc.",HAS.VI,4.5,0.291,1.196,Yes
+302,Eversource Energy,ES.VI,3.45,0.233,0.664,Yes
+303,"Marriott International, Inc.",MAR.VI,4.95,0.333,0.564,No
+304,Starbucks Corporation,SBUX.VI,6.83,0.456,1.14,Yes
+305,"Keysight Technologies, Inc.",KEYS.VI,4.55,0.32,0.165,No
+306,Weibo Corporation,WBO.VI,6.19,0.459,0.285,Yes
+307,Warner Music Group Corp.,WMG.VI,2.89,0.22,0.023,Yes
+308,"C3.ai, Inc.",AINC.VI,13.02,0.951,,
+309,FACC AG,FACC.VI,4.16,0.342,0.428,Yes
+310,General Motors Company,GMOT.VI,3.7,0.327,0.986,No
+311,BKS Bank AG,BKS.VI,1.58,0.141,0.319,Yes
+312,The Boeing Company,BA.VI,3.01,0.27,0.538,Yes
+313,"Almirall, S.A.",ALM.VI,2.59,0.233,0.936,Yes
+314,Entain Plc,GVC.VI,4.99,0.457,0.268,Yes
+315,Planisware SAS,PLNW.VI,3.96,0.397,1.537,Yes
+316,"Lowe's Companies, Inc.",LOWE.VI,2.53,0.267,0.175,No
+317,Salzgitter AG,SZG.VI,4.07,0.467,1.265,Yes
+318,Norfolk Southern Corporation,NSCO.VI,2.84,0.343,0.159,Yes
+319,Sartorius Aktiengesellschaft,SRT3.VI,3.71,0.49,1.401,Yes
+320,Bank of America Corporation,BOAC.VI,2.16,0.294,0.154,No
+321,Seagate Technology Holdings plc,STXH.VI,2.78,0.387,0.254,Yes
+322,V.F. Corporation,VFC.VI,4.14,0.667,1.518,Yes
+323,TUI AG,TUI1.VI,2.04,0.352,,
+324,Kimberly-Clark Corporation,KMBC.VI,1.23,0.219,0.273,Yes
+325,Kontron AG,KTN.VI,1.37,0.299,1.183,Yes
+326,CureVac N.V.,CVAC.VI,2.0,0.526,0.879,Yes
+327,Volkswagen AG,VOWI.VI,1.16,0.327,,
+328,Aegon Ltd.,AEGN.VI,0.44,0.216,0.108,No
+329,"Domino's Pizza, Inc.",DPZ.VI,0.62,0.349,0.211,Yes
+330,Gen Digital Inc.,NLOK.VI,0.23,0.217,0.573,No
+331,"Coeur Mining, Inc.",CDE.VI,0.46,0.441,1.09,No
+332,RWE Aktiengesellschaft,RWE.VI,0.09,0.241,0.449,Yes
+333,CVC Capital Partners plc,CVC.VI,-0.03,0.405,,
+334,Illinois Tool Works Inc.,ITW.VI,-0.09,0.193,0.035,No
+335,Evotec SE,EVT.VI,-0.37,0.547,0.24,No
+336,Deutsche Lufthansa AG,LHA.VI,-0.24,0.226,0.807,Yes
+337,"Match Group, Inc.",MTC2.VI,-0.41,0.347,0.204,Yes
+338,Airbus SE,AIR.VI,-0.44,0.286,0.872,Yes
+339,Keurig Dr Pepper Inc.,KDP.VI,-0.26,0.133,0.586,Yes
+340,Sempra,SREN.VI,-0.53,0.257,1.245,No
+341,"WW International, Inc.",WTW.VI,-2.89,1.207,3.458,No
+342,"Ross Stores, Inc.",ROST.VI,-0.74,0.257,0.315,No
+343,"AMETEK, Inc.",AME.VI,-0.78,0.237,0.123,No
+344,"Block, Inc.",SQU.VI,-1.78,0.515,1.743,No
+345,Deutsche Pfandbriefbank AG,PBB.VI,-1.31,0.333,0.893,Yes
+346,Colgate-Palmolive Company,COLG.VI,-0.72,0.175,0.066,Yes
+347,Wolford Aktiengesellschaft,WOL.VI,-2.87,0.674,1.584,Yes
+348,Azimut Holding S.p.A.,AZM.VI,-0.71,0.161,0.728,Yes
+349,"Grifols, S.A.",GRF.VI,-2.32,0.429,1.843,Yes
+350,NVIDIA Corporation,NVDA.VI,-1.91,0.34,1.268,No
+351,Hewlett Packard Enterprise Company,HPE.VI,-2.39,0.414,0.71,No
+352,Emerson Electric Co.,EMR.VI,-2.27,0.388,0.259,No
+353,SAF-Holland SE,SFQ2.VI,-1.8,0.301,1.544,Yes
+354,The Goodyear Tire & Rubber Company,GYT.VI,-3.51,0.588,0.41,Yes
+355,"Marvell Technology, Inc.",MRVL.VI,-3.92,0.614,0.509,No
+356,Fastned B.V.,FSTN.VI,-3.3,0.491,1.141,No
+357,"Datadog, Inc.",DDOG.VI,-3.37,0.495,2.017,No
+358,Enry S Island Spa Sb,EIOS.VI,-4.86,0.685,0.153,Yes
+359,Deutsche Post AG,DHL.VI,-1.67,0.202,0.888,Yes
+360,"ANSYS, Inc.",ANSS.VI,-1.78,0.207,0.319,No
+361,FDJ United,FDJ.VI,-2.54,0.286,0.473,Yes
+362,The Procter & Gamble Company,PG.VI,-1.68,0.184,0.072,Yes
+363,Universal Music Group N.V.,UMG.VI,-2.94,0.306,0.491,Yes
+364,Paramount Global,PARA.VI,-2.68,0.269,0.616,Yes
+365,RATIONAL Aktiengesellschaft,RAA.VI,-2.22,0.218,0.441,Yes
+366,Heineken Holding N.V.,HEIO.VI,-3.0,0.283,1.439,Yes
+367,CEWE Stiftung & Co. KGaA,CWC.VI,-1.73,0.153,0.131,No
+368,Sysco Corporation,SYY.VI,-1.75,0.15,0.23,Yes
+369,GFT Technologies SE,GFT.VI,-3.72,0.32,0.433,No
+370,CompuGroup Medical SE & Co. KGaA,COP2.VI,-7.49,0.602,1.118,Yes
+371,"Fossil Group, Inc.",FOSL.VI,-8.35,0.661,0.757,No
+372,Gecina,GFC.VI,-2.35,0.177,0.17,Yes
+373,Otis Worldwide Corporation,OTIS.VI,-2.91,0.218,0.037,No
+374,Stadlauer Malzfabrik Aktiengesellschaft,STM.VI,-2.42,0.18,0.386,Yes
+375,Yelp Inc.,YELP.VI,-4.04,0.293,0.909,No
+376,RHI Magnesita N.V.,RHIM.VI,-3.26,0.231,0.673,Yes
+377,American Airlines Group Inc.,AAL.VI,-7.45,0.539,0.844,No
+378,Carrier Global Corporation,CARG.VI,-3.58,0.253,0.47,No
+379,"Prologis, Inc.",PRLD.VI,-4.67,0.324,1.119,Yes
+380,Cancom SE,COK.VI,-5.58,0.351,0.689,Yes
+381,Hormel Foods Corporation,HRL.VI,-3.21,0.183,0.452,No
+382,"Fluidra, S.A.",FDR.VI,-4.63,0.262,0.377,No
+383,Legrand SA,LR.VI,-3.27,0.179,0.877,Yes
+384,"MERLIN Properties SOCIMI, S.A.",MERL.VI,-3.71,0.199,0.513,Yes
+385,Galapagos NV,GLPG.VI,-5.58,0.292,0.798,Yes
+386,"Rockwell Automation, Inc.",ROK.VI,-5.02,0.26,0.038,No
+387,"Delta Air Lines, Inc.",DAL.VI,-10.62,0.54,0.746,No
+388,KLA Corporation,KLAC.VI,-7.12,0.334,0.661,Yes
+389,Moncler S.p.A.,MONC.VI,-7.82,0.365,2.357,Yes
+390,Amgen Inc.,AMGN.VI,-5.34,0.244,0.725,Yes
+391,lululemon athletica inc.,LULU.VI,-10.77,0.48,0.096,No
+392,INDUS Holding AG,INH.VI,-6.18,0.257,1.144,Yes
+393,United Internet AG,UTDI.VI,-6.2,0.256,0.723,Yes
+394,AMAG Austria Metall AG,AMAG.VI,-2.96,0.119,0.033,No
+395,Colruyt Group N.V.,COLR.VI,-6.14,0.241,0.013,No
+396,Hugo Boss AG,BOSS.VI,-14.74,0.592,1.325,Yes
+397,Koninklijke Philips N.V.,PHIA.VI,-8.02,0.309,0.883,Yes
+398,Microsoft Corporation,MSFT.VI,-6.03,0.225,0.645,No
+399,"Ormat Technologies, Inc.",ORAT.VI,-6.41,0.236,0.394,No
+400,Valneva SE,VLA.VI,-17.18,0.652,4.414,Yes
+401,PG&E Corporation,PCG.VI,-8.49,0.293,0.797,No
+402,Union Pacific Corporation,UNPC.VI,-7.38,0.249,0.645,Yes
+403,Unibail-Rodamco-Westfield SE,UL.VI,-6.66,0.221,0.621,Yes
+404,Grand City Properties S.A.,GYC.VI,-6.83,0.226,0.064,Yes
+405,The Walt Disney Company,DIS.VI,-11.46,0.385,0.011,No
+406,Voestalpine AG,VOE.VI,-8.76,0.287,1.577,Yes
+407,Dürr Aktiengesellschaft,DUE.VI,-9.48,0.308,1.195,Yes
+408,Jungheinrich Aktiengesellschaft,JUN3.VI,-9.17,0.291,1.372,Yes
+409,"EOG Resources, Inc.",EOGR.VI,-8.71,0.274,0.025,No
+410,Pirelli & C. S.p.A.,PC.VI,-6.03,0.187,1.24,Yes
+411,Heineken N.V.,HEIA.VI,-9.53,0.298,1.36,Yes
+412,Adobe Inc.,ADBE.VI,-13.38,0.426,0.384,No
+413,Hypoport SE,HYQ.VI,-19.34,0.634,1.483,Yes
+414,Qiagen N.V.,QGE3.VI,-6.52,0.199,0.462,No
+415,Branicks Group AG,DIC.VI,-14.17,0.448,0.479,Yes
+416,SUPER MICRO COMPUTER INC,SMC2.VI,-25.75,0.865,,
+417,AGRANA Beteiligungs-Aktiengesellschaft,AGR.VI,-5.8,0.174,0.025,Yes
+418,PIERER Mobility AG,PKTM.VI,-39.29,1.41,6.008,Yes
+419,Nokian Renkaat Oyj,NRE1.VI,-11.31,0.342,0.179,No
+420,Elmos Semiconductor SE,ELMO.VI,-12.78,0.386,,
+421,Great Wall Motor Company Limited,GRV.VI,-14.64,0.445,0.111,Yes
+422,1&1 AG,DRI.VI,-8.93,0.262,0.568,Yes
+423,Caterpillar Inc.,CAT.VI,-9.41,0.276,0.53,No
+424,Chevron Corporation,CVX.VI,-11.42,0.336,0.083,Yes
+425,DSM-Firmenich AG,DSFI.VI,-8.41,0.239,0.939,Yes
+426,"Church & Dwight Co., Inc.",CHD.VI,-8.6,0.233,0.188,Yes
+427,Bayer Aktiengesellschaft,BAYN.VI,-13.47,0.371,1.595,Yes
+428,Las Vegas Sands Corp.,LVSC.VI,-15.64,0.429,1.352,No
+429,Hess Corporation,HES.VI,-13.21,0.351,0.289,Yes
+430,Valeo SE,FR.VI,-17.55,0.476,1.942,Yes
+431,Siemens Healthineers AG,SHL.VI,-8.68,0.222,0.648,Yes
+432,Wienerberger AG,WIE.VI,-9.15,0.234,1.615,Yes
+433,Renault SA,RNO.VI,-11.54,0.291,0.972,Yes
+434,Eni S.p.A.,ENI.VI,-6.86,0.169,0.163,Yes
+435,L'Oréal S.A.,OR.VI,-10.63,0.263,0.759,Yes
+436,Polytec Holding AG,PYT.VI,-15.01,0.371,2.33,Yes
+437,3D Systems Corporation,DDD.VI,-31.95,0.867,0.773,Yes
+438,BASF SE,BAS.VI,-8.96,0.213,1.145,Yes
+439,PACCAR Inc,PCAR.VI,-13.35,0.322,0.278,No
+440,Uranium Energy Corp.,UEC.VI,-23.0,0.579,2.326,No
+441,Reliance Industries Limited,RLI.VI,-8.53,0.198,0.361,No
+442,Symrise AG,SY1.VI,-7.44,0.172,0.019,No
+443,Carrefour SA,CARR.VI,-8.59,0.198,0.114,No
+444,Bechtle AG,BC8.VI,-12.54,0.287,0.851,Yes
+445,"Under Armour, Inc.",UAA.VI,-18.21,0.421,1.178,No
+446,Coloplast A/S,COLO.VI,-9.03,0.199,0.08,No
+447,Schaeffler AG,SHA0.VI,-16.89,0.383,,
+448,BioMarin Pharmaceutical Inc.,BMRN.VI,-15.34,0.342,0.868,Yes
+449,Ströer SE & Co. KGaA,SAX.VI,-15.53,0.342,0.978,Yes
+450,Dassault Systèmes SE,DSY2.VI,-11.88,0.254,1.383,Yes
+451,Saipem SpA,SPM3.VI,-11.66,0.242,0.894,No
+452,"Airbnb, Inc.",ABNB.VI,-16.84,0.349,0.253,No
+453,"Illumina, Inc.",ILMN.VI,-22.54,0.48,1.982,No
+454,Befesa S.A.,BFSA.VI,-15.07,0.302,0.923,Yes
+455,SCHOTT Pharma AG & Co. KGaA,1SXP.VI,-13.78,0.273,0.34,Yes
+456,"Akamai Technologies, Inc.",AKAM.VI,-13.59,0.266,0.634,No
+457,"JinkoSolar Holding Co., Ltd.",JKS.VI,-29.87,0.627,0.034,No
+458,KWS SAAT SE & Co. KGaA,KWS.VI,-9.82,0.182,0.149,Yes
+459,adidas AG,ADS.VI,-11.47,0.214,0.914,Yes
+460,Biogena Group Invest AG,BIO.VI,-13.99,0.264,1.12,Yes
+461,tonies SE,TNIE.VI,-15.11,0.275,,
+462,AMS OSRAM AG,AMS2.VI,-34.86,0.705,4.275,Yes
+463,KION GROUP AG,KGX.VI,-12.84,0.228,0.908,Yes
+464,Havas N.V.,HAVA.VI,-19.62,0.361,,
+465,Volkswagen AG,VOW.VI,-15.33,0.275,1.784,Yes
+466,"Synopsys, Inc.",SYNP.VI,-18.85,0.338,1.049,No
+467,BE Semiconductor Industries N.V.,BESI.VI,-25.66,0.472,0.502,No
+468,Grenke AG,GLJ.VI,-30.84,0.581,2.761,Yes
+469,"Under Armour, Inc.",UAC.VI,-20.85,0.37,1.009,No
+470,Frauenthal Holding AG,FKA.VI,-7.55,0.124,0.232,Yes
+471,LAM RESEARCH CORP,LRC2.VI,-23.08,0.4,0.063,No
+472,IMCD N.V.,IMCD.VI,-15.05,0.248,0.59,Yes
+473,Brenntag SE,BNR.VI,-11.12,0.177,1.08,Yes
+474,AstraZeneca PLC,AZNA.VI,-15.06,0.243,,
+475,Viatris Inc.,VTRS.VI,-21.34,0.347,1.251,No
+476,Schoeller-Bleckmann Oilfield Equipment Aktiengesellschaft,SBO.VI,-18.31,0.29,1.034,Yes
+477,"BlackRock, Inc.",BLK2.VI,-17.48,0.273,,
+478,CA Immobilien Anlagen AG,CAI.VI,-18.5,0.286,0.87,Yes
+479,Lenzing Aktiengesellschaft,LNZ.VI,-19.0,0.293,0.205,No
+480,EVN AG,EVN.VI,-15.66,0.233,0.694,Yes
+481,Hamborner REIT AG,HAB2.VI,-5.81,0.081,0.201,No
+482,"The Trade Desk, Inc.",TTD.VI,-35.85,0.586,2.583,No
+483,Intel Corporation,INTC.VI,-31.44,0.49,0.868,Yes
+484,Valero Energy Corporation,VLO.VI,-24.86,0.358,0.408,Yes
+485,"Tripadvisor, Inc.",TRIP.VI,-30.8,0.458,0.059,No
+486,"DexCom, Inc.",DXCM.VI,-35.57,0.541,0.348,Yes
+487,Sunrun Inc.,RUN.VI,-43.61,0.697,0.715,Yes
+488,Südzucker AG,SZU.VI,-10.3,0.135,0.281,Yes
+489,"T. Rowe Price Group, Inc.",TROW.VI,-22.81,0.313,0.597,No
+490,Beiersdorf Aktiengesellschaft,BEI.VI,-13.61,0.177,0.953,Yes
+491,Xylem Inc.,XYL.VI,-18.41,0.243,,
+492,"LG Display Co., Ltd.",LGA.VI,-20.09,0.266,0.054,No
+493,Bolloré SE,BOL.VI,-11.8,0.148,0.578,Yes
+494,Hecla Mining Company,HLMI.VI,-23.54,0.315,,
+495,Bayerische Motoren Werke Aktiengesellschaft,BMWG.VI,-19.43,0.248,1.65,Yes
+496,"CIE Automotive, S.A.",CIE.VI,-14.56,0.18,0.114,Yes
+497,"Skyworks Solutions, Inc.",SWKS.VI,-29.22,0.388,0.998,No
+498,Kapsch TrafficCom AG,KTCG.VI,-24.96,0.322,1.086,Yes
+499,Infineon Technologies AG,IFX.VI,-20.57,0.254,1.544,Yes
+500,"IDEXX Laboratories, Inc.",IDXX.VI,-16.01,0.192,0.658,Yes
+501,"Bath & Body Works, Inc.",BBWI.VI,-38.65,0.529,1.023,Yes
+502,Bayerische Motoren Werke Aktiengesellschaft,BMW.VI,-19.62,0.238,1.509,Yes
+503,"AMC Entertainment Holdings, Inc.",AMC2.VI,-36.34,0.48,0.788,No
+504,Genmab A/S,GMAB.VI,-26.17,0.324,1.851,Yes
+505,"Chipotle Mexican Grill, Inc.",CHMG.VI,-21.1,0.252,0.864,No
+506,"Elevance Health, Inc.",ELV.VI,-23.13,0.276,0.668,Yes
+507,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,ATS.VI,-30.56,0.38,0.284,Yes
+508,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,BVB.VI,-19.09,0.222,0.957,Yes
+509,Ubisoft Entertainment SA,UBIS.VI,-45.96,0.633,0.099,Yes
+510,Warimpex Finanz- und Beteiligungs AG,WXF.VI,-26.62,0.31,1.977,Yes
+511,Nexi S.p.A.,NEXI.VI,-17.97,0.198,0.197,Yes
+512,"Align Technology, Inc.",ALGN.VI,-32.33,0.384,0.046,No
+513,"Applied Materials, Inc.",AMAT.VI,-30.9,0.351,0.481,No
+514,Marathon Petroleum Corporation,MPC.VI,-24.4,0.265,0.799,Yes
+515,Hapag-Lloyd Aktiengesellschaft,HLAG.VI,-20.52,0.218,0.147,No
+516,TotalEnergies SE,FP.VI,-19.21,0.202,0.684,Yes
+517,BREMBO NV,BRE2.VI,-22.25,0.234,0.979,Yes
+518,Demant A/S,DEMA.VI,-26.7,0.287,0.352,Yes
+519,"Nissan Motor Co., Ltd.",NISA.VI,-34.55,0.383,1.095,Yes
+520,"Meliá Hotels International, S.A.",MEL.VI,-18.79,0.19,0.255,Yes
+521,Alcoa Corporation,ALCA.VI,-42.5,0.496,1.466,No
+522,Vivendi SE,VIV.VI,-57.72,0.759,0.392,No
+523,Bertrandt Aktiengesellschaft,BDT.VI,-44.74,0.516,3.702,Yes
+524,Salvatore Ferragamo S.p.A.,SFER.VI,-40.07,0.44,2.405,Yes
+525,AIXTRON SE,AIXT.VI,-40.96,0.45,0.849,Yes
+526,Capgemini SE,CAPG.VI,-30.24,0.305,0.651,Yes
+527,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",MC.VI,-30.69,0.309,1.344,Yes
+528,"Constellation Brands, Inc.",STZ.VI,-25.69,0.246,1.238,No
+529,Pernod Ricard SA,RI.VI,-26.7,0.257,0.7,Yes
+530,Canal+ SA,CAN.VI,-22.16,0.208,,
+531,General Dynamics Corporation,GEDY.VI,-11.02,0.097,0.452,No
+532,Springer Nature AG & Co. KGaA,SPG.VI,-38.0,0.387,,
+533,Christian Dior SE,CDI.VI,-33.08,0.325,1.051,Yes
+534,Mayr-Melnhof Karton AG,MMK.VI,-28.68,0.268,1.359,Yes
+535,Mercedes-Benz Group AG,MBG.VI,-20.84,0.184,1.072,Yes
+536,SW Umwelttechnik Stoiser & Wolschner AG,SWUT.VI,-25.8,0.234,0.224,Yes
+537,"Samsung Electronics Co., Ltd.",SSU.VI,-29.54,0.271,0.506,Yes
+538,ASML Holding N.V.,ASMN.VI,-32.4,0.299,0.773,Yes
+539,Porsche Automobil Holding SE,PAH3.VI,-24.48,0.215,1.016,Yes
+540,Devon Energy Corporation,DVN.VI,-35.73,0.336,0.527,Yes
+541,Dell Technologies Inc.,DELL.VI,-32.74,0.3,1.188,No
+542,NORMA Group SE,NOEJ.VI,-38.94,0.364,1.365,Yes
+543,The Chemours Company,CHEM.VI,-50.73,0.517,0.415,No
+544,"Repsol, S.A.",REP.VI,-23.13,0.194,0.719,Yes
+545,Kering SA,KER.VI,-42.38,0.401,1.631,Yes
+546,ASML Holding N.V.,ASML.VI,-33.61,0.297,0.732,Yes
+547,Ball Corporation,BLL.VI,-26.12,0.218,0.031,Yes
+548,Merck KGaA,MRCK.VI,-25.92,0.215,0.678,Yes
+549,SEB SA,SEBS.VI,-26.73,0.219,0.217,No
+550,Jenoptik AG,JEN.VI,-35.34,0.302,1.369,Yes
+551,Gerresheimer AG,GXI.VI,-42.08,0.374,2.12,Yes
+552,"Diamondback Energy, Inc.",FANG.VI,-34.91,0.294,0.239,No
+553,Zumtobel Group AG,ZAG.VI,-20.23,0.156,0.248,Yes
+554,"Sonos, Inc.",SONO.VI,-42.65,0.368,0.044,No
+555,"Samsung Electronics Co., Ltd.",SSUN.VI,-27.59,0.215,0.508,Yes
+556,The Estée Lauder Companies Inc.,ESLA.VI,-50.98,0.455,1.185,Yes
+557,PUMA SE,PUM.VI,-50.89,0.446,0.945,No
+558,"Harley-Davidson, Inc.",HOG.VI,-38.86,0.309,0.172,Yes
+559,Soitec SA,SOI.VI,-59.44,0.552,,
+560,Worldline SA,WLN.VI,-56.1,0.502,0.319,Yes
+561,"Laboratorios Farmaceuticos Rovi, S.A.",ROVI.VI,-40.15,0.317,0.483,No
+562,International Flavors & Fragrances Inc.,IFF.VI,-22.79,0.16,0.018,Yes
+563,Freeport-McMoRan Inc.,FCX.VI,-33.34,0.241,0.398,No
+564,Arkema S.A.,AKE.VI,-29.67,0.209,1.178,Yes
+565,Wacker Chemie AG,WCH.VI,-35.54,0.255,0.2,Yes
+566,"Puig Brands, S.A.",PUIG.VI,-37.73,0.274,0.515,Yes
+567,ASM International NV,ASMI.VI,-41.37,0.305,,
+568,Edenred SE,EDEN.VI,-33.33,0.225,0.651,Yes
+569,"Regeneron Pharmaceuticals, Inc.",REGN.VI,-42.99,0.303,1.073,Yes
+570,Novo Nordisk A/S,NNO2.VI,-50.82,0.371,0.6,Yes
+571,Nexans S.A.,NEX.VI,-40.93,0.277,,
+572,NV Bekaert SA,BEKB.VI,-24.03,0.143,0.916,Yes
+573,ON Semiconductor Corporation,ONSE.VI,-47.98,0.327,0.653,No
+574,Signify N.V.,LGHT.VI,-23.31,0.124,0.052,No
+575,"Merck & Co., Inc.",MRK.VI,-34.86,0.188,0.229,No
+576,Dr. Ing. h.c. F. Porsche AG,P911.VI,-41.22,0.232,0.727,Yes
+577,Amadeus FiRe AG,AAD.VI,-33.84,0.18,0.601,Yes
+578,DENTSPLY SIRONA Inc.,XRAY.VI,-52.2,0.316,0.262,Yes
+579,"Tilray Brands, Inc.",TLRY.VI,-73.84,0.554,1.577,No
+580,"Advanced Micro Devices, Inc.",AMD.VI,-44.98,0.252,1.182,No
+581,"Solaria Energía y Medio Ambiente, S.A.",SLR.VI,-43.18,0.233,0.613,Yes
+582,Amplifon S.p.A.,AMP.VI,-50.97,0.291,0.782,Yes
+583,"First Solar, Inc.",FSLR.VI,-54.82,0.318,0.506,No
+584,TAKKT AG,TTK.VI,-37.26,0.187,0.447,Yes
+585,Archer-Daniels-Midland Company,ARDA.VI,-24.4,0.113,0.142,No
+586,"GoPro, Inc.",GPRO.VI,-62.27,0.381,1.22,No
+587,Rémy Cointreau SA,RCO.VI,-45.76,0.241,0.626,Yes
+588,"Enphase Energy, Inc.",ENPH.VI,-66.17,0.407,0.934,Yes
+589,STMicroelectronics N.V.,STMI.VI,-49.31,0.255,0.842,Yes
+590,"Novavax, Inc.",NVAX.VI,-67.1,0.409,,
+591,SGL Carbon SE,SGL.VI,-51.45,0.263,1.632,Yes
+592,Siltronic AG,WAF.VI,-53.48,0.275,1.572,Yes
+593,Microchip Technology Incorporated,MCHP.VI,-54.63,0.248,0.687,Yes
+594,Vestas Wind Systems A/S,VWSB.VI,-54.26,0.245,1.32,Yes
+595,Dow Inc.,DOW.VI,-49.01,0.195,0.508,Yes
+596,"Beyond Meat, Inc.",BYND.VI,-68.55,0.324,0.978,No
+597,bpost NV/SA,BPOS.VI,-59.32,0.254,0.44,No
+598,Biogen Inc.,BIIB.VI,-51.16,0.164,0.104,No
+599,Ferrari Group PLC,FRGR.VI,-52.21,0.124,,
+600,Pentixapharm Holding AG,PTPN.VI,-56.42,,,
+601,"Roku, Inc.",ROKU.VI,-62.59,,,
+602,Stratec SE,SBSG.VI,-21.96,,,
+603,SNP Schneider-Neureither & Partner SE,SHFG.VI,-10.09,,,
+604,SUSS MicroTec SE,SMHN.VI,-31.6,,,
+605,STEICO SE,ST5G.VI,-12.09,,,
+606,Sto SE & Co. KGaA,STOG.VI,-10.8,,,
+607,TORM plc,TRMD.VI,-34.8,,,
+608,Vivoryon Therapeutics N.V.,VVYN.VI,-33.63,,,
+609,About You Holding SE,YOUG.VI,-3.49,,,
+610,Dr. Hönle AG,HNLG.VI,-10.63,,,
+611,HomeToGo SE,HTGG.VI,-45.59,,,
+612,Medios AG,ILM1.VI,-38.63,,,
+613,JOST Werke SE,JSTG.VI,-39.87,,,
+614,LPKF Laser & Electronics SE,LPKG.VI,30.65,,,
+615,Mutares SE & Co. KGaA,MUXG.VI,12.17,,,
+616,CPI Europe AG,CPI.VI,48.08,,,
+617,Deckers Outdoor Corporation,DECK.VI,-42.05,,,
+618,Energiekontor AG,EKTG.VI,-74.2,,,
+619,"Haier Smart Home Co., Ltd.",690D.VI,-69.84,,,
+620,adesso SE,ADNG.VI,14.44,,,
+621,ATOSS Software SE,AOFG.VI,81.39,,,
