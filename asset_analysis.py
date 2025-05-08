@@ -80,7 +80,7 @@ looper.append('usf')
 for i in looper:
     for j in ['1y', '3y']:
         prices = pd.read_csv(f"prices_cleaned/{j}/{month-1}_{year}/{i}.csv").set_index('Date')
-        if len(prices) == 0 or len(prices.columns) == 0: # Handling for empty DataFrames
+        if len(prices) <= 1 or prices.isna().all().all() == True: # Handling for empty DataFrames
            continue
         r = calc_returns(prices)
         
